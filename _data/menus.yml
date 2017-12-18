@@ -1,0 +1,11 @@
+- name: Bongs
+  url: /bongs/
+
+- name: Bowls 
+  url: /bowls/ 
+
+- name: Rigs
+  url: /rigs/
+
+- name: Vapes
+  url: /vapes/
