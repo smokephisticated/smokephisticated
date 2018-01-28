@@ -32,4 +32,3 @@ So let's jump right into it:
 
 Black Leaf Glass Bong with Double HoneyComb Disc Perc | 25.5cm
 
-The
