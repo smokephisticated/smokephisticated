@@ -14,7 +14,7 @@ Our list *stems* (hehehe) from the selection of the unbeatably-priced Grasscity.
 <table class="basic-table">
 	<tr>
 		<th>PIC</th>
-		<th>Bong</th>
+		<th>Name</th>
 		<th>Type</th>
 		<th>Rating</th>
 		<th>Buy</th>
