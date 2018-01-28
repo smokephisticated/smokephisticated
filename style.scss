@@ -297,3 +297,56 @@ footer {
   margin: auto;
   display: block;
 }
+
+/* Table */
+
+.basic-table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+vertical-align: middle;
+}
+
+.basic-table {
+width: 100%;
+}
+
+th, td {
+padding: 10px;
+text-align: center;
+}
+
+th {
+background-color: #1faf0f;
+text-color: white;
+}
+
+tr:nth-child(even) {
+background-color: #e8e8e8;
+}
+
+tr:nth-child(odd) {
+background-color: white;
+}
+
+.table-image {
+max-width: 72px;
+height: auto;
+
+}
+
+/* Button */
+
+.big-button {
+background: #1faf0f none repeat scroll 0 0;
+border-radius: 4px;
+color: #fff;
+display: inline-block;
+padding: 10px 15px;
+border: 1px solid #1faf0f;
+}
+
+.big-button:hover {
+background: #fff none repeat scroll 0 0;
+border: 1px solid #1faf0f;
+color: #4183c4;
+}
