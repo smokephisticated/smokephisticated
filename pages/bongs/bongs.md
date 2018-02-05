@@ -17,14 +17,14 @@ Our list *stems* (hehehe) from selections of two unbeatably-priced platforms, Gr
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
-		<th>Type</th>
+		<th>Price</th>
 		<th>Rating</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/4-arm.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
-		<td>Perc</td>
+		<td>$50</td>
 		<td>4.5/5</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
 	</tr>
