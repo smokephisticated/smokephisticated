@@ -26,6 +26,9 @@ Our list *stems* (hehehe) from the selection of the unbeatably-priced Grasscity.
 		<td>4.5/5</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
 	</tr>
+	<tr>
+		<td></td>
+	</tr>
 </table>
 
 So let's jump right into it:
@@ -46,5 +49,5 @@ So let's jump right into it:
 
 
 
-Black Leaf Glass Bong with Double HoneyComb Disc Perc | 25.5cm
+Black Leaf Glass Bong with Double HoneyComb Disc Perc 25.5cm
 
