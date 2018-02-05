@@ -8,8 +8,8 @@ seotitle: "5 Best Cheap Bongs for Your Money in 2018 (Comparison)"
 Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. Luckily for you, we here at Smokephisticated have made a simple, detailed guide to introduce you to your next go-to piece.
 
 **So here's the deal:**
-Our list *stems* (hehehe) from selections of two unbeatably-priced platforms, Grasscity and Amazon... Yes; the place that your mom orders her [sponges]  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=bongs0f-20&marketplace=amazon&region=US&placement=B0043P0IAK&asins=B0043P0IAK&linkId=fa9acb46043c52804d69c11b0495f177&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+Our list *stems* (heheh) from selections of two unbeatably-priced platforms, Grasscity and Amazon... Yes; the place that your mom orders her [sponges](<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=bongs0f-20&marketplace=amazon&region=US&placement=B0043P0IAK&asins=B0043P0IAK&linkId=fa9acb46043c52804d69c11b0495f177&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>)
 
 ## Best Bongs
 
