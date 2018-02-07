@@ -10,19 +10,46 @@ Sifting through all of your choices of affordable bongs in 2018 can be quite the
 **We've searched so you dont have to:**
 Our list *stems* (heheh) from the finest selections of two unbeatably-priced platforms: Grasscity and Amazon... (Yes; you can order bowls and bongs from the same place that your mom feeds her owl-clock collection.) 
 
-**Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. Below you will find the **best bongs of 2018.** 
+**Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. Below you will find the **5 best cheap bongs of 2018.** 
 
 But don't just take *our* word for it:
 Read the reviews of the products that we affiliate ourselves with; you will find glowing reviews for products that deserve them.. We'll be here with the rest of the article until you've found a peice you're content with.
 
-													
-												**Here's a quick table for your cheaper options:**
+<h2 class="heading-center">Best Bongs</h2>
 
- 
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Price</th>
+		<th>Height</th>
+		<th>Shop</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.jpg" /></a></td>
+		<td>Acrylic Bubble Base Water Pipe Colored</td>
+		<td>$15</td>
+		<td>18 cm</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html">Compare Lowest Prices</a></td>
+	</tr>
+	<tr>
+		<td></td>
+	</tr>
+</table>
 
-## Best Budget Bongs
+**So let's jump right into it:**
 
-*click here for those pricey beauts*
+
+Acrylic-Bubble-Base-Water-Pipe-Colored-jpg
+
+https://stc.grasscity.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/p/b/pb-10-_02_.jpg
+
+
+
+
+
+
+
 
 
 <table class="basic-table">
@@ -45,7 +72,7 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 	</tr>
 </table>
 
-**So let's jump right into it:**
+
 
 ## [Black Leaf 4-arm Perc Bong with Ash Catcher](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html){: target="_blank"} - $50
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
@@ -55,11 +82,11 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 **Features:**
 
-* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass/) - borosilicate glass is a highly heat resistant glass. All you rerally *need* to know about it is that it's a great material for bongs.
+* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass/) - borosilicate glass is a highly heat resistant glass. All you really *need* to know about it is that it's a great material for bongs.
 
 * Ash Catcher - The ash catcher makes for easy and convienient clearing, while keeping dead-beat ash out of your water. However lazy stoners beware: this is a double edged sword as the catcher can be a difficult cleaning job.
 
- * Clear, slitted 4-arm tree percolator for diffusion - No idea what that means? No worries; to elaborate: Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs... talk about stone-cold. Percolation comes from the Latin word *percolare*, which means "to strain through." Long sciency story short; diffussion and percolation cools and filters your smoke, making inhaling easier on the lungs. Feel free to follow those links. We'll be wating here for you whenever you feel infomed.
+ * Clear, slitted 4-arm tree percolator for diffusion - No idea what that means? No worries; to elaborate: Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs... talk about stone-cold. Percolation comes from the Latin word *percolare*, which means "to strain through." Long sciency story short; diffussion and percolation cools and filters your smoke, making inhaling easier on the lungs. Feel free to follow those links. We'll be wating here for you whenever you feel infomed. [Percolation](https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help)
 
 
 
