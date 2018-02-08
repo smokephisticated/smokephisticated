@@ -2,7 +2,7 @@
 layout: page
 title: "Bongs to Provide the Best High for Your Supply" 
 permalink: "/bongs/"
-seotitle: "5 Best Cheap Bongs for Your Money in 2018 (Comparison)"
+seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 ---
 
 Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. Luckily for you, we here at *Smokephisticated* have made a simple, detailed guide to introduce you to your next go-to piece.
@@ -10,12 +10,16 @@ Sifting through all of your choices of affordable bongs in 2018 can be quite the
 **We've searched so you dont have to:**
 Our list *stems* (heheh) from the finest selections of two unbeatably-priced platforms: Grasscity and Amazon... (Yes; you can order bowls and bongs from the same place that your mom feeds her owl-clock collection.) 
 
-**Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. Below you will find the **5 best cheap bongs of 2018.** 
+**Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. On this page you will find the **Best and highest rated bongs of 2018.** 
 
 But don't just take *our* word for it:
 Read the reviews of the products that we affiliate ourselves with; you will find glowing reviews for products that deserve them.. We'll be here with the rest of the article until you've found a peice you're content with.
 
-<h2 class="heading-center">Best Bongs</h2>
+<h4 class="heading-center">Please Note:</h4> 
+<h5 cklass="heading-center">See product a little out of your price range? Don't sweat it. Scroll down until you find what fits your budget.</h5>
+
+
+<h2 class="heading-center">Best Bongs Under </h2>
 
 <table class="basic-table">
 	<tr>
