@@ -49,7 +49,9 @@ Well ok.. None of these are going to deliver the same blow as the --KRAKEN--; Bu
 
 <h2 class="heading-center">Grasscity's Acrylic Bubble Base Water Pipe, Colored</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
 
 Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply.
@@ -88,7 +90,7 @@ Note: The unique colors dipicted in the picture may not be the excact design you
 
 
 
-<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html" target="_blank"> Black Leaf 4-arm Perc Bong with Ash Catcher< - $50 </a></h2>
+<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html" target="_blank"> Black Leaf 4-arm Perc Bong with Ash Catcher< </a> - $50</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
