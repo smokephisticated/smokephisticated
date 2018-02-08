@@ -51,6 +51,7 @@ Well ok.. None of these are going to deliver the same blow as the --KRAKEN--; Bu
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
 
+
 Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply.
 
 Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
@@ -87,9 +88,9 @@ Note: The unique colors dipicted in the picture may not be the excact design you
 
 
 
-<h2 class="heading-center">[Black Leaf 4-arm Perc Bong with Ash Catcher](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html){: target="_blank"} - $50
+<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html" target="_blank"> Black Leaf 4-arm Perc Bong with Ash Catcher< - $50 </a></h2>
 
-	<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a></h2>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
 
 **1.** Those deticated stoners over at Black Leaf really know what they're doing. With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is more than worth the sub-$50 spend.
