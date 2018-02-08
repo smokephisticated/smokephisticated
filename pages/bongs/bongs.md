@@ -26,7 +26,7 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.jpg" /></a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a></td>
 		<td>Acrylic Bubble Base Water Pipe Colored</td>
 		<td>$15</td>
 		<td>18 cm</td>
@@ -37,12 +37,8 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 	</tr>
 </table>
 
-**So let's jump right into it:**
+<h3>So let's jump right into it:</h3>
 
-
-Acrylic-Bubble-Base-Water-Pipe-Colored-jpg
-
-https://stc.grasscity.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/p/b/pb-10-_02_.jpg
 
 
 
