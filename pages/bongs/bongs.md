@@ -99,6 +99,6 @@ Well, none of these are going to deliver the same blow as the --KRAKEN--; But wh
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
 
-Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply.
+Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply. 
 
 Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
