@@ -48,12 +48,12 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 
 
-<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html" target="_blank">Black Leaf 4-arm Perc Bong with Ash Catcher< </a> - $50</h2>
+<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html" target="_blank">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $50</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
 
-**1.** Those deticated stoners over at <a target="_blank" href="https://www.grasscity.com/us_en/brands/black-leaf-glass"/>Black Leaf</a> really know what they're doing. With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is more than worth the sub-$50 spend.
+**1.** Those deticated stoners over at <a target="_blank" href="https://www.grasscity.com/us_en/brands/black-leaf-glass">Black Leaf</a> really know what they're doing. With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is more than worth the sub-$50 spend.
 
 **Features:**
 
