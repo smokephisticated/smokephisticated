@@ -61,7 +61,7 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 * Ash Catcher - The ash catcher makes for easy and convienient clearing, while keeping dead-beat ash out of your water. However lazy stoners beware: this is a double edged sword as the catcher can be a difficult cleaning job.
 
- * Clear, slitted 4-arm tree percolator for diffusion - No idea what that means? No worries; to elaborate: Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs... talk about stone-cold. <a target="_blank" href="(https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help)" >Percolation</><a>comes from the Latin word *percolare*, which means "to strain through." Long sciency story short; diffussion and percolation cools and filters your smoke, making inhaling easier on the lungs. Feel free to follow those links. We'll be wating here for you whenever you feel infomed.
+ * Clear, slitted 4-arm tree percolator for diffusion - No idea what that means? No worries; to elaborate: Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs... talk about stone-cold. <a target="_blank" href="(https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help)" >Percolation</a>comes from the Latin word *percolare*, which means "to strain through." Long sciency story short; diffussion and percolation cools and filters your smoke, making inhaling easier on the lungs. Feel free to follow those links. We'll be wating here for you whenever you feel infomed.
 
 
 
