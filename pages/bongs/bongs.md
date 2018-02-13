@@ -65,9 +65,6 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
  Long sciency story short; diffussion and percolation cools and filters your smoke, making inhaling easier on the lungs. Feel free to follow those links. We'll be wating here for you whenever you feel infomed.
 
 
-Black Leaf Glass Bong with Double HoneyComb Disc Perc 25.5cm
-
-
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
 **Who said that you had to sacrifice quality for affordability?** 
@@ -98,6 +95,13 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 		<td>21 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html">Compare Lowest Prices</a></td>
 	</tr>
+	<tr>
+		<td><a target="blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Glass Mini Bong Beaker" alt="Glass Mini Beaker Bong" class="table-image" src="img/bongs/glass-mini-beaker-bong.png" /></a></td>
+		<td>Glass Mini Beaker Bong</td>
+		<td>$15.99</td>
+		<td>10.5 cm</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html">Compare Lowest Prices</a></td>
+	</tr>
 </table>
 
 
@@ -115,3 +119,10 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png"/></a>
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of <a target="_blank" href="https://apaviata.com/advantages-of-borosilicate-glass">borosilicate glass</a> equiping the <a target="_blank" href="https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam">Coat of arms of Amsterdam</a> vector. Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
+
+Glass Mini Beaker Bong
+
+Borosilicate glass
+Beaker base
+Glass bowl with attached downstem
+Carb hole
