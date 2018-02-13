@@ -110,6 +110,6 @@ https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html
 
 <h2 class="heading-center">Amsterdam Bubble Base Glass Bong</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png"/></a>
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; celebrate cannabis liberty with 21 cm of <a target="_blank" href="https://apaviata.com/advantages-of-borosilicate-glass">borosilicate glass</a> equiping the <a target="_blank" href="https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam">Coat of arms of Amsterdam</a> vector. Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
