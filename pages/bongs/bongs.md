@@ -68,7 +68,7 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
 **Who said that you had to sacrifice quality for affordability?** 
-Well, none of these are going to deliver the same blow as the --KRAKEN--; But whether you're low on funds, or just starting out; we got your back on providing you with your best budjet options. 
+Well, none of these are going to deliver the same blow as the --KRAKEN--; But whether you're low on funds, or just starting out; we got your back by providing you with your best budget options. 
 Below you'll find the most solid sub-$20 bongs and water pipes on the web right now.
 
 <h3 class="heading-center">For the novice smoker:</h3>
@@ -96,7 +96,7 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Glass Mini Bong Beaker" alt="Glass Mini Beaker Bong" class="table-image" src="/img/bongs/glass-mini-beaker-bong.png" /></a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Glass Mini Bong Beaker" alt="Glass Mini Beaker Bong" class="table-image" src="/img/bongs/glass-mini-beaker-bong.png" /></a></td>
 		<td>Glass Mini Beaker Bong</td>
 		<td>$15.99</td>
 		<td>10.5 cm</td>
@@ -106,7 +106,7 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 
 
-<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a></h2>
+<h2><a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - $15</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
 
@@ -122,8 +122,8 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 <h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - $15.99</h2>
 
-
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/glass-mini-beaker-bong.png" /></a>
+
 
 Borosilicate glass
 Beaker base
