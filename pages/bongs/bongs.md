@@ -87,7 +87,7 @@ Well, none of these are going to deliver the same blow as the --KRAKEN--; But wh
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="table-image" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a><td> 
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="table-image" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a></td> 
 		<td>Amsterdam Bubble Base Glass Bong</td>
 		<td>$17.99</td>
 		<td>21 cm</td>
