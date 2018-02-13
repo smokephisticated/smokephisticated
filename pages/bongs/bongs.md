@@ -83,20 +83,20 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a></td>
-		<td>Acrylic Bubble Base Water Pipe Colored</td>
+		<td>Acrylic Bubble Water Pipe</td>
 		<td>$15</td>
 		<td>18 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="table-image" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a></td> 
-		<td>Amsterdam Bubble Base Glass Bong</td>
+		<td>Amsterdam Bubble Glass Bong</td>
 		<td>$17.99</td>
 		<td>21 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Glass Mini Bong Beaker" alt="Glass Mini Beaker Bong" class="table-image" src="img/bongs/glass-mini-beaker-bong.png" /></a></td>
+		<td><a target="blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Glass Mini Bong Beaker" alt="Glass Mini Beaker Bong" class="table-image" src="/img/bongs/glass-mini-beaker-bong.png" /></a></td>
 		<td>Glass Mini Beaker Bong</td>
 		<td>$15.99</td>
 		<td>10.5 cm</td>
@@ -106,7 +106,7 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 
 
-<h2 class="heading-center">Grasscity's Acrylic Bubble Base Water Pipe, Colored</h2>
+<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a></h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
 
@@ -114,15 +114,20 @@ Besides the charming design; this highly rated piece features an acrylic build (
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
 
-<h2 class="heading-center">Amsterdam Bubble Base Glass Bong</h2>
+<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html" target="_blank">Amsterdam Bubble Glass Bong</a> - $17.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png"/></a>
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of <a target="_blank" href="https://apaviata.com/advantages-of-borosilicate-glass">borosilicate glass</a> equiping the <a target="_blank" href="https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam">Coat of arms of Amsterdam</a> vector. Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
-Glass Mini Beaker Bong
+<h2> <a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - $15.99</h2>
+
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/glass-mini-beaker-bong.png" /></a>
 
 Borosilicate glass
 Beaker base
 Glass bowl with attached downstem
 Carb hole
+
+ <h2><a class="heading-center" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html" target="_blank">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $50</h2>
