@@ -96,17 +96,17 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Glass Mini Bong Beaker" alt="Glass Mini Beaker Bong" class="table-image" src="/img/bongs/glass-mini-beaker-bong.png" /></a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Glass Mini Bong Beaker" alt="Glass Mini Beaker Bong" class="table-image" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a></td>
 		<td>Glass Mini Beaker Bong</td>
 		<td>$15.99</td>
 		<td>10.5 cm</td>
-		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html">Compare Lowest Prices</a></td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/Glass-Mini-Beaker-Bong.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
 
 
-<h2> class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - $15</h2>
+<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - $15</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
 
@@ -124,8 +124,13 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
 
+Your bag will always have room for this mini piece. Measuring out to a tiny   
+
 
 Borosilicate glass
 Beaker base
 Glass bowl with attached downstem
 Carb hole
+This clear borosilicate glass mini bong with beaker base measures only 10.5 cm (4.1 inches) in height, making it the perfect equipment for a quick hit on the go. It’s small in size but perfectly proportioned, and you smoke it like a regular bong even though it is not much bigger than a hand pipe. It even has a carb hole on the back of the tube.
+
+This mini beaker comes complete with a glass bowl with attached glass chillum downstem, that is kept in place with a rubber grommet.
