@@ -20,7 +20,7 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 <h5 class="heading-center">Please Note:</h5> 
 <h4 class="heading-center">See product a little out of your price range? Don't sweat it. Scroll down until you find what fits your budget.</h4>
 
-https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43
+<a target="_blank_" hrefs="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">DopeBoo.com</a>
 
 Best bongs
 
