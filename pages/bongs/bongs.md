@@ -34,9 +34,6 @@ Best bogns under $100
 
 <h2 class="heading-center" >Best bongs under $50</h2> 
 
-
-<h3 class="heading-center" >
-
 <table class="basic-table">
 	<tr>
 		<th>PIC</th>
