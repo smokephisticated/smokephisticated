@@ -61,18 +61,18 @@ Best bogns under $100
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
-**1.** Those deticated stoners over at <a target="_blank" href="https://www.grasscity.com/us_en/brands/black-leaf-glass">Black Leaf</a> really know what they're doing. 
+**1.** Those deticated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} really know what they're doing. 
 With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is more than worth the sub-$50 spend.
 
 **Features:**
 
-* Made from <a target="_blank" href="https://apaviata.com/advantages-of-borosilicate-glass">borosilicate glass</a>, which is a highly heat resistant and commonly used glass in bongs & pipes.
+* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"}, which is a highly heat resistant and commonly used glass in bongs & pipes.
 
 * Ash Catcher - The ash catcher makes for easy and convienient clearing, while keeping dead-beat ash out of your water. However lazy stoners beware: this is a double edged sword as the catcher can be a difficult cleaning job.
 
- * Clear, slitted 4-arm tree percolator for diffusion - No idea what that means? No worries; to elaborate: 
+* Clear, slitted 4-arm tree percolator for diffusion - No idea what that means? No worries; to elaborate: 
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs... talk about stone-cold. 
- <a target="_blank" href="https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help" >Percolation</a> comes from the Latin word *percolare*, which means "to strain through." 
+ [Percolation](https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help){:target="_blank"} comes from the Latin word *percolare*, which means "to strain through." 
  Long sciency story short; diffussion and percolation cools and filters your smoke, making inhaling easier on the lungs. Feel free to follow those links. We'll be wating here for you whenever you feel infomed.
 
 
@@ -131,7 +131,7 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of <a target="_blank" href="https://apaviata.com/advantages-of-borosilicate-glass">borosilicate glass</a> equipped with the <a target="_blank" href="https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam">Coat of arms of Amsterdam</a> vector. Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
-<h2 class="heading-center"> <a  href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - $15.99</h2>
+<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - $15.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
 
