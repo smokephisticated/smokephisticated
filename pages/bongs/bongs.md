@@ -8,7 +8,7 @@ seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. Luckily for you, we here at *Smokephisticated* have made a simple, detailed guide to introduce you to your next go-to piece.
 
 **We've searched so you dont have to:**
-Our diverse list *stems* (heheh) from the finest selections of the unbeatably priced <a target="_blank" hrefs="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the exceptionally creative and diverse selections of <a target="_blank" hrefs="http://www.dopeboo.com?aff=43" >DopeBoo</a>.
+Our diverse list *stems* (heheh) from the finest selections of the unbeatably priced <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the exceptionally creative and diverse selections of <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo</a>.
 
 **Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. 
 On this page you will find the **Best and highest rated bongs of 2018.** 
@@ -20,7 +20,7 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 <h5 class="heading-center">Please Note:</h5> 
 <h4 class="heading-center">See product a little out of your price range? Don't sweat it. Scroll down until you find what fits your budget.</h4>
 
-<a target="_blank_" hrefs="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">DopeBoo.com</a>
+<a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">DopeBoo.com</a>
 
 Best bongs
 
@@ -32,10 +32,10 @@ Best bongs under $150
 
 Best bogns under $100
 
-<h2 class="heading center" >Best bongs under $50</h2> 
+<h2 class="heading-center" >Best bongs under $50</h2> 
 
 
-<h3 class="heading center" >
+<h3 class="heading-center" >
 
 <table class="basic-table">
 	<tr>
@@ -49,7 +49,7 @@ Best bogns under $100
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/4-arm.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
-		<td><a target="_blank" hrefs="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a></td>
 		<td>$50</td>
 		<td>30 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
@@ -57,11 +57,11 @@ Best bogns under $100
 </table>
 
 
-<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html" target="_blank">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $50</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $50</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
-**1.** Those deticated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} really know what they're doing. 
+**1.** Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} really know what they're doing. 
 With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is more than worth the sub-$50 spend.
 
 **Features:**
@@ -129,7 +129,7 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a>
 
-**Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of <a target="_blank" href="https://apaviata.com/advantages-of-borosilicate-glass">borosilicate glass</a> equipped with the <a target="_blank" href="https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam">Coat of arms of Amsterdam</a> vector. Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
+**Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - $15.99</h2>
 
