@@ -35,7 +35,7 @@ Best bogns under $100
 <h2 class="heading center" >Best bongs under $50</h2> 
 
 
-<h3 clas="heading center" >
+<h3 class="heading center" >
 
 <table class="basic-table">
 	<tr>
@@ -138,8 +138,7 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
 
-Your bag will always have room for this mini piece. Measuring out to a tiny 10.5 cm; this minture beaker bong is a 
-
+Your bag will always have room for this mini piece. This minture beaker bong measures out to a tiny 10.5 cm; about
 
 Borosilicate glass
 Beaker base
