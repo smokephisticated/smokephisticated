@@ -8,7 +8,7 @@ seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. Luckily for you, we here at *Smokephisticated* have made a simple, detailed guide to introduce you to your next go-to piece.
 
 **We've searched so you dont have to:**
-Our diverse list *stems* (heheh) from the finest selections of the unbeatably priced <a target="_blank" hrefs="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the exceptionally diverse selections of "DOPEBOOLINK" 
+Our diverse list *stems* (heheh) from the finest selections of the unbeatably priced <a target="_blank" hrefs="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the exceptionally creative and diverse selections of <a target="_blank" hrefs="http://www.dopeboo.com?aff=43" >DopeBoo</a>.
 
 **Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. 
 On this page you will find the **Best and highest rated bongs of 2018.** 
@@ -19,6 +19,18 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 <h5 class="heading-center">Please Note:</h5> 
 <h4 class="heading-center">See product a little out of your price range? Don't sweat it. Scroll down until you find what fits your budget.</h4>
+
+https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43
+
+Best bongs
+
+Best bongs under $250
+
+Best bongs under $200
+
+Best bongs under $150
+
+Best bogns under $100
 
 <h2 class="heading center" >Best bongs under $50</h2> 
 
@@ -124,7 +136,7 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
 
-Your bag will always have room for this mini piece. Measuring out to a tiny   
+Your bag will always have room for this mini piece. Measuring out to a tiny 10.5 cm; this minture beaker bong is a 
 
 
 Borosilicate glass
