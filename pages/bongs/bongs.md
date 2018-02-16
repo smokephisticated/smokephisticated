@@ -22,17 +22,44 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 <a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">DopeBoo.com</a>
 
-Best bongs
+<h2 class="heading-center">Best bongs under $150</h2>
 
-Best bongs under $250
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Source</th>
+		<th>Price</th>
+		<th>Height</th>
+		<th>Shop</th>
+	</tr>
+</table>
 
-Best bongs under $200
+<h2 class="heading-center">Best bongs under $100</h2>
 
-Best bongs under $150
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Source</th>
+		<th>Price</th>
+		<th>Height</th>
+		<th>Shop</th>
+	</tr>
+</table>
 
-Best bogns under $100
+<h2 class="heading-center">Best bongs under $50</h2> 
 
-<h2 class="heading-center" >Best bongs under $50</h2> 
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Source</th>
+		<th>Price</th>
+		<th>Height</th>
+		<th>Shop</th>
+	</tr>
+</table>
 
 <table class="basic-table">
 	<tr>
@@ -53,7 +80,6 @@ Best bogns under $100
 	</tr>
 </table>
 
-
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $50</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
@@ -71,7 +97,6 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs... talk about stone-cold. 
  [Percolation](https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help){:target="_blank"} comes from the Latin word *percolare*, which means "to strain through." 
  Long sciency story short; diffussion and percolation cools and filters your smoke, making inhaling easier on the lungs. Feel free to follow those links. We'll be wating here for you whenever you feel infomed.
-
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
@@ -132,12 +157,7 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
 
-Your bag will always have room for this mini piece. This minture beaker bong measures out to a tiny 10.5 cm; about
-
-Borosilicate glass
-Beaker base
-Glass bowl with attached downstem
-Carb hole
-This clear borosilicate glass mini bong with beaker base measures only 10.5 cm (4.1 inches) in height, making it the perfect equipment for a quick hit on the go. It’s small in size but perfectly proportioned, and you smoke it like a regular bong even though it is not much bigger than a hand pipe. It even has a carb hole on the back of the tube.
-
-This mini beaker comes complete with a glass bowl with attached glass chillum downstem, that is kept in place with a rubber grommet.
+Do you have to avoid having your pieces discovered? Or are you the adventurist type? **Well, good news:**
+Your hiding spots, backpack, and wallet will have no problems fitting the consolidable beaker bong. 
+This minture beaker bong measures out to a tiny 10.5 cm (roughly hand-pipe sized), but makes sure not to sacrifice size for effectiveness.. Just avoid purchasing if you have any hanging facial hair; yes, it's that small..
+This bong is made from borosilicate glass, and features a beaker base for surface stability, a carb hole for clearing, and a glass bowl with an attached downstem.
