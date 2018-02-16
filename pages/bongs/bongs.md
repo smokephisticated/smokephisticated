@@ -41,6 +41,7 @@ Best bogns under $100
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
+		<th>Source</th>
 		<th>Price</th>
 		<th>Height</th>
 		<th>Shop</th>
@@ -48,6 +49,7 @@ Best bogns under $100
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/4-arm.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
+		<td><a target="_blank" hrefs="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a></td>
 		<td>$50</td>
 		<td>30 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
