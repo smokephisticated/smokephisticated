@@ -115,13 +115,6 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a></td>
-		<td>Acrylic Bubble Water Pipe</td>
-		<td>$15</td>
-		<td>18 cm</td>
-		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html">Compare Lowest Prices</a></td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="table-image" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a></td> 
 		<td>Amsterdam Bubble Glass Bong</td>
 		<td>$17.99</td>
@@ -135,17 +128,14 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 		<td>10.5 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/Glass-Mini-Beaker-Bong.html">Compare Lowest Prices</a></td>
 	</tr>
+	<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a></td>
+		<td>Acrylic Bubble Water Pipe</td>
+		<td>$14.99</td>
+		<td>18 cm</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html">Compare Lowest Prices</a></td>
+	</tr>
 </table>
-
-
-
-<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - $15</h2>
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
-
-Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply. Fill water up to where the bulged lines intersect for the best results.
-
-Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
 
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html" target="_blank">Amsterdam Bubble Glass Bong</a> - $17.99</h2>
 
@@ -161,3 +151,11 @@ Do you have to avoid having your pieces discovered? Or are you the adventurist t
 Your hiding spots, backpack, and wallet will have no problems fitting the consolidable beaker bong. 
 This minture beaker bong measures out to a tiny 10.5 cm (roughly hand-pipe sized), but makes sure not to sacrifice size for effectiveness.. Just avoid purchasing if you have any hanging facial hair; yes, it's that small..
 This bong is made from borosilicate glass, and features a beaker base for surface stability, a carb hole for clearing, and a glass bowl with an attached downstem.
+
+<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - $14.99</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
+
+Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply. Fill water up to where the bulged lines intersect for the best results.
+
+Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
