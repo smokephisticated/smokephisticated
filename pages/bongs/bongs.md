@@ -126,6 +126,8 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 		<th>Height</th>
 		<th>Shop</th>
 	</tr>
+</table>
+
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
