@@ -8,12 +8,13 @@ seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. Luckily for you, we here at *Smokephisticated* have made a simple, detailed guide to introduce you to your next go-to piece.
 
 **We've searched so you dont have to:**
-Our diverse list *stems* (heheh) from the finest selections of the unbeatably priced <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the exceptionally creative and diverse selections of <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo</a>.
+Our diverse list *stems* (heheh) from the finest selections of <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the best choices of products from <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo</a>. At the very bottom of this page you'll find a quick comparision and some links to provide you with what you need to know about your online head-shops and the difference between them(both sites provide discreet packaging).
 
 **Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. 
 On this page you will find the **Best and highest rated bongs of 2018.** 
 
 But don't just take *our* word for it:
+
 Read the reviews of the products that we affiliate ourselves with; you will find glowing reviews for products that deserve them. We'll be here with the rest of the article in the meantime until you've found a piece you love with a price you're content with.
 
 
@@ -194,3 +195,9 @@ Besides the charming design; this highly rated piece features an acrylic build (
 Oh and don't let the simplicity of this piece fool you; this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
+
+<h2 class="heading-center">A Quick Policy comparison:</h2>
+
+A few notable traits of DopeBoo's [shipping policy](https://www.dopeboo.com/pages/shipping-policy-at-dopeboo){:target="_blank"}: Dopeboo provides free domestic shipping and low-cost international shipping, descrete packaging, and hastle free returns. "Nowhere on the outside of your package will you see the words 'DopeBoo'"
+
+On the other hand, Grasscity's [shipping methods](https://support.grasscity.com/hc/en-us/articles/210533583-What-shipping-methods-are-available-){target"_blank}, [discreet packaging article](https://support.grasscity.com/hc/en-us/articles/210533563-What-about-secure-and-discreet-packaging-and-billing-){target="_blank"}, and[refund policy](https://support.grasscity.com/hc/en-us/articles/115002587452-Refund-Policy){target="_blank"} state that free shipping requires a minimum of $50.00 after all discounts, coupons and store credits have been applied, all packaging is also dicreet, and refunds for unsatisfied customers won't be a problem.
