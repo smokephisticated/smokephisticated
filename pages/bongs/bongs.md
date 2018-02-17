@@ -22,7 +22,28 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 <a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">DopeBoo.com</a>
 
+<h2 class="heading-center">Featured Bongs</h2>
+
+I'd never suggest using the Kraken for daily use (Just like how I wouldn't recommend living out of your Ferrari), but if you're in the market, as always, we got your back. Listed below are some featured options for the serious stoner looking for a staggering addition to their, probably already vast, collection of pieces.
+
+<h3 class="heading-center">For the Grandmaster of Smoking:</h3>
+
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Source</th>
+		<th>Price</th>
+		<th>Height</th>
+		<th>Shop</th>
+	</tr>
+</table>
+
 <h2 class="heading-center">Best bongs under $150</h2>
+
+Here are a few featured products for whenever you're in the market for some real firepower.
+
+<h3 class="heading-center">For the Expert Toker:</h3>
 
 <table class="basic-table">
 	<tr>
@@ -37,18 +58,7 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 <h2 class="heading-center">Best bongs under $100</h2>
 
-<table class="basic-table">
-	<tr>
-		<th>PIC</th>
-		<th>Name</th>
-		<th>Source</th>
-		<th>Price</th>
-		<th>Height</th>
-		<th>Shop</th>
-	</tr>
-</table>
-
-<h2 class="heading-center">Best bongs under $50</h2> 
+<h3 class="heading-center">For the Adept Smoker</h3>
 
 <table class="basic-table">
 	<tr>
@@ -60,6 +70,10 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 		<th>Shop</th>
 	</tr>
 </table>
+
+<h2 class="heading-center">Best bongs under $75</h2>
+
+<h3 class="heading-center">For the Advid Smoker</h3>
 
 <table class="basic-table">
 	<tr>
@@ -74,29 +88,44 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/4-arm.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a></td>
-		<td>$50</td>
+		<td>$59.99</td>
 		<td>30 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $50</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $59.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
 **1.** Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} really know what they're doing. 
-With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is more than worth the sub-$50 spend.
+With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is well worth the sub-$50 spend.
 
 **Features:**
 
-* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"}, which is a highly heat resistant and commonly used glass in bongs & pipes.
+* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} (a highly heat resistant and commonly used glass in bongs & pipes).
 
 * Ash Catcher - The ash catcher makes for easy and convienient clearing, while keeping dead-beat ash out of your water. However lazy stoners beware: this is a double edged sword as the catcher can be a difficult cleaning job.
 
 * Clear, slitted 4-arm tree percolator for diffusion - No idea what that means? No worries; to elaborate: 
- Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs... talk about stone-cold. 
+ Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs.
+
  [Percolation](https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help){:target="_blank"} comes from the Latin word *percolare*, which means "to strain through." 
- Long sciency story short; diffussion and percolation cools and filters your smoke, making inhaling easier on the lungs. Feel free to follow those links. We'll be wating here for you whenever you feel infomed.
+
+
+<h2 class="heading-center">Best bongs under $50</h2>
+
+<h3 class="heading-center">For the Apprentice Sparker:</h3>
+
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Source</th>
+		<th>Price</th>
+		<th>Height</th>
+		<th>Shop</th>
+	</tr>
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
@@ -104,7 +133,7 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 Well, none of these are going to deliver the same blow as the --KRAKEN--; But whether you're low on funds, or just starting out; we got your back by providing you with your best budget options. 
 Below you'll find the most solid sub-$20 bongs and water pipes on the web right now.
 
-<h3 class="heading-center">For the novice smoker:</h3>
+<h3 class="heading-center">For the Novice Inhaler:</h3>
 
 <table class="basic-table">
 	<tr>
@@ -156,6 +185,10 @@ This bong is made from borosilicate glass, and features a beaker base for surfac
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
 
+Now the cheapest in price, but still a very solid little pipe standing at 18 cm.
+
 Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply. Fill water up to where the bulged lines intersect for the best results.
+
+Oh and don't let the simplicity of this piece fool you; this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
