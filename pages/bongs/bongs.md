@@ -25,7 +25,9 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 <h2 class="heading-center">Featured Bongs</h2>
 
-I'd never suggest using the Kraken for daily use (Just like how I wouldn't recommend living out of your Ferrari), but if you're in the market, as always, we got your back. Listed below are some featured options for the serious stoner looking for a staggering addition to their, probably already vast, collection of pieces.
+I wouldn't suggest using the Kraken for your only piece to beat the hell out of on the daily(Just like how I wouldn't recommend living out of a Ferrari), but if you're in the market for the absolute best, as always, we got your back.
+
+Listed below are some featured options for the serious stoner looking for a staggering addition to their, probably already vast, collection of pieces.
 
 <h3 class="heading-center">For the Grandmaster of Smoking:</h3>
 
@@ -86,6 +88,13 @@ Here are a few featured products for whenever you're in the market for some real
 		<th>Shop</th>
 	</tr>
 	<tr>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/4-arm.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a></td>
@@ -95,11 +104,17 @@ Here are a few featured products for whenever you're in the market for some real
 	</tr>
 </table>
 
+
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong - XL</a></h2>
+
+<a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="gravitron-gravity-bong.png" /></a>
+
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $59.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
 **1.** Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} really know what they're doing. 
+
 With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is well worth the sub-$50 spend.
 
 **Features:**
@@ -109,9 +124,10 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 * Ash Catcher - The ash catcher makes for easy and convienient clearing, while keeping dead-beat ash out of your water. However lazy stoners beware: this is a double edged sword as the catcher can be a difficult cleaning job.
 
 * Clear, slitted 4-arm tree percolator for diffusion - No idea what that means? No worries; to elaborate: 
+
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs.
 
- [Percolation](https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help){:target="_blank"} comes from the Latin word *percolare*, which means "to strain through." 
+ [Percolation](https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help){:target="_blank"} comes from the Latin word *percolare*, which means "to strain through."
 
 
 <h2 class="heading-center">Best bongs under $50</h2>
@@ -133,7 +149,9 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
 **Who said that you had to sacrifice quality for affordability?** 
+
 Well, none of these are going to deliver the same blow as the --KRAKEN--; But whether you're low on funds, or just starting out; we got your back by providing you with your best budget options. 
+
 Below you'll find the most solid sub-$20 bongs and water pipes on the web right now.
 
 <h3 class="heading-center">For the Novice Inhaler:</h3>
@@ -188,7 +206,7 @@ This bong is made from borosilicate glass, and features a beaker base for surfac
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
 
-Now the cheapest in price, but still a very solid little pipe standing at 18 cm.
+Now, for the cheapest in price, but still a very solid little pipe standing at 18 cm.
 
 Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply. Fill water up to where the bulged lines intersect for the best results.
 
