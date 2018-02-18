@@ -91,6 +91,7 @@ Here are a few featured products for whenever you're in the market for some real
 		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="table-image" src="gravitron-gravity-bong.png" /></a></td>
 		<td>Gravitron Gravity Bong</td>
 		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">DopeBoo.com</a>
+		<td>$74.99</td>	
 		<td>16 in/40 cm</td>
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">Compare Lowest Prices</a></td>
 	<tr>
