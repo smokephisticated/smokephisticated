@@ -76,7 +76,7 @@ Here are a few featured products for whenever you're in the market for some real
 
 <h2 class="heading-center">Best bongs under $75</h2>
 
-<h3 class="heading-center">For the Advid Smoker</h3>
+<h3 class="heading-center">For the Avid Smoker</h3>
 
 <table class="basic-table">
 	<tr>
@@ -94,6 +94,7 @@ Here are a few featured products for whenever you're in the market for some real
 		<td>$74.99</td>	
 		<td>16 in/40 cm</td>
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">Compare Lowest Prices</a></td>
+	</tr>	
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/4-arm.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
@@ -103,7 +104,6 @@ Here are a few featured products for whenever you're in the market for some real
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
-
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong - XL</a></h2>
 
