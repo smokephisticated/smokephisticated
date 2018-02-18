@@ -88,7 +88,7 @@ Here are a few featured products for whenever you're in the market for some real
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="table-image" src="gravitron-gravity-bong.png" /></a></td>
+		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="table-image" src="/img/bongs/gravitron-gravity-bong.png" /></a></td>
 		<td>Gravitron Gravity Bong</td>
 		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">DopeBoo.com</a></td>
 		<td>$74.99</td>	
@@ -107,7 +107,7 @@ Here are a few featured products for whenever you're in the market for some real
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong - XL</a></h2>
 
-<a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="gravitron-gravity-bong.png" /></a>
+<a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $59.99</h2>
 
