@@ -92,7 +92,7 @@ Here are a few featured products for whenever you're in the market for some real
 		<td>Gravitron Gravity Bong</td>
 		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">DopeBoo.com</a></td>
 		<td>$74.99</td>	
-		<td>16 in/40 cm</td>
+		<td>16 in</td>
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">Compare Lowest Prices</a></td>
 	</tr>	
 	<tr>
@@ -105,9 +105,21 @@ Here are a few featured products for whenever you're in the market for some real
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong - XL</a></h2>
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong</a> - $74.99</h2>
 
 <a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
+
+When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from sockets jammed into a hole in the cap, but as sketchy as these contraptions were... They delivered. Something about hitting a gravity bong gets you to a different high; one that bowls and blunts just don't serve, all while using a miniscule amount of your supply.
+
+**Now, let me introduce to you: The Gravitron.**
+
+Relive the glory days of hiding from your parents behind your shed and highschool-party craftsmanship with this sleek, even more effective, glass replacement.
+
+Features:
+Replacing those sketchy plastics and metals with glass, the Gravitron feaatures a base for water, a glass funnel for you to pack your "tabacco" of choice into, and of course the bottle for the artificial inhale.
+
+Go see the Gravitron in action by watching the video on DopeBoo's website [here](https://billowby.com/products/gravitron-gravity-bong-grav-labs-l-xl-assorted-colors?variant=864890741?aff43){:"_blank"}
+
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $59.99</h2>
 
