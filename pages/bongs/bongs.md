@@ -154,15 +154,17 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 		<th>Height</th>
 		<th>Shop</th>
 	</tr>
-	<td></td>
+	<td><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Clear Glass Buoy Beaker Bong" class="table-image" src="/img/bongs/buoy-beaker-bong.png"/></a></td>
 	<td>Clear Glass Buoy Base Beaker Bong</td>
-	<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">DopeBoo.com</a></td>
+	<td><a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a></td>
 	<td>$49.99</td>
 	<td>8 in</td>
 	<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Clear Glass Buoy Base Beaker Bong</a> - $44.99
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Clear Glass Buoy Base Beaker Bong</a> - $44.99</h2>
+
+<a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Glass Buoy Beaker Bong" class="img-middle" src="/img/bongs/buoy-beaker-bong.png"/></a>
 
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
