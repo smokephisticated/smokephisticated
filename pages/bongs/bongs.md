@@ -176,7 +176,9 @@ Made by DankStop in the USA; this bong has a variety of features including:
 
 * 8 inches of clear scientific glass for classic transparency.
 
-* Funnel shaped bowl with a pinch handle connected to a glass downstem secured by a rubber grommet to deliver air-tight rips.
+* Effective funnel shaped bowl with a convienient pinch handle.
+
+* Glass downstem secured by a rubber grommet to deliver air-tight rips.
 
 * An ice-catcher(holds ice cubes where the neck curves inwards to cool smoke as it passes) for ice-cool clouds.
 
