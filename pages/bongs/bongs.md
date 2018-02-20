@@ -109,14 +109,13 @@ Here are a few featured products for whenever you're in the market for some real
 
 <a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
 
-When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from sockets jammed into a hole in the cap, but as sketchy as these contraptions were... They delivered. Something about hitting a gravity bong gets you to a different high; one that bowls and blunts just don't serve, all while using a miniscule amount of your supply.
+When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from sockets jammed into a hole in the cap, but as sketchy as these contraptions were... They delivered. Something about hitting a gravity bong gets you to a different high; one that bowls and blunts just can't always serve, all while using the least amount of your supply.
 
 **Now, let me introduce to you: The Gravitron.**
 
 Relive the glory days of hiding from your parents behind your shed and highschool-party craftsmanship with this sleek, even more effective, glass replacement.
 
-Features:
-Replacing those sketchy plastics and metals with glass, the Gravitron feaatures a base for water, a glass funnel for you to pack your "tabacco" of choice into, and of course the bottle for the artificial inhale.
+Replacing those sketchy plastics and metals with glass, the Gravitron features a base for water, a glass funnel for you to pack your "tabacco" of choice into, a rubber stopper to prevent glass-on-glass collision, and of course the bottle pipe to lift for the artificial inhale.
 
 Go see the Gravitron in action by watching the video on DopeBoo's website [here](https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43){:"_blank"}
 
@@ -155,6 +154,12 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 		<th>Height</th>
 		<th>Shop</th>
 	</tr>
+	<td></td>
+	<td>Clear Glass Buoy Base Beaker Bong</td>
+	<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">DopeBoo.com</a></td>
+	<td>$49.99</td>
+	<td>8 in</td>
+	<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
 </table>
 
 
