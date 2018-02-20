@@ -5,6 +5,8 @@ permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 ---
 
+**So, here's the deal:**
+
 Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. Luckily for you, we here at *Smokephisticated* have made a simple, detailed guide to introduce you to your next go-to piece.
 
 **We've searched so you dont have to:**
