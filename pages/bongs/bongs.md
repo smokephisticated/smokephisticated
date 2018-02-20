@@ -173,9 +173,13 @@ Introducing the bong that every stoner should have on his shelf: The Buoy Beaker
 Made by DankStop in the USA; this bong has a variety of features including:
 
 *8 inches of clear scientific glass for classic transparency.
+
 *Funnel shaped bowl with a pinch handle connected to a glass downstem secured by a rubber grommet to deliver air-tight rips.
+
 *An ice-catcher(holds ice cubes where the neck curves inwards to cool smoke as it passes) for ice-cool clouds.
+
 *Extra width at the base to provide stability; keeping it stable in the company of even the clumsiest of novices.
+
 *Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
