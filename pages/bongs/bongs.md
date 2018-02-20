@@ -76,7 +76,7 @@ Here are a few featured products for whenever you're in the market for some real
 
 <h2 class="heading-center">Best bongs under $75</h2>
 
-<h3 class="heading-center">For the Avid Smoker</h3>
+<h3 class="heading-center">For the Advanced Smoker</h3>
 
 <table class="basic-table">
 	<tr>
@@ -143,7 +143,7 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 
 <h2 class="heading-center">Best bongs under $50</h2>
 
-<h3 class="heading-center">For the Apprentice Sparker:</h3>
+<h3 class="heading-center">For the Avid Sparker:</h3>
 
 <table class="basic-table">
 	<tr>
@@ -166,6 +166,17 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 
 <a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Glass Buoy Beaker Bong" class="img-middle" src="/img/bongs/buoy-beaker-bong.png"/></a>
 
+**If you're looking for refined simplicity; your search is over.**
+
+Introducing the bong that every stoner should have on his shelf: The Buoy Beaker Bong.
+
+Made by DankStop in the USA; this bong has a variety of features including:
+
+*8 inches of clear scientific glass for classic transparency.
+*Funnel shaped bowl with a pinch handle connected to a glass downstem secured by a rubber grommet to deliver air-tight rips.
+*An ice-catcher(holds ice cubes where the neck curves inwards to cool smoke as it passes) for ice-cool clouds.
+*Extra width at the base to provide stability; keeping it stable in the company of even the clumsiest of novices.
+*Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
