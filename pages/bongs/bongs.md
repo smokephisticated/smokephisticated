@@ -107,9 +107,9 @@ Here are a few featured products for whenever you're in the market for some real
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong</a> - $74.99</h2>
 
-<a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
+<a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
 
-When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from sockets jammed into a hole in the cap, but as sketchy as these contraptions were... They delivered. Something about hitting a gravity bong gets you to a different high; one that bowls and blunts just can't always serve, all while using the least amount of your supply.
+When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. Something about hitting a gravity bong gets you to a different high; one that bowls and regular bongs just can't always serve, all while using the least amount of your supply.
 
 **Now, let me introduce to you: The Gravitron.**
 
@@ -161,6 +161,8 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 	<td>8 in</td>
 	<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
 </table>
+
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Clear Glass Buoy Base Beaker Bong</a> - $44.99
 
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
