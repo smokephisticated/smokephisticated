@@ -88,7 +88,24 @@ Here are a few featured products for whenever you're in the market for some real
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html"><img alt="Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong" class="img-middle" src="/img/bongs/beaker-base-6-arm-perc.png" /></a>
 
+With 77 5-star ratings on grasscity; this percolating ripper will provide even the softest of lungs with cool comfortable clouds.
 
+* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} (a highly heat resistant and commonly used glass in bongs & pipes). 
+
+This bong has a variety of features including:
+
+* A clear glass funnel bowl with a roll stopper(The little blue notch for easier lifting and to prevent the bowl from literally rolling)
+
+* Inside-cut 18.8mm > 14.5mm slitted diffuser downstem. With six slits and a hole at the tip; this downstem attributes to the, already impressive, cooling power of this smoke-defusing beauty.
+
+* Ice notches to catch cubes in the neck for *even* **more** cooling as the smoke passes the ice.
+
+* The charming Black Leaf logo at the top of the base. Read more about Black Leaf; the unique and diverse-engineering German brand <a target="_blank" href="https://www.grasscity.com/us_en/brands/black-leaf-glass">Here</a>
+
+
+**What you need to know about percolation:**
+
+Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker to read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
 
 <h2 class="heading-center">Best bongs under $75</h2>
 
@@ -125,7 +142,9 @@ Here are a few featured products for whenever you're in the market for some real
 
 <a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
 
-When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. Something about hitting a gravity bong gets you to a different high; one that bowls and regular bongs just can't always serve, all while using the least amount of your supply.
+When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. 
+
+Something about hitting a gravity bong gets you to a different high; one that bowls and regular bongs just can't always serve, all while using the least amount of your supply.
 
 **Now, let me introduce to you: The Gravitron.**
 
@@ -154,8 +173,7 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs.
 
- [Percolation](https://herb.co/marijuana/news/what-are-percolators-and-how-do-they-help){:target="_blank"} comes from the Latin word *percolare*, which means "to strain through."
-
+Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker to read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most.
 
 <h2 class="heading-center">Best bongs under $50</h2>
 
