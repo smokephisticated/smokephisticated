@@ -52,9 +52,7 @@ Here are a few featured products for whenever you're in the market for some real
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
-		<th>Source</th>
 		<th>Price</th>
-		<th>Height</th>
 		<th>Shop</th>
 	</tr>
 </table>
@@ -132,13 +130,13 @@ If you're in the market for a great piece, but don't want to spend a small fortu
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong</a> - 16 inches/40.64 cm - $74.99</h2>
 
-<a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
-
 When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. 
 
 Something about hitting a gravity bong gets you to a different high; one that bowls and regular bongs just can't always serve, all while using the least amount of your supply.
 
 **Now, let me introduce to you: The Gravitron.**
+
+<a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
 
 Relive the glory days of hiding from your parents behind your shed and highschool-party craftsmanship with this sleek, even more effective, glass replacement.
 
