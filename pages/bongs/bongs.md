@@ -37,9 +37,7 @@ Listed below are some featured options for the serious stoner looking for a stag
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
-		<th>Source</th>
 		<th>Price</th>
-		<th>Height</th>
 		<th>Shop</th>
 	</tr>
 </table>
@@ -63,28 +61,26 @@ Here are a few featured products for whenever you're in the market for some real
 
 <h2 class="heading-center">Best bongs under $100</h2>
 
+Below you will find the best sub-$100 bongs on the market right now.
+
 <h3 class="heading-center">For the Adept Smoker</h3>
 
 <table class="basic-table">
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
-		<th>Source</th>
 		<th>Price</th>
-		<th>Height</th>
 		<th>Shop</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html"><img alt="Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong" class="table-image" src="/img/bongs/beaker-base-6-arm-perc.png" /></a></td>
-		<td>Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong | No Carb Hole</td>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Grasscity.com</a></td>
+		<td>Black Leaf ELITE 6-Arm Perc Ice Bong</td>
 		<td>$99.99</td>
-		<td>15 in</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong</a> - $99.99</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong</a> - 15 inches/38.1 cm - $99.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html"><img alt="Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong" class="img-middle" src="/img/bongs/beaker-base-6-arm-perc.png" /></a>
 
@@ -98,7 +94,7 @@ This bong has a variety of features including:
 
 * Inside-cut 18.8mm > 14.5mm slitted diffuser downstem. With six slits and a hole at the tip; this downstem attributes to the, already impressive, cooling power of this smoke-defusing beauty.
 
-* Ice notches to catch cubes in the neck for *even* **more** cooling as the smoke passes the ice.
+* Ice notches to catch cubes in the neck for *even* **more** cooling power as the smoke passes the ice.
 
 * The charming Black Leaf logo at the top of the base. Read more about Black Leaf; the unique and diverse-engineering German brand <a target="_blank" href="https://www.grasscity.com/us_en/brands/black-leaf-glass">Here</a>
 
@@ -109,36 +105,32 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 <h2 class="heading-center">Best bongs under $75</h2>
 
+If you're in the market for a great piece, but don't want to spend a small fortune, we got your back by providing the best bongs that won't cost you anything more than $75.
+
 <h3 class="heading-center">For the Advanced Smoker</h3>
 
 <table class="basic-table">
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
-		<th>Source</th>
 		<th>Price</th>
-		<th>Height</th>
 		<th>Shop</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="table-image" src="/img/bongs/gravitron-gravity-bong.png" /></a></td>
 		<td>Gravitron Gravity Bong</td>
-		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">DopeBoo.com</a></td>
-		<td>$74.99</td>	
-		<td>16 in</td>
+		<td>$74.99</td>
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">Compare Lowest Prices</a></td>
 	</tr>	
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/4-arm.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a></td>
 		<td>$59.99</td>
-		<td>30 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong</a> - $74.99</h2>
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong</a> - 16 inches/40.64 cm - $74.99</h2>
 
 <a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
 
@@ -155,7 +147,7 @@ Replacing those sketchy plastics and metals with glass, the Gravitron features a
 Go see the Gravitron in action by watching the video on DopeBoo's website [here](https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43){:"_blank"}
 
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - $59.99</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm/11.8 cm - $59.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
 
@@ -183,20 +175,16 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
-		<th>Source</th>
 		<th>Price</th>
-		<th>Height</th>
 		<th>Shop</th>
 	</tr>
 	<td><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Clear Glass Buoy Beaker Bong" class="table-image" src="/img/bongs/buoy-beaker-bong.png"/></a></td>
 	<td>Clear Glass Buoy Base Beaker Bong</td>
-	<td><a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a></td>
 	<td>$49.99</td>
-	<td>8 in</td>
 	<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Clear Glass Buoy Base Beaker Bong</a> - $44.99</h2>
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Clear Glass Buoy Base Beaker Bong</a> - 8 inches/20.3 cm - $44.99</h2>
 
 <a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Glass Buoy Beaker Bong" class="img-middle" src="/img/bongs/buoy-beaker-bong.png"/></a>
 
@@ -204,7 +192,7 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 Introducing the bong that every stoner should have on his shelf: The Buoy Beaker Bong.
 
-Made by DankStop in the USA; this bong has a variety of features including:
+Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a></td>, and made by DankStop in the USA; this bong has a variety of features including:
 
 * 8 inches of clear scientific glass for classic transparency.
 
@@ -233,39 +221,35 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 		<th>PIC</th>
 		<th>Name</th>
 		<th>Price</th>
-		<th>Height</th>
 		<th>Shop</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="table-image" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a></td> 
 		<td>Amsterdam Bubble Glass Bong</td>
 		<td>$17.99</td>
-		<td>21 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Glass Mini Bong Beaker" alt="Glass Mini Beaker Bong" class="table-image" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a></td>
 		<td>Glass Mini Beaker Bong</td>
 		<td>$15.99</td>
-		<td>10.5 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/Glass-Mini-Beaker-Bong.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a></td>
 		<td>Acrylic Bubble Water Pipe</td>
 		<td>$14.99</td>
-		<td>18 cm</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
-<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html" target="_blank">Amsterdam Bubble Glass Bong</a> - $17.99</h2>
+<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html" target="_blank">Amsterdam Bubble Glass Bong</a> - 8.3 inches/21 cm - $17.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a>
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
-<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - $15.99</h2>
+<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - 4.1 inches/10.5 cm - $15.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
 
@@ -274,7 +258,7 @@ Your hiding spots, backpack, and wallet will have no problems fitting the consol
 This minture beaker bong measures out to a tiny 10.5 cm (roughly hand-pipe sized), but makes sure not to sacrifice size for effectiveness.. Just avoid purchasing if you have any hanging facial hair; yes, it's that small..
 This bong is made from borosilicate glass, and features a beaker base for surface stability, a carb hole for clearing, and a glass bowl with an attached downstem.
 
-<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - $14.99</h2>
+<h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - 7 inches/18 cm - $14.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
 
