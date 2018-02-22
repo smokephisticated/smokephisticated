@@ -59,7 +59,7 @@ Here are a few featured products for whenever you're in the market for some real
 		<th>Price</th>
 		<th>Shop</th>
 	</tr>
-	<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Recycler Bong" class="table-image" src="/img/bongs/bird-cage-recycler.pn" /></a>
+	<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Recycler Bong" class="table-image" src="/img/bongs/bird-cage-recycler.png" /></a>
 	</td>
 </table>
 
