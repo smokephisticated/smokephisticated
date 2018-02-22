@@ -7,10 +7,14 @@ seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 
 **So, here's the deal:**
 
-Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. Luckily for you, we here at *Smokephisticated* have made a simple, detailed guide to introduce you to your next go-to piece.
+Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. 
+
+Luckily for you, we here at *Smokephisticated* have made a simple, detailed guide to introduce you to your next go-to piece.
 
 **We've searched so you dont have to:**
-Our diverse list *stems* (heheh) from the finest selections of <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the best choices of products from <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo</a>. At the very bottom of this page you'll find a quick comparision and some links to provide you with what you need to know about your online head-shops and the difference between them(both sites provide discreet packaging).
+Our diverse list *stems* (heheh) from the finest selections of <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the best choices of products from <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo</a>. 
+
+At the very bottom of this page you'll find a quick comparision and some links to provide you with what you need to know about your online head-shops and the difference between them(both sites provide discreet packaging).
 
 **Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. 
 On this page you will find the **Best and highest rated bongs of 2018.** 
@@ -142,7 +146,7 @@ Relive the glory days of hiding from your parents behind your shed and highschoo
 
 Replacing those sketchy plastics and metals with glass, the Gravitron features a base for water, a glass funnel for you to pack your "tabacco" of choice into, a rubber stopper to prevent glass-on-glass collision, and of course the bottle pipe to lift for the artificial inhale.
 
-Go see the Gravitron in action by watching the video on DopeBoo's website [here](https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43){:"_blank"}
+Go see the Gravitron in action by watching the video on DopeBoo's website [here](https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43){:"_blank"}.
 
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm/11.8 cm - $59.99</h2>
@@ -163,7 +167,9 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs.
 
-Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker to read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most.
+Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. 
+
+I highly encurage any aspiring smoker to read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most.
 
 <h2 class="heading-center">Best bongs under $50</h2>
 
