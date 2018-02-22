@@ -63,7 +63,11 @@ Here are a few featured products for whenever you're in the market for some real
 	</td>
 </table>
 
-Bird Cage Glass Recycler Bong with Cage Percolator
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
+
+
 
 <h2 class="heading-center">Best bongs under $100</h2>
 
