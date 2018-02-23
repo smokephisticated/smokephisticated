@@ -75,17 +75,19 @@ Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very uni
 
 **But there's more to it.**
 
-Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> for more info) nasty particles from your smoke; this is done when smoke is filtered through hundreds of tiny holes that strain, and save your lungs from inhaling as many harmful bits in your smoke.
+Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> nasty particles from your smoke; this is done when smoke is filtered through hundreds of tiny holes that, in turn, save your lungs from inhaling as many harmful bits in your smoke.
 
 **As you've probably noticed:** 
 
 This bong has *two* chambers for both your smoke **and** your water to travel through. This is where the "Recycler" funtion comes into play.
 
-How does it work, and **Why is this important?**
+**But how does it work?**
 
-As soon as your inhale takes place the funtionality of the recycler does the same. Both water and smoke gets cycled through in a rotative motion, pulling your smoke back through those tiny holes causing additional percolation again, and again, and again. 
+As soon as your inhale takes place so does the funtionality of the recycler. Both water and smoke gets cycled through in a rotative motion, pulling your smoke back through those tiny holes causing additional percolation again, and again, and again. 
 
-This isn't by any means an essential piece to smoking herbs, it is both helpful with keeping your hits from going stale, and adding extra filtration for extra smooth hits. Plus, it's mesmorizing to wwatch.
+**Why is this important?**
+
+This isn't by any means an essential piece to smoking herbs, but it is both helpful with both keeping your hits from going stale, and adding extra filtration for extra smooth hits. Plus, it's mesmorizing as fuck.
 
 **Features:**
 
