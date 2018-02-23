@@ -21,7 +21,7 @@ On this page you will find the **Best and highest rated bongs of 2018.**
 
 But don't just take *our* word for it:
 
-Read the reviews of the products that we affiliate ourselves with; you will find glowing reviews for products that deserve them. We'll be here with the rest of the article in the meantime until you've found a piece you love with a price you're content with.
+Read the reviews of the products that we affiliate ourselves with; you will find glowing reviews for products that deserve them. We'll be here with the rest of the article in the meantime until you've found a piece you love for a price you're content with.
 
 
 <h5 class="heading-center">Please Note:</h5> 
@@ -122,7 +122,7 @@ Below you will find the best sub-$100 bongs on the market right now.
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html"><img alt="Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong" class="table-image" src="/img/bongs/beaker-base-6-arm-perc.png" /></a></td>
-		<td>Black Leaf ELITE 6-Arm Perc Ice Bong</td>
+		<td>ELITE 6-Arm Perc Ice Bong</td>
 		<td>$99.99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Compare Lowest Prices</a></td>
 	</tr>
@@ -228,10 +228,18 @@ I highly encurage any aspiring smoker to read <a target="_blank" href="https://w
 		<th>Price</th>
 		<th>Shop</th>
 	</tr>
-	<td><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Clear Glass Buoy Beaker Bong" class="table-image" src="/img/bongs/buoy-beaker-bong.png"/></a></td>
-	<td>Clear Glass Buoy Base Beaker Bong</td>
-	<td>$49.99</td>
-	<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
+	<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-whirlwind-stemless-turbine-perc-glass-tube-35cm.html"><img alt="Black Leaf Whirlwind Stemless Turbine Perc Glass Bong" class="table-image" src="/img/bongs/whirlwind-turbine.png"/></a></td>
+		<td>Whirlwind Turbine Perc</td>
+		<td>$49.99</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-whirlwind-stemless-turbine-perc-glass-tube-35cm.html">Compare Lowest Prices</a></td>
+	</tr>	
+	<tr>
+		<td><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Clear Glass Buoy Beaker Bong" class="table-image" src="/img/bongs/buoy-beaker-bong.png"/></a></td>
+		<td>Clear Glass Buoy Base Beaker Bong</td>
+		<td>$49.99</td>
+		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
+</tr>
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Clear Glass Buoy Base Beaker Bong</a> - 8 in / 20.3 cm tall - $44.99</h2>
