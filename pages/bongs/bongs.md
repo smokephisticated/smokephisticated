@@ -87,7 +87,7 @@ As soon as your inhale takes place so does the funtionality of the recycler. Bot
 
 **Why is this important?**
 
-This isn't by any means an essential piece to smoking herbs, but it is both helpful with both keeping your hits from going stale, and adding extra filtration for extra smooth hits. Plus, it's mesmorizing as fuck.
+This isn't by any means an essential piece to smoking herbs, but it is both helpful with keeping your hits from going stale, and with adding extra filtration for extra smooth hits. Plus, it's mesmorizing as fuck.
 
 **Features:**
 
@@ -242,7 +242,7 @@ I highly encurage any aspiring smoker to read <a target="_blank" href="https://w
 
 Introducing the bong that every stoner should have on his shelf: The Buoy Beaker Bong.
 
-Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a></td>, and made by DankStop in the USA; this bong has a variety of features including:
+Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a>, and made by DankStop in the USA; this bong has a variety of features including:
 
 * 8 inches of clear scientific glass for classic transparency.
 
