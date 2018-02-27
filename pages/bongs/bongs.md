@@ -172,7 +172,7 @@ This bong is equipped with a variety of features to support that milky smoooth c
 
 * Removable glass slide to make clening jobs a breeze.
 
-	* A 7-slitted inline percolator (on the glass slide) provides filteration in your smoke; diffusing harmful particles from your inhales. It also produces more bubbles in hits of any strength.
+	* A 7-slitted inline percolator (on the glass slide) provides filteration in your smoke; diffusing harmful particles from your inhales. It also helps produce more bubbles in hits big and small.
 
 * Carb hole located toward the top for additional airflow with just the lift of a finger.
 
