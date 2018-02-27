@@ -156,7 +156,7 @@ This bong has a variety of features including:
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker to read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
 
-<h2 class="heading-center"><a target="blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43">MediBubbler</a> - 7 in / 17.78 cm - $99.99
+<h2 class="heading-center"><a target="blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43">MediBubbler</a> - 7 in / 17.78 cm - $99.99</h2>
 
 If you search for the MediBubler online you'll find the same phrase everywhere: **"Guarenteed to be smooth."**
 
