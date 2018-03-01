@@ -21,7 +21,7 @@ On this page you will find the **Best and highest rated bongs of 2018.**
 
 But don't just take *our* word for it:
 
-Read the reviews of the products that we affiliate ourselves with; you will find glowing reviews for products that deserve them. We'll be here with the rest of the article in the meantime until you've found a piece you love for a price you're content with.
+Read the reviews for the products that we affiliate ourselves with by people that have already bought them; you will find glowing reviews for products that deserve them by people just like you. We'll be here with the rest of the article in the meantime until you've found a piece you love, for a price you're content with.
 
 
 <h5 class="heading-center">Please Note:</h5> 
@@ -31,7 +31,7 @@ Read the reviews of the products that we affiliate ourselves with; you will find
 
 <h2 class="heading-center">Featured Bongs</h2>
 
-I wouldn't suggest using the Kraken for your only piece to beat the hell out of on the daily(Just like how I wouldn't recommend living out of a Ferrari), but if you're in the market for the absolute best, as always, we got your back.
+I wouldn't suggest using the Kraken for your daily piece to beat the hell out of on the daily(Just like how I wouldn't recommend living out of a Ferrari), but if your money is burning holes and you're in the market for the absolute best and most impressive, as always, we got your back.
 
 Listed below are some featured options for the serious stoner looking for a staggering addition to their, probably already vast, collection of pieces.
 
@@ -75,7 +75,7 @@ Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very uni
 
 **But there's more to it.**
 
-Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> nasty particles from your smoke; this is done when smoke is filtered through hundreds of tiny holes that, in turn, save your lungs from inhaling as many harmful bits in your smoke.
+Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> nasty particles from your smoke; this is done when bubbly smoke is pulled through hundreds of tiny holes that strain and clean your bubbles to save your lungs from inhaling as many harmful bits in your smoke.
 
 **As you've probably noticed:** 
 
@@ -234,7 +234,7 @@ With a slick look, effective design (and not to mention 150+ reveiws while still
 
 **Features:**
 
-* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} (a highly heat resistant and commonly used glass in bongs & pipes).
+* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} (a highly heat resistant glass commonly used glass in bongs & pipes).
 
 * Ash Catcher - The ash catcher makes for easy and convienient clearing, while keeping dead-beat ash out of your water. However lazy stoners beware: this is a double edged sword as the catcher can be a difficult cleaning job.
 
@@ -277,7 +277,7 @@ I highly encurage any aspiring smoker to read <a target="_blank" href="https://w
 
 **If you're looking for refined simplicity; your search is over.**
 
-Introducing the bong that every stoner should have on his shelf: The Buoy Beaker Bong.
+Introducing the bong that every practical stoner should have on his shelf; The Buoy Beaker Bong.
 
 Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a>, and made by DankStop in the USA; this bong has a variety of features including:
 
@@ -293,9 +293,38 @@ Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a>
 
 * Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html">Dude Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case"
+
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs" /></a>
+
+
+
+Woah, dude. Have you ever thought it would be dope to have a bong kit to take along with you to parties or weekend getaways? Well my dude, Dude is changing the game by bringing you everything you need and a case to carry it in.
+
+The bong istelf is well constructed and smooth to rip; **Featuring:**
+
+* Round foot standing base.
+
+* 14.5mm chillum downstem with funnel bowl attached.
+
+* Carb hole for convienient clearing.
+
+* Cube catcher towards the base to cool passing smoke through the neck for icy inhales.
+
+* "Dude" logo along the neck.
+
+**As for the accessories:**
+
+The case itself is made from padded silver aluminum for made-to-fit security, and black plastic. Use the attached handle for simple carrying and the clasps for security.
+
+Included in the case is a small clear grinder, a "Dude" lighter, and 5 pipe screens.
+
+Go ahead and pick up some extra screens <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/20-pipe-screens-steel.html">here</a>; as the bowl needs one to work at 100%.
+
+<h4 class="heading-center">PLEASE NOTE THAT:</h4> due to shipping restrictions, Grasscity cannot ship flammable liquids overseas. If you are ordering from outside of continental Europe, the lighter in this set will be replaced with a similar smoking accessory from their warehouse.
+
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
