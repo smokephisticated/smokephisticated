@@ -258,17 +258,17 @@ I highly encurage any aspiring smoker to read <a target="_blank" href="https://w
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page="><img alt="" class="table-image" src="/img/bongs/"/></a></td>
-		<td></td>
-		<td></td>
-		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=">Compare Lowest Prices</a></td>
-	</tr>	
-	<tr>
 		<td><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Clear Glass Buoy Beaker Bong" class="table-image" src="/img/bongs/buoy-beaker-bong.png"/></a></td>
 		<td>Clear Glass Buoy Base Beaker Bong</td>
 		<td>$49.99</td>
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
 </tr>
+<tr>
+	<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/"/></a></td>
+	<td>Dude Glass Bong Set</td>
+	<td>$49</td>
+	<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html">Compare Lowest Prices</a></td>
+</tr>	
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Clear Glass Buoy Base Beaker Bong</a> - 8 in / 20.3 cm tall - $44.99</h2>
@@ -292,6 +292,10 @@ Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a>
 * Extra width at the base to provide stability; keeping it stable in the company of even the clumsiest of novices.
 
 * Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
+
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html">Dude Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case"
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
