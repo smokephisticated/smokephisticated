@@ -21,7 +21,7 @@ On this page you will find the **Best and highest rated bongs of 2018.**
 
 But don't just take *our* word for it:
 
-Read the reviews for the products that we affiliate ourselves with by people that have already bought them; you will find glowing reviews for products that deserve them by people just like you. We'll be here with the rest of the article in the meantime until you've found a piece you love, for a price you're content with.
+Read the reviews for the products that we affiliate ourselves with by people that have already bought them; you will find glowing reviews for products that deserve them by people just like you. In the meantime, we'll be here with the rest of the article until you've found a piece you love, for a price you're content with.
 
 
 <h5 class="heading-center">Please Note:</h5> 
@@ -29,26 +29,9 @@ Read the reviews for the products that we affiliate ourselves with by people tha
 
 <a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">DopeBoo.com</a>
 
-<h2 class="heading-center">Featured Bongs</h2>
-
-I wouldn't suggest using the Kraken for your daily piece to beat the hell out of on the daily(Just like how I wouldn't recommend living out of a Ferrari), but if your money is burning holes and you're in the market for the absolute best and most impressive, as always, we got your back.
-
-Listed below are some featured options for the serious stoner looking for a staggering addition to their, probably already vast, collection of pieces.
-
-<h3 class="heading-center">For the Grandmaster of Smoking:</h3>
-
-<table class="basic-table">
-	<tr>
-		<th>PIC</th>
-		<th>Name</th>
-		<th>Price</th>
-		<th>Shop</th>
-	</tr>
-</table>
-
 <h2 class="heading-center">Best bongs under $150</h2>
 
-Here are a few featured products for whenever you're in the market for some real firepower.
+Here are a few high quality featured products that we highly suggest for anyone looking to spend nothing more than $150, on nothing less than serious firepower.
 
 <h3 class="heading-center">For the Expert Toker:</h3>
 
@@ -60,12 +43,29 @@ Here are a few featured products for whenever you're in the market for some real
 		<th>Shop</th>
 	</tr>
 	<tr>
+		<th><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="table-image" src="/img/bongs/___.png" /></a></th>
+		<th>Blaze Glass Tower</th>
+		<th>$149</th>
+		<th><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Compare Lowest Prices</th>
+	</tr>
+	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Recycler Bong" class="table-image" src="/img/bongs/bird-cage-recycler.png" /></a></td>
 		<td>Bird Cage Recycler</td>
 		<td>$129</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
+
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube</a> - 56 cm / 22 in - $149</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="img-middle" src="/img/bongs/___.png" /></a>
+
+The Tower Bong by Blaze Glass is made from thick 7mm clear borosilicate glass, with a heft and sturdiness that you can feel when you hold it! Stacked in the cylinder are two 8-arm tree percolators, individually fused at their bases for shock-proof glass construction!
+
+As the smoke travels through the slits of the 8-arm percolators it gets broken up into smaller particles, increasing the surface area, allowing the smoke to cool for a much more gentle hit that is smooth on the throat and lungs. The ice notches give you the option to place a few ice cubes in the tube of the bong, for a perfectly chilled hit.
+
+Its 18.8mm joint comes equipped with an 18.8mm > 14.5mm slitted diffuser downstem and a 14.5mm slide bowl is also included with your purchase. The tube of this straight percolator bong is 50mm in diameter at the mouthpiece and 65mm in diameter below the three extra-long ice notches for extra volume capacity. A high-gloss silver Blaze glass logo is placed on the top of the tube.
+
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in - $129</h2>
 
@@ -166,21 +166,21 @@ Wheather you're looking to produce tiny tokes or massive clouds; this thing is k
 
 This bong is equipped with a variety of features to support that milky smoooth claim, including:
 
-* Charming bubble-shaped body to hold water to clean smoke as it passes through.
+* The charming body shaped like a water-holding bubble.
 
-* Removable glass mouthpiece that expands outwards towards to lips for comfortble mouth purchase.
+* A removable glass mouthpiece that expands outwards towards to lips for comfortble mouth purchase.
 
-* Removable glass slide to make clening jobs a breeze.
+* A removable glass slide to make clening jobs a breeze.
 
-	* A 7-slitted inline percolator (on the glass slide) provides filteration in your smoke; diffusing harmful particles from your inhales. It also helps produce more bubbles in hits big and small.
+	* On the glass slide is a 7-slitted inline percolator that provides filteration in your smoke; diffusing harmful particles from your inhales. Percolation also helps produce way more, tinier bubbles to seperate your smoke and cool your hits in rips big and small.
 
-* Carb hole located toward the top for additional airflow with just the lift of a finger.
+* Toward the top of the MediBubbler's bosy is a Carb hole for additional airflow with just the lift of a finger.
 
 **The MediBubbler is smokephistication in it's finest.**
 
 <h2 class="heading-center">Best bongs under $75</h2>
 
-If you're in the market for a great piece, but don't want to spend a small fortune, we got your back by providing the best bongs that won't cost you anything more than $75.
+If you're in the market for the greatest pieces under $75: We have a few suggestions.
 
 <h3 class="heading-center">For the Advanced Smoker</h3>
 
@@ -204,7 +204,6 @@ If you're in the market for a great piece, but don't want to spend a small fortu
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
-
 
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong</a> - 16 in / 40.64 cm tall - $74.99</h2>
@@ -299,8 +298,6 @@ Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs" /></a>
 
-
-
 Woah, dude. Have you ever thought it would be dope to have a bong kit to take along with you to parties or weekend getaways? Well my dude, Dude is changing the game by bringing you everything you need and a case to carry it in.
 
 The bong istelf is well constructed and smooth to rip; **Featuring:**
@@ -323,8 +320,7 @@ Included in the case is a small clear grinder, a "Dude" lighter, and 5 pipe scre
 
 Go ahead and pick up some extra screens <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/20-pipe-screens-steel.html">here</a>; as the bowl needs one to work at 100%.
 
-<h4 class="heading-center">PLEASE NOTE THAT:</h4> due to shipping restrictions, Grasscity cannot ship flammable liquids overseas. If you are ordering from outside of continental Europe, the lighter in this set will be replaced with a similar smoking accessory from their warehouse.
-
+<h4 class="heading-center">PLEASE NOTE THAT:</h4> Due to shipping restrictions, Grasscity cannot ship flammable liquids overseas. If you are ordering from outside of continental Europe, the lighter in this set will be replaced with a similar smoking accessory from their warehouse.
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
