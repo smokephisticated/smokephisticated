@@ -43,10 +43,10 @@ Here are a few high quality featured products that we highly suggest for anyone 
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<th><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="table-image" src="/img/bongs/___.png" /></a></th>
-		<th>Blaze Glass Tower</th>
-		<th>$149</th>
-		<th><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Compare Lowest Prices</th>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="table-image" src="/img/bongs/___.png" /></a></td>
+		<td>Blaze Glass Tower</td>
+		<td>$149</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Compare Lowest Prices</td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Recycler Bong" class="table-image" src="/img/bongs/bird-cage-recycler.png" /></a></td>
