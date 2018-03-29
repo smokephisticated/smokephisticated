@@ -33,7 +33,7 @@ Read the reviews for the products that we affiliate ourselves with by people tha
 
 Here are a few high quality featured products that we highly suggest for anyone looking to spend nothing more than $150, on nothing less than serious firepower.
 
-<h3 class="heading-center">For the Expert Toker:</h3>
+<h3 class="heading-center">For the Experienced Toker:</h3>
 
 <table class="basic-table">
 	<tr>
