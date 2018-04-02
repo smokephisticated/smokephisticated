@@ -16,22 +16,20 @@ Our diverse list *stems* (heheh) from the finest selections of <a target="_blank
 
 At the very bottom of this page you'll find a quick comparision and some links to provide you with what you need to know about your online head-shops and the difference between them(both sites provide discreet packaging).
 
-**Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're giving you. 
+**Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're showing you. 
 On this page you will find the **Best and highest rated bongs of 2018.** 
 
 But don't just take *our* word for it:
 
-Read the reviews for the products that we affiliate ourselves with by people that have already bought them; you will find glowing reviews for products that deserve them by people just like you. In the meantime, we'll be here with the rest of the article until you've found a piece you love, for a price you're content with.
+Read the reviews for the products that we affiliate ourselves with, by people that have already bought them; you will find glowing reviews for products that deserve them by people just like you. In the meantime, we'll be here with the rest of the article until you've found a piece you love, for a price you're content with.
 
 
 <h5 class="heading-center">Please Note:</h5> 
 <h4 class="heading-center">See product a little out of your price range? Don't sweat it. Scroll down until you find what fits your budget.</h4>
 
-<a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">DopeBoo.com</a>
-
 <h2 class="heading-center">Best bongs under $150</h2>
 
-Here are a few high quality featured products that we highly suggest for anyone looking to spend nothing more than $150, on nothing less than serious firepower.
+**Below:** you'll find a quick layout of a few glowingly rated products between $100 to $150 that will keep you stoned for years to come.
 
 <h3 class="heading-center">For the Experienced Toker:</h3>
 
@@ -109,7 +107,7 @@ This isn't by any means an essential piece to smoking herbs, but it is both help
 
 <h2 class="heading-center">Best bongs under $100</h2>
 
-Below you will find the best sub-$100 bongs on the market right now.
+Below you will find highly rated sub-$100 bongs on the market right now.
 
 <h3 class="heading-center">For the Adept Smoker</h3>
 
