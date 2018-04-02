@@ -127,7 +127,7 @@ Below you will find the best sub-$100 bongs on the market right now.
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43"><img alt="" class="table-image" src="/img/bongs/"/></a></td>
+		<td><a target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43"><img alt="" class="table-image" src="/img/bongs/medibubbler"/></a></td>
 		<td>MediBubler</td>
 		<td>$99.99</td>
 		<td><a class="big-button" target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43">Compare Lowest Prices</a></td>
@@ -157,6 +157,8 @@ This bong has a variety of features including:
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker to read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
 
 <h2 class="heading-center"><a target="blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43">MediBubbler</a> - 7 in / 17.78 cm - $99.99</h2>
+
+<a target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43"><img alt="MediBubbler" class="img-middle" src="/img/bongs/medibubbler.png" /></a>
 
 If you search for the MediBubler online you'll find the same phrase everywhere: **"Guarenteed to be smooth."**
 
@@ -263,7 +265,7 @@ I highly encurage any aspiring smoker to read <a target="_blank" href="https://w
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
 </tr>
 <tr>
-	<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/"/></a></td>
+	<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/dude-bong-set.png"/></a></td>
 	<td>Dude Glass Bong Set</td>
 	<td>$49</td>
 	<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html">Compare Lowest Prices</a></td>
@@ -296,7 +298,7 @@ Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs/dude-bong-set.png" /></a>
 
 Woah, dude. Have you ever thought it would be dope to have a bong kit to take along with you to parties or weekend getaways? Well my dude, Dude is changing the game by bringing you everything you need and a case to carry it in.
 
@@ -313,6 +315,8 @@ The bong istelf is well constructed and smooth to rip; **Featuring:**
 * "Dude" logo along the neck.
 
 **As for the accessories:**
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs/dude-accessories.png" /></a>
 
 The case itself is made from padded silver aluminum for made-to-fit security, and black plastic. Use the attached handle for simple carrying and the clasps for security.
 
