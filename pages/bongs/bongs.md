@@ -127,7 +127,7 @@ Below you will find the best sub-$100 bongs on the market right now.
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43"><img alt="" class="table-image" src="/img/bongs/medibubbler"/></a></td>
+		<td><a target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43"><img alt="" class="table-image" src="/img/bongs/medibubbler.png"/></a></td>
 		<td>MediBubler</td>
 		<td>$99.99</td>
 		<td><a class="big-button" target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43">Compare Lowest Prices</a></td>
