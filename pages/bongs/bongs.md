@@ -43,7 +43,7 @@ Here are a few high quality featured products that we highly suggest for anyone 
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="table-image" src="" /></a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="table-image" src="/img/bongs/blaze-tower.png" /></a></td>
 		<td>Blaze Glass Tower</td>
 		<td>$149</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Compare Lowest Prices</a></td>
@@ -58,7 +58,7 @@ Here are a few high quality featured products that we highly suggest for anyone 
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube</a> - 56 cm / 22 in - $149</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="img-middle" src="img/bongs/blaze-tower.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="img-middle" src="/img/bongs/blaze-tower.png" /></a>
 
 The Tower Bong by Blaze Glass is made from thick 7mm clear borosilicate glass, with a heft and sturdiness that you can feel when you hold it! Stacked in the cylinder are two 8-arm tree percolators, individually fused at their bases for shock-proof glass construction!
 
