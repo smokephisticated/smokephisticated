@@ -58,6 +58,20 @@ Read the reviews for the products that we affiliate ourselves with, by people th
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="img-middle" src="/img/bongs/blaze-tower.png" /></a>
 
+**Novices beware**
+
+The Glass Tower by Blaze is an absolute beast.
+
+The Tower is a bong of the people. Bein called the GOAT of bongs is no small feat.. But the tower pulls it off while keeping an Absolutely perfectly rating at 13 five-star reviews on Grasscity.
+
+This also isn't some cheap thin bong that will shatter from setting it down 
+
+<h4 class="heading-center">Now let's go over the features:</h4>
+
+Sarting from the bottom,
+
+* Round foot for stable 
+
 The Tower Bong by Blaze Glass is made from thick 7mm clear borosilicate glass, with a heft and sturdiness that you can feel when you hold it! Stacked in the cylinder are two 8-arm tree percolators, individually fused at their bases for shock-proof glass construction!
 
 As the smoke travels through the slits of the 8-arm percolators it gets broken up into smaller particles, increasing the surface area, allowing the smoke to cool for a much more gentle hit that is smooth on the throat and lungs. The ice notches give you the option to place a few ice cubes in the tube of the bong, for a perfectly chilled hit.
@@ -138,13 +152,13 @@ Below you will find highly rated sub-$100 bongs on the market right now.
 
 With 77 5-star ratings on grasscity; this percolating ripper will provide even the softest of lungs with cool comfortable clouds.
 
-* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} (a highly heat resistant  commonly used glass in bongs & pipes). 
+* Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} (a highly heat resistant glass commonly used in bongs & pipes). 
 
 This bong has a variety of features including:
 
-* A clear glass funnel bowl with a roll stopper(The little blue notch for easier lifting and to prevent the bowl from literally rolling)
+* A clear glass funnel bowl with a roll stopper (the little blue notch) for easier lifting and kepping the bowl from literally rolling.
 
-* Inside-cut 18.8mm > 14.5mm slitted diffuser downstem. With six slits and a hole at the tip; this downstem attributes to the, already impressive, cooling power of this smoke-defusing beauty.
+* Inside-cut 18.8mm > 14.5mm slitted diffuser downstem. With six slits and a hole at the tip; this downstem attriibutes to the, alrerady impressive, cooling power of this smoke-defusing beauty.
 
 * Ice notches to catch cubes in the neck for *even* **more** cooling power as the smoke passes the ice.
 
