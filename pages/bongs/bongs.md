@@ -5,31 +5,36 @@ permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 ---
 
-**So, here's the deal:**
 
-Sifting through all of your choices of affordable bongs in 2018 can be quite the chore. 
 
-Luckily for you, we here at *Smokephisticated* have made a simple, detailed guide to introduce you to your next go-to piece.
+Our ancesters have been ripping bongs for over 2400 years - and their decendents are no exception.
 
-**We've searched so you dont have to:**
-Our diverse list *stems* (heheh) from the finest selections of <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity</a>, and the best choices of products from <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo</a>. 
+*However* nowadays you're simply one Google search away from shopping for millions of bongs and water pipes from all over the world; right at your fingertips... But where do you even start?
 
-At the very bottom of this page you'll find a quick comparision and some links to provide you with what you need to know about your online head-shops and the difference between them(both sites provide discreet packaging).
+<h5 class="headingcenter">We've searched so you don't have to.</h5>
 
-**Now**, of course we wouldn't suggest anything below the highest rated products; so that's what we're showing you. 
-On this page you will find the **Best and highest rated bongs of 2018.** 
+Save yourself from sifting through overly priced hit-or-miss websites - accidentally settling for a cheaply made drop-shipped product that was worth 1/6 of what you paid is all too easy to do.
 
-But don't just take *our* word for it:
+Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until you're both informed, and certain that none of your money, time, or supply will be wasted in any regaurd.
 
-Read the reviews for the products that we affiliate ourselves with, by people that have already bought them; you will find glowing reviews for products that deserve them by people just like you. In the meantime, we'll be here with the rest of the article until you've found a piece you love, for a price you're content with.
+Our free article-guide consists of products listed in the selections of two community-trusted online headshops - <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a> and <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo.com</a>. 
 
+Both sites have their own individual free-shipping policy, as well as solid customer service if you develope any deliverey issues or general questions/concerns.
+
+**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself.
+
+<h5 class="heading-center">You're not taking just our word on it:</h5>
+
+Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact process as you right now.
+
+So wheather you're a a collector looking for a new addition to the shelf - or if you're a newbie looking into investing towards something that doesn't require tin-foil to pack - we're here to give you the best options for your funds.
 
 <h5 class="heading-center">Please Note:</h5> 
 <h4 class="heading-center">See product a little out of your price range? Don't sweat it. Scroll down until you find what fits your budget.</h4>
 
 <h2 class="heading-center">Best bongs under $150</h2>
 
-**Below:** you'll find a quick layout of a few glowingly rated products between $100 to $150 that will keep you stoned for years to come.
+**Below:** you'll find a quick layout of a few glowingly rated products between $100 to $150 that will deliver quality  for years to come.
 
 <h3 class="heading-center">For the Experienced Toker:</h3>
 
@@ -58,7 +63,7 @@ Read the reviews for the products that we affiliate ourselves with, by people th
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="img-middle" src="/img/bongs/blaze-tower.png" /></a>
 
-**Novices beware**
+
 
 The Glass Tower by Blaze is an absolute beast.
 
