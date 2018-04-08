@@ -8,13 +8,13 @@ seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 
 Our ancesters have been ripping bongs for over 2400 years - and their modern-day decendents are absolutely no exception.
 
-*In fact,* nowadays you're simply one Google search away from shopping for millions of bongs and water pipes from all over the world; right at your fingertips... But where do you even begin to browse?
+*In fact,* nowadays you're just one Google search away from shopping for millions of bongs and water pipes from all over the world... But where does one even begin to browse?
 
 <h5 class="headingcenter">We've searched so you don't have to.</h5>
 
-Save yourself from sifting through overly priced hit-or-miss websites - accidentally settling for a cheaply made drop-shipped product that was worth 1/6 of what you paid is all too easy to do.
+Save yourself from sifting through overly priced hit-or-miss websites - accidentally settling for a cheaply-made drop-shipped bong that was worth 1/6 of what you paid is all too easy to do.
 
-Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until you're both informed, and certain that none of your money, time, or supply will be wasted in any regaurd.
+Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until you're both informed, and certain that none of your money, time, or supply will be wasted on low-quality products.
 
 Our free article-guide consists of products listed in the selections of two community-trusted online headshops - <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a> and <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo.com</a>. 
 
@@ -26,7 +26,7 @@ Both sites have their own individual free-shipping policy, as well as solid cust
 
 Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact process as you right now.
 
-So wheather you're a a collector looking for a new addition to the shelf - or if you're a newbie looking into investing towards something that doesn't require tin-foil to pack - we're here to give you the best options for your funds.
+So wheather you're a a collector looking for a new addition to the shelf - or if you're a newbie looking into investing towards something that doesn't require tin-foil to pack - we're here to give you the best available options for your funds.
 
 <h5 class="heading-center">Please Note:</h5> 
 <h4 class="heading-center">See product a little out of your price range? Don't sweat it. Scroll down until you find what fits your budget.</h4>
