@@ -4,12 +4,11 @@ title: "Bongs to Provide the Best High for Your Supply"
 permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 ---
+<h3 class="heading-center">Let's Face it:</h3>
 
+Our ancesters have been ripping bongs for over 2400 years - and their modern-day decendents are absolutely no exception.
 
-
-Our ancesters have been ripping bongs for over 2400 years - and their decendents are no exception.
-
-*However* nowadays you're simply one Google search away from shopping for millions of bongs and water pipes from all over the world; right at your fingertips... But where do you even start?
+*In fact,* nowadays you're simply one Google search away from shopping for millions of bongs and water pipes from all over the world; right at your fingertips... But where do you even begin to browse?
 
 <h5 class="headingcenter">We've searched so you don't have to.</h5>
 
