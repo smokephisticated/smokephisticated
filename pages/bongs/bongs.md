@@ -30,14 +30,15 @@ Each site has their own individual free-shipping policy - as well as solid custo
 
 Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact deciding process as you are now.
 
-So wheather you're a a collector looking for a new addition to the shelf - or a newbie looking into investing towards something that doesn't require tin-foil to pack - your future go-to piece could be right on this page.
+So wheather you're hoping to upgrade from a make-shifts, or if you're browsing for an addition to your collection - your future go-to piece could be right on this page.
 
-<h5 class="heading-center">Please Note:</h5> 
-<h4 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Scroll down until you find what fits your budget.</h4>
+<h3 class="heading-center">Please Note:</h3> 
+
+<h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
 <h2 class="heading-center">Best bongs under $150</h2>
 
-**Below:** you'll find a quick layout of a few glowingly rated products between $100 to $150 that will deliver quality  for years to come.
+**Below:** you'll find a quick layout of our most effective and highest-quality  between $100 to $150 that will ensure quality usage for years to come.
 
 <h3 class="heading-center">For the Experienced Toker:</h3>
 
