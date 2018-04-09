@@ -18,7 +18,7 @@ Shopping all across the web for your next go-to smoking apparatus is no small ta
 
 Our recommendations consist of products from two community-trusted online headshops:
 
-* <a target="_blank" href="http://www.dopeboo.com?aff=43">DopeBoo.com</a>. 
+* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}. 
 
 * <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a> 
 
