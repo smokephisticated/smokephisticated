@@ -4,27 +4,30 @@ title: "Bongs to Provide the Best High for Your Supply"
 permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 ---
-<h3 class="heading-center">:</h3>
 
-Our ancestors have been ripping bongs (or forms thereof) for over 2400 years - and their modern-day decendents are absolutely no exception.
+	Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years, and their modern-day decendents are absolutely no exception.
 
-*In fact,* nowadays you're just one Google search away from shopping for *millions* of bongs and water pipes (many of which are competing in price) from all over the world... But where does one even begin to browse?
+*In fact,* nowadays you're just one Google search away from shopping for *millions* of bongs and water pipes from all over the world... But where does one even begin to browse?
+
+**Save yourself** from sifting through overpriced hit-or-miss websites. Accidentally settling for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
+
+That's the purpose behind this guide; to direct stoners to quality products in an honest and straight-forward manner.
 
 <h5 class="headingcenter">We've searched so you don't have to.</h5>
-
-Save yourself from sifting through overpriced hit-or-miss websites - accidentally settling for a cheaply made drop-shipped bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
 
 Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until you're both informed about your purchase, and certain that none of your money, time, or precious supply will be wasted on low-quality products.
 
 Our recommendations consist of products from two community-trusted online headshops:
 
-* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}. 
+* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
 
-* <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a> 
+* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"}
 
 Each site has their own individual free-shipping policy - as well as solid customer service for any deliverey issues or general questions/concerns you may have.
 
-**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself(*wink wink*.)
+**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself - *wink wink*
+
+But why should you hear us out?
 
 <h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
 
