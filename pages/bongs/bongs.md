@@ -246,7 +246,7 @@ Relive the glory days of hiding from your parents behind your shed and highschoo
 
 Replacing those sketchy plastics and metals with glass, the Gravitron features a base for water, a glass funnel for you to pack your "tabacco" of choice into, a rubber stopper to prevent glass-on-glass collision, and of course the bottle pipe to lift for the artificial inhale.
 
-Go see the Gravitron in action by watching the video on DopeBoo's website [here](https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43){:"_blank"}.
+Go see the Gravitron in action by watching the [video on DopeBoo's website](https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43){:"_blank"}.
 
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm / 11.8 in tall - $59.99</h2>
