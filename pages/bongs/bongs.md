@@ -5,7 +5,7 @@ permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 ---
 
-	Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years, and their modern-day decendents are absolutely no exception.
+Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years, and their modern-day decendents are absolutely no exception.
 
 *In fact,* nowadays you're just one Google search away from shopping for *millions* of bongs and water pipes from all over the world... But where does one even begin to browse?
 
