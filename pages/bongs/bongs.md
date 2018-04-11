@@ -5,19 +5,23 @@ permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 ---
 
-Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years, and their modern-day decendents are absolutely no exception.
+<h2 class="heading-center">Here's the facts:</h2>
 
-*In fact,* nowadays you're just one Google search away from shopping for *millions* of bongs and water pipes from all over the world... But where does one even begin to browse?
+Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years, and their modern-day decendents are absolutely no exception (For good reason)
 
-**Save yourself** from sifting through overpriced hit-or-miss websites. Accidentally settling for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
+Bongs are one of the most effective, and convienient ways of smoking dry herb. Which is why the bong market is so massive right now.
 
-That's the purpose behind this guide; to direct stoners to quality products in an honest and straight-forward manner.
+*In fact,* nowadays you're just one split-second Google search away from shopping for *millions* of bongs and water pipes from all over the world... But where does one even begin to browse?
 
-<h5 class="headingcenter">We've searched so you don't have to.</h5>
+**Save yourself** from sifting through shady hit-or-miss websites. Accidentally settling for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for...
+
+That's the purpose behind this guide - to direct stoners toward quality products in an honest and straight-forward manner.
+
+<h5 class="heading-center">We've searched so you don't have to.</h5>
 
 Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until you're both informed about your purchase, and certain that none of your money, time, or precious supply will be wasted on low-quality products.
 
-Our recommendations consist of products from two community-trusted online headshops:
+Our bong recommendations currently consist of products from two community-trusted online headshops:
 
 * [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
 
@@ -33,7 +37,7 @@ But why should you hear us out?
 
 Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact deciding process as you are now.
 
-So wheather you're hoping to upgrade from a make-shifts, or if you're browsing for an addition to your collection - your future go-to piece could be right on this page.
+So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection - your future go-to piece could be found right on this page.
 
 <h3 class="heading-center">Please Note:</h3> 
 
@@ -41,7 +45,7 @@ So wheather you're hoping to upgrade from a make-shifts, or if you're browsing f
 
 <h2 class="heading-center">Best bongs under $150</h2>
 
-**Here below** - you'll find a quick layout of our most effective and highest-quality  between $100 to $150 that will ensure quality usage for years to come.
+**Here below** - you'll find our most effective bong recommendations between $100 to $150 that will bring you quality usage for years to come.
 
 <h3 class="heading-center">For the Experienced Toker:</h3>
 
@@ -64,6 +68,11 @@ So wheather you're hoping to upgrade from a make-shifts, or if you're browsing f
 		<td>$129</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Compare Lowest Prices</a></td>
 	</tr>
+	<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="table-image" src="/img/bongs/honeycomb-disc.png"/></a></td>
+		<td>Triple HoneyComb Disc</td>
+		<td>$125</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Compare Lowest Prices</a></td></td>
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube</a> - 56 cm / 22 in - $149</h2>
