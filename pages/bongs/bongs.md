@@ -73,6 +73,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 		<td>Triple HoneyComb Disc</td>
 		<td>$125</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Compare Lowest Prices</a></td></td>
+	</tr>
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube</a> - 56 cm / 22 in - $149</h2>
