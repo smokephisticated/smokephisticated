@@ -25,11 +25,13 @@ Our bong recommendations currently consist of products from two community-truste
 
 * [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
 
-* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} (Grasscity tends to run store-wide sales more times than not)
+* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
+
+(Both sites tend to run store-wide sales more times than not)
 
 Each site has their own individual free-shipping policy - as well as solid customer service for any deliverey issues or general questions/concerns you may have.
 
-**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself - *wink wink*
+**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself * wink wink *
 
 But why should you hear us out?
 
@@ -43,7 +45,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
-<h2 class="heading-center">Best bongs under $150</h2>
+<h2 class="heading-center">Best bongs under $140</h2>
 
 **Here below** - you'll find our most effective bong recommendations between $100 to $150 that will bring you quality usage for years to come.
 
@@ -55,6 +57,12 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 		<th>Name</th>
 		<th>Price</th> 
 		<th>Shop</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="table-image" src="/img/bongs/stemless-double-ring.png"/></a></td>
+		<td>Stemless Double Ring</td>
+		<td>$139</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Recycler Bong" class="table-image" src="/img/bongs/bird-cage-recycler.png"/></a></td>
@@ -124,7 +132,7 @@ When smoke travels down from the bowl and through the chamber it is forced to sq
 
 Having the ability to remove shitty pieces and parts (that don't even get you stoned) from your smoke, while keeping the full rich flavor of your strains, is a tool that every smoker should possess. 
 
-Do your *and* your friend's lungs a favor and pick up a serious percolator like this beauty. 
+Do yourself *and* your toking-group's lungs a favor and pick up a serious percolator like this beauty. 
 
 <h5 class="heading-center">A Complete List of Features:</h5>
 
@@ -132,15 +140,15 @@ Do your *and* your friend's lungs a favor and pick up a serious percolator like 
 
 * Blue-trimmed, round-footed base for self-standing.
 
-* Fixed stemlessly-designed route from your bowl to the chamber. Less moving parts = more stability, right? Either way you'll find reinforcement from the connecting glass from the route into the body itself.
+* Fixed, stemless designed route from your bowl to the chamber. Less moving parts = more stability, right? Either way you'll find reinforcement from the connecting glass from the route into the body itself.
 
 * Three honeycomb disc percolators vertically fixed evenly throughout the chamber.
 
 * Integrated screen to hold every last bit in the bowl until you've decided your supply is beat.
 
-* 18.8mm sliding-glass bowl, with an attached blue handle for picking up to clear your chamber, and to prevent rolling.
+* 18.8mm sliding-glass bowl with an attached blue handle for lifting to clear your chamber and to stop itself from rolling.
 
-* Black Leaf's HoneyComb label.. Just Beecause ;)
+* Black Leaf's HoneyComb label. Just Beecause.
 
 * Ice nothches located at the neck to make for *even smoother* frosty inhales.. Will you even realize you're smoking?
 
