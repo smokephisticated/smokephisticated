@@ -25,7 +25,7 @@ Our bong recommendations currently consist of products from two community-truste
 
 * [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
 
-* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"}
+* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} (Grasscity tends to run store-wide sales more times than not)
 
 Each site has their own individual free-shipping policy - as well as solid customer service for any deliverey issues or general questions/concerns you may have.
 
@@ -57,12 +57,6 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="table-image" src="/img/bongs/blaze-tower.png" /></a></td>
-		<td>Blaze Glass Tower</td>
-		<td>$149</td>
-		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Compare Lowest Prices</a></td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Recycler Bong" class="table-image" src="/img/bongs/bird-cage-recycler.png"/></a></td>
 		<td>Bird Cage Recycler</td>
 		<td>$129</td>
@@ -72,34 +66,9 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="table-image" src="/img/bongs/honeycomb-disc.png"/></a></td>
 		<td>Triple HoneyComb Disc</td>
 		<td>$125</td>
-		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Compare Lowest Prices</a></td></td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
-
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html">Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube</a> - 56 cm / 22 in - $149</h2>
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-tower-ice-bong-with-double-8-arm-perc-7mm-straight-tube.html"><img alt="Blaze Glass Tower Ice Bong with Double 8-arm Perc 7mm Straight Tube" class="img-middle" src="/img/bongs/blaze-tower.png" /></a>
-
-
-
-The Glass Tower by Blaze is an absolute beast.
-
-The Tower is a bong of the people. Bein called the GOAT of bongs is no small feat.. But the tower pulls it off while keeping an Absolutely perfectly rating at 13 five-star reviews on Grasscity.
-
-This also isn't some cheap thin bong that will shatter from setting it down 
-
-<h4 class="heading-center">Now let's go over the features:</h4>
-
-Sarting from the bottom,
-
-* Round foot for stable 
-
-The Tower Bong by Blaze Glass is made from thick 7mm clear borosilicate glass, with a heft and sturdiness that you can feel when you hold it! Stacked in the cylinder are two 8-arm tree percolators, individually fused at their bases for shock-proof glass construction!
-
-As the smoke travels through the slits of the 8-arm percolators it gets broken up into smaller particles, increasing the surface area, allowing the smoke to cool for a much more gentle hit that is smooth on the throat and lungs. The ice notches give you the option to place a few ice cubes in the tube of the bong, for a perfectly chilled hit.
-
-Its 18.8mm joint comes equipped with an 18.8mm > 14.5mm slitted diffuser downstem and a 14.5mm slide bowl is also included with your purchase. The tube of this straight percolator bong is 50mm in diameter at the mouthpiece and 65mm in diameter below the three extra-long ice notches for extra volume capacity. A high-gloss silver Blaze glass logo is placed on the top of the tube.
-
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in - $129</h2>
 
@@ -113,7 +82,7 @@ Cage percolators are designed to cool inhales by <a target="_blank" href="https:
 
 **As you've probably noticed:** 
 
-This bong has *two* chambers for both your smoke **and** your water to travel through. This is where the "Recycler" funtion comes into play.
+This bong has *two* chambers for both your smoke and your water to travel through. This is where the "Recycler" funtion comes into play.
 
 **But how does it work?**
 
@@ -140,6 +109,42 @@ This isn't by any means an essential piece to smoking herbs, but it is both help
 * 14.5mm male herb bowl with clear handle for convienient lifting.
 
 * Comes complete with decorative foam box providing safe shipping and a safe place to repackage for future use.
+
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Black Leaf's Triple Honeycomb Disc Percolator</a> -  38 cm / 15 inches - $125</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="img-middle" src="/img/bongs/honeycomb-disc.png"/></a>
+
+Black Leaf is well known for their scientific glass master-pieces - and this Triple Disc Honeycomb Perc is just another shining example.
+
+When smoke travels down from the bowl and through the chamber it is forced to squeeze and strain through tiny holes - this diffuses/seperates lung-harming particles from your smoke and makes for smoother and cleaner tokes; allowing you to take bigger and more comfortable rips.
+
+**But as you've noticed** this is a *triple* honeycomb percolator.. Meaning smoke is processed and filtered through these tiny holes not once, but three seperate times.
+
+<h5 class="heading-center">Safety First</h5>
+
+Having the ability to remove shitty pieces and parts (that don't even get you stoned) from your smoke, while keeping the full rich flavor of your strains, is a tool that every smoker should possess. 
+
+Do your *and* your friend's lungs a favor and pick up a serious percolator like this beauty. 
+
+<h5 class="heading-center">A Complete List of Features:</h5>
+
+* Borosilicate glass material.
+
+* Blue-trimmed, round-footed base for self-standing.
+
+* Fixed stemlessly-designed route from your bowl to the chamber. Less moving parts = more stability, right? Either way you'll find reinforcement from the connecting glass from the route into the body itself.
+
+* Three honeycomb disc percolators vertically fixed evenly throughout the chamber.
+
+* Integrated screen to hold every last bit in the bowl until you've decided your supply is beat.
+
+* 18.8mm sliding-glass bowl, with an attached blue handle for picking up to clear your chamber, and to prevent rolling.
+
+* Black Leaf's HoneyComb label.. Just Beecause ;)
+
+* Ice nothches located at the neck to make for *even smoother* frosty inhales.. Will you even realize you're smoking?
+
+* Rounded smooth edges for comfortable mouth purchasing.
 
 <h2 class="heading-center">Best bongs under $100</h2>
 
@@ -364,11 +369,11 @@ Go ahead and pick up some extra screens <a target="_blank" href="http://affiliat
 
 **Who said that you had to sacrifice quality for affordability?** 
 
-Well, none of these are going to deliver the same blow as the --KRAKEN--; But whether you're low on funds, or just starting out; we got your back by providing you with your best budget options. 
+The amount you have to spend is your business - the price and quality of the product you buy is ours.
+
+While none of these options are going to deliver the same blow as a $500 piece; whether you're low on funds - or just starting out - we'll provide you with your best low-budget options.
 
 Below you'll find the most solid sub-$20 bongs and water pipes on the web right now.
-
-<h3 class="heading-center">For the Novice Inhaler:</h3>
 
 <table class="basic-table">
 	<tr>
@@ -401,15 +406,22 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a>
 
-**Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
+**Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. 
+
+Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - 4.1 in / 10.5 cm tall - $15.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
 
-Do you have to avoid having your pieces discovered? Or are you the adventurist type? **Well, good news:**
+Do you have to avoid having your pieces discovered? Or are you the adventurist type? 
+
+**Well, good news:**
+
 Your hiding spots, backpack, and wallet will have no problems fitting the consolidable beaker bong. 
+
 This minture beaker bong measures out to a tiny 10.5 cm (roughly hand-pipe sized), but makes sure not to sacrifice size for effectiveness.. Just avoid purchasing if you have any hanging facial hair; yes, it's that small..
+
 This bong is made from borosilicate glass, and features a beaker base for surface stability, a carb hole for clearing, and a glass bowl with an attached downstem.
 
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - 7 in / 18 cm tall - $14.99</h2>
@@ -418,7 +430,17 @@ This bong is made from borosilicate glass, and features a beaker base for surfac
 
 Now, for the cheapest in price, but still a very solid little pipe standing at 18 cm.
 
-Besides the charming design; this highly rated piece features an acrylic build (providing durability and light weight), and a removable metal downtube and bowl for very convienient cleaning. A carb hole on the side makes for easy clearing, and the included rubber carb stopper makes for air-tight pulls while torching your sweet supply. Fill water up to where the bulged lines intersect for the best results.
+Besides the charming design - this highly rated piece has a number of features, including:
+
+* An acrylic build (providing durability and light weight)
+
+* Removable metal downtube and bowl for durability convienient cleaning. 
+
+* Carb hole towards the side for easy clearing of the chamber.
+
+* Included rubber carb stopper for air-tight pulls while torching your sweet supply. 
+
+Make sure to fill the body with water until it reaches where the bulged lines intersect. This will provide the best pulls.
 
 Oh and don't let the simplicity of this piece fool you; this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
