@@ -78,6 +78,28 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 	</tr>
 </table>
 
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> - 55 cm / 21.7 inches - $139</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="img-middle" src="/img/bongs/stemless-double-ring" /></a>
+
+To start the list we have a submarine-style percolating monster that will run your wallet around $140. Although this is the most expensive piece on this page, it isn't hard to justify when we really look into it.
+
+<h5 class="heading-center">So let's dive right in:</h5>
+
+Percolating pieces like the Stemless Inline Glass 18-arm Perc turn high-killing coughing fits into long, smooth, and flavorful uninterrupted rips & exhales. 
+
+This is made possible by the *two* percolators that this bong hosts.
+
+The first percolator that your smoke is routed through is the inline perc - which makes for smoother hits by straining your smoke through the horizontal tube leading into the chamber. 
+
+Before your inhale routes your smoke to your mouth, it is first routed to the in-line tube, whose job is to strain smoke into the chamber. the smoke first gets strained through the 18 tiny slits located at the bottom of the in-line tube. When smoke is pulled through these tiny slits, it is forced to travel through the chamber in the form of many, very small smokey bubbles.
+
+H2O is a polorizing molecule, which attracts non-polar contaminants utilize water and filters to defuse lung harming particles from your smoke inhales.
+
+Click >Here< to read more about the science behind percolation. We'll be waiting here with the guide until you're informed and ready.
+
+Now, the Stemless Double Ring actually utilizes both an inline percolator and a tree percolator. Your smoke first gets filtered through 
+
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in - $129</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
