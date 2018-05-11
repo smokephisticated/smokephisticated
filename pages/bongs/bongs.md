@@ -86,11 +86,13 @@ To start the list we have a submarine-style percolating monster that will run yo
 
 <h5 class="heading-center">Some prior knowledge you should have on percolation:</h5>
 
-The percolation we refer to takes place when the whole surface of a body of smoke is forced through water
+The percolation we refer to takes place when the whole surface of a body of smoke is forced through water.
 
-Percolating pieces like the *Stemless Inline Glass 18-arm Perc* turn high-killing coughing fits into smooth and flavorful rips & satisfying exhales. This is made possible by the *two* percolators that this bong hosts.
+Percolating pieces like the *Stemless Inline Glass 18-arm Double Ring Perc* is capable of turning high-killing coughing fits into smooth and flavorful rips & satisfying exhales. Much of this capability stems from the *two* percolator devices that this bong proudly hosts.
 
-Your smoke is first routed from your bowl - then into the water - and next into the horizontal slitted glass tube known as an inline percolator. This percolator makes for smoother hits by dividing smoke clouds into many tiny bubbles.
+Your smoke is first routed from your bowl and into the water. Then your smoke is pulled into the horizontal slitted glass tube known as an inline percolator. This percolator makes for smoother hits by dividing smoke clouds into many tiny bubbles. 
+
+After being broken up into smaller pieces the smoke is sent upward through the chamber and is fed through the double ring tree perc. The tree percolator consists of two layers of arms with two slits at the bottom of each. When water and smoke pass through these slits, like with the inline perc, the smoke bubbles are divided and cooled.
 
 H2O is a *polar molecule*. This means that water magnetically attracts and removes polar contaminants from your smoke, which leaves you with cleaner and smoother tokes (ash/tar/herb). 
 
@@ -104,7 +106,31 @@ After undersanding that higher surface area naturally translates into more effec
 
 So now that you know that the wholes and slits in a percolator cool and smooth your inhales by dividing, filtering, and even vaporizing your smoke:
 
-<h5 class="heading-center">So let's dive right into this piece's features:</h5>
+<h5 class="heading-center">The Stemless Inline with Double Ring 18-arm Perc's features:</h5>
+
+* High quality borosilicate glass build - The standard, sturdy, and highly heat resistant glass primarily used in quality glass bongs.
+
+* Stable black circular foot - for stability and structure.
+
+* 18.8mm female joint
+
+* Black glass 18.8mm male bowl with roll stoppers
+
+* Tree perc outer ring: 11 reinforced slitted arms, 22 total slits.
+
+* Tree perc inner ring: 7 black glass arms
+
+* Black glass inline percolator, 18 slits.
+
+* Ice notches - Holds ice for additional cooling effects.
+
+* Clear glass marbles clustered around mouthpiece - aesthetic/decorative. Also serves as a place to grip for secure grabbing.
+
+* Black glass accents/trim.
+
+* No carb hole - Simply ifting the bowl makes for more effective chamber clearing than a carbhole/shotgun anyway.
+
+**Click <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Here</a> to check it out over at Grasscity.**
 
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in - $129</h2>
