@@ -13,7 +13,7 @@ Bongs are one of the most effective, and convienient ways of smoking dry herb. W
 
 *In fact,* nowadays you're just one split-second Google search away from shopping for *millions* of bongs and water pipes from all over the world... But where does one even begin to browse?
 
-**Save yourself** from sifting through shady hit-or-miss websites. Accidentally settling for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for...
+**Save yourself** from sifting through shady hit-or-miss websites. Accidentally settling for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
 
 That's the purpose behind this guide - to direct stoners toward quality products in an honest and straight-forward manner.
 
@@ -47,7 +47,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <h2 class="heading-center">Best bongs under $140</h2>
 
-**Here below** - you'll find our most effective bong recommendations between $100 to $150 that will bring you quality usage for years to come.
+**Here below** - you'll find our most effective bong recommendations between $100 to $140 that will bring you quality usage for years to come... Assuming you're not clumsy.
 
 <h3 class="heading-center">For the Experienced Toker:</h3>
 
@@ -82,23 +82,30 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="img-middle" src="/img/bongs/stemless-double-ring.png" /></a>
 
-To start the list we have a submarine-style percolating monster that will run your wallet around $140. Although this is the most expensive piece on this page, it isn't hard to justify when we really look into it.
+To start the list we have a submarine-style percolating monster that will run your wallet around $140. Although this is the most expensive piece on this page, it isn't hard to justify the price when we really look into it.
 
-<h5 class="heading-center">So let's dive right in:</h5>
+<h5 class="heading-center">Some prior knowledge you should have on percolation:</h5>
 
-Percolating pieces like the Stemless Inline Glass 18-arm Perc turn high-killing coughing fits into long, smooth, and flavorful uninterrupted rips & exhales. 
+The percolation we refer to takes place when the whole surface of a body of smoke is forced through water
 
-This is made possible by the *two* percolators that this bong hosts.
+Percolating pieces like the *Stemless Inline Glass 18-arm Perc* turn high-killing coughing fits into smooth and flavorful rips & satisfying exhales. This is made possible by the *two* percolators that this bong hosts.
 
-The first percolator that your smoke is routed through is the inline perc - which makes for smoother hits by straining your smoke through the horizontal tube leading into the chamber. 
+Your smoke is first routed from your bowl - then into the water - and next into the horizontal slitted glass tube known as an inline percolator. This percolator makes for smoother hits by dividing smoke clouds into many tiny bubbles.
 
-Before your inhale routes your smoke to your mouth, it is first routed to the in-line tube, whose job is to strain smoke into the chamber. the smoke first gets strained through the 18 tiny slits located at the bottom of the in-line tube. When smoke is pulled through these tiny slits, it is forced to travel through the chamber in the form of many, very small smokey bubbles.
+H2O is a *polar molecule*. This means that water magnetically attracts and removes polar contaminants from your smoke, which leaves you with cleaner and smoother tokes (ash/tar/herb). 
 
-H2O is a polorizing molecule, which attracts non-polar contaminants utilize water and filters to defuse lung harming particles from your smoke inhales.
+At the same time as magnetically removing contaminants, the temperature difference affects your smoke by both cooling the small smoke bubbles *and* contributing water vapor/steam into these bubbles. This process is very effective at cushioning the harshness of straight smoke by hydrating your tokes. 
 
-Click >Here< to read more about the science behind percolation. We'll be waiting here with the guide until you're informed and ready.
+It is also worth noting that THC is a non-polar substance. So unlike lung-harming contaminants, the chemical effect of smoking is left magnetically untouched by the surrounding water - therefore revealing that percolation is nothing but a benefit to your lungs, and your smoking experience.
 
-Now, the Stemless Double Ring actually utilizes both an inline percolator and a tree percolator. Your smoke first gets filtered through 
+After undersanding that higher surface area naturally translates into more effective percolation: it isn't hard to mathematically assume that more, smaller bubbles have a much higher surface-to-area ratio than less, larger bubbles would.
+
+**Translation: Smaller bubbles = more effective percoation.** 
+
+So now that you know that the wholes and slits in a percolator cool and smooth your inhales by dividing, filtering, and even vaporizing your smoke:
+
+<h5 class="heading-center">So let's dive right into this piece's features:</h5>
+
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in - $129</h2>
 
