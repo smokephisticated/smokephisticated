@@ -469,7 +469,9 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a>
 
-**Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece... At least not yet; pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. 
+*Highly* suggested for begginers:
+
+**Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece. Or, at least not yet. Pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. 
 
 Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
@@ -481,9 +483,9 @@ Do you have to avoid having your pieces discovered? Or are you the adventurist t
 
 **Well, good news:**
 
-Your hiding spots, backpack, and wallet will have no problems fitting the consolidable beaker bong. 
+Your hiding spots, backpack, and wallet will have no problems fitting this consolidable beaker bong. 
 
-This minture beaker bong measures out to a tiny 10.5 cm (roughly hand-pipe sized), but makes sure not to sacrifice size for effectiveness.. Just avoid purchasing if you have any hanging facial hair; yes, it's that small..
+This minture beaker bong measures out to a tiny 10.5 cm (roughly hand-pipe sized), but makes sure not to sacrifice size for effectiveness.. Just watch your flame around any facial hair. Yes, it's that small.
 
 This bong is made from borosilicate glass, and features a beaker base for surface stability, a carb hole for clearing, and a glass bowl with an attached downstem.
 
@@ -497,20 +499,14 @@ Besides the charming design - this highly rated piece has a number of features, 
 
 * An acrylic build (providing durability and light weight)
 
-* Removable metal downtube and bowl for durability convienient cleaning. 
+* Removable metal downtube and bowl for durability and convienient cleaning. 
 
 * Carb hole towards the side for easy clearing of the chamber.
 
-* Included rubber carb stopper for air-tight pulls while torching your sweet supply. 
+* Included rubber carb stopper for air-tight pulls while torching your supply. 
 
-Make sure to fill the body with water until it reaches where the bulged lines intersect. This will provide the best pulls.
+Make sure to fill your chamber with water until the liquid reaches where the bulged lines intersect on the body. This will help provide the best pulls.
 
-Oh and don't let the simplicity of this piece fool you; this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
+Oh and don't let the simplicity or price of this piece fool you - this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
-
-<h2 class="heading-center">A Quick Policy comparison:</h2>
-
-A few notable traits of DopeBoo's [shipping policy](https://www.dopeboo.com/pages/shipping-policy-at-dopeboo){:target="_blank"}: Dopeboo provides free domestic shipping and low-cost international shipping, descrete packaging, and hastle free returns. "Nowhere on the outside of your package will you see the words 'DopeBoo'"
-
-On the other hand, Grasscity's [shipping methods](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated=https://support.grasscity.com/hc/en-us/articles/210533583-What-shipping-methods-are-available-){:target"_blank}, [discreet packaging article](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated=https://support.grasscity.com/hc/en-us/articles/210533563-What-about-secure-and-discreet-packaging-and-billing-){:target="_blank"}, and[refund policy](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated=https://support.grasscity.com/hc/en-us/articles/115002587452-Refund-Policy){:target="_blank"} state that free shipping requires a minimum of $50.00 after all discounts, coupons and store credits have been applied, all packaging is also dicreet, and refunds for unsatisfied customers won't be a problem.
