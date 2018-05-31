@@ -5,18 +5,10 @@ permalink: "/bowls/"
 seotitle: "5 Best Bowls for Your Buck (2018)"
 ---
 
----
-layout: page
-title: "Best Bowls" 
-permalink: "/bowls/"
-seotitle: "Best Bowls for Your Bucks in (2018)"
----
+<h2 class="heading-center">A Toker's Right Hand Man</h2> 
 
 
-<h2 class="heading-center">Here's the facts:</h2> 
-
-
-A stoner's go-to bowl says a lot about them.
+The handpipe is the pistol in a stoner's arsenal. Although the right bowl shouldn't sacrifice size for power - a quality pipe will hit like a chimney. 
 
 A solid bowl is like a stoner's right hand.
 

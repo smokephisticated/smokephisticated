@@ -88,7 +88,7 @@ To start the list we have a submarine-style percolating monster that will run yo
 
 The percolation we refer to takes place when the whole surface of a body of smoke is forced through water.
 
-Percolating pieces like the *Stemless Inline Glass 18-arm Double Ring Perc* is capable of turning high-killing coughing fits into smooth and flavorful rips & satisfying exhales. Much of this capability stems from the *two* percolator devices that this bong proudly hosts.
+Percolating pieces like the <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> is capable of turning high-killing coughing fits into smooth and flavorful rips & satisfying exhales. Much of this capability stems from the *two* percolator devices that this bong proudly hosts.
 
 Your smoke is first routed from your bowl and into the water. Then your smoke is pulled into the horizontal slitted glass tube known as an inline percolator. This percolator makes for smoother hits by dividing smoke clouds into many tiny bubbles. 
 
