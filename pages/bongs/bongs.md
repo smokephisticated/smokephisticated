@@ -78,7 +78,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> - 55 cm / 21.7 inches - $139</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> - 55 cm / 21.7 inches - $139</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="img-middle" src="/img/bongs/stemless-double-ring.png" /></a>
 
@@ -88,19 +88,23 @@ To start the list we have a submarine-style percolating monster that will run yo
 
 The percolation we refer to takes place when the whole surface of a body of smoke is forced through water.
 
-Percolating pieces like the <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> is capable of turning high-killing coughing fits into smooth and flavorful rips & satisfying exhales. Much of this capability stems from the *two* percolator devices that this bong proudly hosts.
+Percolating pieces like the <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> is capable of turning high-killing coughing fits into smooth and flavorful rips & satisfying exhales. Much of this capability stems from the *two* percolator devices that this bong proudly hosts.
 
-Your smoke is first routed from your bowl and into the water. Then your smoke is pulled into the horizontal slitted glass tube known as an inline percolator. This percolator makes for smoother hits by dividing smoke clouds into many tiny bubbles. 
+Your smoke is first routed from your bowl and into the water. Then your smoke is pulled into the horizontal slitted glass tube known as an inline percolator. Percolator slits split your smoke into many tiny bubbles. 
+
+<h4>The smaller smoke bubbles are = more leverage over cooling, filtering, and vaporizing your hits.</h4>
+
+This really just comes down to the fact that an equal amount of smoke divided and seperated into a larger quantity of bubbles would have more overall surface area than fewer large bubbles - giving the water more leverage over these smoke bubbles.
 
 After being broken up into smaller pieces the smoke is sent upward through the chamber and is fed through the double ring tree perc. The tree percolator consists of two layers of arms with two slits at the bottom of each. When water and smoke pass through these slits, like with the inline perc, the smoke bubbles are divided and cooled.
 
 H2O is a *polar molecule*. This means that water magnetically attracts and removes polar contaminants from your smoke, which leaves you with cleaner and smoother tokes (ash/tar/herb). 
 
-At the same time as magnetically removing contaminants, the temperature difference affects your smoke by both cooling the small smoke bubbles *and* contributing water vapor/steam into these bubbles. This process is very effective at cushioning the harshness of straight smoke by hydrating your tokes. 
+At the same time as magnetically removing contaminants molecularly, the temprature difference forces cool water to create steam when mixing with your hot smoke bubbles. This process is very effective at hydrating the harshness of hot smoke; resulting in smooth, vapor-like inhales. 
 
-It is also worth noting that THC is a non-polar substance. So unlike lung-harming contaminants, the chemical effect of smoking is left magnetically untouched by the surrounding water - therefore revealing that percolation is nothing but a benefit to your lungs, and your smoking experience.
+Percolator slits split your smoke into many tiny bubbles. This gives water much more leverage over cooling, filtering, and vaporizing your hits. This really just comes down to the fact that an equal amount of smoke divided and seperated into a larger quantity of bubbles would have more overall surface area than fewer large bubbles - giving the water more leverage over
 
-After undersanding that higher surface area naturally translates into more effective percolation: it isn't hard to mathematically assume that more, smaller bubbles have a much higher surface-to-area ratio than less, larger bubbles would.
+It is also worth noting that THC is a non-polar substance; so the psychoactive effect in cannabis isn't pulled out of your smoke bubbles when travelling through water.
 
 **Translation: Smaller bubbles = more effective percoation.** 
 
