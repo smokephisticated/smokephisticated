@@ -47,7 +47,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
-h2 class="heading-center">Best Bowls Under $160:</h2>
+<h2 class="heading-center">Best Bowls Under $160:</h2>
 
 <table class="basic-table">
 	<tr>
@@ -58,7 +58,7 @@ h2 class="heading-center">Best Bowls Under $160:</h2>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43" ><img alt="Jet Flash System" class="table-image" src="/img/bowls/marley-walnut.png"></a></td>
-		<td>Walnut Bubbler</td>
+		<td>Marley Walnut Bubbler</td>
 		<td>$159</td>
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Compare Lowest Prices</a></td>
 	</tr>
@@ -86,9 +86,11 @@ h2 class="heading-center">Best Bowls Under $160:</h2>
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Jet Flash System</a> - *Length* 19 cm / 7.5 inch - $90</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Jet Flash System</a> - 19 cm/7.5" L - $90</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="img-middle" src="/img/bowls/jet-flash.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash.png" /></a>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash-case.png" /></a>
 
 Jet-Flash Smoke System
 Whirling smoke, using the Venturi system, begins in the small nozzles in the body of the chamber.
