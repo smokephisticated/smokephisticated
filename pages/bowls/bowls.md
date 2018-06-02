@@ -86,9 +86,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Jet Flash System</a> - 19 cm/7.5" L - $90</h2>
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash.png" /></a>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Jet Flash System</a> - 19 cm/7.5" L - $99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash-collage.png" /></a>
 
