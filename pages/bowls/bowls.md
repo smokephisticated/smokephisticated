@@ -47,6 +47,28 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
+h2 class="heading-center">Best Bowls Under $160:</h2>
+
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Price</th> 
+		<th>Shop</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43" ><img alt="Jet Flash System" class="table-image" src="/img/bowls/marley-walnut.png"></a></td>
+		<td>Walnut Bubbler</td>
+		<td>$159</td>
+		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Compare Lowest Prices</a></td>
+	</tr>
+</table>
+
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Marley Walnut Wood Bubbler</a> 5.75" H x 5.75" L x 1.75" W - $159</h2>
+
+<a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" /></a>
+
+
 <h2 class="heading-center">Best Bowls Under $100:</h2>
 
 <table class="basic-table">
@@ -67,6 +89,22 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Jet Flash System</a> - *Length* 19 cm / 7.5 inch - $90</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="img-middle" src="/img/bowls/jet-flash.png" /></a>
+
+Jet-Flash Smoke System
+Whirling smoke, using the Venturi system, begins in the small nozzles in the body of the chamber.
+
+The design of the funnel body aerates the smoke, cooling it and making it easier to inhale. The same air intake holes along the shoulders of the pipe force the smoke away from the walls and keep the funnel body clean.
+
+The Jet Flash System allows you to switch between several types of smoking adapters to suit your mood. The complete 7-piece kit comes with a handheld glass chamber with molded grips, a glass funnel bowl, mouth piece chamber, a spoon pipe adapter, a taster "one hitter" adapter/joint holder, a slitted 18.8mm > 14.5mm slit diffuser downstem, and a Keck clip to securely hold the pieces together while in use. The Jet Flash system can be used on its own or as an attachment on your regular bong.
+
+Jet-Flash swirling action, smoother inhalation
+Conserves medicine/herb
+Attractive gift box
+18.8mm female joint on main chamber
+14.5mm male joint on mouthpiece chamber
+18.8mm > 14.5mm inside-cut slitted diffuser downstem
+14.5mm attachments
+Downstem length: 11cm
 
 <h2 class="heading-center">Best Bowls Under $50:</h2>
 

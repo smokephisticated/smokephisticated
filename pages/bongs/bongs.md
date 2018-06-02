@@ -84,7 +84,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 To start the list we have a submarine-style percolating monster that will run your wallet around $140. Although this is the most expensive piece on this page, it isn't hard to justify the price when we really look into it.
 
-<h5 class="heading-center">Some prior knowledge you should have on percolation:</h5>
+<h5 class="heading-center">Some prior knowledge you should have about percolation:</h5>
 
 The percolation we refer to takes place when the whole surface of a body of smoke is forced through water.
 
@@ -92,7 +92,7 @@ Percolating pieces like the <a target="_blank" href="http://affiliates.grasscity
 
 Your smoke is first routed from your bowl and into the water. Then your smoke is pulled into the horizontal slitted glass tube known as an inline percolator. Percolator slits split your smoke into many tiny bubbles. 
 
-<h4>The smaller smoke bubbles are = more leverage over cooling, filtering, and vaporizing your hits.</h4>
+<h4 class="heading-center">Smaller smoke bubbles = more leverage over cooling, filtering, and vaporizing your hits.</h4>
 
 This really just comes down to the fact that an equal amount of smoke divided and seperated into a larger quantity of bubbles would have more overall surface area than fewer large bubbles - giving the water more leverage over these smoke bubbles.
 
@@ -260,7 +260,7 @@ This bong has a variety of features including:
 
 **What you need to know about percolation:**
 
-Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker to read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
+Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker t o read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
 
 <h2 class="heading-center"><a target="blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43">MediBubbler</a> - 7 in / 17.78 cm - $99.99</h2>
 
