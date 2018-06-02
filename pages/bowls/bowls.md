@@ -90,7 +90,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash.png" /></a>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash-case.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash-collage.png" /></a>
 
 Jet-Flash Smoke System
 Whirling smoke, using the Venturi system, begins in the small nozzles in the body of the chamber.
