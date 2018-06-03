@@ -60,13 +60,15 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 		<td><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43" ><img alt="Jet Flash System" class="table-image" src="/img/bowls/marley-walnut.png"></a></td>
 		<td>Marley Walnut Bubbler</td>
 		<td>$159</td>
-		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Compare Lowest Prices</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Purchase Info</a></td>
 	</tr>
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Marley Walnut Wood Bubbler</a> 5.75" H x 5.75" L x 1.75" W - $159</h2>
 
 <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" /></a>
+
+Marley Walnut intro sentence
 
 
 <h2 class="heading-center">Best Bowls Under $100:</h2>
@@ -82,7 +84,13 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html" ><img alt="Jet Flash System" class="table-image" src="/img/bowls/jet-flash.png"></a></td>
 		<td>Jet Flash System</td>
 		<td>$99</td>
-		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Compare Lowest Prices</a></td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Purchase Info</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html" ><img alt="Sherlock Handpipe White on Cobalt-glass" class="table-image" src="/img/bowls/sherlock-white-collage.png"></a></td>
+		<td>White Cobalt Sherlock</td>
+		<td>$99</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">Purchase Info</a></td>
 	</tr>
 </table>
 
@@ -105,6 +113,11 @@ Attractive gift box
 18.8mm > 14.5mm inside-cut slitted diffuser downstem
 14.5mm attachments
 Downstem length: 11cm
+
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">White Cobalt Sherlock Glass Handpipe</a> -  12.7 cm / 5" L - $99</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html"><img alt="Sherlock Handpipe White on Cobalt-glass" class="img-middle" src="/img/bowls/jet-flash-collage.png" /></a>
+
 
 <h2 class="heading-center">Best Bowls Under $50:</h2>
 
@@ -132,11 +145,29 @@ Downstem length: 11cm
 		<th>Price</th> 
 		<th>Shop</th>
 	</tr>
+		<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html" ><img alt="Fisherman's Friend Pipe" class="table-image" src="/img/bowls/fisherman's-friend-1.png"></a></td>
+		<td>Fisherman's Friend</td>
+		<td>$22.99</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html">Purchase Info</a></td>
+	</tr>
+</table>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-glass-shabong.png"></a></td>
+		<td>Shabong Steamroller</td>
+		<td>$13.99</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/large-glass-shabong.html">Purchase Info</a></td>
 	</tr>
 </table>
 
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html">Fisherman's Friend</a> -  54 x 19 x 24 mm / 2.1 x 0.75 x 1 inch - $22.99</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html"><img alt="Fisherman's Friend Pipe" class="img-middle" src="/img/bowls/fisherman's-friend-collage.png" /></a>
+
+Fisherman's Friend intro sentence
+
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html">Glass Shabong Steamroller</a> -  19.5 cm / 7.7" L - $13.99</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html"><img alt="Large Glass Shabong Steamroller" class="img-middle" src="/img/bowls/large-glass-shabong.png" /></a>
+
+Glass Shabong Steamroller intro sentence
