@@ -87,7 +87,7 @@ Marley Walnut intro sentence
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Purchase Info</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html" ><img alt="Sherlock Handpipe White on Cobalt-glass" class="table-image" src="/img/bowls/sherlock-white-collage.png"></a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html" ><img alt="Sherlock Handpipe White on Cobalt-glass" class="table-image" src="/img/bowls/sherlock-white-3.png"></a></td>
 		<td>White Cobalt Sherlock</td>
 		<td>$99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">Purchase Info</a></td>
@@ -151,9 +151,8 @@ Downstem length: 11cm
 		<td>$22.99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html">Purchase Info</a></td>
 	</tr>
-</table>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-glass-shabong.png"></a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-glass-shabong-steamroller.png"></a></td>
 		<td>Shabong Steamroller</td>
 		<td>$13.99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/large-glass-shabong.html">Purchase Info</a></td>
@@ -168,6 +167,6 @@ Fisherman's Friend intro sentence
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html">Glass Shabong Steamroller</a> -  19.5 cm / 7.7" L - $13.99</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html"><img alt="Large Glass Shabong Steamroller" class="img-middle" src="/img/bowls/large-glass-shabong.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html"><img alt="Large Glass Shabong Steamroller" class="img-middle" src="/img/bowls/large-glass-shabong-steamroller.png" /></a>
 
 Glass Shabong Steamroller intro sentence
