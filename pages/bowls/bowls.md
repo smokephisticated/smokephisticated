@@ -62,7 +62,19 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 		<td>$159</td>
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Purchase Info</a></td>
 	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43" ><img alt="Grav Labs Upright Bubbler Pipe by Jane West" class="table-image" src="/img/bowls/jane-west-1.png"></a></td>
+		<td>Jane West Bubbler</td>
+		<td>$129.99</td>
+		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43">Purchase Info</a></td>
+	</tr>
 </table>
+
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43">Grav Labs Upright Bubbler Pipe by Jane West</a> 5.5" tall - $129.99</h2>
+
+<a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43"><img alt="Grav Labs Upright Bubbler Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-collage.png" /></a>
+
+Jane West intro sentence
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Marley Walnut Wood Bubbler</a> 5.75" H x 5.75" L x 1.75" W - $159</h2>
 
