@@ -175,7 +175,7 @@ Downstem length: 11cm
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html"><img alt="Fisherman's Friend Pipe" class="img-middle" src="/img/bowls/fisherman's-friend-collage.png" /></a>
 
-Fisherman's Friend intro sentence
+Fisherman's Friend intro sentence.
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html">Glass Shabong Steamroller</a> -  19.5 cm / 7.7" L - $13.99</h2>
 
