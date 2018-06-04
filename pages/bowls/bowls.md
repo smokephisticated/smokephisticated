@@ -42,6 +42,7 @@ Our suggestions strongly stem off of genuine customer feedback left by real and 
 
 So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection - your future go-to piece could be found right on this page.
 
+https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f
 
 <h3 class="heading-center">Please Note:</h3> 
 
