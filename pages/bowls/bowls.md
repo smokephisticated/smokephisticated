@@ -130,8 +130,7 @@ Downstem length: 11cm
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">White Cobalt Sherlock Glass Handpipe</a> -  12.7 cm / 5" L - $99</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html"><img alt="Sherlock Handpipe White on Cobalt-glass" class="img-middle" src="/img/bowls/jet-flash-collage.png" /></a>
-
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html"><img alt="Sherlock Handpipe White on Cobalt-glass" class="img-middle" src="/img/bowls/sherlock-white-collage.png" /></a>
 
 <h2 class="heading-center">Best Bowls Under $50:</h2>
 
