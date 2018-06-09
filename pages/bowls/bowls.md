@@ -42,9 +42,6 @@ Our suggestions strongly stem off of genuine customer feedback left by real and 
 
 So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection - your future go-to piece could be found right on this page.
 
-<a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f">Gold Pipe Piece</a>
-<a target="_blank" href="https://www.originalpiecepipe.com/?afmc=2f">Home Page Test</a>
-
 <h3 class="heading-center">Please Note:</h3> 
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
@@ -142,12 +139,22 @@ Downstem length: 11cm
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/piece-pipe-chrome-3.png"></a></td>
+		<td>Piece Pipe</td>
+		<td>$39.99</td>
+		<td><td><a class="big-button" target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Purchase Info</a></td></td>
 	</tr>
 </table>
+
+<h2 class="heading-center"><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Piece Pipe</a> -  4.2" x 1.9 cm L - $39.99</h2>
+
+<a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f"><img alt="Piece Pipe Collections" class="img-middle" src="/img/bowls/piece-pipe-chrome-6.png" /></a>
+
+Pipe Piece Intro Sentence.
+
+https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold
+<a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f">Gold Pipe Piece</a>
+<a target="_blank" href="https://www.originalpiecepipe.com/?afmc=2f">Home Page Test</a>
 
 <h2 class="heading-center">Best Bowls Under $25:</h2>
 
