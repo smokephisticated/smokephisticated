@@ -5,25 +5,21 @@ permalink: "/bowls/"
 seotitle: "5 Best Bowls for Your Buck (2018)"
 ---
 
-<h2 class="heading-center">We're here to guide you to your next purchase</h2> 
+<h2 class="heading-center">We're here to guide you to your next bowl/hand pipe purchase</h2> 
+
+The purpose of this guide is to introduce smokers to a diverse list of the highest quality/best-value herb bowls.
+
+But why should you hear us out?
+
+<h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
+
+We search for the highest quality bowls by looking directly at genuine customer feedback - left by real stoners that have gone through the exact deciding process as you are now.
 
 <img alt="Rating Example" class="img-middle" src="/img/bowls/rating-example.png" />
 
-A handpipe is the pistol in a stoner's arsenal.
+Stop wasting your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a list of the highest quality bowls of all price ranges - you're bound to find a piece you love with a simple, yet detailed description that informs you of everything you should know before your purchase.
 
-A solid bowl is like a stoner's right hand.
-
-*In fact,* nowadays you're just one split-second Google search away from shopping for *millions* of bongs and water pipes from all over the world... But where does one even begin to browse?
-
-**Save yourself** from sifting through shady hit-or-miss websites. Accidentally settling for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
-
-That's the purpose behind this guide - to direct stoners toward quality products in an honest and straight-forward manner.
-
-<h5 class="heading-center">We've searched so you don't have to.</h5>
-
-Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until you're both informed about your purchase, and certain that none of your money, time, or precious supply will be wasted on low-quality products.
-
-Our bowl recommendations currently consist of products from two community-trusted online headshops:
+Our suggestions stem from three community-trusted sites:
 
 * [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
 
@@ -31,15 +27,13 @@ Our bowl recommendations currently consist of products from two community-truste
 
 (Both sites tend to run store-wide sales more times than not)
 
-Each site has their own individual free-shipping policy - as well as solid customer service for any deliverey issues or general questions/concerns you may have.
+As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com/?afmc=2f){target="_blank"}
 
-**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself * wink wink *
+**Discreet packaging is also the norm for both shops** - Don't stress; recieve your products packed into an unmarked box to avoid advertising your shopping habits.
 
-But why should you hear us out?
+The purpose of this guide is to guide smokers that are looking around for the best bowls
 
-<h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
-
-Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact deciding process as you are now.
+A handpipe is the pistol in a stoner's arsenal.
 
 So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection - your future go-to piece could be found right on this page.
 
