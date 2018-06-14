@@ -134,7 +134,7 @@ Downstem length: 11cm
 		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/piece-pipe-chrome-table.png"></a></td>
 		<td>Piece Pipe</td>
 		<td>$39.99</td>
-		<td><td><a class="big-button" target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Purchase Info</a></td></td>
+		<td><a class="big-button" target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Purchase Info</a></td>
 	</tr>
 </table>
 
