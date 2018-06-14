@@ -7,17 +7,17 @@ seotitle: "5 Best Bowls for Your Buck (2018)"
 
 <h2 class="heading-center">We're here to guide you to your next bowl/hand pipe purchase</h2> 
 
-The purpose of this guide is to introduce smokers to a diverse list of the highest quality/best-value herb bowls.
+The purpose of this guide is to introduce smokers to a diverse list of the highest quality/best-value tabacco/medical herb bowls.
 
 But why should you hear us out?
 
 <h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
 
-We search for the highest quality bowls by looking directly at genuine customer feedback - left by real stoners that have gone through the exact deciding process as you are now.
+We search for the highest quality bowls by looking directly at genuine customer feedback. These reviews come from real stoners that have gone through the exact deciding process as you are now, and were satisfied enough to leave glowing reviews and recommendations.
 
 <img alt="Rating Example" class="img-middle" src="/img/bowls/rating-example.png" />
 
-Stop wasting your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a list of the highest quality bowls of all price ranges - you're bound to find a piece you love with a simple, yet detailed description that informs you of everything you should know before your purchase.
+Stop wasting your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a piece you love with a simple, yet detailed description that informs you of everything you should know before your purchase.
 
 Our suggestions stem from three community-trusted sites:
 
@@ -27,15 +27,12 @@ Our suggestions stem from three community-trusted sites:
 
 (Both sites tend to run store-wide sales more times than not)
 
-As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com/?afmc=2f){target="_blank"}
+As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com/?afmc=2f){:target="_blank"}
 
-**Discreet packaging is also the norm for both shops** - Don't stress; recieve your products packed into an unmarked box to avoid advertising your shopping habits.
+**Oh, and relax;** Discreet packaging is also the norm for both shops. You will recieve your products packed into an unmarked box.
 
-The purpose of this guide is to guide smokers that are looking around for the best bowls
+Review DopeBoo's shipping policy Here. Review Grasscity's shipping policy Here.
 
-A handpipe is the pistol in a stoner's arsenal.
-
-So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection - your future go-to piece could be found right on this page.
 
 <h3 class="heading-center">Please Note:</h3> 
 
