@@ -131,7 +131,7 @@ Downstem length: 11cm
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/piece-pipe-chrome-3.png"></a></td>
+		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/piece-pipe-chrome-table.png"></a></td>
 		<td>Piece Pipe</td>
 		<td>$39.99</td>
 		<td><td><a class="big-button" target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Purchase Info</a></td></td>
@@ -140,7 +140,7 @@ Downstem length: 11cm
 
 <h2 class="heading-center"><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Piece Pipe</a> -  4.2" x 1.9 cm L - $39.99</h2>
 
-<a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f"><img alt="Piece Pipe Collections" class="img-middle" src="/img/bowls/piece-pipe-chrome-6.png" /></a>
+<a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f"><img alt="Piece Pipe Collections" class="img-middle" src="/img/bowls/piece-pipe-chrome-3.png" /></a>
 
 Pipe Piece Intro Sentence.
 
