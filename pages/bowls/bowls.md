@@ -29,10 +29,7 @@ Our suggestions stem from three community-trusted sites:
 
 As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com/?afmc=2f){:target="_blank"}
 
-**Oh, and relax;** Discreet packaging is also the norm for both shops. You will recieve your products packed into an unmarked box.
-
-Review DopeBoo's shipping policy Here. Review Grasscity's shipping policy Here.
-
+**Oh, and relax;** Discreet packaging is also the norm for all three shops. You will recieve your products packed into an unmarked package with no indication of what you're ordering.
 
 <h3 class="heading-center">Please Note:</h3> 
 
