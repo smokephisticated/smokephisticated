@@ -9,11 +9,11 @@ seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
 
-## And well, their modern-day decendents are absolutely no exception
+**And well, their modern-day decendents are absolutely no exception**
 
 Bongs are one of the most effective and convienient ways to smoke tabacco and dry herb.
 
- Which is why the bong market is so massive right now - nowadays you're just one Google search away from shopping for *millions* of bongs and water pipes from all over the world.
+ Which is why the bong market is so massive right now - nowadays you're just one Google search away from sifting through bongs and water pipes from all over the world.
 
  **But where does one even begin to browse?**
 
@@ -27,9 +27,9 @@ Shopping all across the web for your next go-to smoking apparatus is no small ta
 
 Our bong recommendations currently consist of products from two community-trusted online headshops:
 
-* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
+- [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
 
-* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
+- [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
 
 (Both sites tend to run store-wide sales more times than not)
 
