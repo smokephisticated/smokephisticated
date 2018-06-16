@@ -7,11 +7,15 @@ seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 
 <h2 class="heading-center">Here's the facts:</h2>
 
-Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years, and their modern-day decendents are absolutely no exception (For good reason)
+Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
 
-Bongs are one of the most effective, and convienient ways of smoking dry herb. Which is why the bong market is so massive right now.
+## And well, their modern-day decendents are absolutely no exception
 
-*In fact,* nowadays you're just one split-second Google search away from shopping for *millions* of bongs and water pipes from all over the world... But where does one even begin to browse?
+Bongs are one of the most effective and convienient ways to smoke tabacco and dry herb.
+
+ Which is why the bong market is so massive right now - nowadays you're just one Google search away from shopping for *millions* of bongs and water pipes from all over the world.
+
+ **But where does one even begin to browse?**
 
 **Save yourself** from sifting through shady hit-or-miss websites. Accidentally settling for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
 
