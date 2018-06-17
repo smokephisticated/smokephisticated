@@ -11,7 +11,7 @@ Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 y
 
 **And well, their modern-day decendents are absolutely no exception**
 
-Bongs are one of the most effective and convienient ways to smoke tabacco and dry herb.
+Bongs and pipes are one of the most effective and convienient ways to smoke tabacco and dry herb.
 
  Which is why the bong market is so massive right now - nowadays you're just one Google search away from sifting through bongs and water pipes from all over the world.
 
@@ -51,7 +51,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <h2 class="heading-center">Best bongs under $140</h2>
 
-**Here below** - you'll find our most effective bong recommendations between $100 to $140 that will bring you quality usage for years to come... Assuming you're not clumsy.
+**Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
 
 <h3 class="heading-center">For the Experienced Toker:</h3>
 

@@ -3,11 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
-Smokephisticated is currently a work in progress.
+Smokephisticated is a developing project with intent to spread information to the toking community about reputably high quality products accross the massive online market. 
 
-Our aim with Smokephisticated is to provide a tool for smokers to use as a guide to the most high quality products.
+We're here to deliver diverse selections of products from multiple sources including:
 
-The main basis of our recomondations stem from the smoking community itself. We use both customer reviews (from as many sources as we can find) and our own judgement to find only the overall best smoking products for our readers.
+Grasscity.com
+
+Dopeboo.com
+
+Piecepipe.com
+
+The main basis of our recommendations stem from the smoking community itself. When we see that a satisfied customer leaves reviews   and our own judgement to find only the overall best smoking products for our readers.
 
 Not every piece is made equal and not every toker will value one piece in the same way - For this reason, Smokephisticated aims to recommend products with as much honesty and transparency as we can.
 
@@ -17,8 +23,4 @@ We will view this project as a success when we are able to provide readers with 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
-
-[admin@smokephisticated.com](mailto:admin@smokephisticated.com)
-
-Please voice your concerns, inquiries, or any feedback to:
+Please voice your concerns, inquiries, or any feedback to: [admin@smokephisticated.com](mailto:admin@smokephisticated.com)
