@@ -281,9 +281,9 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 	</tr>
 </table>
 
-<h2 class="heading-center">Black Leaf 4-arm Perc Bong with Ash Catcher<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black</a></h2>
+<h2 class="heading-center">(Black) <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm / 11.8 in tall - $59.99</h2>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell">Green</a> - 30 cm / 11.8 in tall - $59.99</h2>
+<h2 class="heading-center">Also get it in - <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell">Green</a></h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/black-leaf-4-arm-black.png" /></a>
 
