@@ -7,7 +7,7 @@ seotitle: "5 Best Bowls for Your Buck (2018)"
 
 <h2 class="heading-center">We're here to guide you to your next bowl/hand pipe purchase</h2> 
 
-The purpose of this guide is to introduce smokers to a diverse list of the highest quality/best-value tabacco/medical herb bowls.
+The purpose of this guide is to introduce smokers to a diverse list of the most popular and highest quality tabacco/medical herb bowls.
 
 But why should you hear us out?
 

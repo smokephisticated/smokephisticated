@@ -375,10 +375,10 @@ I highly encurage any aspiring smoker to read <a target="_blank" href="https://w
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
 </tr>
 <tr>
-	<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/dude-bong-set.png"/></a></td>
+	<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/dude-bong-set.png"/></a></td>
 	<td>Dude Glass Bong Set</td>
 	<td>$49</td>
-	<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html">Compare Lowest Prices</a></td>
+	<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Compare Lowest Prices</a></td>
 </tr>	
 </table>
 
@@ -404,11 +404,9 @@ Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a>
 
 * Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
 
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
 
-
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs/dude-bong-set.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs/dude-bong-set.png" /></a>
 
 Woah, dude. Have you ever thought it would be dope to have a bong kit to take along with you to parties or weekend getaways? Well my dude, Dude is changing the game by bringing you everything you need and a case to carry it in.
 
@@ -426,7 +424,7 @@ The bong istelf is well constructed and smooth to rip; **Featuring:**
 
 **As for the accessories:**
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-bubble-base-glass-bong-set-in-aluminum-case-small.html"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs/dude-accessories.png" /></a>
+<a target="_blank" href="https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs/dude-accessories.png" /></a>
 
 The case itself is made from padded silver aluminum for made-to-fit security, and black plastic. Use the attached handle for simple carrying and the clasps for security.
 
