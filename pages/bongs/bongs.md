@@ -281,18 +281,18 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm / 11.8 in tall - $59.99</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm / 11.8" - $59.99</h2>
 
 <h2 class="heading-center">Available in two colors - Buy in:</h2>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black</a>  or  < 
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black</a>   /   
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell">  Green</a></h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/black-leaf-4-arm-collage.png" /></a>
 
-Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} really know what they're doing. 
+Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} don't mess around. 
 
-With a slick look, effective design (and not to mention 150+ reveiws while still averaging a 5-star rating on Grasscity) this 30 cm German engineered golden-boy is well worth the sub-$50 spend.
+With a sleek design and a reputably effective build this 30 cm German engineered golden-boy is well worth the sub-$50 spend.
 
 **Features:**
 
@@ -318,40 +318,12 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Clear Glass Buoy Beaker Bong" class="table-image" src="/img/bongs/buoy-beaker-bong.png"/></a></td>
-		<td>Clear Glass Buoy Base Beaker Bong</td>
-		<td>$49.99</td>
-		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Compare Lowest Prices</a></td>
-</tr>
-<tr>
-	<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/dude-bong-set.png"/></a></td>
-	<td>Dude Glass Bong Set</td>
-	<td>$49</td>
-	<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Compare Lowest Prices</a></td>
-</tr>	
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/dude-bong-set.png"/></a></td>
+		<td>Dude Glass Bong Set</td>
+		<td>$49</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Compare Lowest Prices</a></td>
+	</tr>	
 </table>
-
-<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43">Clear Glass Buoy Base Beaker Bong</a> - 8 in / 20.3 cm tall - $44.99</h2>
-
-<a target="_blank" href="https://www.dopeboo.com/products/clear-glass-buoy-base-beaker-bong?aff=43"><img alt="Glass Buoy Beaker Bong" class="img-middle" src="/img/bongs/buoy-beaker-bong.png"/></a>
-
-**If you're looking for refined simplicity; your search is over.**
-
-Introducing the bong that every practical stoner should have on his shelf; The Buoy Beaker Bong.
-
-Sold by <a target="_blank" href="https://www.dopeboo.com?aff=43">DopeBoo.com</a>, and made by DankStop in the USA; this bong has a variety of features including:
-
-* 8 inches of clear scientific glass for classic transparency.
-
-* Effective funnel shaped bowl with a convienient pinch handle.
-
-* Glass downstem secured by a rubber grommet to deliver air-tight rips.
-
-* An ice-catcher(holds ice cubes where the neck curves inwards to cool smoke as it passes) for ice-cool clouds.
-
-* Extra width at the base to provide stability; keeping it stable in the company of even the clumsiest of novices.
-
-* Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
 
