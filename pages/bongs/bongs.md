@@ -236,12 +236,6 @@ Below you will find highly rated sub-$100 bongs on the market right now.
 		<td>$99.99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Compare Lowest Prices</a></td>
 	</tr>
-	<tr>
-		<td><a target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43"><img alt="" class="table-image" src="/img/bongs/medibubbler.png"/></a></td>
-		<td>MediBubler</td>
-		<td>$99.99</td>
-		<td><a class="big-button" target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43">Compare Lowest Prices</a></td>
-	</tr>
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong</a> - 15 in / 38.1 cm tall - $99.99</h2>
@@ -264,31 +258,7 @@ This bong has a variety of features including:
 
 **What you need to know about percolation:**
 
-Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker t o read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
-
-<h2 class="heading-center"><a target="blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43">MediBubbler</a> - 7 in / 17.78 cm - $99.99</h2>
-
-<a target="_blank" href="https://billowby.com/products/medibubbler-smooth-bubble-bubbler?aff=43"><img alt="MediBubbler" class="img-middle" src="/img/bongs/medibubbler.png" /></a>
-
-If you search for the MediBubler online you'll find the same phrase everywhere: **"Guarenteed to be smooth."**
-
-Wheather you're looking to produce tiny tokes or massive clouds; this thing is known for being easy on the lungs.
-
-**And there's good reason behind that:**
-
-This bong is equipped with a variety of features to support that milky smoooth claim, including:
-
-* The charming body shaped like a water-holding bubble.
-
-* A removable glass mouthpiece that expands outwards towards to lips for comfortble mouth purchase.
-
-* A removable glass slide to make clening jobs a breeze.
-
-	* On the glass slide is a 7-slitted inline percolator that provides filteration in your smoke; diffusing harmful particles from your inhales. Percolation also helps produce way more, tinier bubbles to seperate your smoke and cool your hits in rips big and small.
-
-* Toward the top of the MediBubbler's bosy is a Carb hole for additional airflow with just the lift of a finger.
-
-**The MediBubbler is smokephistication in it's finest.**
+Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This process of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker t o read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
 
 <h2 class="heading-center">Best bongs under $75</h2>
 
@@ -302,42 +272,19 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 		<th>Name</th>
 		<th>Price</th>
 		<th>Shop</th>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="table-image" src="/img/bongs/gravitron-gravity-bong.png" /></a></td>
-		<td>Gravitron Gravity Bong</td>
-		<td>$74.99</td>
-		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43">Compare Lowest Prices</a></td>
 	</tr>	
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/4-arm.png" /></a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/black-leaf-4-arm-black.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
 		<td>$59.99</td>
-		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Compare Lowest Prices</a></td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
+<h2 class="heading-center">Black Leaf 4-arm Perc Bong with Ash Catcher<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black</a>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell">Green</a> - 30 cm / 11.8 in tall - $59.99</h2>
 
-<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43">Grav Labs Gravitron Gravity Bong</a> - 16 in / 40.64 cm tall - $74.99</h2>
-
-When the typical smoker thinks of "gravity bong", an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. 
-
-Something about hitting a gravity bong gets you to a different high; one that bowls and regular bongs just can't always serve, all while using the least amount of your supply.
-
-**Now, let me introduce to you: The Gravitron.**
-
-<a target="_blank" href="https://www.dopeboo.com/products/gravitron-xl-pipe?aff=43"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/gravitron-gravity-bong.png" /></a>
-
-Relive the glory days of hiding from your parents behind your shed and highschool-party craftsmanship with this sleek, even more effective, glass replacement.
-
-Replacing those sketchy plastics and metals with glass, the Gravitron features a base for water, a glass funnel for you to pack your "tabacco" of choice into, a rubber stopper to prevent glass-on-glass collision, and of course the bottle pipe to lift for the artificial inhale.
-
-Go see the Gravitron in action by watching the [video on DopeBoo's website](https://www.dopeboo.com/products/gravitron-xl-pipe?aff-43){:"_blank"}.
-
-
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm / 11.8 in tall - $59.99</h2>
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-blue.html"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/4-arm.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/black-leaf-4-arm-black.png" /></a>
 
 Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} really know what they're doing. 
 
