@@ -424,10 +424,9 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece. Or, at least not yet. Pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. 
 
-Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
+mumbo [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} jumbo
 
-http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html
-http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html
+Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - 4.1 in / 10.5 cm tall - $15.99</h2>
 
