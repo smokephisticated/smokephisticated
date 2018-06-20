@@ -106,13 +106,11 @@ H2O is a *polar molecule*. This means that water magnetically attracts and remov
 
 At the same time as magnetically removing contaminants molecularly, the temprature difference forces cool water to create steam when mixing with your hot smoke bubbles. This process is very effective at hydrating the harshness of hot smoke; resulting in smooth, vapor-like inhales. 
 
-Percolator slits split your smoke into many tiny bubbles. This gives water much more leverage over cooling, filtering, and vaporizing your hits. This really just comes down to the fact that an equal amount of smoke divided and seperated into a larger quantity of bubbles would have more overall surface area than fewer large bubbles - giving the water more leverage over
-
 It is also worth noting that THC is a non-polar substance; so the psychoactive effect in cannabis isn't pulled out of your smoke bubbles when travelling through water.
 
 **Translation: Smaller bubbles = more effective percoation.** 
 
-So now that you know that the holes and slits in a percolator cool and smooth your inhales by dividing, filtering, and even vaporizing your smoke:
+So now that you know that the kholes and slits in a percolator cool and smooth your inhales by dividing, filtering, and even vaporizing your smoke:
 
 <h5 class="heading-center">The Stemless Inline with Double Ring 18-arm Perc's features:</h5>
 
