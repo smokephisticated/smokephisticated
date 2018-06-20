@@ -29,7 +29,7 @@ After being broken up into smaller pieces, the smoke is sent upward through the 
 
 The tree percolator consists of two layers of arms with two slits at the bottom of each arm. When water and smoke pass through these slits, like with the inline perc, the smoke bubbles are divided and cooled.
 
-<h3 class="heading-center">Sure that makes sense, but how exactly does that filter/clean your smoke?
+<h3 class="heading-center">Sure that makes sense, but how exactly does that filter/clean your smoke?</h3>
 
 Well, H2O is a *polar molecule*. This means that water actually *magnetically attracts* polar contaminants from your smoke bubbles.
 
