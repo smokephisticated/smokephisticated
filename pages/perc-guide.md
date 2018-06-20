@@ -11,7 +11,7 @@ The word *Percolation* is defined as the process of liquid slowly straining thou
 
 To use as an example, we will be looking at the: 
 
-<h2 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a></h2>
+<h2 class="heading-center"> <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a></h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="img-middle" src="/img/bongs/stemless-double-ring.png" /></a>
 
