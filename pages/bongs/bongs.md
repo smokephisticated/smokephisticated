@@ -112,7 +112,7 @@ It is also worth noting that THC is a non-polar substance; so the psychoactive e
 
 **Translation: Smaller bubbles = more effective percoation.** 
 
-So now that you know that the wholes and slits in a percolator cool and smooth your inhales by dividing, filtering, and even vaporizing your smoke:
+So now that you know that the holes and slits in a percolator cool and smooth your inhales by dividing, filtering, and even vaporizing your smoke:
 
 <h5 class="heading-center">The Stemless Inline with Double Ring 18-arm Perc's features:</h5>
 
