@@ -43,8 +43,4 @@ Water doesn't only magnetically remove contaminants molecularly - But the tempra
 
 This process adds hydration and cooling power to hot smoke - resulting in smooth, vapor-like inhales. 
 
-For example, we will be walking you through  stems from Latin - Percolare "To strain through"
-
-<h5 class="heading-center">:</h5>
-
-The percolation we refer to takes place when the whole surface of a body of smoke is forced through water.
+After learning about all of these benifits, it is up to you wheather to invest in a percolator or not.
