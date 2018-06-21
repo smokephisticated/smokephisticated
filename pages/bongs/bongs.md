@@ -321,6 +321,12 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 		<td>$49</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Compare Lowest Prices</a></td>
 	</tr>	
+		<tr>
+		<td><a target="_blank" href="https://goo.gl/vpKhDD"><img alt="Clear Glass Buoy Beaker Bong" class="table-image" src="/img/bongs/buoy-beaker-bong.png"/></a></td>
+		<td>Clear Glass Buoy Base Beaker Bong</td>
+		<td>$40</td>
+		<td><a class="big-button" target="_blank" href="https://goo.gl/vpKhDD">Compare Lowest Prices</a></td>
+	</tr>
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
@@ -352,6 +358,29 @@ Included in the case is a small clear grinder, a "Dude" lighter, and 5 pipe scre
 Go ahead and pick up some extra screens <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/20-pipe-screens-steel.html">here</a>; as the bowl needs one to work at 100%.
 
 <h4 class="heading-center">PLEASE NOTE THAT:</h4> Due to shipping restrictions, Grasscity cannot ship flammable liquids overseas. If you are ordering from outside of continental Europe, the lighter in this set will be replaced with a similar smoking accessory from their warehouse.
+
+<h2 class="heading-center"><a target="_blank" href="https://goo.gl/vpKhDD">Clear Glass Buoy Base Beaker Bong</a> - 8 in / 20.3 cm tall - $44.99</h2>
+
+<a target="_blank" href="https://goo.gl/vpKhDD"><img alt="Glass Buoy Beaker Bong" class="img-middle" src="/img/bongs/buoy-beaker-bong.png"/></a>
+
+**If you're looking for refined simplicity; your search is over.**
+
+Introducing the bong that every practical stoner should have on his shelf; The Buoy Beaker Bong.
+
+Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankStop.com</a> in the USA - this bong has a variety of features including:
+
+* 8 inches of clear scientific glass for classic transparency.
+
+* Effective funnel shaped bowl with a convienient pinch handle.
+
+* Glass downstem secured by a rubber grommet to deliver air-tight rips.
+
+* An ice-catcher(holds ice cubes where the neck curves inwards to cool smoke as it passes) for ice-cool clouds.
+
+* Extra width at the base to provide stability; keeping it stable in the company of even the clumsiest of novices.
+
+* Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
+
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
