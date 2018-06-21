@@ -321,7 +321,7 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 		<td><a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="table-image" src="/img/bongs/nucleus-grav-bong-1.png" /></a></td>
 		<td>Nucleus Gravity Bong</td>
 		<td>$49.99</td>
-		<td><a class="big-button" target="_blank" href="https://dankstop.com/10858818/checkouts/54a934e4113652e23b34c98d20d15ae6?_ga=2.64322927.1318616640.1529538255-2089440516.1517604287?aff=1112">Buy now</a></td>
+		<td><a class="big-button" target="_blank" href="https://dankstop.com/10858818/checkouts/54a934e4113652e23b34c98d20d15ae6?_ga=2.64322927.1318616640.1529538255-2089440516.1517604287?aff=1112">Add to Cart</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/dude-bong-set.png"/></a></td>
