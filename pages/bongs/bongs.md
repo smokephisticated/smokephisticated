@@ -292,7 +292,7 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 
 Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} don't mess around. 
 
-With a sleek design and a reputably effective build this 30 cm German engineered golden-boy is well worth the sub-$50 spend.
+With a sleek design and a reputably effective build - this 30 cm German engineered golden-boy is well worth the sub-$50 spend.
 
 **Features:**
 
@@ -318,18 +318,38 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 		<th>Shop</th>
 	</tr>
 	<tr>
+		<td><a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="table-image" src="/img/bongs/nucleus-grav-bong-1.png" /></a></td>
+		<td>Nucleus Gravity Bong</td>
+		<td>$49.99</td>
+		<td><a class="big-button" target="_blank" href="https://dankstop.com/10858818/checkouts/54a934e4113652e23b34c98d20d15ae6?_ga=2.64322927.1318616640.1529538255-2089440516.1517604287?aff=1112">Buy now</a></td>
+	</tr>
+	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="table-image" src="/img/bongs/dude-bong-set.png"/></a></td>
 		<td>Dude Glass Bong Set</td>
 		<td>$49</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Compare Lowest Prices</a></td>
 	</tr>	
-		<tr>
+	<tr>
 		<td><a target="_blank" href="https://goo.gl/vpKhDD"><img alt="Clear Glass Buoy Beaker Bong" class="table-image" src="/img/bongs/buoy-beaker-bong.png"/></a></td>
 		<td>Clear Glass Buoy Base Beaker Bong</td>
 		<td>$40</td>
 		<td><a class="big-button" target="_blank" href="https://goo.gl/vpKhDD">Compare Lowest Prices</a></td>
 	</tr>
 </table>
+
+<h2 class="heading-center"><a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112">Grav Labs Gravitron Gravity Bong</a> - 12 in / 30.48 cm tall - $49.99</h2>
+
+When the typical smoker thinks of *gravity bong*, an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. 
+
+Something about hitting a gravity bong gets you to a different high; one that bowls and regular bongs just can't always serve, all while using the least amount of your supply.
+
+**Now, let me introduce to you: the Grav Bong, by Nucleus.**
+
+<a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/nucleus-grav-bong-collage.png" /></a>
+
+Relive the glory days of hiding from your parents behind your shed and highschool-party craftsmanship with this sleek, even more effective, glass replacement.
+
+Replacing those sketchy plastics and metals with glass, the Gravitron features a base for water, a glass funnel for you to pack your tabacco or herb of choice into, a rubber stopper to prevent glass-on-glass collision, and of course the bottle pipe to lift for the artificial inhale.
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
 
@@ -361,7 +381,7 @@ Go ahead and pick up some extra screens <a target="_blank" href="http://affiliat
 
 <h4 class="heading-center">PLEASE NOTE THAT:</h4> Due to shipping restrictions, Grasscity cannot ship flammable liquids overseas. If you are ordering from outside of continental Europe, the lighter in this set will be replaced with a similar smoking accessory from their warehouse.
 
-<h2 class="heading-center"><a target="_blank" href="https://goo.gl/vpKhDD">Clear Glass Buoy Base Beaker Bong</a> - 8 in / 20.3 cm tall - $44.99</h2>
+<h2 class="heading-center"><a target="_blank" href="https://goo.gl/vpKhDD">Clear Glass Buoy Base Beaker Bong</a> - 8 in / 20.3 cm tall - $40 </h2>
 
 <a target="_blank" href="https://goo.gl/vpKhDD"><img alt="Glass Buoy Beaker Bong" class="img-middle" src="/img/bongs/buoy-beaker-bong.png"/></a>
 
