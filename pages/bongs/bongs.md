@@ -337,7 +337,7 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112">Grav Labs Gravitron Gravity Bong</a> - 12 in / 30.48 cm tall - $49.99</h2>
+<h2 class="heading-center"><a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112">Grav Bong by Nucleus</a> - 12 in / 30.48 cm tall - $49.99</h2>
 
 When the typical smoker thinks of *gravity bong*, an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. 
 
@@ -345,9 +345,9 @@ Something about hitting a gravity bong gets you to a different high; one that bo
 
 **Now, let me introduce to you: the Grav Bong, by Nucleus.**
 
-<a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112"><img alt="Grav Labs Gravitron Gravity Bong - XL" class="img-middle" src="/img/bongs/nucleus-grav-bong-collage.png" /></a>
+<a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112"><img alt="grav bong by nucleus" class="img-middle" src="/img/bongs/nucleus-grav-collage.png" /></a>
 
-Relive the glory days of hiding from your parents behind your shed and highschool-party craftsmanship with this sleek, even more effective, glass replacement.
+Relive the glory days of hiding from your parents behind your shed and highschool party craftsmanship with this sleek, even more effective glass replacement.
 
 Replacing those sketchy plastics and metals with glass, the Gravitron features a base for water, a glass funnel for you to pack your tabacco or herb of choice into, a rubber stopper to prevent glass-on-glass collision, and of course the bottle pipe to lift for the artificial inhale.
 
