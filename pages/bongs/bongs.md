@@ -5,6 +5,8 @@ permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
 ---
 
+<a target="_blank" href="https://dankstop.com/10858818/checkouts/54a934e4113652e23b34c98d20d15ae6?_ga=2.64322927.1318616640.1529538255-2089440516.1517604287?aff=1112">TEST</a>
+
 <h2 class="heading-center">Here's the facts:</h2>
 
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
