@@ -2,10 +2,8 @@
 layout: page
 title: "Bongs to Provide the Best High for Your Supply" 
 permalink: "/bongs/"
-seotitle: "Best Cheap Bongs for Your Money in 2018 (Comparison)"
+seotitle: "Best Cheap Bongs for Your Money in 2018"
 ---
-
-<a target="_blank" href="https://dankstop.com/10858818/checkouts/54a934e4113652e23b34c98d20d15ae6?_ga=2.64322927.1318616640.1529538255-2089440516.1517604287?aff=1112">TEST</a>
 
 <h2 class="heading-center">Here's the facts:</h2>
 
@@ -13,9 +11,9 @@ Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 y
 
 **And well, their modern-day decendents are absolutely no exception**
 
-Bongs and pipes are one of the most effective and convienient ways to smoke tabacco and dry herb.
+This is for good reason - Bongs and pipes are one of the most effective and convienient ways to smoke tabacco and dry herb.
 
- Which is why the bong market is so massive right now - nowadays you're just one Google search away from sifting through bongs and water pipes from all over the world.
+ Which is why the bong market is so massive, especially online. Nowadays you're just one Google search away from sifting through bongs and water pipes from all over the world.
 
  **But where does one even begin to browse?**
 
@@ -29,15 +27,13 @@ Shopping all across the web for your next go-to smoking apparatus is no small ta
 
 Our bong recommendations currently consist of products from two community-trusted online headshops:
 
+- [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
+
 - [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
 
 - [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
 
-(Both sites tend to run store-wide sales more times than not)
-
-Each site has their own individual free-shipping policy - as well as solid customer service for any deliverey issues or general questions/concerns you may have.
-
-**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself * wink wink *
+Read about the listed company's shipping policies, return policies and other information in our [About](smokephisticated.com/about){:target="_blank"} section.
 
 But why should you hear us out?
 
@@ -45,7 +41,7 @@ But why should you hear us out?
 
 Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact deciding process as you are now.
 
-So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection - your future go-to piece could be found right on this page.
+So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection - we'll deliver the most reputable options straight to you, no BS.
 
 <h3 class="heading-center">Please Note:</h3> 
 
@@ -54,8 +50,6 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 <h2 class="heading-center">Best bongs under $140</h2>
 
 **Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
-
-<h3 class="heading-center">For the Experienced Toker:</h3>
 
 <table class="basic-table">
 	<tr>
@@ -90,29 +84,11 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 To start the list we have a submarine-style percolating monster that will run your wallet around $140. Although this is the most expensive piece on this page, it isn't hard to justify the price when we really look into it.
 
-<h5 class="heading-center">Some prior knowledge you should have about percolation:</h5>
+<h5 class="heading-center">Need some prior knowledge on percolation?</h5>
 
-The percolation we refer to takes place when the whole surface of a body of smoke is forced through water.
+We've written a 5 minute rundown on percolation using this product as an example - Read that [Here](smokephisticated.com/percolation){:target="_blank"} 
 
-Percolating pieces like the <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> is capable of turning high-killing coughing fits into smooth and flavorful rips & satisfying exhales. Much of this capability stems from the *two* percolator devices that this bong proudly hosts.
-
-Your smoke is first routed from your bowl and into the water. Then your smoke is pulled into the horizontal slitted glass tube known as an inline percolator. Percolator slits split your smoke into many tiny bubbles. 
-
-<h4 class="heading-center">Smaller smoke bubbles = more leverage over cooling, filtering, and vaporizing your hits.</h4>
-
-This really just comes down to the fact that an equal amount of smoke divided and seperated into a larger quantity of bubbles would have more overall surface area than fewer large bubbles - giving the water more leverage over these smoke bubbles.
-
-After being broken up into smaller pieces the smoke is sent upward through the chamber and is fed through the double ring tree perc. The tree percolator consists of two layers of arms with two slits at the bottom of each. When water and smoke pass through these slits, like with the inline perc, the smoke bubbles are divided and cooled.
-
-H2O is a *polar molecule*. This means that water magnetically attracts and removes polar contaminants from your smoke, which leaves you with cleaner and smoother tokes (ash/tar/herb). 
-
-At the same time as magnetically removing contaminants molecularly, the temprature difference forces cool water to create steam when mixing with your hot smoke bubbles. This process is very effective at hydrating the harshness of hot smoke; resulting in smooth, vapor-like inhales. 
-
-It is also worth noting that THC is a non-polar substance; so the psychoactive effect in cannabis isn't pulled out of your smoke bubbles when travelling through water.
-
-**Translation: Smaller bubbles = more effective percoation.** 
-
-So now that you know that the kholes and slits in a percolator cool and smooth your inhales by dividing, filtering, and even vaporizing your smoke:
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a>
 
 <h5 class="heading-center">The Stemless Inline with Double Ring 18-arm Perc's features:</h5>
 
@@ -149,7 +125,9 @@ Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very uni
 
 **But there's more to it.**
 
-Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> nasty particles from your smoke; this is done when bubbly smoke is pulled through hundreds of tiny holes that strain and clean your bubbles to save your lungs from inhaling as many harmful bits in your smoke.
+Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> nasty particles from your smoke; this is done when bubbly smoke is pulled through hundreds of tiny holes that strain and clean your bubbles to save your lungs from inhaling as many harmful particles in your smoke.
+
+Read our percolation rundown [Here](smokephisticated.com/percolation){:target="_blank"}.
 
 **As you've probably noticed:** 
 
@@ -185,15 +163,15 @@ This isn't by any means an essential piece to smoking herbs, but it is both help
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="img-middle" src="/img/bongs/honeycomb-disc.png"/></a>
 
-Black Leaf is well known for their scientific glass master-pieces - and this Triple Disc Honeycomb Perc is just another shining example.
+Black Leaf has a reputation for their scientific glass - and this Triple Disc Honeycomb Perc is just another example of that.
 
-When smoke travels down from the bowl and through the chamber it is forced to squeeze and strain through tiny holes - this diffuses/seperates lung-harming particles from your smoke and makes for smoother and cleaner tokes; allowing you to take bigger and more comfortable rips.
+When smoke travels down from the bowl,  through the chamber it is forced to squeeze and strain through tiny holes - this diffuses/seperates lung-harming particles from your smoke and makes for smoother and cleaner tokes; allowing you to take bigger and more comfortable rips.
 
 **But as you've noticed** this is a *triple* honeycomb percolator.. Meaning smoke is processed and filtered through these tiny holes not once, but three seperate times.
 
-<h5 class="heading-center">Safety First</h5>
+Percolation can be confusing, if you need some prospective click [Here](smokephisticated.com/percolation){:target="_blank"} to read or perc explanation.
 
-Having the ability to remove shitty pieces and parts (that don't even get you stoned) from your smoke, while keeping the full rich flavor of your strains, is a tool that every smoker should possess. 
+Having the ability to remove pieces and parts () from your smoke, while keeping the full rich flavor of your strains, is a tool that every smoker should possess. 
 
 Do yourself *and* your toking-group's lungs a favor and pick up a serious percolator like this beauty. 
 
@@ -422,7 +400,7 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="table-image" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a></td> 
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="table-image" src="/img/bongs/amsterdam-bubble.png" /></a></td> 
 		<td>Amsterdam Bubble Glass Bong</td>
 		<td>$17.99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html">Compare Lowest Prices</a></td>
@@ -443,13 +421,11 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html" target="_blank">Amsterdam Bubble Glass Bong</a> - 8.3 in / 21 cm tall - $17.99</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/Amsterdam-Bubble-Base-Glass-Bong.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/amsterdam-bubble.png" /></a>
 
 *Highly* suggested for begginers:
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece. Or, at least not yet. Pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. 
-
-mumbo [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} jumbo
 
 Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
@@ -461,7 +437,7 @@ Do you have to avoid having your pieces discovered? Or are you the adventurist t
 
 **Well, good news:**
 
-Your hiding spots, backpack, and wallet will have no problems fitting this consolidable beaker bong. 
+Your hiding spots, backpack, and wallet will have no problems fitting this mini beaker bong. 
 
 This minture beaker bong measures out to a tiny 10.5 cm (roughly hand-pipe sized), but makes sure not to sacrifice size for effectiveness.. Just watch your flame around any facial hair. Yes, it's that small.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Guide to Percolation
+title: The Percolation Rundown
 permalink: "/percolation/"
 seotitle: "Percolation Explained (2018)"
 ---
