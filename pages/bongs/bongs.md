@@ -33,7 +33,7 @@ Our bong recommendations currently consist of products from two community-truste
 
 - [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
 
-Read about the listed company's shipping policies, return policies and other information in our [About](smokephisticated.com/about){:target="_blank"} section.
+Read about the listed company's shipping policies, return policies and other information in our [About](/about){:target="_blank"} section.
 
 But why should you hear us out?
 
