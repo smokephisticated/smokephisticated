@@ -464,3 +464,9 @@ Make sure to fill your chamber with water until the liquid reaches where the bul
 Oh and don't let the simplicity or price of this piece fool you - this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
+
+[anchor test](#)
+
+### <a name="head1234"></a>A Heading in this SO entry!
+
+and we can even [link](#head1234) to it so:
