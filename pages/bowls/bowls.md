@@ -9,6 +9,8 @@ seotitle: "5 Best Bowls for Your Buck (2018)"
 
 The purpose of this guide is to introduce smokers to a diverse list of the most popular and highest quality tabacco/medical herb bowls.
 
+### <a name="bongdirectory"></a>Directory by Price
+
 [Bowl Recommendations under 160$](#headbbu160)
 
 [Bowl Recommendations under $100](#headbbu100)
