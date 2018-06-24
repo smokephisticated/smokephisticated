@@ -434,7 +434,7 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a></td>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="table-image" src="/img/bongs/acrylic-bubble.png" /></a></td>
 		<td>Acrylic Bubble Water Pipe</td>
 		<td>$14.99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html">Compare Lowest Prices</a></td>
@@ -467,7 +467,7 @@ This bong is made from borosilicate glass, and features a beaker base for surfac
 
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - 7 in / 18 cm tall - $14.99</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Acrylic-Bubble-Base-Water-Pipe-Colored.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/acrylic-bubble.png" /></a>
 
 Now, for the cheapest in price, but still a very solid little pipe standing at 18 cm.
 
