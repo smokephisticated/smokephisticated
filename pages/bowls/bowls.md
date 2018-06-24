@@ -7,9 +7,9 @@ seotitle: "5 Best Bowls for Your Buck (2018)"
 
 <h2 class="heading-center">We're here to guide you to your next bowl/hand pipe purchase</h2> 
 
-The purpose of this guide is to introduce smokers to a diverse list of the most popular and highest quality tabacco/medical herb bowls.
+The purpose of this guide is to introduce smokers to a diverse list of the most popular and highest quality tabacco/medical herb bowls within multiple online headshops.
 
-### <a name="bongdirectory"></a>Directory by Price
+### <a name="bowldirectory"></a>Product Table Directory, by Price
 
 [Bowl Recommendations under 160$](#headbbu160)
 
@@ -45,9 +45,11 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
+**[Directory Shortcut](#bowldirectory)**
+
 ### <a name="headbbu160"></a>Best Bongs Under $160
 
-<h2 class="heading-center">Best Bowls Under $160:</h2>
+<h2 name="headbbu160" class="heading-center">Best Bowls Under $160:</h2>
 
 <table class="basic-table">
 	<tr>
@@ -82,7 +84,9 @@ What says smokephistication more than a
 
 Jane West intro sentence
 
-### <a name="headbbu100"></a>Best Bongs Under $100
+**[Directory Shortcut](#bowldirectory)**
+
+### <a name="headbbu100"></a>Best Bowls Under $100
 
 <h2 class="heading-center">Best Bowls Under $100:</h2>
 
@@ -131,7 +135,9 @@ Downstem length: 11cm
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html"><img alt="Sherlock Handpipe White on Cobalt-glass" class="img-middle" src="/img/bowls/sherlock-white-collage.png" /></a>
 
-### <a name="headbbu50"></a>Best Bongs Under $50
+**[Directory Shortcut](#bowldirectory)**
+
+### <a name="headbbu50"></a>Best Bowls Under $50
 
 <h2 class="heading-center">Best Bowls Under $50:</h2>
 
@@ -160,7 +166,9 @@ https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-
 <a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f">Gold Pipe Piece</a>
 <a target="_blank" href="https://www.originalpiecepipe.com/?afmc=2f">Home Page Test</a>
 
-### <a name="headbbu25"></a>Best Bongs Under $25
+**[Directory Shortcut](#bowldirectory)**
+
+### <a name="headbbu25"></a>Best Bowls Under $25
 
 <h2 class="heading-center">Best Bowls Under $25:</h2>
 
@@ -197,3 +205,4 @@ Fisherman's Friend intro sentence.
 
 Glass Shabong Steamroller intro sentence.
 
+**[Directory Shortcut](#bowldirectory)**

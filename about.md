@@ -10,11 +10,22 @@ Online shopping can be very *in your face* - so to speak.
 
 However, we understand that the choice to invest in something is entirely up to you - Smokephisticated exists to deliver diverse recommendations on products from **these** listed sources:
 
-Grasscity.com
+Dankstop.com
+
+https://dankstop.com/pages/shipping-policy?aff=1112
+
+https://dankstop.com/pages/return-policy?aff=1112
 
 Dopeboo.com
 
+Grasscity.com
+
+https://support.grasscity.com/hc/en-us/articles/210533583
+
 Piecepipe.com
+
+**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself * wink wink *
+
 
 The main basis of our recommendations stem from the smoking community itself. We use customer reviews (and our own honest judgment) to find only the *overall* best smoking products for our readers to browse.
 

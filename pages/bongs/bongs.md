@@ -5,6 +5,8 @@ permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018"
 ---
 
+### <a name="bongdirectory"></a>Product Table Directory, by Price
+
 [Bong Recommendations under $140](#headbbu140)
 
 [Bong Recommendations under $100](#headbbu100)
@@ -59,6 +61,8 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 <h3 class="heading-center">Please Note:</h3> 
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
+
+**[Directory Shortcut](#bongdirectory)**
 
 ### <a name="headbbu140"></a>Best Bongs Under $140
 
@@ -210,6 +214,8 @@ Do yourself *and* your toking-group's lungs a favor and pick up a serious percol
 
 * Rounded smooth edges for comfortable mouth purchasing.
 
+**[Directory Shortcut](#bongdirectory)**
+
 ### <a name="headbbu100"></a>Best Bongs Under $100
 
 <h2 class="heading-center">Best bongs under $100</h2>
@@ -254,6 +260,8 @@ This bong has a variety of features including:
 **What you need to know about percolation:**
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This process of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker t o read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
+
+**[Directory Shortcut](#bongdirectory)**
 
 ### <a name="headbbu75"></a>Best Bongs Under $75
 
@@ -302,6 +310,8 @@ With a sleek design and a reputably effective build - this 30 cm German engineer
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs.
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke.
+
+**[Directory Shortcut](#bongdirectory)**
 
 ### <a name="headbbu50"></a>Best Bongs Under $50
 
@@ -404,6 +414,8 @@ Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankSto
 
 ### <a name="headbbu20"></a>Best Bongs Under $20
 
+**[Directory Shortcut](#bongdirectory)**
+
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
 **Who said that you had to sacrifice quality for affordability?** 
@@ -486,3 +498,5 @@ Make sure to fill your chamber with water until the liquid reaches where the bul
 Oh and don't let the simplicity or price of this piece fool you - this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
+
+**[Directory Shortcut](#bongdirectory)**
