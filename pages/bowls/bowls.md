@@ -7,19 +7,17 @@ seotitle: "5 Best Bowls for Your Buck (2018)"
 
 <h2 class="heading-center">We're here to guide you to your next bowl/hand pipe purchase</h2> 
 
-The purpose of this guide is to introduce smokers to a diverse list of the most popular and highest quality tabacco/medical herb bowls within multiple online headshops.
+The purpose of this guide is to introduce smokers to a diverse list of the most reputably high quality tabacco/medical herb bowls within multiple online headshops.
 
-**To save you some time** - We've made a shortcut directory to help navigate products by price range. Find it  **[Here](#bowldirectory)**
+Feel free to utilize our **[Table of Contents](#bowldirectory)** to save yourself some time and quickly navigate product selection by price range.
 
-But first, why should you hear us out?
+Don't waste your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a piece you love with a simple, yet detailed description that informs you of everything you should know before your purchase.
 
 <h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
 
 We search for the highest quality bowls by looking directly at genuine customer feedback. These reviews come from real stoners that have gone through the exact deciding process as you are now, and were satisfied enough to leave glowing reviews and recommendations.
 
 <img alt="Rating Example" class="img-middle" src="/img/bowls/rating-example.png" />
-
-Stop wasting your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a piece you love with a simple, yet detailed description that informs you of everything you should know before your purchase.
 
 Our suggestions stem from three community-trusted sites:
 
