@@ -11,13 +11,13 @@ The purpose of this guide is to introduce smokers to a diverse list of the most 
 
 Feel free to utilize our **[Table of Contents](#bowldirectory)** to save yourself some time and quickly navigate product selection by price range.
 
-Don't waste your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a piece you love with a simple, yet detailed description that informs you of everything you should know before your purchase.
-
 <h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
 
 We search for the highest quality bowls by looking directly at genuine customer feedback. These reviews come from real stoners that have gone through the exact deciding process as you are now, and were satisfied enough to leave glowing reviews and recommendations.
 
 <img alt="Rating Example" class="img-middle" src="/img/bowls/rating-example.png" />
+
+Don't waste your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a reasonably priced piece you love, with an informative description.
 
 Our suggestions stem from three community-trusted sites:
 
@@ -35,9 +35,9 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
-**[Directory Shortcut](#bowldirectory)**
-
 ### <a name="headbbu160"></a>Best Bongs Under $160
+
+**[Directory Shortcut](#bowldirectory)**
 
 <h2 name="headbbu160" class="heading-center">Best Bowls Under $160:</h2>
 
@@ -74,9 +74,9 @@ What says smokephistication more than a
 
 Jane West intro sentence
 
-**[Directory Shortcut](#bowldirectory)**
-
 ### <a name="headbbu100"></a>Best Bowls Under $100
+
+**[Directory Shortcut](#bowldirectory)**
 
 <h2 class="heading-center">Best Bowls Under $100:</h2>
 
@@ -125,9 +125,9 @@ Downstem length: 11cm
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html"><img alt="Sherlock Handpipe White on Cobalt-glass" class="img-middle" src="/img/bowls/sherlock-white-collage.png" /></a>
 
-**[Directory Shortcut](#bowldirectory)**
-
 ### <a name="headbbu50"></a>Best Bowls Under $50
+
+**[Directory Shortcut](#bowldirectory)**
 
 <h2 class="heading-center">Best Bowls Under $50:</h2>
 
@@ -156,9 +156,9 @@ https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-
 <a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f">Gold Pipe Piece</a>
 <a target="_blank" href="https://www.originalpiecepipe.com/?afmc=2f">Home Page Test</a>
 
-**[Directory Shortcut](#bowldirectory)**
-
 ### <a name="headbbu25"></a>Best Bowls Under $25
+
+**[Directory Shortcut](#bowldirectory)**
 
 <h2 class="heading-center">Best Bowls Under $25:</h2>
 
