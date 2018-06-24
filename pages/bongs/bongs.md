@@ -5,6 +5,8 @@ permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018"
 ---
 
+### <a name="head1234"></a>A Heading in this SO entry!
+
 <h2 class="heading-center">Here's the facts:</h2>
 
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
@@ -467,6 +469,5 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 [anchor test](#)
 
-### <a name="head1234"></a>A Heading in this SO entry!
 
 and we can even [link](#head1234) to it so:
