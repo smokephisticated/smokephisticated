@@ -5,7 +5,15 @@ permalink: "/bongs/"
 seotitle: "Best Cheap Bongs for Your Money in 2018"
 ---
 
-### <a name="head1234"></a>A Heading in this SO entry!
+[Bong Recommendations under $140](#headbbu140)
+
+[Bong Recommendations under $100](#headbbu100)
+
+[Bong Recommendations under $75](#headbbu75)
+
+[Bong Recommendations under $50](#headbbu50)
+
+[Bong Recommendations under $20](#headbbu20)
 
 <h2 class="heading-center">Here's the facts:</h2>
 
@@ -37,9 +45,12 @@ Our bong recommendations currently consist of products from two community-truste
 
 Read about the listed company's shipping policies, return policies and other information in our [About](/about){:target="_blank"} section.
 
-But why should you hear us out?
 
-<h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
+So, why should you hear us out?
+
+These aren't *just* our recommendations.
+
+<h5 class="heading-center">Our selection is sourced straight from the community:</h5>
 
 Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact deciding process as you are now.
 
@@ -48,6 +59,8 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 <h3 class="heading-center">Please Note:</h3> 
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
+
+### <a name="headbbu140"></a>Best Bongs Under $140
 
 <h2 class="heading-center">Best bongs under $140</h2>
 
@@ -197,6 +210,8 @@ Do yourself *and* your toking-group's lungs a favor and pick up a serious percol
 
 * Rounded smooth edges for comfortable mouth purchasing.
 
+### <a name="headbbu100"></a>Best Bongs Under $100
+
 <h2 class="heading-center">Best bongs under $100</h2>
 
 Below you will find highly rated sub-$100 bongs on the market right now.
@@ -239,6 +254,8 @@ This bong has a variety of features including:
 **What you need to know about percolation:**
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This process of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker t o read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
+
+### <a name="headbbu75"></a>Best Bongs Under $75
 
 <h2 class="heading-center">Best bongs under $75</h2>
 
@@ -285,6 +302,8 @@ With a sleek design and a reputably effective build - this 30 cm German engineer
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs.
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke.
+
+### <a name="headbbu50"></a>Best Bongs Under $50
 
 <h2 class="heading-center">Best bongs under $50</h2>
 
@@ -383,6 +402,7 @@ Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankSto
 
 * Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
 
+### <a name="headbbu20"></a>Best Bongs Under $20
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
@@ -466,8 +486,3 @@ Make sure to fill your chamber with water until the liquid reaches where the bul
 Oh and don't let the simplicity or price of this piece fool you - this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
-
-[anchor test](#)
-
-
-and we can even [link](#head1234) to it so:
