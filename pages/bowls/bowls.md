@@ -9,17 +9,9 @@ seotitle: "5 Best Bowls for Your Buck (2018)"
 
 The purpose of this guide is to introduce smokers to a diverse list of the most popular and highest quality tabacco/medical herb bowls within multiple online headshops.
 
-### <a name="bowldirectory"></a>Product Table Directory, by Price
+**To save you some time** - We've made a shortcut directory to help navigate products by price range. Find it  **[Here](#bowldirectory)**
 
-[Bowl Recommendations under 160$](#headbbu160)
-
-[Bowl Recommendations under $100](#headbbu100)
-
-[Bowl Recommendations under $50](#headbbu50)
-
-[Bowl Recommendations under $25](#headbbu25)
-
-& why should you hear us out?
+But first, why should you hear us out?
 
 <h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
 
@@ -205,4 +197,12 @@ Fisherman's Friend intro sentence.
 
 Glass Shabong Steamroller intro sentence.
 
-**[Directory Shortcut](#bowldirectory)**
+### <a name="bowldirectory"></a>Product Table Directory, by Price
+
+[Bowl Recommendations under 160$](#headbbu160)
+
+[Bowl Recommendations under $100](#headbbu100)
+
+[Bowl Recommendations under $50](#headbbu50)
+
+[Bowl Recommendations under $25](#headbbu25)
