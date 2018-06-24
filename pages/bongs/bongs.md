@@ -48,7 +48,7 @@ Read about the listed company's shipping policies, return policies and other inf
 
 So, why should you hear us out?
 
-These aren't *just* our recommendations.
+These aren't just *our* recommendations.
 
 <h5 class="heading-center">Our selection is sourced straight from the community:</h5>
 
