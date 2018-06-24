@@ -9,7 +9,7 @@ seotitle: "Best Cheap Bongs for Your Money in 2018"
 
 <h2 id="First_Point_Header">First Point Header</h2>
 
-div id="toc_container">
+<div id="toc_container">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
   <li><a href="#First_Point_Header">1 First Point Header</a>
