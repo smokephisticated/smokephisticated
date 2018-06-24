@@ -60,9 +60,9 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Marley Walnut Wood Bubbler</a> 5.75" H x 5.75" L x 1.75" W - $159</h2>
 
-<a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" /></a>
+<a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut-collage.png" /></a>
 
-Marley Walnut intro sentence
+What says smokephistication more than a 
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43">Grav Labs Upright Bubbler Pipe by Jane West</a> 5.5" tall - $129.99</h2>
 
