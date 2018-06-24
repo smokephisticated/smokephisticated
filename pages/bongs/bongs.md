@@ -12,14 +12,35 @@ seotitle: "Best Cheap Bongs for Your Money in 2018"
 <div id="toc_container">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
-  <li><a href="#First_Point_Header">1 First Point Header</a>
+ <li><a href="#headbbu140">Bong Recommendations under $140</a>
   <ul>
-    <li><a href="#First_Sub_Point_1">1.1 First Sub Point 1</a></li>
-    <li><a href="#First_Sub_Point_2">1.2 First Sub Point 2</a></li>
+    <li><a href="#headbbu140"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>  <li><a href="#headbbu100">Bong Recommendations under $100</a>
+  <ul>
+    <li><a href="#headbbu100"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+  <li><a href="#headbbu75">Bong Recommendations under $75</a>
+  <ul>
+    <li><a href="#headbbu75"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
   </ul>
 </li>
-<li><a href="#Second_Point_Header">2 Second Point Header</a></li>
-<li><a href="#Third_Point_Header">3 Third Point Header</a></li>
+  <li><a href="#headbbu50">Bong Recommendations under $50</a>
+  <ul>
+    <li><a href="#headbbu50"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu20">Bong Recommendations under $20</a>
+  <ul>
+    <li><a href="#headbbu20"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
 </ul>
 </div>
 
