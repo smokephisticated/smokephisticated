@@ -10,21 +10,32 @@ Online shopping can be very *in your face* - so to speak.
 
 However, we understand that the choice to invest in something is entirely up to you - Smokephisticated exists to deliver diverse recommendations on products from **these** listed sources:
 
-Dankstop.com
-
-[Shipping Policy](https://dankstop.com/pages/shipping-policy?aff=1112){:_blank}
-
-Dankstop [Return Policy](https://dankstop.com/pages/return-policy?aff=1112")
-
-[Dopeboo.com](Dopeboo.com)
-
-[Grasscity.com](Grasscity.com)
-
-Grasscity [Shipping and Tracking](https://support.grasscity.com/hc/en-us/sections/203027426-Shipping-Tracking)
-
-[Piecepipe.com](piecepipe.com)
-
-Piece Pipe [General Info](https://www.originalpiecepipe.com/pages/shipping)
+<div id="toc_container">
+<p class="toc_title"></p>
+<ul class="toc_list">
+ <li><a target="_blank" href="dankstop.com?af=1112">Dankstop.com</a>
+  <ul>
+    <li><a target="_blank" href="https://dankstop.com/pages/faq?aff=1112">FAQ's/General Info</a></li>
+    <li><a target="_blank" href="https://dankstop.com/pages/contact-us?aff=1112">Contact</a></li>
+  </ul>
+ </li>
+ <li><a target="_blank" href="Dopeboo.com?aff=43">Dopeboo.com</a></li>
+  <ul>
+    <li><a target="_blank" href="https://www.dopeboo.com/pages/shipping-policy-at-dopeboo">Shipping Policy</a></li>
+    <li><a target="_blank" href="https://www.dopeboo.com/pages/refund-and-return-policy"></a>Refunds and Returns</li>
+    <li><a target="_blank" href="https://www.dopeboo.com/pages/contact-us"></a>Contact</li>
+  </ul>
+ <li><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a></li>
+  <ul>
+    <li><a target="_blank" href="https://support.grasscity.com/hc/en-us">Support/General Info</a></li>
+  </ul>
+ <li><a target="_blank" href="https://www.originalpiecepipe.com/?afmc=2f">Piecepipe.com</a>
+  <ul>
+  	<li><a target="_blank" href="https://www.originalpiecepipe.com/pages/shipping?afmc=2f"></a>FAQ's/General Info</li>
+  	<li><a target="_blank" href="https://www.originalpiecepipe.com/pages/about-us?afmc=2f">Contact</a></li>
+ </li>
+</ul>
+</div>
 
 Discreet packaging is also the norm for all shops. You will recieve your products packed into an unmarked package with no indication of what you're ordering.
 
