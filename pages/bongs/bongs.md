@@ -1,13 +1,11 @@
 ---
 layout: page
-title: "Bongs to Provide the Best High for Your Supply" 
+title: "Reputably Quality Bongs/Waterpipes for Your Money - 2018" 
 permalink: "/bongs/"
-seotitle: "Best Cheap Bongs for Your Money in 2018"
+seotitle: "15 Best Cheap Bongs/Waterpipes for Your Money in 2018"
 ---
 
-### <a name="bongdirectory"></a>Product Table Directory, by Price
-
-<h2 id="First_Point_Header">First Point Header</h2>
+<h2 id="bong-directory">Product Table Directory, by Price</h>
 
 <div id="toc_container">
 <p class="toc_title">Contents</p>
@@ -17,7 +15,8 @@ seotitle: "Best Cheap Bongs for Your Money in 2018"
     <li><a href="#headbbu140"></a></li>
     <li><a href="#First_Sub_Point_2"></a></li>
   </ul>
- </li>  <li><a href="#headbbu100">Bong Recommendations under $100</a>
+ </li>
+ <li><a href="#headbbu100">Bong Recommendations under $100</a>
   <ul>
     <li><a href="#headbbu100"></a></li>
     <li><a href="#First_Sub_Point_2"></a></li>
@@ -44,17 +43,7 @@ seotitle: "Best Cheap Bongs for Your Money in 2018"
 </ul>
 </div>
 
-[Bong Recommendations under $140](#headbbu140)
-
-[Bong Recommendations under $100](#headbbu100)
-
-[Bong Recommendations under $75](#headbbu75)
-
-[Bong Recommendations under $50](#headbbu50)
-
-[Bong Recommendations under $20](#headbbu20)
-
-<h2 class="heading-center">Here's the facts:</h2>
+<h2 class="heading-center">Let's be Honest,</h2>
 
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
 
@@ -99,7 +88,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
-**[Directory Shortcut](#bongdirectory)**
+**[Directory Shortcut](#bong-directory)**
 
 ### <a name="headbbu140"></a>Best Bongs Under $140
 
@@ -251,7 +240,7 @@ Do yourself *and* your toking-group's lungs a favor and pick up a serious percol
 
 * Rounded smooth edges for comfortable mouth purchasing.
 
-**[Directory Shortcut](#bongdirectory)**
+**[Directory Shortcut](#bong-directory)**
 
 ### <a name="headbbu100"></a>Best Bongs Under $100
 
@@ -298,7 +287,7 @@ This bong has a variety of features including:
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This process of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker t o read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
 
-**[Directory Shortcut](#bongdirectory)**
+**[Directory Shortcut](#bong-directory)**
 
 ### <a name="headbbu75"></a>Best Bongs Under $75
 
@@ -348,7 +337,7 @@ With a sleek design and a reputably effective build - this 30 cm German engineer
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke.
 
-**[Directory Shortcut](#bongdirectory)**
+**[Directory Shortcut](#bong-directory)**
 
 ### <a name="headbbu50"></a>Best Bongs Under $50
 
@@ -451,7 +440,7 @@ Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankSto
 
 ### <a name="headbbu20"></a>Best Bongs Under $20
 
-**[Directory Shortcut](#bongdirectory)**
+**[Directory Shortcut](#bong-directory)**
 
 <h2 class="heading-center">Best Bongs Under $20</h2>
 
@@ -536,4 +525,4 @@ Oh and don't let the simplicity or price of this piece fool you - this bubble bo
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
 
-**[Directory Shortcut](#bongdirectory)**
+**[Directory Shortcut](#bong-directory)**

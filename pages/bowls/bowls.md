@@ -1,15 +1,45 @@
 ---
 layout: page
-title: Bowls
+title: "Reputably Quality Bowls/Handpipes for Your Money - 2018"
 permalink: "/bowls/"
-seotitle: "5 Best Bowls for Your Buck (2018)"
+seotitle: "13 Best Cheap Bowls/Handpipes for Your Money in 2018"
 ---
+
+<h2 id="bowl-directory">Product Table Directory, by Price</h>
+
+<div id="toc_container">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+ <li><a href="#headbbu160">Bowl Recommendations under $160</a>
+  <ul>
+    <li><a href="#headbbu160"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>  
+ <li><a href="#headbbu100">Bowl Recommendations under $100</a>
+  <ul>
+    <li><a href="#headbbu100"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+  <li><a href="#headbbu50">Bowl Recommendations under $50</a>
+  <ul>
+    <li><a href="#headbbu50"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu25">Bowl Recommendations under $25</a>
+  <ul>
+    <li><a href="#headbbu25"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+</ul>
+</div>
 
 <h2 class="heading-center">We're here to guide you to your next bowl/hand pipe purchase</h2> 
 
 The purpose of this guide is to introduce smokers to a diverse list of the most reputably high quality tabacco/medical herb bowls within multiple online headshops.
-
-Feel free to utilize our **[Table of Contents](#bowldirectory)** to save yourself some time and quickly navigate product selection by price range.
 
 <h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
 
@@ -37,7 +67,7 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 
 ### <a name="headbbu160"></a>Best Bongs Under $160
 
-**[Directory Shortcut](#bowldirectory)**
+**[Directory Shortcut](#bowl-directory)**
 
 <h2 name="headbbu160" class="heading-center">Best Bowls Under $160:</h2>
 
@@ -76,7 +106,7 @@ Jane West intro sentence
 
 ### <a name="headbbu100"></a>Best Bowls Under $100
 
-**[Directory Shortcut](#bowldirectory)**
+**[Directory Shortcut](#bowl-directory)**
 
 <h2 class="heading-center">Best Bowls Under $100:</h2>
 
@@ -127,7 +157,7 @@ Downstem length: 11cm
 
 ### <a name="headbbu50"></a>Best Bowls Under $50
 
-**[Directory Shortcut](#bowldirectory)**
+**[Directory Shortcut](#bowl-directory)**
 
 <h2 class="heading-center">Best Bowls Under $50:</h2>
 
@@ -158,7 +188,7 @@ https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-
 
 ### <a name="headbbu25"></a>Best Bowls Under $25
 
-**[Directory Shortcut](#bowldirectory)**
+**[Directory Shortcut](#bowl-directory)**
 
 <h2 class="heading-center">Best Bowls Under $25:</h2>
 
@@ -196,11 +226,3 @@ Fisherman's Friend intro sentence.
 Glass Shabong Steamroller intro sentence.
 
 ### <a name="bowldirectory"></a>Product Table Directory, by Price
-
-[Bowl Recommendations under 160$](#headbbu160)
-
-[Bowl Recommendations under $100](#headbbu100)
-
-[Bowl Recommendations under $50](#headbbu50)
-
-[Bowl Recommendations under $25](#headbbu25)
