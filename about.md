@@ -33,6 +33,7 @@ However, we understand that the choice to invest in something is entirely up to 
   <ul>
   	<li><a target="_blank" href="https://www.originalpiecepipe.com/pages/shipping?afmc=2f"></a>FAQ's/General Info</li>
   	<li><a target="_blank" href="https://www.originalpiecepipe.com/pages/about-us?afmc=2f">Contact</a></li>
+  </ul>
  </li>
 </ul>
 </div>
