@@ -15,24 +15,24 @@ However, we understand that the choice to invest in something is entirely up to 
 <ul class="toc_list">
  <li><a target="_blank" href="dankstop.com?af=1112">Dankstop.com</a>
   <ul>
-    <li><a target="_blank" href="https://dankstop.com/pages/faq?aff=1112">FAQ's/General Info</a></li>
-    <li><a target="_blank" href="https://dankstop.com/pages/contact-us?aff=1112">Contact</a></li>
+    <li>-<a target="_blank" href="https://dankstop.com/pages/faq?aff=1112">FAQ's/General Info</a></li>
+    <li>-<a target="_blank" href="https://dankstop.com/pages/contact-us?aff=1112">Contact</a></li>
   </ul>
  </li>
  <li><a target="_blank" href="Dopeboo.com?aff=43">Dopeboo.com</a></li>
   <ul>
-    <li><a target="_blank" href="https://www.dopeboo.com/pages/shipping-policy-at-dopeboo">Shipping Policy</a></li>
-    <li><a target="_blank" href="https://www.dopeboo.com/pages/refund-and-return-policy">Refunds and Returns</a></li>
-    <li><a target="_blank" href="https://www.dopeboo.com/pages/contact-us">Contact</a></li>
+    <li>-<a target="_blank" href="https://www.dopeboo.com/pages/shipping-policy-at-dopeboo">Shipping Policy</a></li>
+    <li>-<a target="_blank" href="https://www.dopeboo.com/pages/refund-and-return-policy">Refunds and Returns</a></li>
+    <li>-<a target="_blank" href="https://www.dopeboo.com/pages/contact-us">Contact</a></li>
   </ul>
  <li><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/">Grasscity.com</a></li>
   <ul>
-    <li><a target="_blank" href="https://support.grasscity.com/hc/en-us">Support/General Info</a></li>
+    <li>-<a target="_blank" href="https://support.grasscity.com/hc/en-us">Support/General Info</a></li>
   </ul>
  <li><a target="_blank" href="https://www.originalpiecepipe.com/?afmc=2f">Piecepipe.com</a>
   <ul>
-  	<li><a target="_blank" href="https://www.originalpiecepipe.com/pages/shipping?afmc=2f">FAQ's/General Info</a></li>
-  	<li><a target="_blank" href="https://www.originalpiecepipe.com/pages/about-us?afmc=2f">Contact</a></li>
+  	<li>-<a target="_blank" href="https://www.originalpiecepipe.com/pages/shipping?afmc=2f">FAQ's/General Info</a></li>
+  	<li>-<a target="_blank" href="https://www.originalpiecepipe.com/pages/about-us?afmc=2f">Contact</a></li>
   </ul>
  </li>
 </ul>
