@@ -12,20 +12,21 @@ However, we understand that the choice to invest in something is entirely up to 
 
 Dankstop.com
 
-https://dankstop.com/pages/shipping-policy?aff=1112
+[Shipping Policy](https://dankstop.com/pages/shipping-policy?aff=1112){:_blank}
 
-https://dankstop.com/pages/return-policy?aff=1112
+Dankstop [Return Policy](https://dankstop.com/pages/return-policy?aff=1112")
 
-Dopeboo.com
+[Dopeboo.com](Dopeboo.com)
 
-Grasscity.com
+[Grasscity.com](Grasscity.com)
 
-https://support.grasscity.com/hc/en-us/articles/210533583
+Grasscity [Shipping and Tracking](https://support.grasscity.com/hc/en-us/sections/203027426-Shipping-Tracking)
 
-Piecepipe.com
+[Piecepipe.com](piecepipe.com)
 
-**Discreet packaging is also the norm for both shops** - just in case you'd rather keep your shopping habits to yourself * wink wink *
+Piece Pipe [General Info](https://www.originalpiecepipe.com/pages/shipping)
 
+Discreet packaging is also the norm for all shops. You will recieve your products packed into an unmarked package with no indication of what you're ordering.
 
 The main basis of our recommendations stem from the smoking community itself. We use customer reviews (and our own honest judgment) to find only the *overall* best smoking products for our readers to browse.
 
