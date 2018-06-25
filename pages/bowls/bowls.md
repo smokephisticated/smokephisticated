@@ -5,7 +5,7 @@ permalink: "/bowls/"
 seotitle: "13 Best Cheap Bowls/Handpipes for Your Money in 2018"
 ---
 
-<h2 id="bowl-directory">Product Table Directory, by Price</h>
+<h5 id="bowl-directory">Product Table Directory, by Price</h5>
 
 <div id="toc_container">
 <p class="toc_title">Contents</p>

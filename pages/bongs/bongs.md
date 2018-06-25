@@ -5,7 +5,7 @@ permalink: "/bongs/"
 seotitle: "15 Best Cheap Bongs/Waterpipes for Your Money in 2018"
 ---
 
-<h2 id="bong-directory">Product Table Directory, by Price</h>
+<h5 id="bong-directory">Product Table Directory, by Price</h5>
 
 <div id="toc_container">
 <p class="toc_title">Contents</p>
