@@ -2,7 +2,7 @@
 layout: page
 title: "Reputably Quality Bowls/Handpipes for Your Money - 2018"
 permalink: "/bowls/"
-seotitle: "13 Best Cheap Bowls/Handpipes for Your Money in 2018"
+seotitle: "13 Best Cheap Weed Pipes / Bowls for Your Money in 2018"
 ---
 
 <h5 id="bowl-directory">Product Table Directory, by Price</h5>
@@ -81,7 +81,7 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 	<tr>
 		<td><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43" ><img alt="Jet Flash System" class="table-image" src="/img/bowls/marley-walnut.png"></a></td>
 		<td>Marley Walnut Bubbler</td>
-		<td>$159</td>
+		<td>$159.99</td>
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Purchase Info</a></td>
 	</tr>
 	<tr>
@@ -92,17 +92,51 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Marley Walnut Wood Bubbler</a> 5.75" H x 5.75" L x 1.75" W - $159</h2>
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Marley Walnut Wood Bubbler</a> 5.75" H x 5.75" L x 1.75" W - $159.99</h2>
 
 <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut-collage.png" /></a>
 
-What says smokephistication more than a 
+**Conscientious and natural.**
+
+Marley Natural incorporates borosilicate glass and sustainably grown American Black Walnut wood to deliver a simplistic and smokephisticated bubbler that will harmonize on any shelf or in any toking rotation.
+
+Named after Bob Marley - Marley Natural has selections of herb, accessories, and natural body care products that they proudly advertise as responsibly sourced and integrety driven.
+
+Features equipped by this Reggae icon-inspired bubbler:
+
+* Cooperative with Cleaning and Travel - Wheather it be through unscrewing or simply pulling pieces apart, this bubbler disasembles into 5 seperate parts to make cleaning a breeze.
+
+* Choose - Toke dry, or add water and utilize the premium globe-shaped percolator at the end of the downstem for mellow rips.
+
+Sold here from [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}, this bubbler is originates from Marley Naturals.
+
+Learn more about the Marley Natural-supported causes, [Rise Up](https://www.marleynatural.com/rise-up){:"_blank"}.
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43">Grav Labs Upright Bubbler Pipe by Jane West</a> 5.5" tall - $129.99</h2>
 
 <a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43"><img alt="Grav Labs Upright Bubbler Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-collage.png" /></a>
 
-Jane West intro sentence
+Jane West and Grav collaberate to create The Bubbler.
+
+What maeks Jane Wests' rendition of the bubbler so unique?
+
+For one, Jane - sources the world's purest silica, utilizes blue cobalt ore, and backs a crafting team with decades of experience to create the cleanest scientifically engineered borosilicate glass tinted with it's signiture blue hue. This glass is thoughtfully used in the Grav/Jane West collaberation to ensure their products are highest quality in the market. 
+
+Besides quality that you can expect out of every piece, the Jane West Bubbler hosts a relaxing ergonomic design in all aspects:
+
+* Easy to hold, convenient to hit and clear
+
+* Carb hole for clearing to fill the body with water for percolation (located left of the bowl)
+
+* Comfortably designed mouthpiece
+
+* Cool soothing blue hue color
+
+* Large and solid base for easy sitting and setting
+
+* Deep, centralized bowl
+
+Jane West is commonly referred to as the most renowned female icon in the marijuana industry. Read more about her story [here](https://www.janewest.com/meet-jane/){:"_blank"}
 
 ### <a name="headbbu100"></a>Best Bowls Under $100
 
@@ -129,6 +163,12 @@ Jane West intro sentence
 		<td>$99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">Purchase Info</a></td>
 	</tr>
+		<tr>
+		<td><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43" ><img alt="Grav Labs Spoon Pipe by Jane West" class="table-image" src="/img/bowls/jane-west-spoon.png"></a></td></td>
+		<td>Jane West Spoon Pipe</td>
+		<td>$59.99</td>
+		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43">Purchase Info</a></td></td>
+	</tr>
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html">Jet Flash System</a> - 19 cm/7.5" L - $99</h2>
@@ -154,6 +194,14 @@ Downstem length: 11cm
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">White Cobalt Sherlock Glass Handpipe</a> -  12.7 cm / 5" L - $99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html"><img alt="Sherlock Handpipe White on Cobalt-glass" class="img-middle" src="/img/bowls/sherlock-white-collage.png" /></a>
+
+White Cobalt Sherlock Glass Handpipe intro sentence
+
+<h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43">Grav Labs Spoon Pipe by Jane West</a> - 4.25" L - $59.99</h2>
+
+<a target="_blank" href=https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43"><img alt="Grav Labs Spoon Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-spoon.png" /></a>
+
+Grav Labs Spoon Pipe by Jane West intro sentence
 
 ### <a name="headbbu50"></a>Best Bowls Under $50
 

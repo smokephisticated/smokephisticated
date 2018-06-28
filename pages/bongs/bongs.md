@@ -218,7 +218,7 @@ Percolation can be confusing, if you need some prospective click [Here](smokephi
 
 Having the ability to remove pieces and parts () from your smoke, while keeping the full rich flavor of your strains, is a tool that every smoker should possess. 
 
-Do yourself *and* your toking-group's lungs a favor and pick up a serious percolator like this beauty. 
+Do your lungs a favor and pick up a serious percolator like this beauty. 
 
 <h5 class="heading-center">A Complete List of Features:</h5>
 
