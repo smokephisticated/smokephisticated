@@ -116,6 +116,8 @@ Sold here from [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}, t
 
 Learn more about the Marley Natural supported causes; [Rise Up](https://www.marleynatural.com/rise-up){:"_blank"}.
 
+---
+
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43">Grav Labs Upright Bubbler Pipe by Jane West</a> 5.5" tall - $129.99</h2>
 
 <a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43"><img alt="Grav Labs Upright Bubbler Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-collage.png" /></a>
@@ -143,6 +145,8 @@ Besides quality that you can expect out of every piece, the Jane West Bubbler ho
 * Deep, centralized bowl
 
 Jane West is commonly referred to as the most renowned female icon in the marijuana industry. Read more about her story [here](https://www.janewest.com/meet-jane/){:"_blank"}
+
+---
 
 ### <a name="headbbu100"></a>Best Bowls Under $100
 
