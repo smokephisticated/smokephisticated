@@ -223,7 +223,7 @@ Grav Labs Spoon Pipe by Jane West intro sentence
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/piece-pipe-table-0.jpg"></a></td>
+		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/piece-pipe-brass-table.png"></a></td>
 		<td>Piece Pipe</td>
 		<td>$39.99</td>
 		<td><a class="big-button" target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Purchase Info</a></td>
@@ -309,6 +309,30 @@ Fisherman's Friend intro sentence.
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html"><img alt="Large Glass Shabong Steamroller" class="img-middle" src="/img/bowls/shabong-steamroller-2.0.png" /></a>
 
-Glass Shabong Steamroller intro sentence.
+Simple, cheap, and effective - This Glass Shabong Steamroller is one of Grasscity's highest rated pieces in it's budget-pipe class.
 
-### <a name="bowldirectory"></a>Product Table Directory, by Price
+This Steamroller hosts a clear glass bowl that conveniently sits ontop of it's body.
+
+This piece is **not** meant to be filled with water.
+
+The Glass Shabong features:
+
+* Transparent glass
+
+* Toking hole - Use your finger or palm to cover this hole as you inhale, once the chamber fills with smoke, remove your finger to clear the smoke from the chamber - Placed at the front of the pipe, further from the bowl-piece
+
+* Carb hole for clearing - Placed at the end of the pipe, closer to the bowl-piece
+
+* Hemp leaf logo on body - Gotta represent, right?
+
+* Roll-Stopper - Located opposite of the bowl, the roll-stopper literally prevents your piece from rolling and spilling your bud
+
+* Rimmed mouth piece
+
+* Ships with metal screens - This piece works much better with a screen sitting in the bowl. Pick up a few extras [here], and save yourself from having to spit out ash and herb later.
+
+& as you've hopefully noticed, this piece isn't actually *large*, but rather the larger version of itself. See the even smaller [small shabong](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/small-glass-shabong.html){:"_blank"}
+
+--------
+
+**[Directory Shortcut](#bowl-directory)**
