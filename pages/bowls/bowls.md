@@ -98,19 +98,23 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 
 **Conscientious and natural.**
 
-Marley Natural incorporates borosilicate glass and sustainably grown American Black Walnut wood to deliver a simplistic and smokephisticated bubbler that will harmonize on any shelf or in any toking rotation.
+Marley Natural incorporates borosilicate glass and sustainably grown American Black Walnut wood to deliver a sophisticated bubbler that will harmonize on any shelf or in any toking rotation.
 
 Named after Bob Marley - Marley Natural has selections of herb, accessories, and natural body care products that they proudly advertise as responsibly sourced and integrety driven.
 
-Features equipped by this Reggae icon-inspired bubbler:
+Features & Pieces equipped by this Reggae icon-inspired bubbler:
+
+* Made from a combination of American Black Walnut wood and borosilicate glass.
+
+* Jamaican inspired style.
 
 * Cooperative with Cleaning and Travel - Wheather it be through unscrewing or simply pulling pieces apart, this bubbler disasembles into 5 seperate parts to make cleaning a breeze.
 
-* Choose - Toke dry, or add water and utilize the premium globe-shaped percolator at the end of the downstem for mellow rips.
+* Choose to toke dry - or add water and utilize the premium globe-shaped percolator at the end of the downstem for mellow rips.
 
 Sold here from [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}, this bubbler is originates from Marley Naturals.
 
-Learn more about the Marley Natural-supported causes, [Rise Up](https://www.marleynatural.com/rise-up){:"_blank"}.
+Learn more about the Marley Natural supported causes; [Rise Up](https://www.marleynatural.com/rise-up){:"_blank"}.
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43">Grav Labs Upright Bubbler Pipe by Jane West</a> 5.5" tall - $129.99</h2>
 
@@ -118,9 +122,11 @@ Learn more about the Marley Natural-supported causes, [Rise Up](https://www.marl
 
 Jane West and Grav collaberate to create The Bubbler.
 
-What maeks Jane Wests' rendition of the bubbler so unique?
+So, what makes Jane Wests' rendition of the bubbler so unique?
 
-For one, Jane - sources the world's purest silica, utilizes blue cobalt ore, and backs a crafting team with decades of experience to create the cleanest scientifically engineered borosilicate glass tinted with it's signiture blue hue. This glass is thoughtfully used in the Grav/Jane West collaberation to ensure their products are highest quality in the market. 
+For one, Jane sources the world's purest silica, utilizes blue cobalt ore, and backs a crafting team with decades of experience to create the cleanest scientifically engineered borosilicate glass tinted with it's signiture blue hue. 
+
+Grav/Jane West's selections all use this impressive glass to ensure their products are highest quality in the market. 
 
 Besides quality that you can expect out of every piece, the Jane West Bubbler hosts a relaxing ergonomic design in all aspects:
 
@@ -217,7 +223,7 @@ Grav Labs Spoon Pipe by Jane West intro sentence
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/pipe-piecep-table-0.jpg"></a></td>
+		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/piece-pipe-table-0.jpg"></a></td>
 		<td>Piece Pipe</td>
 		<td>$39.99</td>
 		<td><a class="big-button" target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Purchase Info</a></td>
@@ -226,13 +232,45 @@ Grav Labs Spoon Pipe by Jane West intro sentence
 
 <h2 class="heading-center"><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Piece Pipe</a> -  4.2" x 1.9 cm L - $39.99</h2>
 
-<a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f"><img alt="Piece Pipe Collections" class="img-middle" src="/img/bowls/piece-pipe-chrome-3.png" /></a>
+<a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f"><img alt="Piece Pipe Collections" class="img-middle" src="/img/bowls/piece-pipe-cluster.png" /></a>
 
-Pipe Piece Intro Sentence.
+The Swiss Army knife of pieces that fits on a keychain - The [Piece Pipe](https://www.originalpiecepipe.com/?afmc=2f){:"_blank"} comes equipped with four different potential modes:
 
-https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold
-<a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f">Gold Pipe Piece</a>
-<a target="_blank" href="https://www.originalpiecepipe.com/?afmc=2f">Home Page Test</a>
+* Stealth Mode - While closed, Piece Pipe is inconspicuous and odorless
+
+* Hit Mode - Pull the ring away from the pipe's body until the first click to expose the bowl itself. Pack and spark your favorite legal herb or tobacco while inhaling through the end of the pipe.
+
+* Reload Mode - When it's decided that your bowl is beat, pull the ring until you hear another click. Piece Pipe comes fitted with a stash compartment to contain up to 3 extra bowl packs to fuel your smoking venture.
+
+* Clean Mode - Seperate the outer cylinder entirely from the rest of the body to seperate the pipe into 3 different easy-to-clean pieces. Rinse with warm water, then soak in nail-polish remover and salt for the best cleaning results. Scrub with a sponge or cloth to expediate.
+
+Buy in [Chrome](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-chrome?afmc=2f){:"_blank"}, [Brass](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-brass?afmc=2f){:"_blank"} - or if you're willing to pay extra - recieve your Piece Pipe in [24K gold](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f){:"_blank"}.
+
+Piece Pipe also offers an [Engraving](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-engraving){:"_blank"} of up to five letters that come carved into your pipe (additional $10 toward purchase).
+
+Features:
+
+* Ships discreetly
+
+* Lifetime Warranty
+
+* Simply clicks apart into seperate modes
+
+* Key ring to easily pull apart/to attach to your keys, bag, necklace, or bracelet
+
+* Disassembles into 3 easy-to-clean pieces
+
+* Stash compartment, holds 3 extra bowl-packs.
+
+* Made from durable high quality metal in Sweden
+
+* Remians cool and odorless while closed
+
+* Comes in gift box
+
+* [Engraving option](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-engraving?afmc=2f){:"_blank"}
+
+Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com?afmc=2f){:"_blank"}.
 
 ### <a name="headbbu25"></a>Best Bowls Under $25
 
