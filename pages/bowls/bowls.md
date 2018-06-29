@@ -215,7 +215,7 @@ White Cobalt Sherlock Glass Handpipe intro sentence
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43">Grav Labs Spoon Pipe by Jane West</a> - 4.25" L - $59.99</h2>
 
-<a target="_blank" href=https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43"><img alt="Grav Labs Spoon Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-spoon.png" /></a>
+<a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43"><img alt="Grav Labs Spoon Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-spoon.png" /></a>
 
 Grav Labs Spoon Pipe by Jane West intro sentence
 
