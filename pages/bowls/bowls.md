@@ -65,6 +65,8 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
+---
+
 ### <a name="headbbu160"></a>Best Bongs Under $160
 
 **[Directory Shortcut](#bowl-directory)**
@@ -96,7 +98,7 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 
 <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut-collage.png" /></a>
 
-**Conscientious and natural.**
+**Natural and conscientious.**
 
 Marley Natural incorporates borosilicate glass and sustainably grown American Black Walnut wood to deliver a sophisticated bubbler that will harmonize on any shelf or in any toking rotation.
 
@@ -201,17 +203,23 @@ Attractive gift box
 14.5mm attachments
 Downstem length: 11cm
 
+---
+
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">White Cobalt Sherlock Glass Handpipe</a> -  12.7 cm / 5" L - $99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html"><img alt="Sherlock Handpipe White on Cobalt-glass" class="img-middle" src="/img/bowls/sherlock-white-collage.png" /></a>
 
 White Cobalt Sherlock Glass Handpipe intro sentence
 
+---
+
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43">Grav Labs Spoon Pipe by Jane West</a> - 4.25" L - $59.99</h2>
 
 <a target="_blank" href=https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43"><img alt="Grav Labs Spoon Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-spoon.png" /></a>
 
 Grav Labs Spoon Pipe by Jane West intro sentence
+
+---
 
 ### <a name="headbbu50"></a>Best Bowls Under $50
 
@@ -276,6 +284,8 @@ Features:
 
 Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com?afmc=2f){:"_blank"}.
 
+---
+
 ### <a name="headbbu25"></a>Best Bowls Under $25
 
 **[Directory Shortcut](#bowl-directory)**
@@ -309,6 +319,8 @@ Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com
 
 Fisherman's Friend intro sentence.
 
+---
+
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html">Glass Shabong Steamroller</a> -  19.5 cm / 7.7" L - $13.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html"><img alt="Large Glass Shabong Steamroller" class="img-middle" src="/img/bowls/shabong-steamroller-2.0.png" /></a>
@@ -337,6 +349,6 @@ The Glass Shabong features:
 
 & as you've hopefully noticed, this piece isn't actually *large*, but rather the larger version of itself. See the even smaller [small shabong](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/small-glass-shabong.html){:"_blank"}
 
---------
+---
 
 **[Directory Shortcut](#bowl-directory)**
