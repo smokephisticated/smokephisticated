@@ -90,17 +90,9 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 **[Directory Shortcut](#bong-directory)**
 
-## <p style="text-align: center;">test</p>
+### <a name="headbbu140"></a>
 
-# <a class="heading-center" name="headbbu140"></a>Best Bongs Under $140
-
-## <a class="heading-center" name="headbbu100"></a>Best Bongs Under $140
-
-### <a name="headbbu75"></a>
-
-#### <a class="heading-center" name="headbbu50"></a>Best Bongs Under $140
-
-##### <a class="heading-center" name="headbbu20"></a>Best Bongs Under $140
+<h2 class="heading-center">Best Bongs Under $140</h2>
 
 **Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
 
@@ -250,7 +242,7 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 **[Directory Shortcut](#bong-directory)**
 
-### <a name="headbbu100"></a>Best Bongs Under $100
+### <a name="headbbu100"></a>
 
 <h2 class="heading-center">Best bongs under $100</h2>
 
@@ -297,7 +289,7 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 **[Directory Shortcut](#bong-directory)**
 
-### <a name="headbbu75"></a>Best Bongs Under $75
+### <a name="headbbu75"></a>
 
 <h2 class="heading-center">Best bongs under $75</h2>
 
@@ -347,7 +339,7 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 **[Directory Shortcut](#bong-directory)**
 
-### <a name="headbbu50"></a>Best Bongs Under $50
+### <a name="headbbu50"></a>
 
 <h2 class="heading-center">Best bongs under $50</h2>
 
@@ -446,7 +438,7 @@ Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankSto
 
 * Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
 
-### <a name="headbbu20"></a>Best Bongs Under $20
+### <a name="headbbu20"></a>
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -456,7 +448,7 @@ Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankSto
 
 The amount you have to spend is your business - the price and quality of the product you buy is ours.
 
-While none of these options are going to deliver the same blow as a $500 piece; whether you're low on funds - or just starting out - we'll provide you with your best low-budget options.
+While none of these options are going to deliver the same blow as a $500 piece, whether you're low on funds - or just getting started - we'll provide you with your best low-budget options.
 
 Below you'll find the most solid sub-$20 bongs and water pipes on the web right now.
 
