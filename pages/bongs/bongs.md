@@ -96,7 +96,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ## <a class="heading-center" name="headbbu100"></a>Best Bongs Under $140
 
-### <a class="heading-center" name="headbbu75"></a>Best Bongs Under $140
+### <a name="headbbu75"></a>
 
 #### <a class="heading-center" name="headbbu50"></a>Best Bongs Under $140
 
