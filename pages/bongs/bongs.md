@@ -51,19 +51,19 @@ Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 y
 
 This is for good reason - Bongs and pipes are one of the most effective and convienient ways to smoke tabacco and dry herb.
 
- Which is why the bong market is so massive, especially online. Nowadays you're just one Google search away from sifting through bongs and water pipes from all over the world.
+ Which is why the bong market is so massive, especially online. Nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
 
- **But where does one even begin to browse?**
+ **So, where do you even start?**
 
-**Save yourself** from sifting through shady hit-or-miss websites. Accidentally settling for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
+Save your time; sifting through shady hit-or-miss websites to accidentally settle for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
 
 That's the purpose behind this guide - to direct stoners toward quality products in an honest and straight-forward manner.
 
 <h5 class="heading-center">We've searched so you don't have to.</h5>
 
-Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until you're both informed about your purchase, and certain that none of your money, time, or precious supply will be wasted on low-quality products.
+Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until: you're both informed about your purchase, and certain that none of your time, money, or precious supply will be wasted on low-quality products.
 
-Our bong recommendations currently consist of products from two community-trusted online headshops:
+Our bong recommendations currently consist of products from three community-trusted online headshops:
 
 - [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
 
@@ -82,7 +82,7 @@ These aren't just *our* recommendations.
 
 Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact deciding process as you are now.
 
-So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection - we'll deliver the most reputable options straight to you, no BS.
+So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection; we'll deliver the most reputable options straight to you, no BS.
 
 <h3 class="heading-center">Please Note:</h3> 
 
@@ -92,7 +92,17 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ### <a name="headbbu140"></a>Best Bongs Under $140
 
-<h2 class="heading-center">Best bongs under $140</h2>
+<h2 name="headbbu140" class="heading-center">Best Bongs Under $140</h2>
+
+<h3 name="headbbu140" class="heading-center">Best Bongs Under $140</h3>
+
+<h4 name="headbbu140" class="heading-center">Best Bongs Under $140</h4>
+
+<h5 name="headbbu140" class="heading-center">Best Bongs Under $140</h5>
+
+<h6 name="headbbu140" class="heading-center">Best Bongs Under $140</h6>
+
+<h7 name="headbbu140" class="heading-center">Best Bongs Under $140</h7>
 
 **Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
 
