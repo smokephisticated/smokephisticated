@@ -90,19 +90,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 **[Directory Shortcut](#bong-directory)**
 
-### <a name="headbbu140"></a>Best Bongs Under $140
-
 <h2 name="headbbu140" class="heading-center">Best Bongs Under $140</h2>
-
-<h3 name="headbbu140" class="heading-center">Best Bongs Under $140</h3>
-
-<h4 name="headbbu140" class="heading-center">Best Bongs Under $140</h4>
-
-<h5 name="headbbu140" class="heading-center">Best Bongs Under $140</h5>
-
-<h6 name="headbbu140" class="heading-center">Best Bongs Under $140</h6>
-
-<h7 name="headbbu140" class="heading-center">Best Bongs Under $140</h7>
 
 **Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
 
