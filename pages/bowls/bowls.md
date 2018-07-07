@@ -124,11 +124,11 @@ Learn more about the Marley Natural supported causes; [Rise Up](https://www.marl
 
 <a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43"><img alt="Grav Labs Upright Bubbler Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-collage.png" /></a>
 
-Jane West and Grav collaberate to create The Bubbler.
+Jane West and Grav (Formally Grav Labs) collaberate to create The Bubbler.
 
 So, what makes Jane Wests' rendition of the bubbler so unique?
 
-For one, Jane sources the world's purest silica, utilizes blue cobalt ore, and backs a crafting team with decades of experience to create the cleanest scientifically engineered borosilicate glass tinted with it's signiture blue hue. 
+For one, Jane sources the world's purest silica, utilizes blue cobalt ore, and backs a crafting team with *decades* of experience to create the cleanest scientifically engineered borosilicate glass - tinted with it's signiture blue hue.
 
 Grav/Jane West's selections all use this impressive glass to ensure their products are highest quality in the market. 
 
@@ -209,7 +209,21 @@ Downstem length: 11cm
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html"><img alt="Sherlock Handpipe White on Cobalt-glass" class="img-middle" src="/img/bowls/sherlock-white-collage.png" /></a>
 
-White Cobalt Sherlock Glass Handpipe intro sentence
+Made from borosilicate glass in the USA, this Sherlock pipe catches eyes as well as it rips herb and tabacco.
+
+Each White Cobalt Sherlock piece is uniquely made to order by glass artists in an Oregon collective.
+
+This lightweight piece's features include:
+
+* One of a kind - detailed handblown marble design, made to order.
+
+* Spiked appendages
+
+* Ringed carb hole - for clearing, placed on the left side of the bowl
+
+* Made in the USA
+
+**Please Note:** Because these pices are made to order, the bowl you recieve will likely differ slightly from the pictured bowl; however, the overall design will be the same.
 
 ---
 
@@ -217,7 +231,35 @@ White Cobalt Sherlock Glass Handpipe intro sentence
 
 <a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43"><img alt="Grav Labs Spoon Pipe by Jane West" class="img-middle" src="/img/bowls/jane-west-spoon.png" /></a>
 
-Grav Labs Spoon Pipe by Jane West intro sentence
+Designed by Jane West in collaberation with Grav (Formally Grav Labs), The Spoon Pipe is another classic - redesigned to be more luxurious and ergonomic than ever.
+
+**How do we figure?**
+
+For one, Jane sources the world's purest silica, utilizes blue cobalt ore, and backs a crafting team with *decades* of experience to create the cleanest scientifically engineered borosilicate glass - tinted with it's signiture blue hue. 
+
+Grav/Jane West's selections all use this impressive glass to ensure their products are highest quality in the market. 
+
+The Spoon weighs in at a protable, yet comfortable 8 oz (.5 lbs); providing a solid weight you can sense without over encumbrance.
+
+**As for features:** We've listed them below, with reiterations where necessary.
+
+* Deep rounded bowl - The Spoon holds enough for the whole rotation
+
+* Large chamber - Pack your punch as hard as you'd like it with the impressively large chamber hosted by this piece
+
+* Carb hole - Clear your chamber with the simple lift of a finger off of the chmber hole; located left of bowl
+
+* Cooling design - Designed so that smoke circulates as fresh air carries your smoke from the carb hole and through the chamber; adding extra cooling power.
+
+* Flavor-boosting mouthpiece - The Spoon's mouthpiece is specially designed to deliver extra flavor from your herb
+
+* Flat bottom - Set The Spoon without worrying about your bowl rolling & spilling
+
+* Slight transperency - See *just enough* into your pipe to know when it needs cleaning
+
+* Rep the collection - Located ontop of the chamber is the one and only *Jane West* logo
+
+Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here](https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43){:"_blank"}
 
 ---
 
@@ -299,11 +341,17 @@ Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com
 		<th>Price</th> 
 		<th>Shop</th>
 	</tr>
-		<tr>
+	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html" ><img alt="Fisherman's Friend Pipe" class="table-image" src="/img/bowls/fisherman's-friend-1.png"></a></td>
 		<td>Fisherman's Friend</td>
 		<td>$22.99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html">Purchase Info</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-jet-flash-mini-joint-turbo-hand-pipe.html?nosto=product-related" ><img alt="Blaze Glass - Jet Flash Mini Joint Turbo Hand Pipe" class="table-image" src="/img/bowls/blaze-joint-turbo.png"></a></td>
+		<td>Jet Flash Mini Joint</td>
+		<td>$19.99</td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-jet-flash-mini-joint-turbo-hand-pipe.html?nosto=product-related">Purchase Info</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-shabong-steamroller.png"></a></td>
@@ -321,31 +369,38 @@ Fisherman's Friend intro sentence.
 
 ---
 
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-jet-flash-mini-joint-turbo-hand-pipe.html?nosto=product-related">Blaze Glass - Jet Flash Mini Joint Turbo Hand Pipe</a> -  8.4 cm / 3.3 inches L - $19.99</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-jet-flash-mini-joint-turbo-hand-pipe.html?nosto=product-related"><img alt="Blaze Glass - Jet Flash Mini Joint Turbo Hand Pipe" class="img-middle" src="/img/bowls/blaze-joint-turbo.png" /></a>
+
+Mini joint turbo intro
+
+---
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html">Glass Shabong Steamroller</a> -  19.5 cm / 7.7" L - $13.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html"><img alt="Large Glass Shabong Steamroller" class="img-middle" src="/img/bowls/shabong-steamroller-2.0.png" /></a>
 
 Simple, cheap, and effective - This Glass Shabong Steamroller is one of Grasscity's highest rated pieces in it's budget-pipe class.
 
-This Steamroller hosts a clear glass bowl that conveniently sits ontop of it's body.
+In fact, the community has heavily vouched for the ripping power of this little shabong.
 
 This piece is **not** meant to be filled with water.
 
 The Glass Shabong features:
 
-* Transparent glass
+* This Steamroller hosts a clear glass bowl that conveniently sits ontop of it's body that feeds smoke into the chamber.
 
-* Toking hole - Use your finger or palm to cover this hole as you inhale, once the chamber fills with smoke, remove your finger to clear the smoke from the chamber - Placed at the front of the pipe, further from the bowl-piece
+* Transparent glass - clearly see when the chamber is filled with silky smoke from the bowl
 
-* Carb hole for clearing - Placed at the end of the pipe, closer to the bowl-piece
+* Carb hole for clearing - once the chamber fills with smoke, use your finger or palm to cover this hole as you inhale. Remove your finger to clear the smoke from the chamber - Placed at the end of the pipe, closer the bowl-piece
+
+* Rimmed mouth piece for comfortable lip purchase/inhaling - Placed at the front of the pipe, further from the bowl-piece
 
 * Hemp leaf logo on body - Gotta represent, right?
 
 * Roll-Stopper - Located opposite of the bowl, the roll-stopper literally prevents your piece from rolling and spilling your bud
 
-* Rimmed mouth piece
-
-* Ships with metal screens - This piece works much better with a screen sitting in the bowl. Pick up a few extras [here], and save yourself from having to spit out ash and herb later.
+* Ships with metal screens - This piece works much better with a screen sitting in the bowl. Pick up a few extras and save yourself from having to spit out ash and herb later. Select the 15.9 mm size for the best fit: [Screens](https://www.grasscity.com/us_en/steel-screens-various-sizes-100x.html){:"_blank"}
 
 & as you've hopefully noticed, this piece isn't actually *large*, but rather the larger version of itself. See the even smaller [small shabong](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/small-glass-shabong.html){:"_blank"}
 

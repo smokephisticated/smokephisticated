@@ -88,6 +88,8 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
 
+---
+
 **[Directory Shortcut](#bong-directory)**
 
 ### <a name="headbbu140"></a>
@@ -161,6 +163,7 @@ We've written a 5 minute rundown on percolation using this product as an example
 
 **Click <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Here</a> to check it out over at Grasscity.**
 
+---
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in - $129</h2>
 
@@ -206,6 +209,8 @@ This isn't by any means an essential piece to smoking herbs, but it is both help
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Black Leaf's Triple Honeycomb Disc Percolator</a> -  38 cm / 15 inches - $125</h2>
 
+---
+
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="img-middle" src="/img/bongs/honeycomb-disc.png"/></a>
 
 Black Leaf has a reputation for their scientific glass - and this Triple Disc Honeycomb Perc is just another example of that.
@@ -239,6 +244,8 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 * Ice nothches located at the neck to make for *even smoother* frosty inhales.. Will you even realize you're smoking?
 
 * Rounded smooth edges for comfortable mouth purchasing.
+
+---
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -286,6 +293,8 @@ This bong has a variety of features including:
 **What you need to know about percolation:**
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This process of filtration is reffered as "diffusion" of the smoke. I highly encurage any aspiring smoker t o read <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">TokeoftheTown's</a> article for clarification. It's a 5 minute read at the most, and well-worth it.
+
+---
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -337,6 +346,8 @@ With a sleek design and a reputably effective build - this 30 cm German engineer
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke.
 
+---
+
 **[Directory Shortcut](#bong-directory)**
 
 ### <a name="headbbu50"></a>
@@ -386,6 +397,8 @@ Relive the glory days of hiding from your parents behind your shed and highschoo
 
 Replacing those sketchy plastics and metals with glass, the Gravitron features a base for water, a glass funnel for you to pack your tabacco or herb of choice into, a rubber stopper to prevent glass-on-glass collision, and of course the bottle pipe to lift for the artificial inhale.
 
+---
+
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs/dude-bong-set.png" /></a>
@@ -416,6 +429,8 @@ Go ahead and pick up some extra screens <a target="_blank" href="http://affiliat
 
 <h4 class="heading-center">PLEASE NOTE THAT:</h4> Due to shipping restrictions, Grasscity cannot ship flammable liquids overseas. If you are ordering from outside of continental Europe, the lighter in this set will be replaced with a similar smoking accessory from their warehouse.
 
+---
+
 <h2 class="heading-center"><a target="_blank" href="https://goo.gl/vpKhDD">Clear Glass Buoy Base Beaker Bong</a> - 8 in / 20.3 cm tall - $40 </h2>
 
 <a target="_blank" href="https://goo.gl/vpKhDD"><img alt="Glass Buoy Beaker Bong" class="img-middle" src="/img/bongs/buoy-beaker-bong.png"/></a>
@@ -436,7 +451,9 @@ Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankSto
 
 * Extra width at the base to provide stability; keeping it stable in the company of even the clumsiest of novices.
 
-* Reliable, basic, and easy-to-clean design for a soak away from spotless at any given moment.
+* Reliably basic and easy-to-clean design; this piece is always a soak away from being spotless at any given moment.
+
+---
 
 ### <a name="headbbu20"></a>
 
@@ -489,6 +506,8 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using the carb hole; rip & repeat as nescessary.
 
+---
+
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - 4.1 in / 10.5 cm tall - $15.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
@@ -502,6 +521,8 @@ Your hiding spots, backpack, and wallet will have no problems fitting this mini 
 This minture beaker bong measures out to a tiny 10.5 cm (roughly hand-pipe sized), but makes sure not to sacrifice size for effectiveness.. Just watch your flame around any facial hair. Yes, it's that small.
 
 This bong is made from borosilicate glass, and features a beaker base for surface stability, a carb hole for clearing, and a glass bowl with an attached downstem.
+
+---
 
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - 7 in / 18 cm tall - $14.99</h2>
 
@@ -524,5 +545,7 @@ Make sure to fill your chamber with water until the liquid reaches where the bul
 Oh and don't let the simplicity or price of this piece fool you - this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
+
+---
 
 **[Directory Shortcut](#bong-directory)**
