@@ -116,7 +116,7 @@ Features & Pieces equipped by this Reggae icon-inspired bubbler:
 
 Sold here from [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}, this bubbler is originates from Marley Naturals.
 
-Learn more about the Marley Natural supported causes; [Rise Up](https://www.marleynatural.com/rise-up){:"_blank"}.
+Learn more about the Marley Natural supported causes; [Rise Up](https://www.marleynatural.com/rise-up){:target="_blank"}.
 
 ---
 
@@ -146,7 +146,7 @@ Besides quality that you can expect out of every piece, the Jane West Bubbler ho
 
 * Deep, centralized bowl
 
-Jane West is commonly referred to as the most renowned female icon in the marijuana industry. Read more about her story [here](https://www.janewest.com/meet-jane/){:"_blank"}
+Jane West is commonly referred to as the most renowned female icon in the marijuana industry. Read more about her story [here](https://www.janewest.com/meet-jane/){:target="_blank"}
 
 ---
 
@@ -259,7 +259,7 @@ The Spoon weighs in at a protable, yet comfortable 8 oz (.5 lbs); providing a so
 
 * Rep the collection - Located ontop of the chamber is the one and only *Jane West* logo
 
-Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here](https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43){:"_blank"}
+Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here](https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43){:target="_blank"}
 
 ---
 
@@ -288,7 +288,7 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 
 <a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f"><img alt="Piece Pipe Collections" class="img-middle" src="/img/bowls/piece-pipe-cluster.png" /></a>
 
-The Swiss Army knife of pieces that fits on a keychain - The [Piece Pipe](https://www.originalpiecepipe.com/?afmc=2f){:"_blank"} comes equipped with four different potential modes:
+The Swiss Army knife of pieces that fits on a keychain - The [Piece Pipe](https://www.originalpiecepipe.com/?afmc=2f){:target="_blank"} comes equipped with four different potential modes:
 
 * Stealth Mode - While closed, Piece Pipe is inconspicuous and odorless
 
@@ -298,9 +298,9 @@ The Swiss Army knife of pieces that fits on a keychain - The [Piece Pipe](https:
 
 * Clean Mode - Seperate the outer cylinder entirely from the rest of the body to seperate the pipe into 3 different easy-to-clean pieces. Rinse with warm water, then soak in nail-polish remover and salt for the best cleaning results. Scrub with a sponge or cloth to expediate.
 
-Buy in [Chrome](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-chrome?afmc=2f){:"_blank"}, [Brass](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-brass?afmc=2f){:"_blank"} - or if you're willing to pay extra - recieve your Piece Pipe in [24K gold](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f){:"_blank"}.
+Buy in [Chrome](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-chrome?afmc=2f){:target="_blank"}, [Brass](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-brass?afmc=2f){:target="_blank"} - or if you're willing to pay extra - recieve your Piece Pipe in [24K gold](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-24k-gold?afmc=2f){:target="_blank"}.
 
-Piece Pipe also offers an [Engraving](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-engraving){:"_blank"} of up to five letters that come carved into your pipe (additional $10 toward purchase).
+Piece Pipe also offers an [Engraving](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-engraving){:target="_blank"} of up to five letters that come carved into your pipe (additional $10 toward purchase).
 
 Features:
 
@@ -322,9 +322,9 @@ Features:
 
 * Comes in gift box
 
-* [Engraving option](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-engraving?afmc=2f){:"_blank"}
+* [Engraving option](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-engraving?afmc=2f){:target="_blank"}
 
-Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com?afmc=2f){:"_blank"}.
+Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com?afmc=2f){:target="_blank"}.
 
 ---
 
@@ -365,8 +365,41 @@ Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html"><img alt="Fisherman's Friend Pipe" class="img-middle" src="/img/bowls/fisherman's-friend-collage.png" /></a>
 
-Fisherman's Friend intro sentence.
+The Fisherman's Friend will be your adventure compainion until the end.
 
+With a rightful 97.5% 5-star rating on Grasscity, the Fisherman's Friend is a highly portable and discreet community-backed must have.
+
+This compact pipe is manufactured in Portland, Oregon, and crafted by Monkey Pipe / EOS.
+
+**Plot Twist:** With a simple pivot - the FF tranforms from an inconspicuous block of wood into a funtional pipe, ready to be utilized.
+
+* Smoke - Twist just the top wood section to utilize the smoking mode of the FF. Simply hold a flame to your loaded supply through the stainless steel slide's opening and inhale - repeat 'till beat.
+
+* Reload - Need a repack? The FF is equipped with a stash compartment; twist the steel slide to reveal an extra couple of bowl-packs worth of adventure-fuel.
+
+* Clean - Do your friend a favor by cleaing up after yourself; simply slide and remove the steel plate along the bottom to easily scrub and soak the inside of your bowl.
+
+* Portable Discrecion - Good to go? Wheather your pack is green, beat, or still rolling red - fold ol' FF back up to it's enclosed state and carry on with your ventures; no worries, it'll be ready for wherever you're headed.
+
+Features:
+
+* Stash compartment
+
+* Sturdy design built from hardwood and stainless steel - wood varies between white oak and black walnut and sapele; this depends on material availability
+
+* Polished stainless steel slide that twists to the side for compartment access
+
+* Bottom steel slide that can be removed for easy cleaning
+
+* Swivel lid with recessed nickel-plated mouthpiece
+
+* Smooth finish
+
+* Nickel plated mouthpiece 
+
+* Trademark eye logo for authenticity
+
+Buy the Fisherman's Friend [Here](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html){:target="_blank"}
 ---
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-jet-flash-mini-joint-turbo-hand-pipe.html?nosto=product-related">Blaze Glass - Jet Flash Mini Joint Turbo Hand Pipe</a> -  8.4 cm / 3.3 inches L - $19.99</h2>
@@ -400,9 +433,9 @@ The Glass Shabong features:
 
 * Roll-Stopper - Located opposite of the bowl, the roll-stopper literally prevents your piece from rolling and spilling your bud
 
-* Ships with metal screens - This piece works much better with a screen sitting in the bowl. Pick up a few extras and save yourself from having to spit out ash and herb later. Select the 15.9 mm size for the best fit: [Screens](https://www.grasscity.com/us_en/steel-screens-various-sizes-100x.html){:"_blank"}
+* Ships with metal screens - This piece works much better with a screen sitting in the bowl. Pick up a few extras and save yourself from having to spit out ash and herb later. Select the 15.9 mm size for the best fit: [Screens](https://www.grasscity.com/us_en/steel-screens-various-sizes-100x.html){:target="_blank"}
 
-& as you've hopefully noticed, this piece isn't actually *large*, but rather the larger version of itself. See the even smaller [small shabong](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/small-glass-shabong.html){:"_blank"}
+& as you've hopefully noticed, this piece isn't actually *large*, but rather the larger version of itself. See the even smaller [small shabong](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/small-glass-shabong.html){:target="_blank"}
 
 ---
 
