@@ -400,6 +400,7 @@ Features:
 * Trademark eye logo for authenticity
 
 Buy the Fisherman's Friend [Here](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/fishermans-friend-pipe.html){:target="_blank"}
+
 ---
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-jet-flash-mini-joint-turbo-hand-pipe.html?nosto=product-related">Blaze Glass - Jet Flash Mini Joint Turbo Hand Pipe</a> -  8.4 cm / 3.3 inches L - $19.99</h2>
