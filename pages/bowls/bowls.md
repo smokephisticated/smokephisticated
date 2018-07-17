@@ -5,7 +5,7 @@ permalink: "/bowls/"
 seotitle: "13 Best Cheap Weed Pipes / Bowls for Your Money in 2018"
 ---
 
-Browse our recommendations of weed bowls, from the Jet Water Pipe  <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html" ><img src="/img/bowls/jet-flash-wb.png" alt="Jet Flash System" width="100px"/></a>,  to the Marley Natural Pipe  <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut-collage.png" width="100px" /></a>
+Browse our recommendations of weed bowls, from budget steamroller pipes like the $13.99**[Shabong](#shabong-shortcut)** <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-shabong-steamroller.png" width="100px"/></a>,  to high quality bubblers like the $160 [Marley Natural Pipe](#marley-bubbler-shortcut)  <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" width="100px" /></a>. Find your next go-to piece right here.
 
 
 <h5 id="bowl-directory">Product Table Directory, by Price</h5>
@@ -96,6 +96,8 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43">Purchase Info</a></td>
 	</tr>
 </table>
+
+### <a name="marley-bubbler-shortcut"></a>
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Marley Walnut Wood Bubbler</a> 5.75" H x 5.75" L x 1.75" W - $159.99</h2>
 
@@ -463,6 +465,9 @@ Internally there are 3 Vortex-Notches' which spin the smoke in a spiral, filling
 - Wall Thickness: WT: 5mm
 
 ---
+
+### <a name="shabong-shortcut"></a>
+
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html">Glass Shabong Steamroller</a> -  19.5 cm / 7.7" L - $13.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html"><img alt="Large Glass Shabong Steamroller" class="img-middle" src="/img/bowls/shabong-steamroller-2.0.png" /></a>
