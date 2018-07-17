@@ -187,21 +187,53 @@ Jane West is commonly referred to as the most renowned female icon in the mariju
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash-collage.png" /></a>
 
-Jet-Flash Smoke System
-Whirling smoke, using the Venturi system, begins in the small nozzles in the body of the chamber.
+Standing in a league of it's own, the online smoking community raves about the Jet Flash Smoke System.
 
-The design of the funnel body aerates the smoke, cooling it and making it easier to inhale. The same air intake holes along the shoulders of the pipe force the smoke away from the walls and keep the funnel body clean.
+**Here's why:**
 
-The Jet Flash System allows you to switch between several types of smoking adapters to suit your mood. The complete 7-piece kit comes with a handheld glass chamber with molded grips, a glass funnel bowl, mouth piece chamber, a spoon pipe adapter, a taster "one hitter" adapter/joint holder, a slitted 18.8mm > 14.5mm slit diffuser downstem, and a Keck clip to securely hold the pieces together while in use. The Jet Flash system can be used on its own or as an attachment on your regular bong.
+Aside form the fact that you can play around with the pieces of the Jet Flash to fit other pipes and bongs;
 
-Jet-Flash swirling action, smoother inhalation
-Conserves medicine/herb
-Attractive gift box
-18.8mm female joint on main chamber
-14.5mm male joint on mouthpiece chamber
-18.8mm > 14.5mm inside-cut slitted diffuser downstem
-14.5mm attachments
-Downstem length: 11cm
+The Jet Flash also utilizes the *Venturi Effect*. This essentially boils down to the effect of your smoke being forced from one chamber, into a confined tube, and then back into another chamber.
+
+& how does this affect your smoking experience?
+
+[Bernoulli's principle](https://en.wikipedia.org/wiki/Bernoulli's_principle){:target="_blank"} states that an increase in the speed of a fluid (or, in this case, air/smoke) occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy.
+
+So, when smoke is pulled through the tight funnel (between the pistol grip and the main vortex chamber) it increases in speed, and thus decreases in pressure; this lack of pressure accelerates the force of outside air flooding into the Flash Chamber from the three angled carb holes that surround the body of the Flash.
+
+But there's even more to it: Because these carb holes are designed at an angle, air that floods in is forced into a spiral which results in a vortex of smoke. 
+
+This technique provides extra cooling effect by empowering the ambient air over the surface of low pressure smoke. Less pressure + high spiraling velocity = an intense cooling vortex effect that allows you to rip head-imploding clouds.
+
+Forcing smoke into a vortex even keeps tar residue away from the chamber walls, keeping it slightly cleaner than your average dry pipe.
+
+The highly versitile Jet Flash Smoke System ships with three different adapters of your choosing:
+
+* **Funnel Bowl** - The funnel is a rotation favorite. Pour water into the pistol grip chamber before sliding the slitted percolating downstem into the grip. Then place the packed funnel bowl down into the downstem; this results in a bowl that holds enough for many, and a hit that is smooth enough for everyone.
+
+* **Spoon Pipe** - Standard and convenient. The spoon is your standard dry pipe attachment equipped with two roll stoppers for stability; a modern take on a true classic.
+
+* **One Hitter** - Quick and conservitive. This single person option will rip harder and smoother than any dug-out. Add water to utilize the slitted downstem for percolation, all while saving herb like a soner-pro.
+
+**Added bonus:** The one hitter doubles as a joint/blunt holder; stuff your roll-of-choice into the bowl and never burn your fingers again! (Add water for an extra smooth percolated roll!)
+
+Altogether, the Jet Flash is seperated into 7 seperate pieces. Outside of the three attachments listed above, the System is shipped with: 
+
+* The pistol grip/percolation chamber - able to hold water for percolation, hosts ergonomic grip for comfort and security
+
+* Main glass chamber - sends smoke into your lungs at a spiraled angle using three carb holes
+
+* Slitted 18.8 mm > 14.5mm 6-slitted diffusing downstem (11cm, length) - adds smooth percolation to your hits when you decide to add water to the Pistol Grip
+
+* Keck clip - secures both the pistol grip, or the spoon pipe to the Flash Chamber
+
+Plus, The Jet Flash System even ships wtih a secure foam-fitted travel case!
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"><img alt="Jet Flash Smoke System" class="img-middle" src="/img/bowls/jet-flash-case.png" /></a>
+
+Made of plastic and foam, the travel case will keep your System organized and intact.
+
+Ontop of the impressive features of the Jet Flash System, you will undoubtedly find glowing customer service when you buy from Grasscity. Pick up your own Jet Flash [Here](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html){:target="_blank"}
 
 ---
 
