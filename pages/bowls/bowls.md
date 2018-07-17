@@ -5,36 +5,7 @@ permalink: "/bowls/"
 seotitle: "13 Best Cheap Weed Pipes / Bowls for Your Money in 2018"
 ---
 
-Browse our recommendations of weed bowls, from the Jet Water Pipe <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html" <img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="200px"/> to wooden Marley Pipes
-
-Browse our recommendations of weed bowls, from the Jet Water Pipe 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html" <img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="200px"/>
-to wooden Marley Pipes
-
-Browse our recommendations of weed bowls, from the Jet Water Pipe
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"<img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="200px"/> 
-
-to wooden Marley Pipes
-
-Browse our recommendations of weed bowls, from the Jet Water Pipe
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"<img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="100px"/> 
-
-to wooden Marley Pipes
-
-Browse our recommendations of weed bowls, from the Jet Water Pipe
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"<img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="50px"/> 
-
-to wooden Marley Pipes
-
-Browse our recommendations of weed bowls, from the Jet Water Pipe
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"<img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="300px"/> 
-
-to wooden Marley Pipes
-
+Browse our recommendations of weed bowls, from the Jet Water Pipe  <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html" ><img src="/img/bowls/jet-flash-wb.png" alt="Jet Flash System" width="100px"/></a>,  to the Marley Natural Pipe  <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut-collage.png" width="100px" /></a>
 
 
 <h5 id="bowl-directory">Product Table Directory, by Price</h5>
