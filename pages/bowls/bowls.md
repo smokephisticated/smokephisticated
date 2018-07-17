@@ -5,6 +5,38 @@ permalink: "/bowls/"
 seotitle: "13 Best Cheap Weed Pipes / Bowls for Your Money in 2018"
 ---
 
+Browse our recommendations of weed bowls, from the Jet Water Pipe <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html" <img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="200px"/> to wooden Marley Pipes
+
+Browse our recommendations of weed bowls, from the Jet Water Pipe 
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html" <img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="200px"/>
+to wooden Marley Pipes
+
+Browse our recommendations of weed bowls, from the Jet Water Pipe
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"<img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="200px"/> 
+
+to wooden Marley Pipes
+
+Browse our recommendations of weed bowls, from the Jet Water Pipe
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"<img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="100px"/> 
+
+to wooden Marley Pipes
+
+Browse our recommendations of weed bowls, from the Jet Water Pipe
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"<img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="50px"/> 
+
+to wooden Marley Pipes
+
+Browse our recommendations of weed bowls, from the Jet Water Pipe
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html"<img src="/img/bowls/jet-flash.png" alt="Jet Flash System" width="300px"/> 
+
+to wooden Marley Pipes
+
+
+
 <h5 id="bowl-directory">Product Table Directory, by Price</h5>
 
 <div id="toc_container">
@@ -176,10 +208,10 @@ Jane West is commonly referred to as the most renowned female icon in the mariju
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">Purchase Info</a></td>
 	</tr>
 		<tr>
-		<td><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43" ><img alt="Grav Labs Spoon Pipe by Jane West" class="table-image" src="/img/bowls/jane-west-spoon.png"></a></td></td>
+		<td><a target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43" ><img alt="Grav Labs Spoon Pipe by Jane West" class="table-image" src="/img/bowls/jane-west-spoon.png"></a></td>
 		<td>Jane West Spoon Pipe</td>
 		<td>$59.99</td>
-		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43">Purchase Info</a></td></td>
+		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-3-75-inch-spoon-pipe?variant=52672522500?aff=43">Purchase Info</a></td>
 	</tr>
 </table>
 
@@ -197,7 +229,7 @@ The Jet Flash also utilizes the *Venturi Effect*. This essentially boils down to
 
 & how does this affect your smoking experience?
 
-[Bernoulli's principle](https://en.wikipedia.org/wiki/Bernoulli's_principle){:target="_blank"} states that an increase in the speed of a fluid (or, in this case, air/smoke) occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy.
+[Bernoulli's principle](https://en.wikipedia.org/wiki/Bernoulli's_principle){:target="_blank"} states that an increase in the speed of a fluid (or, in this case air/smoke) occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy.
 
 So, when smoke is pulled through the tight funnel (between the pistol grip and the main vortex chamber) it increases in speed, and thus decreases in pressure; this lack of pressure accelerates the force of outside air flooding into the Flash Chamber from the three angled carb holes that surround the body of the Flash.
 
@@ -219,13 +251,13 @@ The highly versitile Jet Flash Smoke System ships with three different adapters 
 
 Altogether, the Jet Flash is seperated into 7 seperate pieces. Outside of the three attachments listed above, the System is shipped with: 
 
-* The pistol grip/percolation chamber - able to hold water for percolation, hosts ergonomic grip for comfort and security
+* **Pistol grip/percolation chamber** - able to hold water for percolation, hosts ergonomic grip for comfort and security
 
-* Main glass chamber - sends smoke into your lungs at a spiraled angle using three carb holes
+* **Main glass chamber** - sends smoke into your lungs at a spiraled angle using three carb holes
 
-* Slitted 18.8 mm > 14.5mm 6-slitted diffusing downstem (11cm, length) - adds smooth percolation to your hits when you decide to add water to the Pistol Grip
+* **Slitted 18.8 mm > 14.5mm 6-slitted diffusing downstem** (11cm, length) - adds smooth percolation to your hits when you decide to add water to the Pistol Grip
 
-* Keck clip - secures both the pistol grip, or the spoon pipe to the Flash Chamber
+* **Keck clip** - secures both the pistol grip, or the spoon pipe to the Flash Chamber
 
 Plus, The Jet Flash System even ships wtih a secure foam-fitted travel case!
 
@@ -439,7 +471,25 @@ Buy the Fisherman's Friend [Here](http://affiliates.grasscity.com/shop/clickthru
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/blaze-glass-jet-flash-mini-joint-turbo-hand-pipe.html?nosto=product-related"><img alt="Blaze Glass - Jet Flash Mini Joint Turbo Hand Pipe" class="img-middle" src="/img/bowls/blaze-joint-turbo.png" /></a>
 
-Mini joint turbo intro
+The Jet Flash Mini Joint Turbo Hand Pipe is your perfectly rated (eleven total reviews, all 5-star) and amazingly budget option for toking.
+
+Using the same vortex chamber as the Jet-Flash hand pipe, angled pinholes in the chamber of this Blaze Glass Jet Flash Mini Joint Turbo pipe create a smoke-cooling swirling action when you inhale, resulting in silky smooth smoke that’s less harsh on your throat and lungs. Made of 5mm-thick quality borosilicate glass, this pocket-sized pipe has a carb hole, black glass bead rollstopper and the Blaze Glass and Flash logos emblazoned in silver
+
+Blaze Glass Jet Flash Mini Joint Turbo 8,4cm ~ Small enough to fit in your pocket but with the Kick of a bong, this little gem allows you to get the same 'Flash' kick from a joint as you normally get from a 'Jet Flash' bong. 
+
+ 
+
+Internally there are 3 Vortex-Notches' which spin the smoke in a spiral, filling the Flash chamber, before the 'kick-Hole' is released. With the 'Blaze Glass' logo, in silver down the 'Vortex Chamber' and a black 'Roll-Stop' nodule this is sure to be a big hit at festivals and parties.
+
+ 
+
+ Product Details
+- Colour: black & clear
+- Features: 'Kick-Hole' & 'Roll-Stop' nodule
+- Brand & Logo: 'Blaze Glass' & 'Flash' emblazoned in silver
+- Length: 84mm
+- Diameter: Ø 45mm
+- Wall Thickness: WT: 5mm
 
 ---
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html">Glass Shabong Steamroller</a> -  19.5 cm / 7.7" L - $13.99</h2>
