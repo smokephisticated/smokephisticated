@@ -5,7 +5,11 @@ permalink: "/bowls/"
 seotitle: "13 Best Cheap Weed Pipes / Bowls for Your Money in 2018"
 ---
 
-Browse our recommendations of weed bowls, from budget steamroller pipes like the $13.99**[Shabong](#shabong-shortcut)** <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-shabong-steamroller.png" width="100px"/></a>,  to high quality bubblers like the $160 [Marley Natural Pipe](#marley-bubbler-shortcut)  <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" width="100px" /></a>. Find your next go-to piece right here.
+Browse our recommendations of weed bowls.
+
+Wheather you're in the market for budget steamroller pipes like the $13.99 [Shabong](#shabong-shortcut)** <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-shabong-steamroller.png" width="100px"/></a>, or if you're searching for high quality bubblers like the $160 [Marley Natural Pipe](#marley-bubbler-shortcut)  <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" width="100px" /></a>; we've got you covered. 
+
+Find your next go-to piece right here.
 
 
 <h5 id="bowl-directory">Product Table Directory, by Price</h5>
