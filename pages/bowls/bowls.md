@@ -7,7 +7,7 @@ seotitle: "13 Best Cheap Weed Pipes / Bowls for Your Money in 2018"
 
 Browse our recommendations of weed bowls.
 
-Wheather you're in the market for budget steamroller pipes like the $13.99 [Shabong](#shabong-shortcut)** <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-shabong-steamroller.png" width="100px"/></a>, or if you're searching for high quality bubblers like the $160 [Marley Natural Pipe](#marley-bubbler-shortcut)  <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" width="100px" /></a>; we've got you covered. 
+Wheather you're in the market for budget steamroller pipes like the $13.99 [Shabong](#shabong-shortcut) <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-shabong-steamroller.png" width="100px"/></a>, or if you're searching for high quality bubblers like the $160 [Marley Natural Pipe](#marley-bubbler-shortcut)  <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" width="100px" /></a>; we've got you covered. 
 
 Find your next go-to piece right here.
 
@@ -308,7 +308,7 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 
 **[Directory Shortcut](#bowl-directory)**
 
-<h2 class="heading-center">Best Bowls Under $50:</h2>
+<h2 class="heading-center">Best Bowls Under $55:</h2>
 
 <table class="basic-table">
 	<tr>
@@ -318,6 +318,12 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 		<th>Shop</th>
 	</tr>
 	<tr>
+		<td><a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21" ><img alt="Pickle Rick Pipe" class="table-image" src="/img/bowls/pickle-rick-pipe-1"></a></td>
+		<td>Pickle Rick</td>
+		<td>$55</td>
+		<td><a class="big-button" target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21">Purchase Info</a></td>
+	</tr>
+	<tr>
 		<td><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage?afmc=2f" ><img alt="Piece Pipe Collections" class="table-image" src="/img/bowls/piece-pipe-brass-table.png"></a></td>
 		<td>Piece Pipe</td>
 		<td>$39.99</td>
@@ -325,7 +331,22 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Piece Pipe</a> -  4.2" x 1.9 cm L - $39.99</h2>
+<h2 class="heading-center"><a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21">Pickle Rick Pipe</a> -  4.2" x 1.9 cm L - $55</h2>
+
+<a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21"><img alt="Pickle Rick Pipe" class="img-middle" src="/img/bowls/pickle-rick-pipe-1.jpg" /></a>
+
+Weight	2.2 oz
+Dimensions	5 x .75 x .75 in
+Filters	
+Sculpture
+
+Color	
+Green
+
+
+
+
+<h2 class="heading-center"><a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21">Piece Pipe</a> -  4.2" x 1.9 cm L - $39.99</h2>
 
 <a target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f"><img alt="Piece Pipe Collections" class="img-middle" src="/img/bowls/piece-pipe-cluster.png" /></a>
 
