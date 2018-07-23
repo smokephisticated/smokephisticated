@@ -318,7 +318,7 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21" ><img alt="Pickle Rick Pipe" class="table-image" src="/img/bowls/pickle-rick-pipe-1"></a></td>
+		<td><a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21" ><img alt="Pickle Rick Pipe" class="table-image" src="/img/bowls/pickle-rick-pipe-1.jpg"></a></td>
 		<td>Pickle Rick</td>
 		<td>$55</td>
 		<td><a class="big-button" target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21">Purchase Info</a></td>
@@ -335,6 +335,28 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 
 <a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21"><img alt="Pickle Rick Pipe" class="img-middle" src="/img/bowls/pickle-rick-pipe-1.jpg" /></a>
 
+Hey, Morty!
+
+Sold by Brothers with Glass, This Pickle Rick Hand Pipe is ready to travel any dimensional toking rotation - it's Pickle Riicckkk!!
+
+Made by Chameleon Glass in Arizona, USA, this pipe is the highest rated, and highest quality rendition of the Pickle Rick Hand Pipe that we could find.
+
+Chameleon Glass is known for both the high standards that they maintain in their glass, and the satisfaction maintained with their customers - this product is just another shining example of Chameleon Glass's reputation.
+
+**Specs & Features:**
+
+* 5" in length
+
+* Green scientific glass
+
+* Anti-roll pickle bumps - Sorry Morty, this pickle won't be so easy to flip over.. Which is actually a good thing, no herb spillage!
+
+* Made in Arizona, USA
+
+Buy the Pickle Rick Hand Pipe [here](https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21){:target="_blank"}. You won't regret it, the payoff is huge!
+
+
+
 Weight	2.2 oz
 Dimensions	5 x .75 x .75 in
 Filters	
@@ -342,8 +364,6 @@ Sculpture
 
 Color	
 Green
-
-
 
 
 <h2 class="heading-center"><a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21">Piece Pipe</a> -  4.2" x 1.9 cm L - $39.99</h2>
