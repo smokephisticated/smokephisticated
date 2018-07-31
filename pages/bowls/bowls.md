@@ -411,7 +411,7 @@ Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com
 
 <h2 class="heading-center"><a target="_blank" href="https://dankstop.com/products/dankstop-gandalf-sherlock-pipe?variant=12084683309132">Gandalf Sherlock Pipe</a> -  10" / 25.4 cm L - $28.99</h2>
 
-<a target="_blank" href="https://dankstop.com/products/dankstop-gandalf-sherlock-pipe?variant=12084683309132"><img alt="Gandalf Sherlock Pipe" class="img-middle" src="/img/bowls/gandalf-sherlock-1" /></a>
+<a target="_blank" href="https://dankstop.com/products/dankstop-gandalf-sherlock-pipe?variant=12084683309132"><img alt="Gandalf Sherlock Pipe" class="img-middle" src="/img/bowls/gandalf-sherlock-1.png" /></a>
 
 Leave your rotation smokier than Mount Doom with a modern take on a timeless wizardly classic.
 
