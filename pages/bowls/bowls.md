@@ -244,6 +244,8 @@ Made of plastic and foam, the travel case will keep your System organized and in
 
 Ontop of the impressive features of the Jet Flash System, you will undoubtedly find glowing customer service when you buy from Grasscity. Pick up your own Jet Flash [Here](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/jet-flash-smoke-system.html){:target="_blank"}
 
+**Oh and lastly,** Grasscity will generally include screens, but just in case; pick up some extra screens [here](https://www.grasscity.com/us_en/20-pipe-screens-brass.html){:target_"blank"}
+
 ---
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-sherlock-handpipe-white-on-cobalt-glass-multiple-appendages.html">White Cobalt Sherlock Glass Handpipe</a> -  12.7 cm / 5" L - $99</h2>
@@ -329,6 +331,12 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 		<td>$39.99</td>
 		<td><a class="big-button" target="_blank" href="https://www.originalpiecepipe.com/collections/frontpage/products?afmc=2f">Purchase Info</a></td>
 	</tr>
+	<tr>
+		<td><a target="_blank" href="https://dankstop.com/products/dankstop-gandalf-sherlock-pipe?variant=12084683309132" ><img alt="Gandalf Sherlock Pipe" class="table-image" src="/img/bowls/gandalf-sherlock-1.png"></a></td>
+		<td>Gandalf Pipe</td>
+		<td>$28.99</td>
+		<td><a class="big-button" target="_blank" href="https://dankstop.com/products/dankstop-gandalf-sherlock-pipe?variant=12084683309132">Purchase Info</a></td>
+	</tr>
 </table>
 
 <h2 class="heading-center"><a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21">Pickle Rick Pipe</a> -  4.2" x 1.9 cm L - $55</h2>
@@ -337,9 +345,9 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 
 Hey, Morty!
 
-Sold by Brothers with Glass, This Pickle Rick Hand Pipe is ready to travel any dimensional toking rotation - it's Pickle Riicckkk!!
+Sold by Brothers with Glass, This Pickle Rick Hand Pipe is ready to travel any dimensional toking rotation - **it's Pickle Riicckkk!!**
 
-Made by Chameleon Glass in Arizona, USA, this pipe is the highest rated, and highest quality rendition of the Pickle Rick Hand Pipe that we could find.
+Made by Chameleon Glass in Arizona, USA; this pipe is the highest rated and highest quality rendition of the Pickle Rick Hand Pipe that we could find.
 
 Chameleon Glass is known for both the high standards that they maintain in their glass, and the satisfaction maintained with their customers - this product is just another shining example of Chameleon Glass's reputation.
 
@@ -355,16 +363,7 @@ Chameleon Glass is known for both the high standards that they maintain in their
 
 Buy the Pickle Rick Hand Pipe [here](https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21){:target="_blank"}. You won't regret it, the payoff is huge!
 
-
-
-Weight	2.2 oz
-Dimensions	5 x .75 x .75 in
-Filters	
-Sculpture
-
-Color	
-Green
-
+---
 
 <h2 class="heading-center"><a target="_blank" href="https://brotherswithglass.com/products/pickle-rick-pipe?rfsn=1578981.bc3f21">Piece Pipe</a> -  4.2" x 1.9 cm L - $39.99</h2>
 
@@ -407,6 +406,38 @@ Features:
 * [Engraving option](https://www.originalpiecepipe.com/collections/frontpage/products/piece-pipe-engraving?afmc=2f){:target="_blank"}
 
 Pick up the Piece Pipe over at [piecepipe.com](https://www.originalpiecepipe.com?afmc=2f){:target="_blank"}.
+
+---
+
+<h2 class="heading-center"><a target="_blank" href="https://dankstop.com/products/dankstop-gandalf-sherlock-pipe?variant=12084683309132">Gandalf Sherlock Pipe</a> -  10" / 25.4 cm L - $28.99</h2>
+
+<a target="_blank" href="https://dankstop.com/products/dankstop-gandalf-sherlock-pipe?variant=12084683309132"><img alt="Gandalf Sherlock Pipe" class="img-middle" src="/img/bowls/gandalf-sherlock-1" /></a>
+
+Leave your rotation smokier than Mount Doom with a modern take on a timeless wizardly classic.
+
+Made by Chameleon Glass, the Gandalf Sherlock Pipe is sold by Dankstop.com for less than $30
+
+**Let's take a moment to inspect** the curved body of the extended neck: 
+
+-Not only does is this ergonomic design easy to hold, but the heat of your torch is kept futher from your face, while still giving you a bird's eye veiw of your flame.
+
+-Also, the extra length of the Gandalf neck requires smoke to travel a longer distance than most dry pipes; this length gives smoke more time to cool before your inhale takes place.
+
+**Features & Mentions:**
+
+* Built from thick & highly durable borosilicate glass
+
+* Carb hole for easy and convenient chamber clearing
+
+* Multiple color options - some of which are transparent, giving you prospective over the smoke in your chamber
+
+* Curved Ergonomic design 
+
+* The constant appearence that you're wisely pondering the great mysteries of life
+
+* The ability to shout *You shall not pass* whenever your friends try tapping out of rotation
+
+Buy the Gandalf Sherlock Pipe from [Dankstop.com](https://dankstop.com/products/dankstop-gandalf-sherlock-pipe?variant=12084683309132){:target="_blank"}.
 
 ---
 
