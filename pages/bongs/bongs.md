@@ -314,12 +314,26 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 		<th>Shop</th>
 	</tr>	
 	<tr>
-		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/black-leaf-4-arm-black.png" /></a></td>
+		<td><a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/nucleus-bent-matrix.png" /></a></td>
+		<td>Nucleus Matrix</td>
+		<td>$74.99.99</td>
+		<td><a class="big-button" target="_blank" href="https://goo.gl/4jvY4J">Compare Lowest Prices</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?utm_source=yotpo&utm_medium=email&utm_campaign=affiliation_PromotedProduct"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/black-leaf-4-arm-black.png" /></a></td>
 		<td>Black Leaf 4-Arm Bong</td>
 		<td>$59.99</td>
-		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Compare Lowest Prices</a></td>
+		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?utm_source=yotpo&utm_medium=email&utm_campaign=affiliation_PromotedProduct">Compare Lowest Prices</a></td>
 	</tr>
 </table>
+
+<h2 class="heading-center"><a target="_blank" href="https://goo.gl/4jvY4J">The Bent Neck Matrix</a>, by Nucleus - 8.5 in / 21.6 cm tall - $74.99</h2>
+
+<a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
+
+Bent Neck Matrix intro sentence
+
+---
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm / 11.8" - $59.99</h2>
 
@@ -345,6 +359,12 @@ With a sleek design and a reputably effective build - this 30 cm German engineer
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs.
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke.
+
+---
+
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?utm_source=yotpo&utm_medium=email&utm_campaign=affiliation_PromotedProduct">Black Glasscity Beaker Ice Bong</a> - 10 in / 25.4 cm tall - $99.99</h2>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?utm_source=yotpo&utm_medium=email&utm_campaign=affiliation_PromotedProduct"><img alt="Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong" class="img-middle" src="/img/bongs/beaker-base-6-arm-perc.png" /></a>
 
 ---
 
