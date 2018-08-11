@@ -333,6 +333,8 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 
 Bent Neck Matrix intro sentence
 
+A bent neck on a water pipe is very underrated. It allows for you to distance yourself further from your flame and acts as a natural splashguard. The Bent Neck Matrix Perc Bong also has an impressive matrix perc located in the center to diffuse your smoke. There are black accents on the flared mouthpiece, around the base, and on the 14mm male bowl with pinch handle. This male bowl fits perfectly into the bong's 14mm female joint. At such a low price, this bong is a great daily driver while being easy on the wallet.
+
 ---
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm / 11.8" - $59.99</h2>
