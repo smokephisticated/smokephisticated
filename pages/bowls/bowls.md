@@ -2,7 +2,7 @@
 layout: page
 title: "Best Bowls/Handpipes & Bubblers for Your Money, 2018"
 permalink: "/bowls/"
-seotitle: "11 Best Cheap Weed Pipes / Bowls for Your Money in 2018"
+seotitle: "11 Best Bowls: Cheap & Affordable (2018 Updated)"
 ---
 
 We've compiled a list of hand pipes and bubblers with reviewer-backed reputation. Scroll down to the first table to hop right in.

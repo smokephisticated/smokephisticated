@@ -2,8 +2,16 @@
 layout: page
 title: "Reputably Quality Bongs/Waterpipes for Your Money - 2018" 
 permalink: "/bongs/"
-seotitle: "15 Best Cheap Bongs/Waterpipes for Your Money in 2018"
+seotitle: "15 Best Bongs: Cheap & Affordable (2018 Updated)"
 ---
+
+Welcome to our list of bong recommendations!
+
+We've looked in-depth through BLANK online headshops to find the very best & highly rated!
+
+Find our recommendations listed by price according to your budget.
+
+**Table of Product Contents:**
 
 <h5 id="bong-directory">Product Table Directory, by Price</h5>
 
@@ -51,9 +59,9 @@ Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 y
 
 This is for good reason - Bongs and pipes are one of the most effective and convienient ways to smoke tabacco and dry herb.
 
- Which is why the bong market is so massive, especially online. Nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
+Which is why the bong market is so massive, especially online. Nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
 
- **So, where do you even start?**
+**So, where do you even start?**
 
 Save your time; sifting through shady hit-or-miss websites to accidentally settle for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
 
@@ -266,7 +274,7 @@ Below you will find highly rated sub-$100 bongs on the market right now.
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html"><img alt="Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong" class="table-image" src="/img/bongs/beaker-base-6-arm-perc.png" /></a></td>
-		<td>ELITE 6-Arm Perc Ice Bong</td>
+		<td>ELITE 6-Arm Beaker</td>
 		<td>$99.99</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Compare Lowest Prices</a></td>
 	</tr>
@@ -316,7 +324,7 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 	<tr>
 		<td><a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/nucleus-bent-matrix.png" /></a></td>
 		<td>Nucleus Matrix</td>
-		<td>$74.99.99</td>
+		<td>$74.99</td>
 		<td><a class="big-button" target="_blank" href="https://goo.gl/4jvY4J">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
@@ -331,7 +339,32 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 
 <a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
 
+Made by Nucleus in the USA, the Bent Matrix is ergonomically designed and ready to be your next go-to daily driver.
+
+In fact, the Matrix has earned a 62/64 5-star customer rating ratio on Dankstop.com - mostly attributed to the price, comfortability, and the powerful rips that this piece is capable of.
+
+Read the reveiws yourself [here](https://goo.gl/4jvY4J){:target="_blank"}
+
+Based out of New Jersey, Nucleus takes pride in offering professional-grade glass at affordable prices. Nucleus uses laboratory-grade glass and consults with expert glass-blowers to ensure absolute quality in their products. Every Nucleus product is checked for quality before being sent to you - so you can rest easy knowing that your product was shipped to you in-tact.
+
 Bent Neck Matrix intro sentence
+
+standing at 8.5 inches
+
+
+Joint Size: 14mm female
+Height: 8.5 inches
+Bent Neck
+Clear Glass
+Colored Glass
+90° Joint
+Female Joint 14mm Joint
+Flared Mouthpiece
+Matrix Perc
+
+This Nucleus Glass piece is a perfect daily driver for both dry herbs or concentrates. Featuring a bent neck that allows you to distance your self from the flame and also prevents splashback. This Bent Neck Matrix Perc Bong features a thick matrix perc located in the center of the main chamber to diffuse your smoke or vapor. The matrix perc contains dozens of small slits to ensure your smoke is filtered as much as possible for smooth rips. This piece features black glass accents on the bowl, flared mouthpiece, and thick rounded base. This glass bong has a 14mm female joint and includes a matching 14mm male bowl piece. At such a low price this bong is a must have for any glass collection.
+
+
 
 A bent neck on a water pipe is very underrated. It allows for you to distance yourself further from your flame and acts as a natural splashguard. The Bent Neck Matrix Perc Bong also has an impressive matrix perc located in the center to diffuse your smoke. There are black accents on the flared mouthpiece, around the base, and on the 14mm male bowl with pinch handle. This male bowl fits perfectly into the bong's 14mm female joint. At such a low price, this bong is a great daily driver while being easy on the wallet.
 
