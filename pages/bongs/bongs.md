@@ -339,34 +339,41 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 
 <a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
 
-Made by Nucleus in the USA, the Bent Matrix is ergonomically designed and ready to be your next go-to daily driver.
+Made by Nucleus in the USA, the Bent Neck Matrix has earned a 62/64 5-star customer rating ratio on Dankstop.com - mostly attributed to the price, comfortability, and the powerful rips that this piece is capable of - giving the Matrix fantastic daily-driver potential.
 
-In fact, the Matrix has earned a 62/64 5-star customer rating ratio on Dankstop.com - mostly attributed to the price, comfortability, and the powerful rips that this piece is capable of.
+The "Matrix" refers to the Matrix water perc device that cools, filters, and even vaporizes smoke bubbles as they pass through; this device uses dozens of tiny slits to allow for much larger and more enjoyable rips from your dry herb or concentrates.
 
-Read the reveiws yourself [here](https://goo.gl/4jvY4J){:target="_blank"}
+*Pro Tip:* Use ice water for additional cooling effect
 
-Based out of New Jersey, Nucleus takes pride in offering professional-grade glass at affordable prices. Nucleus uses laboratory-grade glass and consults with expert glass-blowers to ensure absolute quality in their products. Every Nucleus product is checked for quality before being sent to you - so you can rest easy knowing that your product was shipped to you in-tact.
+**Bong Specs:**
 
-Bent Neck Matrix intro sentence
+* Build: Borosilicate glass
 
-standing at 8.5 inches
+* Joint Size: 14mm female
 
+* Male attachment for concentrates (Quartz banger nail) - available for additional $7
 
-Joint Size: 14mm female
-Height: 8.5 inches
-Bent Neck
-Clear Glass
-Colored Glass
-90° Joint
-Female Joint 14mm Joint
-Flared Mouthpiece
-Matrix Perc
+* Height: 8.5 inches
 
-This Nucleus Glass piece is a perfect daily driver for both dry herbs or concentrates. Featuring a bent neck that allows you to distance your self from the flame and also prevents splashback. This Bent Neck Matrix Perc Bong features a thick matrix perc located in the center of the main chamber to diffuse your smoke or vapor. The matrix perc contains dozens of small slits to ensure your smoke is filtered as much as possible for smooth rips. This piece features black glass accents on the bowl, flared mouthpiece, and thick rounded base. This glass bong has a 14mm female joint and includes a matching 14mm male bowl piece. At such a low price this bong is a must have for any glass collection.
+* 90° Joint
 
+**Features of the Bent Neck Matrix:**
 
+* Matrix Percolator - diffuses smoke for cool & clean rips
 
-A bent neck on a water pipe is very underrated. It allows for you to distance yourself further from your flame and acts as a natural splashguard. The Bent Neck Matrix Perc Bong also has an impressive matrix perc located in the center to diffuse your smoke. There are black accents on the flared mouthpiece, around the base, and on the 14mm male bowl with pinch handle. This male bowl fits perfectly into the bong's 14mm female joint. At such a low price, this bong is a great daily driver while being easy on the wallet.
+* Ergonomic Bent Neck - Distances flames & prevents splashing
+
+* Flared Mouthpiece
+
+* "nucleus" Sticker
+
+* Nucleus Logo Sticker
+
+Nucleus uses laboratory-grade glass & consults with proffesional glass blowers to ensure you recieve reliable quality.
+
+Dankstop usually sells this item for $74.99, but be sure to check out any sales that they might have!
+
+All in all, the [Bent Neck Matrix](https://goo.gl/4jvY4J){:target="_blank"} is a solid option as either a starter, or an addition to the collection.
 
 ---
 
@@ -394,12 +401,6 @@ With a sleek design and a reputably effective build - this 30 cm German engineer
  Golden-boy over here is designed to cool your milky smoke while traveling from your "tobacco" to your tarry lungs.
 
 Percolators are pieces that use water to filter/strain nasty lung-harming particles from your smoke before entering your lungs. This proscess of filtration is reffered as "diffusion" of the smoke.
-
----
-
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?utm_source=yotpo&utm_medium=email&utm_campaign=affiliation_PromotedProduct">Black Glasscity Beaker Ice Bong</a> - 10 in / 25.4 cm tall - $99.99</h2>
-
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?utm_source=yotpo&utm_medium=email&utm_campaign=affiliation_PromotedProduct"><img alt="Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong" class="img-middle" src="/img/bongs/beaker-base-6-arm-perc.png" /></a>
 
 ---
 
