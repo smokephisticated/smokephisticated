@@ -274,7 +274,7 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 <h2 class="heading-center" name="headbbu100">Best bongs under $100</h2>
 
-## Best Bongs Under $100
+## <a name="headbbu100">Best Bongs Under $100><a/>
 
 **[Directory Shortcut](#bong-directory)**
 
