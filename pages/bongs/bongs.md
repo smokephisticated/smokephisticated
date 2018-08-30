@@ -9,8 +9,6 @@ Welcome to our list of bong recommendations!
 
 We've looked in-depth through 4 online headshops to find the very best & highly rated!
 
-Find our recommendations listed by price according to your budget.
-
 <div id="bong-directory">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
@@ -113,9 +111,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
-### <a name="headbbu140"></a>
-
-<h2 class="heading-center">Best Bongs Under $140</h2>
+## <a name="headbbu140">Best Bongs Under $140</a>
 
 **[Directory Shortcut](#bong-directory)**
 
