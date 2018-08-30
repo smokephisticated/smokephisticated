@@ -613,54 +613,8 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 * TOC
 {:toc}
 
-* Bong recommendations under $140
-* [Directory Shortcut](#headbbu140)
 
-* Bong recommendations under $100
-* [Directory Shortcut](#headbbu100)
 
-* Bong recommendations under $75
-* [Directory Shortcut](#headbbu75) 
 
-* Bong recommendations under $50
-* [Directory Shortcut](#headbbu50)
 
-* Bong recommendations under $20
-* [Directory Shortcut](#headbbu20)
-{:toc}
-* TOC
 
-*TOC
-{:toc}
-
-<div id="toc_container">
-<p class="toc_title">Contents</p>
-<ul class="toc_list">
- <li><a href="#headbbu140">Bong Recommendations under $140</a>
-  <ul>
-    <li><a href="#headbbu140"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
- <li><a href="#headbbu100">Bong Recommendations under $100</a>
-  <ul>
-    <li><a href="#headbbu100"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
-  <li><a href="#headbbu75">Bong Recommendations under $75</a>
-  <ul>
-    <li><a href="#headbbu75"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu50">Bong Recommendations under $50</a>
-  <ul>
-    <li><a href="#headbbu50"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu20">Bong Recommendations under $20</a>
-  <ul>
-    <li><a href="#headbbu20"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
