@@ -45,20 +45,6 @@ We've looked in-depth through 4 online headshops to find the very best & highly 
 </ul>
 </div>
 
-## Test
-
-## Test 1
-
-## Test 2
-
-## Test 3
-
-# TESTT
-
-### TTEESSTT
-
-#### TTTTEEESSSTTTTT
-
 <h2 class="heading-center">Let's be Honest,</h2>
 
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
@@ -111,9 +97,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
-<h2 class="heading-center" name="#headbbu140"></h2>
-
-## name="#headbbu140"><
+## <a name="#headbbu140"></a>
 
 ## Best Bongs Under $140
 
@@ -274,7 +258,7 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 ---
 
-## name="headbbu100"
+## <a name="headbbu100"></a>
 
 ## Best bongs under $100
 

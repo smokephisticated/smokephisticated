@@ -9,8 +9,6 @@ Welcome to our list of bong recommendations!
 
 We've looked in-depth through 5 online headshops to find the very best & highly rated!
 
-Find our recommendations listed by price according to your budget.
-
 <div id="bowl-directory">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
@@ -26,7 +24,7 @@ Find our recommendations listed by price according to your budget.
     <li><a href="#First_Sub_Point_2"></a></li>
   </ul>
  </li>
-  <li><a href="#headbbu50">Bowl Recommendations under $50</a>
+  <li><a href="#headbbu55">Bowl Recommendations under $55</a>
   <ul>
     <li><a href="#headbbu50"></a></li>
     <li><a href="#First_Sub_Point_2"></a></li>
@@ -77,7 +75,7 @@ Read about the listed company's shipping policies, return policies and other inf
 
 ### <a name="headbbu160"></a>
 
-<h2 name="headbbu160" class="heading-center">Best Bowls Under $160:</h2>
+## Best Bowls Under $160
 
 **[Directory Shortcut](#bowl-directory)**
 
@@ -101,8 +99,6 @@ Read about the listed company's shipping policies, return policies and other inf
 		<td><a class="big-button" target="_blank" href="https://www.dopeboo.com/products/grav-labs-jane-west-5-5-inch-upright-bubbler-pipe?variant=52674448580?aff=43">Purchase Info</a></td>
 	</tr>
 </table>
-
-### <a name="marley-bubbler-shortcut"></a>
 
 <h2 class="heading-center"><a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43">Marley Walnut Wood Bubbler</a> 5.75" H x 5.75" L x 1.75" W - $159.99</h2>
 
@@ -162,7 +158,7 @@ Jane West is commonly referred to as the most renowned female icon in the mariju
 
 ### <a name="headbbu100"></a>
 
-<h2 class="heading-center">Best Bowls Under $100:</h2>
+## Best Bowls Under $100
 
 **[Directory Shortcut](#bowl-directory)**
 
@@ -309,9 +305,9 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 
 ---
 
-### <a name="headbbu50"></a>
+### <a name="headbbu55"></a>
 
-<h2 class="heading-center">Best Bowls Under $55:</h2>
+## Best Bowls Under $55
 
 **[Directory Shortcut](#bowl-directory)**
 
@@ -448,7 +444,7 @@ Buy the Gandalf Sherlock Pipe from [Dankstop.com](https://dankstop.com/products/
 
 ### <a name="headbbu25"></a>
 
-<h2 class="heading-center">Best Bowls Under $25:</h2>
+## Best Bowls Under $25
 
 **[Directory Shortcut](#bowl-directory)**
 
@@ -546,8 +542,6 @@ Internally there are 3 Vortex-Notches' which spin the smoke in a spiral, filling
 - Wall Thickness: WT: 5mm
 
 ---
-
-### <a name="shabong-shortcut"></a>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html">Glass Shabong Steamroller</a> -  19.5 cm / 7.7" L - $13.99</h2>
 
