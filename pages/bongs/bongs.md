@@ -111,7 +111,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
-## <a name="headbbu140">Best Bongs Under $140</a>
+## name="headbbu140">Best Bongs Under $140
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -618,3 +618,5 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 * TOC
 {:toc}
+
+---
