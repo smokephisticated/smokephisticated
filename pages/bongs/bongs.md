@@ -272,7 +272,10 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 ### <a name="headbbu100"></a>
 
-<h2 class="heading-center">Best bongs under $100</h2>
+## <h2 class="heading-center">Best bongs under $100</h2>
+
+## name="headbbu100">Best bongs under $100</h2>
+
 
 **[Directory Shortcut](#bong-directory)**
 
