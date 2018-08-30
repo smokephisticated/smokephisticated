@@ -18,7 +18,7 @@ We've looked in-depth through 4 online headshops to find the very best & highly 
     <li><a href="#First_Sub_Point_2"></a></li>
   </ul>
  </li>
- <li><a href="## Best Bongs Under $140">Bong Recommendations under $100</a>
+ <li><a href="#headbbu100">Bong Recommendations under $100</a>
   <ul>
     <li><a href="#headbbu100"></a></li>
     <li><a href="#First_Sub_Point_2"></a></li>
@@ -272,8 +272,7 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 ## <h2 class="heading-center">Best bongs under $100</h2>
 
-## name="headbbu100">Best bongs under $100</h2>
-
+## name="#headbbu100">Best bongs under $100</h2>
 
 **[Directory Shortcut](#bong-directory)**
 
