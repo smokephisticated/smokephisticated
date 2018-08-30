@@ -113,6 +113,8 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <h2 class="heading-center" name="#headbbu140"></h2>
 
+## name="#headbbu140"><
+
 ## Best Bongs Under $140
 
 **[Directory Shortcut](#bong-directory)**
@@ -272,9 +274,9 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 ---
 
-<h2 class="heading-center" name="headbbu100">Best bongs under $100</h2>
+## name="headbbu100"
 
-## <a name="headbbu100">Best Bongs Under $100><a/>
+## Best bongs under $100
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -321,7 +323,7 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 ### <a name="headbbu75"></a>
 
-<h2 class="heading-center">Best bongs under $75</h2>
+## Best bongs under $75
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -419,7 +421,7 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 ### <a name="headbbu50"></a>
 
-<h2 class="heading-center">Best bongs under $50</h2>
+## Best bongs under $50
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -524,7 +526,7 @@ Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankSto
 
 ### <a name="headbbu20"></a>
 
-<h2 class="heading-center">Best Bongs Under $20</h2>
+## Best Bongs Under $20
 
 **[Directory Shortcut](#bong-directory)**
 
