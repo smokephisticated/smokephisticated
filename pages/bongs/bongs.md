@@ -609,8 +609,10 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 **[Directory Shortcut](#bong-directory)**
 
+
 * TOC
 {:toc}
+
 * Bong recommendations under $140
 * [Directory Shortcut](#headbbu140)
 
