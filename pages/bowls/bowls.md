@@ -11,11 +11,7 @@ We've looked in-depth through 5 online headshops to find the very best & highly 
 
 Find our recommendations listed by price according to your budget.
 
-**Table of Product Contents:**
-
-<h5 id="bowl-directory">Product Table Directory, by Price</h5>
-
-<div id="toc_container">
+<div id="bowl-directory">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
  <li><a href="#headbbu160">Bowl Recommendations under $160</a>

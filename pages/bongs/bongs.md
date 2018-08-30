@@ -11,11 +11,7 @@ We've looked in-depth through 4 online headshops to find the very best & highly 
 
 Find our recommendations listed by price according to your budget.
 
-**Table of Product Contents:**
-
-<h5 id="bong-directory">Product Table Directory, by Price</h5>
-
-<div id="toc_container">
+<div id="bong-directory">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
  <li><a href="#headbbu140">Bong Recommendations under $140</a>
@@ -50,6 +46,20 @@ Find our recommendations listed by price according to your budget.
 </li>
 </ul>
 </div>
+
+## Test
+
+## Test 1
+
+## Test 2
+
+## Test 3
+
+# TESTT
+
+### TTEESSTT
+
+#### TTTTEEESSSTTTTT
 
 <h2 class="heading-center">Let's be Honest,</h2>
 
