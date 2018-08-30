@@ -610,8 +610,10 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 **[Directory Shortcut](#bong-directory)**
 
 * TOC
-bong recommendations under 100
+{:toc} bong recommendations under 100
 [Directory Shortcut](#headbbu140)
+* TOC
 {:toc}
- toc
-{toc}
+
+*TOC
+{:toc}
