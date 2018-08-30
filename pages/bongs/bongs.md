@@ -98,7 +98,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
-**[Directory Shortcut](#bong-directory)**
+**[Directory Shortcut](#bowl-directory)**
 
 ### <a name="headbbu140"></a>
 
@@ -215,9 +215,9 @@ This isn't by any means an essential piece to smoking herbs, but it is both help
 
 * Comes complete with decorative foam box providing safe shipping and a safe place to repackage for future use.
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Black Leaf's Triple Honeycomb Disc Percolator</a> -  38 cm / 15 inches - $125</h2>
-
 ---
+
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Black Leaf's Triple Honeycomb Disc Percolator</a> -  38 cm / 15 inches - $125</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="img-middle" src="/img/bongs/honeycomb-disc.png"/></a>
 
@@ -247,7 +247,7 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 * 18.8mm sliding-glass bowl with an attached blue handle for lifting to clear your chamber and to stop itself from rolling.
 
-* Black Leaf's HoneyComb label. Just Beecause.
+* Black Leaf's HoneyComb label. Just Beecause it's what the buzz is about
 
 * Ice nothches located at the neck to make for *even smoother* frosty inhales.. Will you even realize you're smoking?
 
@@ -605,3 +605,8 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 ---
 
 **[Directory Shortcut](#bong-directory)**
+
+* TOC
+{:toc}
+ toc
+{toc}
