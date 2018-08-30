@@ -12,13 +12,13 @@ We've looked in-depth through 4 online headshops to find the very best & highly 
 <div id="bong-directory">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
- <li><a href="#headbbu140">Bong Recommendations under $140</a>
+ <li><a href="# Test">Bong Recommendations under $140</a>
   <ul>
     <li><a href="#headbbu140"></a></li>
     <li><a href="#First_Sub_Point_2"></a></li>
   </ul>
  </li>
- <li><a href="#headbbu100">Bong Recommendations under $100</a>
+ <li><a href="## Best Bongs Under $140">Bong Recommendations under $100</a>
   <ul>
     <li><a href="#headbbu100"></a></li>
     <li><a href="#First_Sub_Point_2"></a></li>
@@ -111,7 +111,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
-## <a name="headbbu140">Best Bongs Under $140<
+## Best Bongs Under $140
 
 **[Directory Shortcut](#bong-directory)**
 
