@@ -584,3 +584,6 @@ The Glass Shabong features:
 ---
 
 **[Directory Shortcut](#bowl-directory)**
+
+* TOC
+{:toc}
