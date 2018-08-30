@@ -1,107 +1,33 @@
 ---
 layout: page
-title: "Reputably Quality Bongs/Waterpipes for Your Money - 2018" 
+title: "The Best Cheap Bongs for Your Money in 2018" 
 permalink: "/bongs/"
 seotitle: "15 Best Bongs: Cheap & Affordable (2018 Updated)"
 ---
 
-Welcome to our list of bong recommendations!
-
-We've looked in-depth through 4 online headshops to find the very best & highly rated!
-
-<div id="bong-directory">
-<p class="toc_title">Contents</p>
-<ul class="toc_list">
- <li><a href="# Test">Bong Recommendations under $140</a>
-  <ul>
-    <li><a href="#headbbu140"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
- <li><a href="#headbbu100">Bong Recommendations under $100</a>
-  <ul>
-    <li><a href="#headbbu100"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
-  <li><a href="#headbbu75">Bong Recommendations under $75</a>
-  <ul>
-    <li><a href="#headbbu75"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu50">Bong Recommendations under $50</a>
-  <ul>
-    <li><a href="#headbbu50"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu20">Bong Recommendations under $20</a>
-  <ul>
-    <li><a href="#headbbu20"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-</ul>
-</div>
-
-<h2 class="heading-center">Let's be Honest,</h2>
+*Here's the deal:* 
 
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
 
-**And well, their modern-day decendents are absolutely no exception**
+**And well, their modern-day decendents have followed the tradition.**
 
-This is for good reason - Bongs and pipes are one of the most effective and convienient ways to smoke tabacco and dry herb.
+This is for good reason - bongs and pipes are effective and convienient ways to smoke tabacco and dry herb.
 
-Which is why the bong market is so massive, especially online. Nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
+Nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
 
-**So, where do you even start?**
+**So, where do you start?**
 
-Save your time; sifting through shady hit-or-miss websites to accidentally settle for a cheaply made bong that was worth 1/6 of what you paid is all too easy to do if you're not sure what to look for.
+Sifting through shady hit-or-miss websites to accidentally settle for a cheaply made bong is not a good idea. 
 
-That's the purpose behind this guide - to direct stoners toward quality products in an honest and straight-forward manner.
+Luckily for you, we've selected 4 premium online headshops to find the very best & highly rated bongs for you!
 
-<h5 class="heading-center">We've searched so you don't have to.</h5>
+This is the ultimate bongs guide, which will highlight the best bongs in the world that can be purchased online and delivered directly to your door, including the world's best bongs brands, and the best bongs on Amazon. 
 
-Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until: you're both informed about your purchase, and certain that none of your time, money, or precious supply will be wasted on low-quality products.
-
-Our bong recommendations currently consist of products from four community-trusted online headshops:
-
-* [BrotherswithGlass.com](http://brotherswithglass.com?rfsn=1578981.bc3f21){:target="_blank"}
-
-* [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
-
-* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
-
-* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
-
-(All three sites often run store-wide sales)
-
-**Oh, and relax;** Discreet packaging is also the norm for all three shops. You will recieve your products packed into an unmarked package with no indication of what you're ordering.
-
-Read about the listed company's shipping policies, return policies and other information in our [About](/about){:target="_blank"} section.
-
-So, why should you hear us out?
-
-These aren't just *our* recommendations.
-
-<h5 class="heading-center">Our selection is sourced straight from the community:</h5>
-
-Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact deciding process as you are now.
-
-So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection; we'll deliver the most reputable options straight to you, no BS.
-
-<h3 class="heading-center">Please Note:</h3> 
-
-<h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
+*So, what are you waiting for? Your next bong is just a few clicks away!*
 
 ---
 
-## <a name="#headbbu140"></a>
-
 ## Best Bongs Under $140
-
-**[Directory Shortcut](#bong-directory)**
 
 **Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
 
@@ -144,7 +70,9 @@ We've written a 5 minute rundown on percolation using this product as an example
 
 **An inline percolator in action:**
 
+<div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_II6sKOzEGk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a>
 
@@ -172,7 +100,7 @@ We've written a 5 minute rundown on percolation using this product as an example
 
 * No carb hole - Simply ifting the bowl makes for more effective chamber clearing than a carbhole/shotgun anyway.
 
-**Click <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Here</a> to check it out over at Grasscity.**
+<a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Check Lowest Price</a>
 
 ---
 
@@ -258,9 +186,7 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 ---
 
-## <a name="headbbu100"></a>
-
-## Best bongs under $100
+## Best Bongs Under $100
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -599,6 +525,78 @@ Oh and don't let the simplicity or price of this piece fool you - this bubble bo
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
 
+<div id="bong-directory">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+ <li><a href="# Test">Bong Recommendations under $140</a>
+  <ul>
+    <li><a href="#headbbu140"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+ <li><a href="#headbbu100">Bong Recommendations under $100</a>
+  <ul>
+    <li><a href="#headbbu100"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+  <li><a href="#headbbu75">Bong Recommendations under $75</a>
+  <ul>
+    <li><a href="#headbbu75"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu50">Bong Recommendations under $50</a>
+  <ul>
+    <li><a href="#headbbu50"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu20">Bong Recommendations under $20</a>
+  <ul>
+    <li><a href="#headbbu20"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+</ul>
+</div>
+
+<h2 class="heading-center">Let's be Honest,</h2>
+
+
+
+Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until: you're both informed about your purchase, and certain that none of your time, money, or precious supply will be wasted on low-quality products.
+
+Our bong recommendations currently consist of products from four community-trusted online headshops:
+
+* [BrotherswithGlass.com](http://brotherswithglass.com?rfsn=1578981.bc3f21){:target="_blank"}
+
+* [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
+
+* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
+
+* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
+
+(All three sites often run store-wide sales)
+
+**Oh, and relax;** Discreet packaging is also the norm for all three shops. You will recieve your products packed into an unmarked package with no indication of what you're ordering.
+
+Read about the listed company's shipping policies, return policies and other information in our [About](/about){:target="_blank"} section.
+
+So, why should you hear us out?
+
+These aren't just *our* recommendations.
+
+<h5 class="heading-center">Our selection is sourced straight from the community:</h5>
+
+Our suggestions strongly stem off of genuine customer feedback left by real and satisfied stoners that have gone through the exact deciding process as you are now.
+
+So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection; we'll deliver the most reputable options straight to you, no BS.
+
+<h3 class="heading-center">Please Note:</h3> 
+
+<h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
+
 ---
 
 **[Directory Shortcut](#bong-directory)**
@@ -608,3 +606,5 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 {:toc}
 
 ---
+
+
