@@ -5,11 +5,13 @@ permalink: "/bowls/"
 seotitle: "11 Best Bowls: Cheap & Affordable (2018 Updated)"
 ---
 
-We've compiled a list of hand pipes and bubblers with reviewer-backed reputation. Scroll down to the first table to hop right in.
+Welcome to our list of bong recommendations!
 
-Wheather you're in the market for budget steamroller pipes like the $13.99 [Shabong](#shabong-shortcut) <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/large-glass-shabong.html" ><img alt="Large Glass Shabong Steamroller" class="table-image" src="/img/bowls/large-shabong-steamroller.png" width="100px"/></a>, or if you're searching for high quality bubblers like the $160 [Marley Natural Pipe](#marley-bubbler-shortcut)  <a target="_blank" href="https://www.dopeboo.com/products/glass-and-walnut-wood-bubbler?variant=52674372612?aff=43"><img alt="Marley Walnut Wood Bubbler" class="img-middle" src="/img/bowls/marley-walnut.png" width="100px" /></a>; we've got you covered. 
+We've looked in-depth through 5 online headshops to find the very best & highly rated!
 
-Find your next go-to piece right here.
+Find our recommendations listed by price according to your budget.
+
+**Table of Product Contents:**
 
 <h5 id="bowl-directory">Product Table Directory, by Price</h5>
 
@@ -55,17 +57,21 @@ We search for the highest quality bowls by looking directly at genuine customer 
 
 Don't waste your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a reasonably priced piece you love, with an informative description.
 
-Our suggestions stem from three community-trusted sites:
+Our suggestions stem from four community-trusted sites:
+
+* [BrotherswithGlass.com](http://brotherswithglass.com?rfsn=1578981.bc3f21){:target="_blank"}
+
+* [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
 
 * [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
 
 * [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
 
-(Both sites tend to run store-wide sales more times than not)
+(All four sites often run store-wide sales)
 
-As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com/?afmc=2f){:target="_blank"}
+We also feature the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com/?afmc=2f){:target="_blank"}
 
-**Oh, and relax;** Discreet packaging is also the norm for all three shops. You will recieve your products packed into an unmarked package with no indication of what you're ordering.
+Read about the listed company's shipping policies, return policies and other information in our [About](/about){:target="_blank"} section.
 
 <h3 class="heading-center">Please Note:</h3> 
 
@@ -73,11 +79,11 @@ As well as the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com
 
 ---
 
-### <a name="headbbu160"></a>Best Bongs Under $160
-
-**[Directory Shortcut](#bowl-directory)**
+### <a name="headbbu160"></a>
 
 <h2 name="headbbu160" class="heading-center">Best Bowls Under $160:</h2>
+
+**[Directory Shortcut](#bowl-directory)**
 
 <table class="basic-table">
 	<tr>
@@ -158,11 +164,11 @@ Jane West is commonly referred to as the most renowned female icon in the mariju
 
 ---
 
-### <a name="headbbu100"></a>Best Bowls Under $100
-
-**[Directory Shortcut](#bowl-directory)**
+### <a name="headbbu100"></a>
 
 <h2 class="heading-center">Best Bowls Under $100:</h2>
+
+**[Directory Shortcut](#bowl-directory)**
 
 <table class="basic-table">
 	<tr>
@@ -305,11 +311,11 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 
 ---
 
-### <a name="headbbu50"></a>Best Bowls Under $50
-
-**[Directory Shortcut](#bowl-directory)**
+### <a name="headbbu50"></a>
 
 <h2 class="heading-center">Best Bowls Under $55:</h2>
+
+**[Directory Shortcut](#bowl-directory)**
 
 <table class="basic-table">
 	<tr>
@@ -344,19 +350,21 @@ Pick up *The Spoon Pipe*, your next favorite spoon pipe, from Dopeboo.com [Here]
 
 Hey, Morty!
 
-Sold by Brothers with Glass, This Pickle Rick Hand Pipe is ready to travel any dimensional toking rotation - **it's Pickle Riicckkk!!**
+Sold by Brothers with Glass, This Pickle Rick Hand Pipe is ready to travel through any interdimensional toking rotation - **it's Pickle Riicckkk!!**
 
-Made by Chameleon Glass in Arizona, USA; this pipe is the highest rated and highest quality rendition of the Pickle Rick Hand Pipe that we could find.
+Made by Chameleon Glass in Arizona, USA.
 
-Chameleon Glass is known for both the high standards that they maintain in their glass, and the satisfaction maintained with their customers - this product is just another shining example of Chameleon Glass's reputation.
+This pipe is the highest rated and highest quality rendition of the Pickle Rick Hand Pipe that we could find online.
+
+Chameleon Glass is known for high standards in their glass, and the satisfaction maintained with their customers.
 
 **Specs & Features:**
 
 * 5" in length
 
-* Green scientific glass
+* Green Scientific Glass
 
-* Anti-roll pickle bumps - Sorry Morty, this pickle won't be so easy to flip over.. Which is actually a good thing, no herb spillage!
+* Anti-Roll Bumps - Good lick flipping this pickle over, *Morty*.
 
 * Made in Arizona, USA
 
@@ -440,11 +448,11 @@ Buy the Gandalf Sherlock Pipe from [Dankstop.com](https://dankstop.com/products/
 
 ---
 
-### <a name="headbbu25"></a>Best Bowls Under $25
-
-**[Directory Shortcut](#bowl-directory)**
+### <a name="headbbu25"></a>
 
 <h2 class="heading-center">Best Bowls Under $25:</h2>
+
+**[Directory Shortcut](#bowl-directory)**
 
 <table class="basic-table">
 	<tr>
@@ -569,7 +577,7 @@ The Glass Shabong features:
 
 * Ships with metal screens - This piece works much better with a screen sitting in the bowl. Pick up a few extras and save yourself from having to spit out ash and herb later. Select the 15.9 mm size for the best fit: [Screens](https://www.grasscity.com/us_en/steel-screens-various-sizes-100x.html){:target="_blank"}
 
-& as you've hopefully noticed, this piece isn't actually *large*, but rather the larger version of itself. See the even smaller [small shabong](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/small-glass-shabong.html){:target="_blank"}
+& as you may have noticed, this piece isn't actually *large*, but rather the larger version of itself. See the even smaller [small shabong](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/small-glass-shabong.html){:target="_blank"}
 
 ---
 

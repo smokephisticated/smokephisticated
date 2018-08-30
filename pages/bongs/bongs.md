@@ -7,7 +7,7 @@ seotitle: "15 Best Bongs: Cheap & Affordable (2018 Updated)"
 
 Welcome to our list of bong recommendations!
 
-We've looked in-depth through BLANK online headshops to find the very best & highly rated!
+We've looked in-depth through 4 online headshops to find the very best & highly rated!
 
 Find our recommendations listed by price according to your budget.
 
@@ -71,16 +71,21 @@ That's the purpose behind this guide - to direct stoners toward quality products
 
 Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until: you're both informed about your purchase, and certain that none of your time, money, or precious supply will be wasted on low-quality products.
 
-Our bong recommendations currently consist of products from three community-trusted online headshops:
+Our bong recommendations currently consist of products from four community-trusted online headshops:
 
-- [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
+* [BrotherswithGlass.com](http://brotherswithglass.com?rfsn=1578981.bc3f21){:target="_blank"}
 
-- [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
+* [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
 
-- [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
+* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
+
+* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
+
+(All three sites often run store-wide sales)
+
+**Oh, and relax;** Discreet packaging is also the norm for all three shops. You will recieve your products packed into an unmarked package with no indication of what you're ordering.
 
 Read about the listed company's shipping policies, return policies and other information in our [About](/about){:target="_blank"} section.
-
 
 So, why should you hear us out?
 
@@ -98,11 +103,11 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
-**[Directory Shortcut](#bowl-directory)**
-
 ### <a name="headbbu140"></a>
 
 <h2 class="heading-center">Best Bongs Under $140</h2>
+
+**[Directory Shortcut](#bong-directory)**
 
 **Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
 
@@ -255,11 +260,11 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 ---
 
-**[Directory Shortcut](#bong-directory)**
-
 ### <a name="headbbu100"></a>
 
 <h2 class="heading-center">Best bongs under $100</h2>
+
+**[Directory Shortcut](#bong-directory)**
 
 Below you will find highly rated sub-$100 bongs on the market right now.
 
@@ -304,11 +309,11 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 ---
 
-**[Directory Shortcut](#bong-directory)**
-
 ### <a name="headbbu75"></a>
 
 <h2 class="heading-center">Best bongs under $75</h2>
+
+**[Directory Shortcut](#bong-directory)**
 
 If you're in the market for the greatest pieces under $75: We have a few suggestions.
 
@@ -404,13 +409,11 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 ---
 
-**[Directory Shortcut](#bong-directory)**
-
 ### <a name="headbbu50"></a>
 
 <h2 class="heading-center">Best bongs under $50</h2>
 
-<h3 class="heading-center">For the Avid Sparker:</h3>
+**[Directory Shortcut](#bong-directory)**
 
 <table class="basic-table">
 	<tr>
@@ -513,9 +516,9 @@ Sold and made by <a target="_blank" href="http://dankstop.com/?aff=1112">DankSto
 
 ### <a name="headbbu20"></a>
 
-**[Directory Shortcut](#bong-directory)**
-
 <h2 class="heading-center">Best Bongs Under $20</h2>
+
+**[Directory Shortcut](#bong-directory)**
 
 **Who said that you had to sacrifice quality for affordability?** 
 
