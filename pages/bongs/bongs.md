@@ -611,5 +611,7 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 
 * TOC
 {:toc}
+bong recommendations under 100
+[Directory Shortcut](#headbbu140)
  toc
 {toc}
