@@ -148,6 +148,10 @@ To start the list we have a submarine-style percolating monster that will run yo
 
 We've written a 5 minute rundown on percolation using this product as an example - Read that [Here](smokephisticated.com/percolation){:target="_blank"} 
 
+**An inline percolator in action:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_II6sKOzEGk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a>
 
 <h5 class="heading-center">The Stemless Inline with Double Ring 18-arm Perc's features:</h5>
@@ -268,8 +272,6 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 Below you will find highly rated sub-$100 bongs on the market right now.
 
-<h3 class="heading-center">For the Adept Smoker</h3>
-
 <table class="basic-table">
 	<tr>
 		<th>PIC</th>
@@ -316,8 +318,6 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 **[Directory Shortcut](#bong-directory)**
 
 If you're in the market for the greatest pieces under $75: We have a few suggestions.
-
-<h3 class="heading-center">For the Advanced Smoker</h3>
 
 <table class="basic-table">
 	<tr>

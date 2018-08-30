@@ -221,8 +221,6 @@ This technique provides extra cooling effect by empowering the ambient air over 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LLX1E4t_b9o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<a target="_blank" href="https://www.youtube.com/watch?v=LLX1E4t_b9o"><img alt="Jet Flash Smoke System Video" class="img-middle" src="/img/bowls/jet-flash-screenshot.png" /></a>
-
 Forcing smoke into a vortex even keeps tar residue away from the chamber walls, keeping it slightly cleaner than your average dry pipe.
 
 The highly versitile Jet Flash Smoke System ships with three different adapters of your choosing:
