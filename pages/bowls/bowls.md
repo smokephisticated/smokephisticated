@@ -219,6 +219,8 @@ But there's even more to it: Because these carb holes are designed at an angle, 
 
 This technique provides extra cooling effect by empowering the ambient air over the surface of low pressure smoke. Less pressure + high spiraling velocity = an intense cooling vortex effect that allows you to rip head-imploding clouds.
 
+<a target="_blank" href="https://www.youtube.com/watch?v=LLX1E4t_b9o"><img alt="Jet Flash Smoke System Video" class="img-middle" src="/img/bowls/jet-flash-screenshot.png" /></a>
+
 Forcing smoke into a vortex even keeps tar residue away from the chamber walls, keeping it slightly cleaner than your average dry pipe.
 
 The highly versitile Jet Flash Smoke System ships with three different adapters of your choosing:
