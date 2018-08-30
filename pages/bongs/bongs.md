@@ -111,6 +111,8 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
+<h2 class="heading-center" name="#headbbu140"></h2>
+
 ## Best Bongs Under $140
 
 **[Directory Shortcut](#bong-directory)**
@@ -270,9 +272,9 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 ---
 
-## <h2 class="heading-center">Best bongs under $100</h2>
+<h2 class="heading-center" name="headbbu100">Best bongs under $100</h2>
 
-## name="#headbbu100">Best bongs under $100</h2>
+## Best Bongs Under $100
 
 **[Directory Shortcut](#bong-directory)**
 
