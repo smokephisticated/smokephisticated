@@ -5,6 +5,8 @@ permalink: "/bongs/"
 seotitle: "15 Best Bongs: Cheap & Affordable (2018 Updated)"
 ---
 
+![Bong Header](/img/bongs/header.jpg){: .img-right .img-small}
+
 *Here's the deal:* 
 
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
