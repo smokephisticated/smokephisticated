@@ -2,70 +2,24 @@
 layout: page
 title: "Best Bowls/Handpipes & Bubblers for Your Money, 2018"
 permalink: "/bowls/"
-seotitle: "11 Best Bowls: Cheap & Affordable (2018 Updated)"
+seotitle: "11 Best Bowls: Cheap & Affordable Weed Pipes (2018 Updated)"
 ---
 
-Welcome to our list of bong recommendations!
+## The best weed pipes online, pictured and overviewed for your convenience.
 
-We've looked in-depth through 5 online headshops to find the very best & highly rated!
+A hand pipe is the pistol of smoking devices; don't find yourself firing blanks.
 
-<div id="bowl-directory">
-<p class="toc_title">Contents</p>
-<ul class="toc_list">
- <li><a href="#headbbu160">Bowl Recommendations under $160</a>
-  <ul>
-    <li><a href="#headbbu160"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>  
- <li><a href="#headbbu100">Bowl Recommendations under $100</a>
-  <ul>
-    <li><a href="#headbbu100"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
-  <li><a href="#headbbu55">Bowl Recommendations under $55</a>
-  <ul>
-    <li><a href="#headbbu50"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu25">Bowl Recommendations under $25</a>
-  <ul>
-    <li><a href="#headbbu25"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-</ul>
-</div>
+Sifting through shady hit-or-miss websites to accidentally settle for a cheaply made bowl is never good. 
 
-<h2 class="heading-center">We're here to guide you to your next bowl/hand pipe purchase</h2> 
+**We're the middle-man to your next weed bowl purchase**
 
-The purpose of this guide is to introduce smokers to a diverse list of the most reputably high quality tabacco/medical herb bowls within multiple online headshops.
+We've selected four premium [online headshops](#headshops) to guide you to your next weed pipe!
 
-<h5 class="heading-center">Our recommendations are sourced straight from the community:</h5>
-
-We search for the highest quality bowls by looking directly at genuine customer feedback. These reviews come from real stoners that have gone through the exact deciding process as you are now, and were satisfied enough to leave glowing reviews and recommendations.
+From bubblers & classy gandalf pipes to cheap glass pipes, this is the untilate guide to get the most for your money.
 
 <img alt="Rating Example" class="img-middle" src="/img/bowls/rating-example.png" />
 
-Don't waste your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a reasonably priced piece you love, with an informative description.
-
-Our suggestions stem from four community-trusted sites:
-
-* [BrotherswithGlass.com](http://brotherswithglass.com?rfsn=1578981.bc3f21){:target="_blank"}
-
-* [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
-
-* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
-
-* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
-
-(All four sites often run store-wide sales)
-
-We also feature the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com/?afmc=2f){:target="_blank"}
-
-Read about the listed company's shipping policies, return policies and other information in our [About](/about){:target="_blank"} section.
+*So, what are you waiting for? Your next piece is just a few clicks away!*
 
 <h3 class="heading-center">Please Note:</h3> 
 
@@ -577,3 +531,62 @@ The Glass Shabong features:
 
 * TOC
 {:toc}
+
+
+
+<div id="bowl-directory">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+ <li><a href="#headbbu160">Bowl Recommendations under $160</a>
+  <ul>
+    <li><a href="#headbbu160"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>  
+ <li><a href="#headbbu100">Bowl Recommendations under $100</a>
+  <ul>
+    <li><a href="#headbbu100"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+  <li><a href="#headbbu55">Bowl Recommendations under $55</a>
+  <ul>
+    <li><a href="#headbbu50"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu25">Bowl Recommendations under $25</a>
+  <ul>
+    <li><a href="#headbbu25"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+</ul>
+</div>
+
+Don't waste your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a reasonably priced piece you love, with an informative description.
+
+Our suggestions stem from four community-trusted sites:
+
+## <a name="headshops"></a>
+
+* [BrotherswithGlass.com](http://brotherswithglass.com?rfsn=1578981.bc3f21){:target="_blank"}
+
+* [Dankstop.com](dankstop.com?aff=1112){:target="_blank"}
+
+* [Dopeboo.com](http://www.dopeboo.com?aff=43){:target="_blank"}
+
+* [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/){:target="_blank"} 
+
+(All four sites often run store-wide sales)
+
+We also feature the Piece Pipe from [Piecepipe.com](https://www.originalpiecepipe.com/?afmc=2f){:target="_blank"}
+
+Read about the listed company's shipping policies, return policies and other information in our [About](/about){:target="_blank"} section.
+
+**Our recommendations are sourced straight from the community**
+
+We search for the highest quality bowls by looking directly at genuine customer feedback. These reviews come from real stoners that have gone through the exact deciding process as you are now, and were satisfied enough to leave glowing reviews and recommendations.
+
+
+Don't waste your time sifting through low-rated and low quality products. We've done the leg-work for you by compiling a diverse list of the highest quality bowls of all price ranges - you're bound to find a reasonably priced piece you love, with an informative description.

@@ -2,26 +2,26 @@
 layout: page
 title: "The Best Cheap Bongs for Your Money in 2018" 
 permalink: "/bongs/"
-seotitle: "15 Best Bongs: Cheap & Affordable (2018 Updated)"
+seotitle: "15 Best Bongs & Bubblers: Cheap & Affordable (2018 Updated)"
 ---
 
-![Bong Header](/img/bongs/header.jpg){: .img-right .img-small}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZaZmS-qfh8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-*Here's the deal:* 
+![Bong Header](/img/bongs/header.jpg){: .img-right .img-small}
 
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
 
 **And well, their modern-day decendents have followed the tradition.**
 
-This is for good reason - bongs and pipes are effective and convienient ways to smoke tabacco and dry herb.
+*But here's the deal:* 
 
-Nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
+It's 2018 - with the internet at your disposal, there is no need to pay headshop prices (or even leave your house to shop.)
+
+However, nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
 
 **So, where do you start?**
 
-Sifting through shady hit-or-miss websites to accidentally settle for a cheaply made bong is not a good idea. 
-
-Luckily for you, we've selected 4 premium online headshops to find the very best & highly rated bongs for you!
+Luckily for you, we've selected 4 premium *online* headshops to find the very best & highest rated bongs for you!
 
 This is the ultimate bongs guide, which will highlight the best bongs in the world that can be purchased online and delivered directly to your door, including the world's best bongs brands, and the best bongs on Amazon. 
 
@@ -564,8 +564,6 @@ Please Note: The unique colors dipicted in the picture may not be the excact des
 </div>
 
 <h2 class="heading-center">Let's be Honest,</h2>
-
-
 
 Shopping all across the web for your next go-to smoking apparatus is no small task. You shouldn't spend a dime until: you're both informed about your purchase, and certain that none of your time, money, or precious supply will be wasted on low-quality products.
 
