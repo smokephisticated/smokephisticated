@@ -11,22 +11,8 @@ Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 y
 
 *But here's the deal:* 
 
-It's 2018 - with the internet at your disposal, there is no need to pay headshop prices (or even leave your house to shop.)
-
-However, nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
-
-**So, where do you start?**
-
-Luckily for you, we've selected 4 premium *online* headshops to find the very best & highest rated bongs for you!
-
-This is the ultimate bongs guide, which will highlight the best bongs in the world that can be purchased online and delivered directly to your door, including the world's best bongs brands, and the best bongs on Amazon. 
-
-*So, what are you waiting for? Your next bong is just a few clicks away!*
-
----
-
 <div id="bong-directory">
-<p class="toc_title">Contents</p>
+<p class="toc_title"></p>
 <ul class="toc_list">
  <li><a href="# Test">Bong Recommendations under $140</a>
   <ul>
@@ -61,7 +47,19 @@ This is the ultimate bongs guide, which will highlight the best bongs in the wor
 </ul>
 </div>
 
-## Best Bongs Under $140
+It's 2018 - with the internet at your disposal, there is no need to pay headshop prices (or even leave your house to shop.)
+
+However, nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
+
+**So, where do you start?**
+
+Luckily for you, we've selected 4 premium *online* headshops to find the very best & highest rated bongs for you!
+
+This is the ultimate bongs guide, which will highlight the best bongs in the world that can be purchased online and delivered directly to your door, including the world's best bongs brands, and the best bongs on Amazon. 
+
+*So, what are you waiting for? Your next bong is just a few clicks away!*
+
+---
 
 **Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
 
