@@ -5,10 +5,6 @@ permalink: "/bongs/"
 seotitle: "15 Best Bongs & Bubblers: Cheap & Affordable (2018 Updated)"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZaZmS-qfh8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![Bong Header](/img/bongs/header.jpg){: .img-right .img-small}
-
 Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 years.
 
 **And well, their modern-day decendents have followed the tradition.**
@@ -28,6 +24,42 @@ This is the ultimate bongs guide, which will highlight the best bongs in the wor
 *So, what are you waiting for? Your next bong is just a few clicks away!*
 
 ---
+
+<div id="bong-directory">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+ <li><a href="# Test">Bong Recommendations under $140</a>
+  <ul>
+    <li><a href="#headbbu140"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+ <li><a href="#headbbu100">Bong Recommendations under $100</a>
+  <ul>
+    <li><a href="#headbbu100"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+  <li><a href="#headbbu75">Bong Recommendations under $75</a>
+  <ul>
+    <li><a href="#headbbu75"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu50">Bong Recommendations under $50</a>
+  <ul>
+    <li><a href="#headbbu50"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu20">Bong Recommendations under $20</a>
+  <ul>
+    <li><a href="#headbbu20"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+</ul>
+</div>
 
 ## Best Bongs Under $140
 
@@ -526,42 +558,6 @@ Make sure to fill your chamber with water until the liquid reaches where the bul
 Oh and don't let the simplicity or price of this piece fool you - this bubble bong has a 5-star rating stemmed from over 160 reveiws on Grasscity.
 
 Please Note: The unique colors dipicted in the picture may not be the excact design you find in the mail.
-
-<div id="bong-directory">
-<p class="toc_title">Contents</p>
-<ul class="toc_list">
- <li><a href="# Test">Bong Recommendations under $140</a>
-  <ul>
-    <li><a href="#headbbu140"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
- <li><a href="#headbbu100">Bong Recommendations under $100</a>
-  <ul>
-    <li><a href="#headbbu100"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
-  <li><a href="#headbbu75">Bong Recommendations under $75</a>
-  <ul>
-    <li><a href="#headbbu75"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu50">Bong Recommendations under $50</a>
-  <ul>
-    <li><a href="#headbbu50"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu20">Bong Recommendations under $20</a>
-  <ul>
-    <li><a href="#headbbu20"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-</ul>
-</div>
 
 <h2 class="heading-center">Let's be Honest,</h2>
 
