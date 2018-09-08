@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Best Cheap silicone Bongs for Your Money in 2018" 
-permalink: "/bongs/"
+permalink: "/bongs/silicone/"
 seotitle: "3 Best Silicone Bongs: Cheap & Affordable (2018 Updated)"
 ---
 
