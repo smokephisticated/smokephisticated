@@ -61,6 +61,12 @@ This is the ultimate bongs guide, which will highlight the best bongs in the wor
 
 ---
 
+### <a name="headbbu140"></a>
+
+## Best bongs under $140
+
+**[Directory Shortcut](#bong-directory)**
+
 **Here below** - you'll find our most effective bong recommendations between $100 to $140 that, with care and respect, will bring you quality usage for years to come.
 
 <table class="basic-table">
@@ -218,7 +224,9 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 ---
 
-## Best Bongs Under $100
+### <a name="headbbu100"></a>
+
+## Best bongs under $100
 
 **[Directory Shortcut](#bong-directory)**
 
