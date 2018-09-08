@@ -17,19 +17,19 @@ Silicone pieces are highly durable, can't shatter, ready for travel, bendy
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://goo.gl/pktBbM" ><img alt="10 inch silicone straight tube bong" class="table-image" src="/img/silicone/nucleus-straight-tube.png"></a></td>
+		<td><a target="_blank" href="https://goo.gl/pktBbM" ><img alt="10 inch silicone straight tube bong" class="table-image" src="/img/bongs/silicone/nucleus-straight-tube.png"></a></td>
 		<td></td>
 		<td>$39</td>
 		<td><a class="big-button" target="_blank" href="https://goo.gl/pktBbM">Purchase Info</a></td>
 	</tr>
 	<tr>
-		<td>Skinny Neck Beaker<a target="_blank" href="https://goo.gl/jh9m14" ><img alt="nucleus skinny neck silicone beaker bong" class="table-image" src="/img/silicone/skinny-neck-beaker.png"></a></td>
+		<td>Skinny Neck Beaker<a target="_blank" href="https://goo.gl/jh9m14" ><img alt="nucleus skinny neck silicone beaker bong" class="table-image" src="/img/bongs/silicone/skinny-neck-beaker.png"></a></td>
 		<td></td>
 		<td>$29.99</td>
 		<td><a class="big-button" target="_blank" href="https://goo.gl/jh9m14">Purchase Info</a></td>
 	</tr>
 	<tr>
-		<td>Fold-a-Bowl<a target="_blank" href="https://goo.gl/XxKRXq" ><img alt="fold-a-bowl silicone bong" class="table-image" src="/img/silicone/fold-a-bowl.png"></a></td>
+		<td>Fold-a-Bowl<a target="_blank" href="https://goo.gl/XxKRXq" ><img alt="fold-a-bowl silicone bong" class="table-image" src="/img/bongs/silicone/fold-a-bowl.png"></a></td>
 		<td></td>
 		<td>$22.99</td>
 		<td><a class="big-button" target="_blank" href="https://goo.gl/XxKRXq">Purchase Info</a></td>
