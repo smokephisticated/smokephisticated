@@ -9,6 +9,8 @@ When it comes to smoking out of a silicone bong, there are a number of benifits.
 
 Silicone pieces are highly durable, can't shatter, ready for travel, bendy
 
+
+
 <table class="basic-table">
 	<tr>
 		<th>PIC</th>
@@ -18,12 +20,12 @@ Silicone pieces are highly durable, can't shatter, ready for travel, bendy
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://goo.gl/pktBbM" ><img alt="10 inch silicone straight tube bong" class="table-image" src="/img/bongs/silicone/nucleus-straight-tube.png"></a></td>
-		<td></td>
+		<td>Straight Tube</td>
 		<td>$39</td>
 		<td><a class="big-button" target="_blank" href="https://goo.gl/pktBbM">Purchase Info</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://goo.gl/jh9m14" ><img alt="nucleus skinny neck silicone beaker bong" class="table-image" src="/img/bongs/silicone/skinny-neck-beaker.png"></a></td>
+		<td><a target="_blank" href="https://goo.gl/jh9m14" ><img alt="nucleus skinny neck silicone beaker bong" class="table-image" src="/img/bongs/silicone/silicone-skinny-neck-beaker.png"></a></td>
 		<td>Skinny Neck Beaker</td>
 		<td>$29.99</td>
 		<td><a class="big-button" target="_blank" href="https://goo.gl/jh9m14">Purchase Info</a></td>
@@ -44,10 +46,11 @@ Silicone pieces are highly durable, can't shatter, ready for travel, bendy
 
 <a class="big-button" target="_blank" href="https://goo.gl/pktBbM">Buy Here</a>
 
+---
 
 <h2 class="heading-center"><a target="_blank" href="https://goo.gl/jh9m14"></a> Height: 7.5" $29.99</h2>
 
-<a target="_blank" href="https://goo.gl/jh9m14"><img alt="nucleus skinny neck silicone beaker bong" class="img-middle" src="/img/bongs/silicone/skinny-neck-beaker.png" /></a>
+<a target="_blank" href="https://goo.gl/jh9m14"><img alt="nucleus skinny neck silicone beaker bong" class="img-middle" src="/img/bongs/silicone/silicone-skinny-neck-beaker.png" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMF8BeLiG3A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -55,6 +58,7 @@ Silicone pieces are highly durable, can't shatter, ready for travel, bendy
 
 <a class="big-button" target="_blank" href="https://goo.gl/jh9m14">Buy Here</a>
 
+---
 
 <h2 class="heading-center">Fold-a-Bowl<a target="_blank" href="https://goo.gl/XxKRXq"></a> Height: 8" - $22.99</h2>
 
@@ -64,3 +68,7 @@ Silicone pieces are highly durable, can't shatter, ready for travel, bendy
 
 <a class="big-button" target="_blank" href="https://goo.gl/XxKRXq">Buy Here</a>
 
+---
+
+* TOC
+{:toc}
