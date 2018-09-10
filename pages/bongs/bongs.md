@@ -49,7 +49,7 @@ Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 y
 
 It's 2018 - with the internet at your disposal, there is no need to pay headshop prices (or even leave your house to shop.)
 
-However, nowadays you're just one Google search away from sifting through countless bongs and water pipes from all over the world.
+However, nowadays you're just one Google search away from sifting through countless ice bongs and water pipes from all over the world.
 
 **So, where do you start?**
 

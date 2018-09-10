@@ -5,11 +5,39 @@ permalink: "/bongs/silicone/"
 seotitle: "3 Best Silicone Bongs: Cheap & Affordable (2018 Updated)"
 ---
 
+## What is a silicone bong, and how do they compare to glass?
+
+Bongs made from silicone are becoming more relevent day by day.
+
+Get straight to our list of silicone bongs below by clicking [here](#silicone-bongs)
+
 When it comes to smoking out of a silicone bong, there are a number of benifits.
 
 Silicone pieces are highly durable, can't shatter, ready for travel, bendy
 
+Silicone bongs have hit the market hard in recent times.
 
+Silicone bongs will never shatter.
+
+most bongs are glass 
+ glass can break 
+ In recent months there has been an explosion of silicone bongs and dab rigs 
+ Silicone definitely has its pros and cons 
+ clumsy? perfect for you! 
+ Silicone bongs are unbreakable 
+ smoking on the go or traveling because they can be folded and stored away without risk of breaking!
+ dishwasher safe
+ very easy to clean.
+
+silicone actually is and where it comes from. 
+Silicone is a man-made polymer made up of silicon and oxygen.
+Plastic is topxic, silicone is the sollution.
+toxic-free, will not emit gas when heated
+food-grade is stable
+fda approved
+comes in any & all shapes, sizes, and colors
+
+### <a name="silicone-bongs"></a>
 
 <table class="basic-table">
 	<tr>
