@@ -5,26 +5,32 @@ permalink: "/bongs/silicone/"
 seotitle: "3 Best Silicone Bongs: Cheap & Affordable (2018 Updated)"
 ---
 
-## What is a silicone bong, and how do they compare to glass?
+**Here's the deal:**
 
-Bongs made from silicone are becoming more relevent day by day.
+*Different smoking situations call for different smoking solutions*
+
+Sure, complex glass can make a dope rotation - but they're also prone to shattering... Not so dope.
+
+Silicone however, is a cost effective & resilient alternative.
 
 Get straight to our list of silicone bongs below by clicking [here](#silicone-bongs)
 
-When it comes to smoking out of a silicone bong, there are a number of benifits.
+## What is silicone, and how are silicone bongs any different from glass?
 
-Silicone pieces are highly durable, can't shatter, ready for travel, bendy
+non-toxic
 
-Silicone bongs have hit the market hard in recent times.
+Silicone is a synthetic polymer made up of silicon, oxygen and other elements, most typically carbon and hydrogen. 
 
-Silicone bongs will never shatter.
+Silicone is somewhat of a hybrid between synthetic rubber & sythetic plastic polymer, so it will easily bend and bounce rather than breaking into a thousand pieces.
 
-most bongs are glass 
- glass can break 
- In recent months there has been an explosion of silicone bongs and dab rigs 
- Silicone definitely has its pros and cons 
- clumsy? perfect for you! 
- Silicone bongs are unbreakable 
+Looking to smoke on-the-go? Silicone bends & folds into backpacks with little effort.
+
+While the actual bowl piece is generally made from very heat resistant glass, Silicone also has a fairly impressive melting point: (-67 °F to 572 °F / -55 °C to 300 °C).
+
+Food-grade silicone is dishwasher-safe and even FDA approved.
+
+Prepare for adventure (& stoner clumsiness) - check out our silicone bong recommendations below.
+
  smoking on the go or traveling because they can be folded and stored away without risk of breaking!
  dishwasher safe
  very easy to clean.
@@ -91,6 +97,10 @@ comes in any & all shapes, sizes, and colors
 <h2 class="heading-center">Fold-a-Bowl<a target="_blank" href="https://goo.gl/XxKRXq"></a> Height: 8" - $22.99</h2>
 
 <a target="_blank" href="https://goo.gl/XxKRXq"><img alt="fold-a-bowl silicone bong" class="img-middle" src="/img/bongs/silicone/fold-a-bowl.png" /></a>
+
+Highly portable & unbreakable: The Fold-a-Bowl!
+
+This bong literally folds into itself, making for the perfect on-th-go adventure bong!
 
 **Ever want to bring along your bong but don't have the room or you're afraid of breaking it? The Fold-A-Bowl is the solution for you. It is a portable silicone bong that folds down to the size of your palm while still being functional. Every Fold-A-Bong is made with 100% medical grade silicone. Besides this material being safe for you to smoke out of, it is also odorless and flavorless so you don't have to worry about whatever you just smoked sticking around after you're done. If you still want some piece of mind, the bong is dishwasher safe for extreme convenience. Each Fold-A-Bong silicone pipe comes with a 9mm composite downstem and a matching 9mm anodized alloy eject-able bowl. Both of these are removable to help in cleaning. This pipe is nearly indestructible so it is perfect for smoking outdoors and on the go. Although it comes with a bowl, it can also be used as a dab rig with a corresponding nail or by simply flipping the bowl, making it into a male joint susceptible for use with a 14mm domeless female nail. It is available in a host of colors. Here are the instructions on how to switch your bowl into a dab rig joint. Simply remove the silicone grommet and and slide from the spring and bowl. Flip the bowl upside down and slide the spring, then grommet, back on. This allows for a 14mm domeless nail to be attached.**
 
