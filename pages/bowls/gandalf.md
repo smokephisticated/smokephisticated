@@ -87,15 +87,6 @@ Maria ring
 
 ---
 
-	<tr>
-		<td><a target="_blank" href="" ><img alt="" class="table-image" src="/img/bowls/gandalf/.png"></a></td>
-		<td></td>
-		<td>$</td>
-		<td><a class="big-button" target="_blank" href="">Purchase Info</a></td>
-	</tr>
-
----
-
 * TOC
 {:toc}
 
