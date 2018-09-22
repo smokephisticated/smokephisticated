@@ -31,5 +31,3 @@ Ditch local headshop prices, check out our listed suggestions below!
 [15 Best Bongs & Bubblers: Cheap & Affordable (2018 Updated)](/bongs){:target="_blank"}
 
 [11 Best Bowls: Cheap & Affordable Weed Pipes (2018 Updated)](/bowls){:target="_blank"}
-
-Learn more about us [here](/about){:target="_blank"}
