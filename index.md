@@ -28,8 +28,8 @@ The online market for smoking tools is massive; we understand how easy it can be
 
 Ditch local headshop prices, check out our listed suggestions below!
 
-<a target="_blank" href="smokephisticated.com/bongs">15 Best Bongs & Bubblers: Cheap & Affordable (2018 Updated)</a>.
+[15 Best Bongs & Bubblers: Cheap & Affordable (2018 Updated)](/bongs){:target="_blank"}
 
-<a target="_blank" href="smokephisticated.com/bowls">11 Best Bowls: Cheap & Affordable Weed Pipes (2018 Updated)</a>.
+[11 Best Bowls: Cheap & Affordable Weed Pipes (2018 Updated)](/bowls){:target="_blank"}
 
-Learn more about us <a target="_blank" href="smokephisticated.com/about">here</a>.
+Learn more about us [here](/about){:target="_blank"}
