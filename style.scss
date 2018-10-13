@@ -351,6 +351,25 @@ border: 1px solid #1faf0f;
 color: #4183c4;
 }
 
+.button-middle {
+  padding: 10px 15px;
+  justify-content: center;
+  margin: 30px auto;
+  text-align: center;
+  max-width: 250px;
+  display: block;
+  background: #1faf0f none repeat scroll 0 0;
+  border-radius: 4px;
+  color: #fff;
+  transition: all .2s;
+} 
+
+.button-middle:hover {
+  background: ;
+  color: #36ed39;
+  text-decoration: none;
+}
+
 .heading-center {
   text-align: center;
 }
