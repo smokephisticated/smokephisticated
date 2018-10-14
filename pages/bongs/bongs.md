@@ -124,7 +124,7 @@ We've written a 5 minute rundown on percolation using this product as an example
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Check Price</a>
 	<br>
-	<a class="cta-button learn-button" href="#the-stemless-inline-with-double-ring-18-arm-perc's">Read Review</a>
+	<a class="cta-button learn-button" href="#stemless-inline-double-ring">Read Review</a>
 </div>
 
 <a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Check Lowest Price</a>
@@ -247,7 +247,7 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 * Rounded smooth edges for comfortable mouth purchasing.
 
-## The Stemless Inline with Double Ring 18-arm Perc's 
+### <a name="stemless-inline-double-ring">The Stemless Inline with Double Ring 18-arm Perc's</a>
 
 ---
 
