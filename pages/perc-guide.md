@@ -5,17 +5,29 @@ permalink: "/percolation/"
 seotitle: "Percolation Explained (2018)"
 ---
 
-The word *Percolation* is defined as the process of liquid slowly straining though a filter. This stems from the latin term "Percolare" - Which translates into "To strain through".
+##What is percolation, and how does it affect a percolator bong?
+
+The word **Percolation** is defined as the process of liquid straining though a filter. This stems from the latin term *percolare*, or *to strain through".
+
+Whearas a **perc** is a percolating *device* on smoking apparatuses.
+
+And some bongs can even have multiple percs.
 
 **But what does percolation *really* have to do with smoking out of water-pipes?**
 
-To use as an example, we will be looking at the: 
+
+
+There are many different types of percs that can affect 
 
 <h2 class="heading-center"> <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a></h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="img-middle" src="/img/bongs/stemless-double-ring.png" /></a>
 
-Percolators like these are capable of turning high-killing coughing fits into smooth and flavorful rips & satisfying exhales - this is very largely attributed to the *two* percolator devices that this bong hosts.
+To use as an example, we will be looking at the: 
+
+Some bongs like this one are equipped with percolation devices, or *percs*.
+
+ rience the use filtration to  turning coughing fits into smooth and flavorful rips & satisfying exhales - this is very largely attributed to the *two* percolator devices that this bong hosts.
 
 Your smoke is first routed from your bowl and into the water - altering a cloud into large and dense smoke bubbles. 
 
@@ -37,7 +49,7 @@ Tar, ash, and tabacco or herb particles are all examples of polar molecules that
 
 **It is also worth noting that THC is a non-polar substance.** So - contrary to popular belief - the psychoactive effect in cannabis isn't pulled out of your smoke bubbles when travelling through water.
 
-**But that's not even all**
+**But that's not all**
 
 Water doesn't only magnetically remove contaminants molecularly - But the temprature difference between hot smoke and cool water forces the creation of steam. 
 
