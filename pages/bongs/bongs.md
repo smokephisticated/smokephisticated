@@ -9,43 +9,7 @@ Our ancient ancestors have been ripping bongs (or forms thereof) for over 2400 y
 
 **And well, their modern-day decendents have followed the tradition.**
 
-*But here's the deal:* 
-
-<div id="bong-directory">
-<p class="toc_title"></p>
-<ul class="toc_list">
- <li><a href="# Test">Bong Recommendations under $140</a>
-  <ul>
-    <li><a href="#headbbu140"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
- <li><a href="#headbbu100">Bong Recommendations under $100</a>
-  <ul>
-    <li><a href="#headbbu100"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
-  <li><a href="#headbbu75">Bong Recommendations under $75</a>
-  <ul>
-    <li><a href="#headbbu75"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu50">Bong Recommendations under $50</a>
-  <ul>
-    <li><a href="#headbbu50"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu20">Bong Recommendations under $20</a>
-  <ul>
-    <li><a href="#headbbu20"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-</ul>
-</div>
+*But here's the deal:*
 
 It's 2018 - with the internet at your disposal, there is no need to pay headshop prices (or even leave your house to shop.)
 
@@ -63,7 +27,7 @@ This is the ultimate bongs guide, which will highlight the best bongs in the wor
 
 ### <a name="headbbu140"></a>
 
-## Best bongs under $140
+## Best Bongs Under $140
 
 **[Directory Shortcut](#bong-directory)**
 
@@ -96,9 +60,28 @@ This is the ultimate bongs guide, which will highlight the best bongs in the wor
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> - 55 cm / 21.7 inches - $139</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Stemless Inline with Double Ring 18-arm Perc</a> - $139 (Out Of Stock)</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="img-middle" src="/img/bongs/stemless-double-ring.png" /></a>
+
+
+* **Height:** 55 cm / 21.7 inches
+
+* **Diameter:** 50 mm
+
+* **Percolation level:** 3
+
+* **Color & Material:** Clear borosilicate glass w/ black accents
+
+* **Bowl Joint Size:** 18.8 mm
+
+* **Carb Hole:** Not included
+
+* **Ice Notches:** Included
+
+* **Brand/Made By:** Unspecified
+
+* **Sold By:** Grasscity.com ([support](https://support.grasscity.com/hc/en-us){:target="_blank"})
 
 To start the list we have a submarine-style percolating monster that will run your wallet around $140. Although this is the most expensive piece on this page, it isn't hard to justify the price when we really look into it.
 
@@ -136,7 +119,13 @@ We've written a 5 minute rundown on percolation using this product as an example
 
 * Black glass accents/trim.
 
-* No carb hole - Simply ifting the bowl makes for more effective chamber clearing than a carbhole/shotgun anyway.
+* No carb hole - Simply lifting the bowl makes for more effective chamber clearing than a carbhole/shotgun anyway.
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Check Price</a>
+	<br>
+	<a class="cta-button learn-button" href="#the-stemless-inline-with-double-ring-18-arm-perc's">Read Review</a>
+</div>
 
 <a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Check Lowest Price</a>
 
@@ -145,6 +134,24 @@ We've written a 5 minute rundown on percolation using this product as an example
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in - $129</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
+
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
 
 Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very unique, very effective, and absolutely worth every penny.
 
@@ -190,6 +197,24 @@ This isn't by any means an essential piece to smoking herbs, but it is both help
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="img-middle" src="/img/bongs/honeycomb-disc.png"/></a>
 
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
+
 Black Leaf has a reputation for their scientific glass - and this Triple Disc Honeycomb Perc is just another example of that.
 
 When smoke travels down from the bowl,  through the chamber it is forced to squeeze and strain through tiny holes - this diffuses/seperates lung-harming particles from your smoke and makes for smoother and cleaner tokes; allowing you to take bigger and more comfortable rips.
@@ -222,6 +247,8 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 
 * Rounded smooth edges for comfortable mouth purchasing.
 
+## The Stemless Inline with Double Ring 18-arm Perc's 
+
 ---
 
 ### <a name="headbbu100"></a>
@@ -250,6 +277,24 @@ Below you will find highly rated sub-$100 bongs on the market right now.
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong</a> - 15 in / 38.1 cm tall - $99.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-elite-beaker-base-tube-6-arm-perc-splash-guard.html"><img alt="Black Leaf ELITE Beaker Base 6-Arm Perc Ice Bong" class="img-middle" src="/img/bongs/beaker-base-6-arm-perc.png" /></a>
+
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
 
 With 77 5-star ratings on grasscity; this percolating ripper will provide even the softest of lungs with cool comfortable clouds.
 
@@ -304,6 +349,24 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 
 <a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
 
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
+
 Made by Nucleus in the USA, the Bent Neck Matrix has earned a 62/64 5-star customer rating ratio on Dankstop.com - mostly attributed to the price, comfortability, and the powerful rips that this piece is capable of - giving the Matrix fantastic daily-driver potential.
 
 The "Matrix" refers to the Matrix water perc device that cools, filters, and even vaporizes smoke bubbles as they pass through; this device uses dozens of tiny slits to allow for much larger and more enjoyable rips from your dry herb or concentrates.
@@ -350,6 +413,24 @@ All in all, the [Bent Neck Matrix](https://goo.gl/4jvY4J){:target="_blank"} is a
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell">  Green</a></h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-green.html?nosto=product-upsell"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="img-middle" src="/img/bongs/black-leaf-4-arm-collage.png" /></a>
+
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
 
 Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} don't mess around. 
 
@@ -404,6 +485,24 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 <h2 class="heading-center"><a target="_blank" href="https://dankstop.com/products/nucleus-grav-bong?aff=1112">Grav Bong by Nucleus</a> - 12 in / 30.48 cm tall - $49.99</h2>
 
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
+
 When the typical smoker thinks of *gravity bong*, an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. 
 
 Something about hitting a gravity bong gets you to a different high; one that bowls and regular bongs just can't always serve, all while using the least amount of your supply.
@@ -421,6 +520,24 @@ Replacing those sketchy plastics and metals with glass, the Gravitron features a
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell">Dude Small Bubble Base Glass Bong Set in Aluminum Case</a> - 30 cm / 11.8 in - $49 </h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/dude-layback-glass-bong-set-in-aluminum-case-small.html?nosto=product-upsell"><img alt="Dude Bubble Base Glass Bong Set in Aluminum Case" class="img-middle" src="/img/bongs/dude-bong-set.png" /></a>
+
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
 
 Woah, dude. Have you ever thought it would be dope to have a bong kit to take along with you to parties or weekend getaways? Well my dude, Dude is changing the game by bringing you everything you need and a case to carry it in.
 
@@ -453,6 +570,24 @@ Go ahead and pick up some extra screens <a target="_blank" href="http://affiliat
 <h2 class="heading-center"><a target="_blank" href="https://goo.gl/vpKhDD">Clear Glass Buoy Base Beaker Bong</a> - 8 in / 20.3 cm tall - $40 </h2>
 
 <a target="_blank" href="https://goo.gl/vpKhDD"><img alt="Glass Buoy Beaker Bong" class="img-middle" src="/img/bongs/buoy-beaker-bong.png"/></a>
+
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
 
 **If you're looking for refined simplicity; your search is over.**
 
@@ -519,6 +654,24 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/amsterdam-bubble-base-glass-tube-21cm.html"><img alt="Amsterdam Bubble Base Glass Bong" class="img-middle" src="/img/bongs/amsterdam-bubble.png" /></a>
 
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
+
 *Highly* suggested for begginers:
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece. Or, at least not yet. Pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. 
@@ -530,6 +683,24 @@ Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html" target="_blank">Glass Mini Beaker Bong</a> - 4.1 in / 10.5 cm tall - $15.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/glass-mini-beaker-bong.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/Glass-Mini-Beaker-Bong.png" /></a>
+
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
 
 Do you have to avoid having your pieces discovered? Or are you the adventurist type? 
 
@@ -546,6 +717,24 @@ This bong is made from borosilicate glass, and features a beaker base for surfac
 <h2 class="heading-center"><a href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html" target="_blank">Acrylic Bubble Water Pipe</a> - 7 in / 18 cm tall - $14.99</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/acrylic-bubble-base-water-pipe-colored-18cm.html"><img alt="Acrylic Bubble Base Water Pipe Colored" class="img-middle" src="/img/bongs/acrylic-bubble.png" /></a>
+
+* Height:
+
+* Width/Diameter:
+
+* Percolator Level:
+
+* Color & Material:
+
+* Bowl Joint Size: 
+
+* Carb Hole: 
+
+* Ice Notches:
+
+* Brand/Made By:
+
+* Sold By:
 
 Now, for the cheapest in price, but still a very solid little pipe standing at 18 cm.
 
@@ -609,4 +798,40 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
+<div id="bong-directory">
+<p class="toc_title"></p>
+<ul class="toc_list">
+ <li><a href="# Test">Bong Recommendations under $140</a>
+  <ul>
+    <li><a href="#headbbu140"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+ <li><a href="#headbbu100">Bong Recommendations under $100</a>
+  <ul>
+    <li><a href="#headbbu100"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+ </li>
+  <li><a href="#headbbu75">Bong Recommendations under $75</a>
+  <ul>
+    <li><a href="#headbbu75"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu50">Bong Recommendations under $50</a>
+  <ul>
+    <li><a href="#headbbu50"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+  <li><a href="#headbbu20">Bong Recommendations under $20</a>
+  <ul>
+    <li><a href="#headbbu20"></a></li>
+    <li><a href="#First_Sub_Point_2"></a></li>
+  </ul>
+</li>
+</ul>
+</div>
 
+---

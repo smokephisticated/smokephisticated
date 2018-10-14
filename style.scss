@@ -336,6 +336,31 @@ height: auto;
 
 /* Button */
 
+.buy-button {
+  font-weight: bold;
+  background: #2bb4ff;
+  float: right;
+  margin: -5px;
+}
+
+.learn-button {
+  margin-left: 1%;
+  margin-top: -30px;
+  background: #fcbb44;
+  font-weight: bold;
+  float: left;
+}
+
+.cta-button {
+  color: white !important;
+  padding: 10px 0 7px 0% !important;
+  display: inline-block;
+  border-bottom: 0px !important;
+  width: 48%;
+  text-align: center;
+  border-radius: 10px;
+}
+
 .big-button {
 background: #1faf0f none repeat scroll 0 0;
 border-radius: 4px;
