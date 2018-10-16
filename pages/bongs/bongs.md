@@ -127,8 +127,6 @@ We've written a 5 minute rundown on percolation using this product as an example
 	<a class="cta-button learn-button" href="#stemless-inline-double-ring">Read Review</a>
 </div>
 
----
-
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - $129</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
@@ -160,8 +158,6 @@ This form of percolation works very well to diffuse your hits while keeping your
 	<br>
 	<a class="cta-button learn-button" href="#bird-cage-glass-recycler">Read Review</a>
 </div>
-
----
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Black Leaf's Triple Honeycomb Disc Percolator</a> -  38 cm / 15 inches - $125</h2>
 
@@ -222,10 +218,6 @@ Do your lungs a favor and pick up a serious percolator like this beauty.
 * Ice nothches located at the neck to make for *even smoother* frosty inhales.. Will you even realize you're smoking?
 
 * Rounded smooth edges for comfortable mouth purchasing.
-
-### <a name="stemless-inline-double-ring">The Stemless Inline with Double Ring 18-arm Perc's</a>
-
----
 
 ### <a name="headbbu100"></a>
 
@@ -866,8 +858,13 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
+### <a name="stemless-inline-double-ring">The Stemless Inline with Double Ring 18-arm Perc's</a>
+
+(Out of Stock)
 
 ### <a name="bird-cage-glass-recycler">The Bird Cage Glass Recycler</a>
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
 
 Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very unique, very effective, and absolutely worth every penny.
 
