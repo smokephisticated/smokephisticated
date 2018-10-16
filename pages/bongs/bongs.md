@@ -812,55 +812,11 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
-**[Directory Shortcut](#bong-directory)**
-
-
-* TOC
-{:toc}
-
----
-
-<div id="bong-directory">
-<p class="toc_title"></p>
-<ul class="toc_list">
- <li><a href="# Test">Bong Recommendations under $140</a>
-  <ul>
-    <li><a href="#headbbu140"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
- <li><a href="#headbbu100">Bong Recommendations under $100</a>
-  <ul>
-    <li><a href="#headbbu100"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
- </li>
-  <li><a href="#headbbu75">Bong Recommendations under $75</a>
-  <ul>
-    <li><a href="#headbbu75"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu50">Bong Recommendations under $50</a>
-  <ul>
-    <li><a href="#headbbu50"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-  <li><a href="#headbbu20">Bong Recommendations under $20</a>
-  <ul>
-    <li><a href="#headbbu20"></a></li>
-    <li><a href="#First_Sub_Point_2"></a></li>
-  </ul>
-</li>
-</ul>
-</div>
-
----
-
 ### <a name="stemless-inline-double-ring">The Stemless Inline with Double Ring 18-arm Perc's</a>
 
 (Out of Stock)
+
+---
 
 ### <a name="bird-cage-glass-recycler">The Bird Cage Glass Recycler</a>
 
