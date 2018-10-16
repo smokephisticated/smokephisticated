@@ -149,14 +149,30 @@ We've written a 5 minute rundown on percolation using this product as an example
 
 * Sold By: [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html){:target="_blank"}
 
-As the name suggests: the Bird Cage Recycler utilizes an unusual percolation technique - a recycler.
+Ultimate percolation - countinuous filtration.
 
-This form of percolation works very well to diffuse your hits while keeping your smoke from going stale.
+Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very unique, very effective, and absolutely worth every penny.
+
+The birdcage perc is the spherical glass device sitting at the center of the main chamber, hosting an immense number of tiny holes around it's perimeter that diffuse your smoke as it passes through.
+
+With level three percolation, this recycler bong is designed to deliver rips with outstanding freshness.
+
+**But there's more to it.**
+
+The 'recycler' function turns this Black Leaf water pipe into a stoner's paradox. 
+
+This bong has *two* chambers for both your smoke and your water to travel through. This is where the recycler comes into play.
+
+A miniture whirlpool forms at the top of the 2nd chamber - all leftover smoke is sent through this chamber to get *recycled* back through. This form of percolation works very well to diffuse your hits while keeping your smoke from going stale.
+
+**But how does it work?**
+
+As soon as your inhale takes place so does the funtionality of the recycler. Both water and smoke gets cycled through in a rotative motion, pulling your smoke back through those tiny holes causing additional percolation again, and again, and again. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Check Price</a>
+	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Check Current Price</a>
 	<br>
-	<a class="cta-button learn-button" href="#bird-cage-glass-recycler">Read Review</a>
+	<a class="cta-button learn-button" href="#bird-cage-glass-recycler">Extra Info/Features</a>
 </div>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Black Leaf's Triple Honeycomb Disc Percolator</a> -  38 cm / 15 inches - $125</h2>
@@ -822,42 +838,24 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
 
-Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very unique, very effective, and absolutely worth every penny.
+**The Bird Cage Glass Recycler's three levels of percolation:**
 
-**But there's more to it.**
+**Level one:** The first level of percolation featured by the Birdcage Glass Recycler is seen when smoke enters the water directly from the downstem.
 
-Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> nasty particles from your smoke; this is done when bubbly smoke is pulled through hundreds of tiny holes that strain and clean your bubbles to save your lungs from inhaling as many harmful particles in your smoke.
+**Level two:** At this point, the Birdcage perc is tearing larger smoke bubbles into copious amounts of much smaller bubbles.
 
-Read our percolation rundown [Here](smokephisticated.com/percolation){:target="_blank"}.
+**Level three:** This is where the Recycler comes into play. By using the extra chamber, smoke is processed back into the Birdcage for even further diffusing.
 
-**As you've probably noticed:** 
+**Why is the recycler important?**
 
-This bong has *two* chambers for both your smoke and your water to travel through. This is where the "Recycler" funtion comes into play.
+This isn't by any means an essential piece to smoking herbs, but it is helpful with keeping your hits from going stale. You'll also find added filtration gives extra smooth hits. Also, not gonna lie - it's fun to watch.
 
-**But how does it work?**
+Bird Cage Glass Recycler Bong also features a flared mouthpice for a more comfortable smoking experience.
 
-As soon as your inhale takes place so does the funtionality of the recycler. Both water and smoke gets cycled through in a rotative motion, pulling your smoke back through those tiny holes causing additional percolation again, and again, and again. 
+With a 14.5mm female joint, the included borosilicate glass herb bowl is equipped with a transparent rollstopper that can be used for convenient lifting whilst clearing your chamber.
 
-**Why is this important?**
+comes as a complete set up with a male 14.5mm borosilicate glass herb bowl with a transparant handle/rollstopper for easy liftin
 
-This isn't by any means an essential piece to smoking herbs, but it is both helpful with keeping your hits from going stale, and with adding extra filtration for extra smooth hits. Plus, it's mesmorizing as fuck.
-
-**Features:**
-
-* Borosilicate glass material.
-
-* Built-in Cage Percolator.
-
-* Recycler functionality for continuous filtration.
-
-* Flared mouthpiece for comfortable lip purchase.
-
-* 14.5mm female joint.
-
-* Black "BirdCage" logo located on the main chamber.
-
-* 14.5mm male herb bowl with clear handle for convienient lifting.
-
-* Comes complete with decorative foam box providing safe shipping and a safe place to repackage for future use.
+Also, this pipe comes representing Black Leaf - as it should. This piece comes packaged in a Black Leaf box (inside of the discreet Grasscity standard plain brown privacy box) with foam interior for security. You'll also find a Black Leaf logo sticker on the pipe itself.
 
 ---
