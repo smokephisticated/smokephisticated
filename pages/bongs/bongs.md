@@ -37,25 +37,25 @@ This is the ultimate bongs guide, which will highlight the best bongs in the wor
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
-		<th>Price</th> 
+		<th>Rating</th> 
 		<th>Shop</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2"><img alt="Stemless Inline Perc Glass Bong with Double Ring 18-arm Perc" class="table-image" src="/img/bongs/stemless-double-ring.png"/></a></td>
 		<td>Stemless Double Ring</td>
-		<td>$139</td>
+		<td>4.7/5</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Recycler Bong" class="table-image" src="/img/bongs/bird-cage-recycler.png"/></a></td>
 		<td>Bird Cage Recycler</td>
-		<td>$129</td>
+		<td>4.8/5</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="table-image" src="/img/bongs/honeycomb-disc.png"/></a></td>
 		<td>Triple HoneyComb Disc</td>
-		<td>$125</td>
+		<td>4.9/5</td>
 		<td><a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Compare Lowest Prices</a></td>
 	</tr>
 </table>
@@ -122,74 +122,44 @@ We've written a 5 minute rundown on percolation using this product as an example
 * No carb hole - Simply lifting the bowl makes for more effective chamber clearing than a carbhole/shotgun anyway.
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Check Price</a>
+	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">See Price</a>
 	<br>
 	<a class="cta-button learn-button" href="#stemless-inline-double-ring">Read Review</a>
 </div>
 
-<a class="big-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">Check Lowest Price</a>
-
 ---
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - 30 cm / 11.8 in - $129</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - $129</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
 
-* Height:
+* Height: 30 cm / 11.8 in
 
-* Width/Diameter:
+* Width/Diameter: 51mm
 
-* Percolator Level:
+* Percolator Level: 3
 
-* Color & Material:
+* Color & Material: Clear borosilicate glass
 
-* Bowl Joint Size: 
+* Bowl Joint Size: 14.5 mm
 
-* Carb Hole: 
+* Carb Hole: Not included
 
-* Ice Notches:
+* Ice Notches: Not included
 
-* Brand/Made By:
+* Brand/Made By: Black Leaf
 
-* Sold By:
+* Sold By: [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html){:target="_blank"}
 
-Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very unique, very effective, and absolutely worth every penny.
+As the name suggests: the Bird Cage Recycler utilizes an unusual percolation technique - a recycler.
 
-**But there's more to it.**
+This form of percolation works very well to diffuse your hits while keeping your smoke from going stale.
 
-Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> nasty particles from your smoke; this is done when bubbly smoke is pulled through hundreds of tiny holes that strain and clean your bubbles to save your lungs from inhaling as many harmful particles in your smoke.
-
-Read our percolation rundown [Here](smokephisticated.com/percolation){:target="_blank"}.
-
-**As you've probably noticed:** 
-
-This bong has *two* chambers for both your smoke and your water to travel through. This is where the "Recycler" funtion comes into play.
-
-**But how does it work?**
-
-As soon as your inhale takes place so does the funtionality of the recycler. Both water and smoke gets cycled through in a rotative motion, pulling your smoke back through those tiny holes causing additional percolation again, and again, and again. 
-
-**Why is this important?**
-
-This isn't by any means an essential piece to smoking herbs, but it is both helpful with keeping your hits from going stale, and with adding extra filtration for extra smooth hits. Plus, it's mesmorizing as fuck.
-
-**Features:**
-
-* Borosilicate glass material.
-
-* Built-in Cage Percolator.
-
-* Recycler functionality for continuous filtration.
-
-* Flared mouthpiece for comfortable lip purchase.
-
-* 14.5mm female joint.
-
-* Black "BirdCage" logo located on the main chamber.
-
-* 14.5mm male herb bowl with clear handle for convienient lifting.
-
-* Comes complete with decorative foam box providing safe shipping and a safe place to repackage for future use.
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Check Price</a>
+	<br>
+	<a class="cta-button learn-button" href="#bird-cage-glass-recycler">Read Review</a>
+</div>
 
 ---
 
@@ -214,6 +184,12 @@ This isn't by any means an essential piece to smoking herbs, but it is both help
 * Brand/Made By:
 
 * Sold By:
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
 
 Black Leaf has a reputation for their scientific glass - and this Triple Disc Honeycomb Perc is just another example of that.
 
@@ -296,6 +272,12 @@ Below you will find highly rated sub-$100 bongs on the market right now.
 
 * Sold By:
 
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
+
 With 77 5-star ratings on grasscity; this percolating ripper will provide even the softest of lungs with cool comfortable clouds.
 
 * Made from [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} (a highly heat resistant glass commonly used in bongs & pipes). 
@@ -367,6 +349,12 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 
 * Sold By:
 
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
+
 Made by Nucleus in the USA, the Bent Neck Matrix has earned a 62/64 5-star customer rating ratio on Dankstop.com - mostly attributed to the price, comfortability, and the powerful rips that this piece is capable of - giving the Matrix fantastic daily-driver potential.
 
 The "Matrix" refers to the Matrix water perc device that cools, filters, and even vaporizes smoke bubbles as they pass through; this device uses dozens of tiny slits to allow for much larger and more enjoyable rips from your dry herb or concentrates.
@@ -431,6 +419,12 @@ All in all, the [Bent Neck Matrix](https://goo.gl/4jvY4J){:target="_blank"} is a
 * Brand/Made By:
 
 * Sold By:
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
 
 Those dedicated stoners over at [Black Leaf](https://www.grasscity.com/us_en/brands/black-leaf-glass){:target="_blank"} don't mess around. 
 
@@ -503,6 +497,12 @@ Percolators are pieces that use water to filter/strain nasty lung-harming partic
 
 * Sold By:
 
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
+
 When the typical smoker thinks of *gravity bong*, an image of a dirty cut-up 2-liter bottle inside of a bucket filled with water may come to mind. Generally the bowl would have been made from a socket jammed into a hole in the plastic cap, but as sketchy as these contraptions were... They delivered. 
 
 Something about hitting a gravity bong gets you to a different high; one that bowls and regular bongs just can't always serve, all while using the least amount of your supply.
@@ -538,6 +538,12 @@ Replacing those sketchy plastics and metals with glass, the Gravitron features a
 * Brand/Made By:
 
 * Sold By:
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
 
 Woah, dude. Have you ever thought it would be dope to have a bong kit to take along with you to parties or weekend getaways? Well my dude, Dude is changing the game by bringing you everything you need and a case to carry it in.
 
@@ -588,6 +594,12 @@ Go ahead and pick up some extra screens <a target="_blank" href="http://affiliat
 * Brand/Made By:
 
 * Sold By:
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
 
 **If you're looking for refined simplicity; your search is over.**
 
@@ -672,6 +684,12 @@ Below you'll find the most solid sub-$20 bongs and water pipes on the web right 
 
 * Sold By:
 
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
+
 *Highly* suggested for begginers:
 
 **Unfortunetly** your local coffee shop probably won't let you sit down at a booth and torch a bowl of this beautifully simple glass piece. Or, at least not yet. Pass the time by celebrating cannabis liberty with 21 cm of [borosilicate glass](https://apaviata.com/advantages-of-borosilicate-glass){:target="_blank"} equipped with the [Coat of arms of Amsterdam](https://en.wikipedia.org/wiki/Coat_of_arms_of_Amsterdam){:target="_blank"} vector. 
@@ -701,6 +719,12 @@ Pack your supply into the funnel-bowled 14.5mm chillum and clear the smoke using
 * Brand/Made By:
 
 * Sold By:
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
 
 Do you have to avoid having your pieces discovered? Or are you the adventurist type? 
 
@@ -735,6 +759,12 @@ This bong is made from borosilicate glass, and features a beaker base for surfac
 * Brand/Made By:
 
 * Sold By:
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<br>
+	<a class="cta-button learn-button" href="#">Read Review</a>
+</div>
 
 Now, for the cheapest in price, but still a very solid little pipe standing at 18 cm.
 
@@ -833,5 +863,48 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 </li>
 </ul>
 </div>
+
+---
+
+
+### <a name="bird-cage-glass-recycler">The Bird Cage Glass Recycler</a>
+
+Like many other Black Leaf percolators, the Bird Cage Glass Recycler is very unique, very effective, and absolutely worth every penny.
+
+**But there's more to it.**
+
+Cage percolators are designed to cool inhales by <a target="_blank" href="https://www.tokeofthetown.com/2013/04/glass_class_percolation_diffusion_and_lots_of_tiny_smoke_bubbles_bong_bubbler.php/">diffusing</a> nasty particles from your smoke; this is done when bubbly smoke is pulled through hundreds of tiny holes that strain and clean your bubbles to save your lungs from inhaling as many harmful particles in your smoke.
+
+Read our percolation rundown [Here](smokephisticated.com/percolation){:target="_blank"}.
+
+**As you've probably noticed:** 
+
+This bong has *two* chambers for both your smoke and your water to travel through. This is where the "Recycler" funtion comes into play.
+
+**But how does it work?**
+
+As soon as your inhale takes place so does the funtionality of the recycler. Both water and smoke gets cycled through in a rotative motion, pulling your smoke back through those tiny holes causing additional percolation again, and again, and again. 
+
+**Why is this important?**
+
+This isn't by any means an essential piece to smoking herbs, but it is both helpful with keeping your hits from going stale, and with adding extra filtration for extra smooth hits. Plus, it's mesmorizing as fuck.
+
+**Features:**
+
+* Borosilicate glass material.
+
+* Built-in Cage Percolator.
+
+* Recycler functionality for continuous filtration.
+
+* Flared mouthpiece for comfortable lip purchase.
+
+* 14.5mm female joint.
+
+* Black "BirdCage" logo located on the main chamber.
+
+* 14.5mm male herb bowl with clear handle for convienient lifting.
+
+* Comes complete with decorative foam box providing safe shipping and a safe place to repackage for future use.
 
 ---
