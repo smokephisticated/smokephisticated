@@ -129,17 +129,25 @@ We've written a 5 minute rundown on percolation using this product as an example
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - $129</h2>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler-collage.png" /></a>
 
-* Height: 30 cm / 11.8 in								* Width/Diameter: 51mm
+* **Height:** 30 cm / 11.8 in
 
-* Percolator Level: 3								* Color & Material: Clear borosilicate glass
+* **Width/Diameter:** 51mm
 
-* Bowl Joint Size: 14.5 mm							* Carb Hole: Not included
+* **Percolator Level:** 3
 
-* Ice Notches: Not Included							* Brand/Made By: Black Leaf
+* **Color & Material:** Clear borosilicate glass
 
-* Sold By: [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html){:target="_blank"}
+* **Bowl Joint Size:** 14.5 mm
+
+* **Carb Hole:** Not included
+
+* **Ice Notches:** Not Included
+
+* **Brand/Made By:** Black Leaf
+
+* **Sold By:** [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html){:target="_blank"}
 
 Ultimate percolation - countinuous filtration.
 
@@ -814,10 +822,6 @@ Our suggestions strongly stem off of genuine customer feedback left by real and 
 
 So wheather you're hoping to upgrade from make-shift bottles and cans, or if you're browsing for an addition to your collection; we'll deliver the most reputable options straight to you, no BS.
 
-<h3 class="heading-center">Please Note:</h3> 
-
-<h5 class="heading-center">Seeing products a little out of your price range? Don't sweat it. Our lower-priced recommendations are towards the bottom. Scroll down until you find the range that fits your budget.</h5>
-
 ---
 
 ### <a name="stemless-inline-double-ring">The Stemless Inline with Double Ring 18-arm Perc's</a>
@@ -828,7 +832,7 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ### <a name="bird-cage-glass-recycler">The Bird Cage Glass Recycler</a>
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler-collage.png" /></a>
 
 **The Bird Cage Glass Recycler's three levels of percolation:**
 
