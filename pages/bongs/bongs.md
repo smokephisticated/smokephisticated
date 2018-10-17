@@ -131,21 +131,13 @@ We've written a 5 minute rundown on percolation using this product as an example
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler.png" /></a>
 
-* Height: 30 cm / 11.8 in
+* Height: 30 cm / 11.8 in								* Width/Diameter: 51mm
 
-* Width/Diameter: 51mm
+* Percolator Level: 3								* Color & Material: Clear borosilicate glass
 
-* Percolator Level: 3
+* Bowl Joint Size: 14.5 mm							* Carb Hole: Not included
 
-* Color & Material: Clear borosilicate glass
-
-* Bowl Joint Size: 14.5 mm
-
-* Carb Hole: Not included
-
-* Ice Notches: Not included
-
-* Brand/Made By: Black Leaf
+* Ice Notches: Not Included							* Brand/Made By: Black Leaf
 
 * Sold By: [Grasscity.com](http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html){:target="_blank"}
 
