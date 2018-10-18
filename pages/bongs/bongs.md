@@ -852,7 +852,7 @@ Black Leaf also rounded the edge of the top of the pipe for a more comfortable p
 
 Taking a break from funtionality for a second, the pipe also comes branded with a sticker. But not just any sticker - I mean, just look at this little bee mascot:
 
-<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Percolator" class="img-middle" src="/img/bongs/honeycomb-disc-mascot.jpg"/></a>
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Percolator" class="img-middle" src="/img/bongs/honeycomb-disc-mascot-canvas.png"/></a>
 
 Seriously. I want a thousand of these little stickers, I'd put 'em everywhere.
 
