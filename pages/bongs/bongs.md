@@ -124,7 +124,7 @@ We've written a 5 minute rundown on percolation using this product as an example
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/stemless-inline-perc-glass-ice-tube-with-double-ring-18-arm-perc-black.html?nosto=nosto-page-category2">See Price</a>
 	<br>
-	<a class="cta-button learn-button" href="#stemless-inline-double-ring">Read Review</a>
+	<a class="cta-button learn-button" href="#stemless-inline-with-double-ring-18-arm-perc">Read Review</a>
 </div>
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html">Bird Cage Glass Recycler Bong with Cage Percolator</a> - $129</h2>
@@ -212,7 +212,7 @@ It's also almost hypnotizing to watch this pipe in action. The way that the hone
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Check it Out</a>
 	<br>
-	<a class="cta-button learn-button" href="#triple-honeycomb-disc-perc">Read Review</a>
+	<a class="cta-button learn-button" href="#black-leaf's-triple-honeycomb-disc-percolator">Read Review</a>
 </div>
 
 ### <a name="headbbu100"></a>
@@ -804,13 +804,13 @@ So wheather you're hoping to upgrade from make-shift bottles and cans, or if you
 
 ---
 
-### <a name="stemless-inline-double-ring">The Stemless Inline with Double Ring 18-arm Perc's</a>
+### [stemless-inline-double-ring">Stemless Inline with Double Ring 18-arm Perc]
 
 (Out of Stock)
 
 ---
 
-### <a name="bird-cage-glass-recycler">The Bird Cage Glass Recycler</a>
+### [Bird Cage Glass Recycler](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html){:target="_blank"}
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler-collage.png" /></a>
 
@@ -836,7 +836,9 @@ Also, this pipe comes representing Black Leaf - as it should. This piece comes p
 
 ---
 
-## <a name="triple-honeycomb-disc-perc"<>Black Leaf's Triple Honeycomb Disc Percolator</a>
+## [Black Leaf's Triple Honeycomb Disc Percolator](http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html){:target="_blank"}
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-bird-cage-glass-recycler-bong-with-cage-percolator.html"><img alt="Bird Cage Glass Recycler Bong with Cage Percolator" class="img-middle" src="/img/bongs/bird-cage-recycler-collage.png" /></a>
 
 Aside form percolation, notice the reinforcement between the bowl and main chamber. This is a small detail that makes a world of difference for the structural integrity of this piece. Not saying that you're entirely safe to drop this glass pipe, but every little bit could help.
 
