@@ -135,7 +135,7 @@ We've written a 5 minute rundown on percolation using this product as an example
 
 * **Width/Diameter:** 51mm
 
-* **Percolator Level:** 3
+* **Percolator Level:** Three
 
 * **Color & Material:** Clear borosilicate glass
 
@@ -175,65 +175,45 @@ As soon as your inhale takes place so does the funtionality of the recycler. Bot
 	<a class="cta-button learn-button" href="#bird-cage-glass-recycler">Extra Info/Features</a>
 </div>
 
-<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Black Leaf's Triple Honeycomb Disc Percolator</a> -  38 cm / 15 inches - $125</h2>
+<h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Black Leaf's Triple Honeycomb Disc Percolator</a> - $125</h2>
 
 <a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Perc" class="img-middle" src="/img/bongs/honeycomb-disc.png"/></a>
 
-* Height:
+* **Height:** 38 cm / 15 in
 
-* Width/Diameter:
+* **Width/Diameter:** Body: 65mm / mouthpiece: 44mm
 
-* Percolator Level:
+* **Percolator Level:** Four
 
-* Color & Material:
+* **Color & Material:** Clear borosilicate glass
 
-* Bowl Joint Size: 
+* **Bowl Joint Size:** 18.8 mm
 
-* Carb Hole: 
+* **Carb Hole:** Not included
 
-* Ice Notches:
+* **Ice Notches:** Included
 
-* Brand/Made By:
+* **Brand/Made By:** Black Leaf
 
-* Sold By:
+* **Sold By:** Grasscity.com
+
+Everyone loves the Triple Honeycomb Disc Perc. Even hearing the name is cause for excitement and curiosity.
+
+With three percolating honeycomb strainers lining the main chamber, the Triple Honeycomb Disc is a water pipe with some serious diffusing power.
+
+Keep in mind, we don't decide these ratings - 30 real customers from grasscity have rated this piece at an insane average of 4.9/5.
+
+**Let's look into why:**
+
+Well, first off I'd mention the quality rips that this piece is capable of. Three honeycomb discs alone produce superb diffusing - stack some cubes on that ice catcher and you'll have ice cold *clouds* emitting from your lungs.
+
+It's also almost hypnotizing to watch this pipe in action. The way that the honeycomb discs filter smoke and create whirlpool eddies as the water settles is very fascinating & fun to watch.
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<a class="cta-button buy-button" target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html">Check it Out</a>
 	<br>
-	<a class="cta-button learn-button" href="#">Read Review</a>
+	<a class="cta-button learn-button" href="#triple-honeycomb-disc-perc">Read Review</a>
 </div>
-
-Black Leaf has a reputation for their scientific glass - and this Triple Disc Honeycomb Perc is just another example of that.
-
-When smoke travels down from the bowl,  through the chamber it is forced to squeeze and strain through tiny holes - this diffuses/seperates lung-harming particles from your smoke and makes for smoother and cleaner tokes; allowing you to take bigger and more comfortable rips.
-
-**But as you've noticed** this is a *triple* honeycomb percolator.. Meaning smoke is processed and filtered through these tiny holes not once, but three seperate times.
-
-Percolation can be confusing, if you need some prospective click [Here](smokephisticated.com/percolation){:target="_blank"} to read or perc explanation.
-
-Having the ability to remove pieces and parts () from your smoke, while keeping the full rich flavor of your strains, is a tool that every smoker should possess. 
-
-Do your lungs a favor and pick up a serious percolator like this beauty. 
-
-<h5 class="heading-center">A Complete List of Features:</h5>
-
-* Borosilicate glass material.
-
-* Blue-trimmed, round-footed base for self-standing.
-
-* Fixed, stemless designed route from your bowl to the chamber. Less moving parts = more stability, right? Either way you'll find reinforcement from the connecting glass from the route into the body itself.
-
-* Three honeycomb disc percolators vertically fixed evenly throughout the chamber.
-
-* Integrated screen to hold every last bit in the bowl until you've decided your supply is beat.
-
-* 18.8mm sliding-glass bowl with an attached blue handle for lifting to clear your chamber and to stop itself from rolling.
-
-* Black Leaf's HoneyComb label. Just Beecause it's what the buzz is about
-
-* Ice nothches located at the neck to make for *even smoother* frosty inhales.. Will you even realize you're smoking?
-
-* Rounded smooth edges for comfortable mouth purchasing.
 
 ### <a name="headbbu100"></a>
 
@@ -853,5 +833,31 @@ With a 14.5mm female joint, the included borosilicate glass herb bowl is equippe
 comes as a complete set up with a male 14.5mm borosilicate glass herb bowl with a transparant handle/rollstopper for easy liftin
 
 Also, this pipe comes representing Black Leaf - as it should. This piece comes packaged in a Black Leaf box (inside of the discreet Grasscity standard plain brown privacy box) with foam interior for security. You'll also find a Black Leaf logo sticker on the pipe itself.
+
+---
+
+## <a name="triple-honeycomb-disc-perc"<>Black Leaf's Triple Honeycomb Disc Percolator</a>
+
+Aside form percolation, notice the reinforcement between the bowl and main chamber. This is a small detail that makes a world of difference for the structural integrity of this piece. Not saying that you're entirely safe to drop this glass pipe, but every little bit could help.
+
+Clear the chamber by simply using the blue handlebar to lift your bowl.
+
+You can also find an itegrated screen inside the bowl. **But here's the deal:** Not everyone is a fan of the integrated screen - most people love it, but sometimes people would prefer a bowl design that wouldn't need a screen in the first place. However, I peronally appreciate that little bit of insurence from sucking green back into the chamber. Many bowls seem to decide, if you will, when your pack is beat by sucking it right into the chamber
+
+The Triple Honeycomb Disc proudly stands on a clear & blue round foot base.
+
+Black Leaf also rounded the edge of the top of the pipe for a more comfortable purchase for your mouth.
+
+Taking a break from funtionality for a second, the pipe also comes branded with a sticker. But not just any sticker - I mean, just look at this little bee mascot:
+
+<a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-glass-ice-bong-with-triple-honeycomb-disc-perc-38cm.html"><img alt="Triple Honeycomb Disc Percolator" class="img-middle" src="/img/bongs/honeycomb-disc-mascot.jpg"/></a>
+
+Seriously. I want a thousand of these little stickers, I'd put 'em everywhere.
+
+**The brand:** *Black Leaf* is a highly recognized German producer of quality glass pieces and remarkable percolators.
+
+**Perc Level:** The Triple Honeycomb Disc utilizes water, giving it a starting level of 1. Adding for the three honeycomb discs (one level per perc device), this beauty graduates into a level four percolating water pipe.
+
+We've written a percolation rundown, explaing the advantages of percs to the best of our ability - read that [HERE].
 
 ---
