@@ -298,13 +298,13 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 	<tr>
 		<th>PIC</th>
 		<th>Name</th>
-		<th>Price</th>
+		<th>Rating</th>
 		<th>Shop</th>
 	</tr>	
 	<tr>
 		<td><a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Black Leaf 4-arm Perc Bong with Ash Catcher" class="table-image" src="/img/bongs/nucleus-bent-matrix.png" /></a></td>
 		<td>Nucleus Matrix</td>
-		<td>$74.99</td>
+		<td>4.9/5</td>
 		<td><a class="big-button" target="_blank" href="https://goo.gl/4jvY4J">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
@@ -315,69 +315,41 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 	</tr>
 </table>
 
-<h2 class="heading-center"><a target="_blank" href="https://goo.gl/4jvY4J">The Bent Neck Matrix</a>, by Nucleus - 8.5 in / 21.6 cm tall - $74.99</h2>
+<h2 class="heading-center"><a target="_blank" href="https://goo.gl/4jvY4J">The Bent Neck Matrix</a>, by Nucleus - $74.99</h2>
 
 <a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
 
-* Height:
+* **Height:** 8.5 in / 21.6 cm
 
-* Width/Diameter:
+* **Percolator Level:** 2
 
-* Percolator Level:
+* **Color & Material:** Clear borosilicate glass w/ black accents
 
-* Color & Material:
+* **Bowl Joint Size:** 14 mm
 
-* Bowl Joint Size: 
+* **Carb Hole:** Not included
 
-* Carb Hole: 
+* **Ice Notches:** Not included
 
-* Ice Notches:
+* **Brand/Made By:** Nucleus
 
-* Brand/Made By:
+* **Sold By:** Dankstop.com
 
-* Sold By:
+Dodge splash-back with the Bent Neck Matrix.
+
+Matrix percolators are notorious for prodicing massive amounts of bubbles for diffusion - this bubbly ability makes for tremendously smoother rips.
+
+This amount of percolation would cause spash-back with many other pipe designs, but the bent neck provides that extra bit of security. Having a bent neck on your pipe is also a lot more ergonomic when torching your supply.
+
+The process of percolation cools, filters, and even vaporizes smoke bubbles while maintaining THC - add cold water for an ice-cold rip that will blast your to the moon.
+
+All in all, the Bent Matrix is a very well rounded water pipe for dry herb, and (with the purchase of the quartz banger nail attachment - $7) this bong is capable of very quality dab rips.
 
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
 	<br>
 	<a class="cta-button learn-button" href="#">Read Review</a>
 </div>
-
-Made by Nucleus in the USA, the Bent Neck Matrix has earned a 62/64 5-star customer rating ratio on Dankstop.com - mostly attributed to the price, comfortability, and the powerful rips that this piece is capable of - giving the Matrix fantastic daily-driver potential.
-
-The "Matrix" refers to the Matrix water perc device that cools, filters, and even vaporizes smoke bubbles as they pass through; this device uses dozens of tiny slits to allow for much larger and more enjoyable rips from your dry herb or concentrates.
-
-*Pro Tip:* Use ice water for additional cooling effect
-
-**Bong Specs:**
-
-* Build: Borosilicate glass
-
-* Joint Size: 14mm female
-
-* Male attachment for concentrates (Quartz banger nail) - available for additional $7
-
-* Height: 8.5 inches
-
-* 90° Joint
-
-**Features of the Bent Neck Matrix:**
-
-* Matrix Percolator - diffuses smoke for cool & clean rips
-
-* Ergonomic Bent Neck - Distances flames & prevents splashing
-
-* Flared Mouthpiece
-
-* "nucleus" Sticker
-
-* Nucleus Logo Sticker
-
-Nucleus uses laboratory-grade glass & consults with proffesional glass blowers to ensure you recieve reliable quality.
-
-Dankstop usually sells this item for $74.99, but be sure to check out any sales that they might have!
-
-All in all, the [Bent Neck Matrix](https://goo.gl/4jvY4J){:target="_blank"} is a solid option as either a starter, or an addition to the collection.
 
 ---
 
@@ -863,5 +835,39 @@ Seriously. I want a thousand of these little stickers, I'd put 'em everywhere.
 **Perc Level:** The Triple Honeycomb Disc utilizes water, giving it a starting level of 1. Adding for the three honeycomb discs (one level per perc device), this beauty graduates into a level four percolating water pipe.
 
 We've written a percolation rundown, explaing the advantages of percs to the best of our ability - read that [HERE].
+
+---
+
+<h2 class="heading-center"><a target="_blank" href="https://goo.gl/4jvY4J">The Bent Neck Matrix</a>, by Nucleus - $74.99</h2>
+
+<a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
+
+**Which will it be: blue pill or red pill?**
+
+Okay, maybe this water pipe alone won't tear the fabric of your reality - maybe.
+
+However, the Matrix percolator does have potential to elevate your smoking experience on a daily basis.
+
+**The Bent Matrix is a well rounded daily driver**
+
+The black accented mouthpiece is a nice touch for comfortability, this feature makes a better lip purchase while taking hits.
+
+This pipe has a sturdy design by hosting a round glass black foot
+
+<a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix-perc.jpg" /></a>
+
+The matirx perc itself produces an impressive amount of bubbles - even for a percolator device.
+
+*Stoner Tip:* Use ice water for extra cool & satisfying rips.
+
+Between the bomb percolator, the ergonomic bent neck, and the sleek design by Nucleus - the Bent Matrix is a community favorite.
+
+& with a near 5-star customer rating, Nucleus themselves are very reputable.
+
+Nucleus is a New Jersey, USA based company that prides themselves in providing consumers with reliable products while maintaining affordability. Nucleus actually consults with local glass blowers to make sure that their glass is as quality as possible.
+
+This piece wouldn't be complete without the Nucleus logo featured directly above the percolator.
+
+Dankstop usually sells this item for $74.99, but be sure to check out any sales that they might have!
 
 ---
