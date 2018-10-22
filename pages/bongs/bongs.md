@@ -317,7 +317,7 @@ If you're in the market for the greatest pieces under $75: We have a few suggest
 
 <h2 class="heading-center"><a target="_blank" href="https://goo.gl/4jvY4J">The Bent Neck Matrix</a>, by Nucleus - $74.99</h2>
 
-<a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
+<a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Neck Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
 
 * **Height:** 8.5 in / 21.6 cm
 
@@ -346,12 +346,10 @@ The process of percolation cools, filters, and even vaporizes smoke bubbles whil
 All in all, the Bent Matrix is a very well rounded water pipe for dry herb, and (with the purchase of the quartz banger nail attachment - $7) this bong is capable of very quality dab rips.
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="">Check it Out</a>
+	<a class="cta-button buy-button" target="_blank" href="https://goo.gl/4jvY4J">Check it Out</a>
 	<br>
-	<a class="cta-button learn-button" href="#">Read Review</a>
+	<a class="cta-button learn-button" href="#nucleus-bent-neck-matrix">Read Review</a>
 </div>
-
----
 
 <h2 class="heading-center"><a target="_blank" href="http://affiliates.grasscity.com/shop/clickthru.cgi?id=Smokephisticated&page=https://www.grasscity.com/us_en/black-leaf-4-arm-perc-bong-with-ash-catcher-black.html?nosto=product-upsell">Black Leaf 4-arm Perc Bong with Ash Catcher</a> - 30 cm / 11.8" - $59.99</h2>
 
@@ -838,7 +836,7 @@ We've written a percolation rundown, explaing the advantages of percs to the bes
 
 ---
 
-<h2 class="heading-center"><a target="_blank" href="https://goo.gl/4jvY4J">The Bent Neck Matrix</a>, by Nucleus - $74.99</h2>
+### [Nucleus Bent Neck Matrix](https://goo.gl/4jvY4J){:target="_blank"} - $74.99</h2>
 
 <a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix.png" /></a>
 
