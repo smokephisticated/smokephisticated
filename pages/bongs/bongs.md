@@ -852,7 +852,7 @@ The black accented mouthpiece is a nice touch for comfortability, this feature m
 
 This pipe has a sturdy design by hosting a round glass black foot
 
-<a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix-perc.jpg" /></a>
+<a target="_blank" href="https://goo.gl/4jvY4J"><img alt="Nucleus Bent Matrix" class="img-middle" src="/img/bongs/nucleus-bent-matrix-perc.png" /></a>
 
 The matirx perc itself produces an impressive amount of bubbles - even for a percolator device.
 
