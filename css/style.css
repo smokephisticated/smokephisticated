@@ -35,7 +35,7 @@ body {
         to right bottom, 
         rgba(126, 213, 111, .8), 
         rgba(40, 180, 131, .8)), 
-        url(../img/hero.jpg);
+        url(../img/cover.jpg);
     background-size: cover; 
     background-position: top;
     position: relative;
