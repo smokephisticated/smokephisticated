@@ -1,0 +1,23 @@
+{
+  "name": "smokephisticated",
+  "version": "1.0.0",
+  "description": "Landing page for smokephisticated",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smokephisticated/smokephisticated.git"
+  },
+  "author": "Jacob T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smokephisticated/smokephisticated/issues"
+  },
+  "homepage": "https://github.com/smokephisticated/smokephisticated#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
