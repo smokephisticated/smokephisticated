@@ -1,12 +1,24 @@
-# Site settings
-title: Smokephisticated 
-email: admin@smokephisticated.com
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/shiori" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "www.smokephisticated.com" # the base hostname & protocol for your site
+title: "Shiori"
 
-twitter_username:
-github_username:
+# This is used by feed.xml. Uncomment if you want to use it.
+# description: "..."
 
-# Build settings
-markdown: kramdown
+gems:
+  - jemoji
+  
+permalink: :title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
