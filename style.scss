@@ -287,24 +287,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-
-@import "abstracts/functions";
-@import "abstracts/mixins";
-@import "abstracts/variables";
-
-@import "base/animations";
-@import "base/base";
-@import "base/typography";
-@import "base/utilities";
-
-@import "components/button";
-@import "components/composition"; 
-
-@import "components/feature-box";
-@import "components/card";
-
-@import "layout/header";
-@import "layout/grid";
-
-@import "pages/home"; 
