@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Pipes and Pieces
+  url: /pipes-pieces/
+  excerpt: "Get the best high for your supply"
+  image:
+
+- title: Stoner Tips 
+  url: /stoner-tips/
+  excerpt: "Become a weed master"
+  image:
+
+- title: How to Roll 
+  url: /how-to-roll/
+  excerpt: "Get baked"
   image:
