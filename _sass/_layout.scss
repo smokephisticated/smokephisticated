@@ -228,15 +228,27 @@
 }
 // page lead
 .page-lead {
+	background-image: linear-gradient(
+        to right bottom,
+        rgba($color-primary-light, 0.4),
+        rgba($color-primary-dark, 0.4)),
+	    url(../images/cover.jpg);
+
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
 	color: $white;
+
+	height: 40vh;
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 35vh, 0 100%);
+
 	@include media($large) {
 		background-size: cover;
 	}
 }
+
 .page-lead-content {
 	padding: 1em;
 	@include media($medium) {
