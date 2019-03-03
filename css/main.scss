@@ -51,9 +51,17 @@ sitemap: false
 /* Custom Imports */
 @import "typography";
 @import "grid";
-@import "custom/features-section";
+@import "features-section";
 /*
    Page specific
    ========================================================================== */
 
 @import "layout";
+
+/* custom CSS */
+
+.img-middle {
+	display: block;
+	margin: 0 auto;
+	border-radius: 5px;
+}

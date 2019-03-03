@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Pipes and Pieces 
-permalink: /pipes-pieces/
-seotitle: "5 Pipes and Pieces: The Best High for Your Supply (2019)"
+title: Pipes and Pieces
+permalink: "/pipes-pieces/"
+layout: article
+seotitle: "#1 Best $600 Gaming PC Build + Prebuilt Options (2018)" 
 ---
 
-Hello world! 

@@ -18,13 +18,18 @@
 	border: 0 !important;
 	border-radius: 10 * $border-radius;
 	@include transition(background 0.2s, border 0.2s);
+	transition: all .3s;
+	
+
 	&:hover {
-		color: $white;
-		background-color: lighten($primary-color, 10);
-	}
-	&:active {
-		// move button slightly on click
-		@include transform(translateY(1px));
+	transform: translateY(-3px);
+        box-shadow: 0 1rem 2rem rgba($color-black,.2);
+        color: white;
+
+        &::after {
+            transform: scaleX(1.4) scaleY(1.6);
+            opacity: 0;
+        }
 	}
 }
 
