@@ -9,6 +9,8 @@
 .toc {
   margin-left: -1 * $gutter;
   margin-right: -1 * $gutter;
+  max-width: 15rem;
+  float: right;
   @include media($medium) {
     margin-left: 0;
     margin-right: 0;
@@ -17,6 +19,7 @@
   ul {
     margin-top: $gutter;
     margin-bottom: $gutter;
+    margin-left: 1rem;
     border: 1px solid $border-color;
     @include media($medium) {
       border-radius: $border-radius;

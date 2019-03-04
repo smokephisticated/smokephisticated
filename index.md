@@ -14,7 +14,6 @@ title:
       <div class="wrap page-lead-content">
         <h1>Smokephisticated</h1>
         <h2>Get high as shit</h2>
-        <a href="/pipes-pieces/" class="btn-inverse">Peep our Dank Glassware</a> &nbsp; or &nbsp; <a href="/how-to-roll/" class="btn-inverse">Roll up</a>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
     <div id="page-wrapper">

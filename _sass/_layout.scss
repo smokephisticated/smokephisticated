@@ -142,6 +142,11 @@
    Main content
    ========================================================================== */
 
+a {
+	color: #1dbae4;
+	text-decoration: none;
+}
+
 #main {
 	.inner-wrap {
 		@include media($medium) {
@@ -161,10 +166,8 @@
 				}
 			}
 			// cleaner underlines for links
-			a { text-decoration: none; }
 			p a,
 			li a {
-				border-bottom: 1px dotted lighten($link-color, 50);
 				&:hover {
 					border-bottom-style: solid;
 				}
