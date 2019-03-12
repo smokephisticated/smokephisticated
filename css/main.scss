@@ -178,3 +178,9 @@ sitemap: false
      }
    }
  }
+
+ .vid-container {
+    position: relative;
+    padding-bottom: 50%;
+    padding-top: 35px; height: 0; overflow: hidden;
+}

@@ -19,7 +19,7 @@
   ul {
     margin-top: $gutter;
     margin-bottom: $gutter;
-    margin-left: 1rem;
+    margin-left: .5rem;
     border: 1px solid $border-color;
     @include media($medium) {
       border-radius: $border-radius;
