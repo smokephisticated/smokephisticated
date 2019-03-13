@@ -4,13 +4,14 @@ permalink: "/how-to-roll/joint/"
 layout: article
 seotitle: "How to Roll a Joint: An Easy Step by Step Guide (2019)" 
 ---
-![How to Roll a Joint Header Image](/images/joints/girl-lighting-joint.jpg){: .img-right}
 
 We get it: 
 
 Nothing's better than sitting back with your friends, rolling a joint, and getting baked. 
 
 We've created this step by step tutorial to teach you exactly how to roll a joint, so you can get it right every time. 
+
+![How to Roll a Joint Header Image](/images/joints/girl-lighting-joint.jpg){: .img-right}
 
 I'm your joint rolling jedi master, and you're my young padawan. 
 
@@ -21,7 +22,7 @@ This guide is geared for beginners. Follow our tips, and you'll be a joint rolli
 ## Rolling with Rogen
 
 <div class="iframeVideo">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Mze-58kQxw?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0Mze-58kQxw?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## How to Roll a Joint in 5 Easy Steps 
