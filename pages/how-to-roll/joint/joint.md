@@ -73,7 +73,7 @@ You're going to need a filter before you start rolling a joint.
 Most packs of RAW joint papers come with small cardboard filter strips that can be rolled into a filter tip. 
 
 <div class="toker-tip">
-	<h4>Toker Tip</h4>
+	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 	<p>If you don't want to make a filter every time, you can buy pre-rolled filter tips.</p>
 
 	<p>In fact, I like to use pre-rolled filter tips in my joints.</p>
@@ -149,7 +149,7 @@ However, I found it easier to use a pencil when I first learned how to roll. Thi
 
 
 <div class="toker-tip">
-	<h4>Toker Tip</h4>
+	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 		<p>Seriosuly,</p> 
 
 		<p>make sure your weed is laying flat in the paper, compacted down to the bottom, either with a pencil or by rolling the paper back and forth between your fingers.</p>  
@@ -206,7 +206,7 @@ Once the glue has been lightly coated with saliva, simply roll the joint the res
 When the glue makes contact with the paper, run your thumb along the joint to seal it. 
 
 <div class="watch-out">
-	<h4>Watch Out</h4>
+	<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
 		<p>If any parts of the joint aren't sealed, try to lick the glue again and reseal it.</p> 
 
 		<p>The bests joints are rolled all at once after the glue has been licked.</p> 
@@ -243,7 +243,7 @@ But hey, look on the bright side:
 At least you'll get to smoke all of them! 
 
 <div class="stoner-story">
-	<h4>Stoner Story</h4>
+	<h4>Stoner Story<i class="box-icon-spacing fas fa-book"></i></h4>
 
 	<p>Towards the end of my senior year of high school, I started learning how to roll.</p> 
 
@@ -276,10 +276,3 @@ I hope it's helped you!
   <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
 </ul>
 </nav>
-
-<!-- 
-	<i class="box-icon-spacing fas fa-check"></i>
-	<i class="box-icon-spacing fas fa-exclamation-triangle"></i>
-	<i class="box-icon-spacing fas fa-book"></i>
-
-	-->
