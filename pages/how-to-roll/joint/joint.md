@@ -37,7 +37,6 @@ In this section of the guide, we're going to walk you through the joint rolling 
 	<li><b>Lick the glue, roll, and seal!</b></li>
 </ol>
 
-
 Our rolling technique is a bit different from Seth Rogen's technique. You can watch the video and follow our guide to see which method you prefer, and which one is easier for you. 
 
 This is how I learned how to roll, and now I can roll fat doinks with ease. 
@@ -226,6 +225,16 @@ And voila! You have a perfect joint, ready to be enjoyed by you and your buddies
 
 ## Conclusion
 
+<nav class="toc">
+<ul id="markdown-toc">
+  <li><h6>Overview</h6></li>
+  <li><a href="#rolling-with-rogen" id="markdown-toc-rolling-with-rogen">Rolling with Rogen</a></li>
+  <li><a href="#how-to-roll-a-joint-in-5-easy-steps" id="markdown-toc-how-to-roll-a-joint-in-5-easy-steps">How to Roll a Joint in 5 Easy Steps</a></li>
+  <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
+
+</nav>
+
 For a long time, I would just smoke the joints that my friends rolled for me. 
 
 Then, everything changed.
@@ -267,12 +276,3 @@ At least you'll get to smoke all of them!
 This guide was intended to teach beginners how to roll a joint. 
 
 I hope it's helped you! 
-
-<nav class="toc">
-<ul id="markdown-toc">
-  <li><h6>Overview</h6></li>
-  <li><a href="#rolling-with-rogen" id="markdown-toc-rolling-with-rogen">Rolling with Rogen</a></li>
-  <li><a href="#how-to-roll-a-joint-in-5-easy-steps" id="markdown-toc-how-to-roll-a-joint-in-5-easy-steps">How to Roll a Joint in 5 Easy Steps</a></li>
-  <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
-</ul>
-</nav>
