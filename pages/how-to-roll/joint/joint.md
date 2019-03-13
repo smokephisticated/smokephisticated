@@ -4,6 +4,7 @@ permalink: "/how-to-roll/joint/"
 layout: article
 seotitle: "How to Roll a Joint: An Easy Step by Step Guide (2019)" 
 ---
+![How to Roll a Joint Header Image](/images/joints/how-to-roll-header-image.jpg){: .img-right}
 
 We get it: 
 
