@@ -116,7 +116,7 @@ When rolling a joint, grinders are a stoner's best friend.
 <h3>4-piece Aluminum Herb Grinder </h3>
 <p>If you're in the market for a grinder, we'd highly recommend this 4-piece herb grinder from Golden Gate. It's a 2.5-inch grinder with a kief catcher, and it grinds better (and faster) than any other grinder I've tried. Don't believe me? It has over 2,000 reviews on Amazon and a 5-star rating!</p>
 <div class="btn">
-	<a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.amazon.com/Golden-Gate-Grinders-Anodized-Aluminum/dp/B00GXSFB1Q/ref=sr_1_1?keywords=weed+grinder&qid=1551593276&s=gateway&sr=8-1">Check Price </a>
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.amazon.com/Golden-Gate-Grinders-Anodized-Aluminum/dp/B00GXSFB1Q/ref=sr_1_1?keywords=weed+grinder&qid=1551593276&s=gateway&sr=8-1">Check Price </a>
 </div>
 </div>
 </div>
