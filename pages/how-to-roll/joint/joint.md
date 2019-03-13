@@ -243,7 +243,7 @@ But hey, look on the bright side:
 At least you'll get to smoke all of them! 
 
 <div class="stoner-story">
-	<h4>Stoner Story<i class="box-icon-spacing fas fa-book"></i></h4>
+	<h4>Stoner Story</h4>
 
 	<p>Towards the end of my senior year of high school, I started learning how to roll.</p> 
 
@@ -280,6 +280,6 @@ I hope it's helped you!
 <!-- 
 	<i class="box-icon-spacing fas fa-check"></i>
 	<i class="box-icon-spacing fas fa-exclamation-triangle"></i>
-
+	<i class="box-icon-spacing fas fa-book"></i>
 
 	-->
