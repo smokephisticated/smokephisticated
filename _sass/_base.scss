@@ -33,7 +33,9 @@ h2 {
 	@include font-size(32);
 }
 h3 {
-	@include font-size(28);
+	font-size: 1.6rem;
+	line-height: 1.71429;
+	margin-bottom: 1.5rem;
 }
 h4 {
 	@include font-size(24);

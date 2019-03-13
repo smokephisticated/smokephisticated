@@ -17,9 +17,40 @@ This guide is geared for beginners. Follow our tips, and you'll be a joint rolli
 
 ## Rolling with Rogen
 
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/0Mze-58kQxw?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Mze-58kQxw?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## How to Roll a Joint in 5 Easy Steps 
+
+In this section of the guide, we're going to walk you through the joint rolling process, step by step. 
+
+<ol>
+	<li>Grind your weed</li>
+	<li>Make a filter</li>
+	<li>Lay your ground weed in the joint</li>
+	<li>Tuck the paper underneath the filter</li>
+	<li>Lick the glue, roll, and seal!</li>
+</ol>
+
+Without further ado, let's get started! 
+
+### Step 1: Grind Your Weed 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 
 For a long time, I would just smoke the joints that my friends rolled for me. 
 
@@ -46,7 +77,7 @@ At least you'll get to smoke all of them!
 
 	<p>Naturally, on the evening of graduation, I decided to roll a joint.</p> 
 
-	<p>I went to my friend's house because his mother wasn't *supposed* to be home.</p> 
+	<p>I went to my friend's house because his mother wasn't <i>supposed</i> to be home.</p> 
 
 	<p>I made a fire in their firepit, sparked the joint, got baked with my friends, and relaxed.</p>
 
@@ -58,3 +89,6 @@ At least you'll get to smoke all of them!
 
 	<p>Go figure!</p>
 </div>
+
+-->
+

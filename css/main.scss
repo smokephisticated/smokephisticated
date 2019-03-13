@@ -93,7 +93,7 @@ sitemap: false
 
 .img-right {
    float: right; 
-   max-width: 15rem;
+   max-width: 35%;
    border-radius: 6px;
    margin-left: 3rem; 
 }
@@ -178,9 +178,3 @@ sitemap: false
      }
    }
  }
-
- .vid-container {
-    position: relative;
-    padding-bottom: 50%;
-    padding-top: 35px; height: 0; overflow: hidden;
-}

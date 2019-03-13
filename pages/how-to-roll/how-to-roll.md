@@ -70,7 +70,7 @@ When I first started rolling, I quickly became frustrated.
 
 I’d rip the joint paper when I was trying to roll, the glue never seemed to stick, and sometimes when I managed to roll a joint, it didn’t seem to burn well at all. 
 
-![Girl lighting a joint](/images/joints/girl-lighting-joint.jpg){: .img-right}
+<img alt="girl lighting a joint" class="lazyload img-right" data-src="/images/joints/girl-lighting-joint.jpg">
 
 Now I smoke big doinks only, and I’ve learned a substantial amount about rolling along the way.
 
@@ -93,7 +93,7 @@ Before you get rolling you’re going to need a few tools, some of which are abs
 Either way, all of these rolling tools will make your life a whole hell of a lot easier. 
 
 ### Buy a Grinder 
-![Purple Weed Grinder](/images/grinders/purple-grinder.jpg){: .img-right}
+<img alt="Purple Weed Grinder" class="lazyload img-right" data-src="/images/grinders/purple-grinder.jpg">
 
 A grinder is a stoner’s best friend, and for good reason. 
 
@@ -109,7 +109,7 @@ When rolling a joint, grinders are a stoner's best friend.
 <span>Smokephisticated Recommendation</span>
 <div class="content">
 <div class="img">
-<a rel="nofollow" target="_blank" href="https://www.amazon.com/Golden-Gate-Grinders-Anodized-Aluminum/dp/B00GXSFB1Q/ref=sr_1_1?keywords=weed+grinder&qid=1551593276&s=gateway&sr=8-1"><img alt="Golden Gate Weed Grinder" src="/images/grinders/golden-gate.jpg" /></a>
+<a rel="nofollow" target="_blank" href="https://www.amazon.com/Golden-Gate-Grinders-Anodized-Aluminum/dp/B00GXSFB1Q/ref=sr_1_1?keywords=weed+grinder&qid=1551593276&s=gateway&sr=8-1"><img class="lazyload" alt="Golden Gate Weed Grinder" data-src="/images/grinders/golden-gate.jpg" /></a>
 </div>
 <div class="text">
 <h2>Golden Gate</h2>
@@ -183,7 +183,7 @@ This is a great feature, regardless of whether you’re rolling a joint or a blu
 
 <b>Take a look:</b> 
 
-![Raw Lighter Example](/images/joints/raw-lighter-example.JPG){: .img-middle}
+<img alt="Raw Lighter Example" class="lazyload img-middle" data-src="/images/joints/raw-lighter-example.JPG">
 
 ### Cop a Rolling Tray
 
@@ -193,7 +193,7 @@ Rather, it’s best to roll on a rolling tray. Aside from looking pretty dope, t
 
 With a rolling tray, you’ll keep all of your weed – and the crumbs – in one place. I use a pretty big RAW rolling tray. I love RAW and their products, so I buy a lot of their products. 
 
-![Raw Rolling Tray](/images/rolling-tray/raw.jpg){: .img-middle}
+<img alt="Raw Rolling Tray" class="lazyload img-middle" data-src="/images/rolling-tray/raw.jpg">
 
 I’m basically like that guy who wears NIKE from head to toe but with weed products. 
 
@@ -207,7 +207,7 @@ Rather, rolling machines will quickly roll a cigarette-sized joint in a few minu
 
 I used to roll joints with my old RAW rolling machine when I wanted to smoke on the fly. They’re quick, easy, cheap, and best of all, they work pretty well. 
 
-![Raw Joint Rolling Machine](/images/joints/rolling-machine.jpg){: .img-middle}
+<img alt="Raw Joint Rolling Machine" class="lazyload img-middle" data-src="/images/joints/rolling-machine.jpg">
 
 Long story short, you put the paper in the machine, fill it with weed, rotate the two wheels and voila: a perfectly rolled joint.  
 
@@ -250,7 +250,7 @@ If you’re rolling a blunt, break apart the nugs with your fingers until they�
 
 Weed prepped for a blunt should look like the weed in the 'hand ground' pile:
 
-![Example of weed broken up small enough for a blunt](/images/weed-sizes/hand-ground-vs-grinder.jpg)
+<img alt="Example of weed broken up small enough for a blunt" class="lazyload" data-src="/images/weed-sizes/hand-ground-vs-grinder.jpg">
 
 <b>Here's why:</b>
 
@@ -276,9 +276,7 @@ I’m writing this guide with information that I picked up over the past several
 
 <b>Don't have a grinder? No worries!</b>
 
-<div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gBDs10hVWOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Conclusion 
 
