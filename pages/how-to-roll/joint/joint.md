@@ -30,12 +30,13 @@ This guide is geared for beginners. Follow our tips, and you'll be a joint rolli
 In this section of the guide, we're going to walk you through the joint rolling process, step by step. 
 
 <ol>
-	<li>Grind your weed</li>
-	<li>Make a filter</li>
-	<li>Lay your ground weed in the joint</li>
-	<li>Tuck the paper underneath the filter</li>
-	<li>Lick the glue, roll, and seal!</li>
+	<li><b>Grind your weed</b></li>
+	<li><b>Make a filter</b></li>
+	<li><b>Lay your ground weed in the joint</b></li>
+	<li><b>Tuck the paper underneath the filter</b></li>
+	<li><b>Lick the glue, roll, and seal!</b></li>
 </ol>
+
 
 Our rolling technique is a bit different from Seth Rogen's technique. You can watch the video and follow our guide to see which method you prefer, and which one is easier for you. 
 
