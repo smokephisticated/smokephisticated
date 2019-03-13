@@ -5,8 +5,6 @@ layout: article
 seotitle: "How to Roll a Joint: An Easy Step by Step Guide (2019)" 
 ---
 
-{% include toc.html %}
-
 We get it: 
 
 Nothing's better than sitting back with your friends, rolling a joint, and getting baked. 
@@ -21,7 +19,9 @@ This guide is geared for beginners. Follow our tips, and you'll be a joint rolli
 
 ## Rolling with Rogen
 
+<div class="iframeVideo">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Mze-58kQxw?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## How to Roll a Joint in 5 Easy Steps 
 
@@ -222,6 +222,8 @@ Pinch and roll the end of the joint to make the hat.
 And voila! You have a perfect joint, ready to be enjoyed by you and your buddies. 
 
 ## Conclusion
+
+{% include toc.html %}
 
 For a long time, I would just smoke the joints that my friends rolled for me. 
 
