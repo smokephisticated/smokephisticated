@@ -276,7 +276,9 @@ I’m writing this guide with information that I picked up over the past several
 
 <b>Don't have a grinder? No worries!</b>
 
+<div class="iframeVideo">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gBDs10hVWOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Conclusion 
 

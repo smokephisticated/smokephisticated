@@ -84,7 +84,6 @@
 /* Top menu navigation */
 
 .top-menu {
-	display: none;
 	position: relative;
 	@include media($medium) {
 		@include span-columns(12);
@@ -98,12 +97,12 @@
 	}
 	.home,
 	.sub-menu-item {
-		display: none;
+	display: none;
 	}
 	li {
 		a {
 			font-weight: 700;
-			@include font-size(16,no);
+			font-size: 14px;
 			line-height: .5 * $masthead-height; // half the height to center vertically
 			color: $black;
 			text-transform: uppercase;
@@ -154,6 +153,7 @@ a {
 		}
 	}
 	.page-title {
+		margin-top: -3rem;
 		@include fill-parent;
 	}
 	@at-root {
