@@ -137,11 +137,11 @@ All you have to do is lay your blunt down and open it up a bit.
 
 Take the weed that you've prepared and sprinkle it in the blunt wrap. 
 
-<img alt="filling the blunt with weed" class="lazyload" data-src="/images/blunts/filling-the-blunt.JPG">
+<img alt="filling the blunt with weed" class="lazyload" data-src="/images/blunts/filling-the-blunt.jpg">
 
 Notice that, unlike a joint which requires you to distribute the weed lightly by the filter and gradually increasing towards the end, you distribute the weed evenly in a blunt wrap. 
 
-<img alt="blunt weed distribution example" class="lazyload" data-src="/images/blunts/blunt-vs-joint.JPG">
+<img alt="blunt weed distribution example" class="lazyload" data-src="/images/blunts/blunt-vs-joint.jpg">
 
 Joints are supposed to have a cone shape, whereas blunts are more like a uniform log. 
 
