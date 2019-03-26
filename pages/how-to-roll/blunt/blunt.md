@@ -1,289 +1,221 @@
 ---
-title: "How to Roll Like a Pro: The Ultimate Guide"
+title: "Rolling a Blunt for Beginners: The Ultimate Guide (2019)"
 permalink: "/how-to-roll/blunt/"
 layout: article
-seotitle: "How to Roll Like a Pro: Joints, Blunts, and Backwoods (2019)" 
+seotitle: "How to Roll a Blunt in 5 Easy Steps (2019)" 
 ---
 
-{% include toc.html %}
+There's nothing more satisfying than pearling a blunt. 
 
-Here’s the deal: 
+Unfortunately, not all blunt wraps were created equally, and rolling a blunt is actually harder than it seems. 
 
-There’s nothing more relaxing than sitting down with your friends and unwinding over a phat (with a ph) king-sized joint. 
+![How to roll a blunt page header image](/images/blunts/how-to-roll-blunt-header.jpg){: .img-right}
 
-And hey, if blunts are more your thing, that’s cool too bro. 
+If you want to be a pro blunt roller, it's going to take time and, most importantly, a lot of practice. 
 
-In this guide, we’re going to cover the basic rolling techniques that you can apply to every type of roll, regardless of the wrap you’re using.
+Hey, on the bright side, at least you get to smoke all of them... you'll definitely be pretty smacked by the time you master the art of the roll! 
 
-Whether you want to learn [how to roll a joint](/how-to-roll/joint/), [how to roll a blunt](/how-to-roll/blunt/), or [how to roll a backwood](/how-to-roll/backwood/), we've got you covered. 
+Anyway, in this guide, you're going to learn how to roll a blunt like a pro, so you and your friends can smoke fat doinks whenever you want. 
 
-## Learn How to Roll 
+Without further ado, let's learn how to roll! 
 
-<div class="row">
-                <div class="col-1-of-3">
-                   <div class="feature-box">
-                                <i class="feature-box__icon feature-box__icon-blunt fas fa-joint"></i>
-                                <h3 class="u-margin-bottom-small heading-tertiary">Blunts</h3>
-                                <p class="feature-box__text"><a class="btn" href="/how-to-roll/blunt/">Roll a Blunt</a></p>
-                        </div>
-                </div>
-                <div class="col-1-of-3">
-                    <div class="feature-box">
-                           <i class="feature-box__icon feature-box__icon-joint fas fa-joint"></i>
-                            <h3 class="u-margin-bottom-small heading-tertiary">Joints</h3>
-                            <p class="feature-box__text"><a class="btn" href="/how-to-roll/joint/">Roll a Joint</a></p>
-                        </div>
-                </div>
-                <div class="col-1-of-3">
-                     <div class="feature-box">
-                         <i class="feature-box__icon feature-box__icon-backwood fas fa-joint"></i>
-                            <h3 class="u-margin-bottom-small heading-tertiary">Backwoods</h3>
-                            <p class="feature-box__text"><a class="btn" href="/how-to-roll/backwood/">Roll a Backwood</a></p>
-                        </div>
-                </div>
-            </div>
+## How to Roll a Swisher 
 
-## The Art of Rolling 
+There are many different kinds of blunt wraps, and some are easier than others to roll. Swisherse are uniform, easy to split, and they're pretty easy to roll as well. 
 
-Smoking a fat doink is awesome. So is getting high, for that matter. 
+If you're a beginner, swishers are probably your best bet. In this tutorial, you'll learn how to roll a perfect swisher in under two minutes! 
 
-Snoop Dogg said it best: 
-
-<figure>
-<blockquote><p>“Hey-ay-ay-ay/Smoke weed every day.”</p></blockquote>
-<figcaption>Dr. Dre feat. Snoop Dogg and Nate Dogg, "The Next Episode"</figcaption>
-</figure>
-
-Unfortunately, rolling isn’t as easy as it looks, especially if it’s your first time. 
-
-Snoop Dogg didn’t learn how to roll overnight, and neither will you. 
-
-Now, you may be asking yourself: 
-
-How do you roll perfectly, every time? 
-
-Rolling is an art that takes time and practice. 
-
-It took me a long while and too many wasted joint papers and blunt wraps before I learned how to roll a fat doink. 
-
-When I first started rolling, I quickly became frustrated. 
-
-I’d rip the joint paper when I was trying to roll, the glue never seemed to stick, and sometimes when I managed to roll a joint, it didn’t seem to burn well at all. 
-
-![Girl lighting a joint](/images/joints/girl-lighting-joint.jpg){: .img-right}
-
-Now I smoke big doinks only, and I’ve learned a substantial amount about rolling along the way.
-
-That’s why I’ve created this guide – I’m going to give you all of the tips I wish I knew when I tried to roll for the first time. 
-
-You won’t be a joint rolling Jedi master immediately, but the information in this article will surely save you time, headaches, and torn wraps. 
-
-Consider me your joint rolling Obi-Wan Kenobi and you’re my young padawan.
-
-And if you haven’t seen Star Wars, here’s a quick translation: 
-
-I’m your weed rolling master, and I’m going to get you hip to some dank rolling tips. 
-
-Without further ado, let’s get smokephisticated. 
-  
-## Rolling Tools 
-
-Before you get rolling you’re going to need a few tools, some of which are absolutely necessary, while others are just convenient. 
-
-Either way, all of these rolling tools will make your life a whole hell of a lot easier. 
-
-### Buy a Grinder 
-![Purple Weed Grinder](/images/grinders/purple-grinder.jpg){: .img-right}
-
-A grinder is a stoner’s best friend, and for good reason. 
-
-If you’re rolling a joint, you’ll need to be using a grinder. 
-
-Sure, you could break up the weed with your hands, but the joint wouldn’t smoke well at all. 
-
-Joint papers are too thin to smoke without ground up weed – the paper will burn more quickly than the weed, and you’ll be out of luck. 
-
-When rolling a joint, grinders are a stoner's best friend. 
-
-<div class="featured-info-box">
-<span>Smokephisticated Recommendation</span>
-<div class="content">
-<div class="img">
-<a rel="nofollow" target="_blank" href="https://www.amazon.com/Golden-Gate-Grinders-Anodized-Aluminum/dp/B00GXSFB1Q/ref=sr_1_1?keywords=weed+grinder&qid=1551593276&s=gateway&sr=8-1"><img alt="Golden Gate Weed Grinder" src="/images/grinders/golden-gate.jpg" /></a>
-</div>
-<div class="text">
-<h2>Golden Gate</h2>
-<h3>4-piece Aluminum Herb Grinder </h3>
-<p>If you're in the market for a grinder, we'd highly recommend this 4-piece herb grinder from Golden Gate. It's a 2.5-inch grinder with a kief catcher, and it grinds better (and faster) than any other grinder I've tried. Don't believe me? It has over 2,000 reviews on Amazon and a 5-star rating!</p>
-<div class="btn">
-	<a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.amazon.com/Golden-Gate-Grinders-Anodized-Aluminum/dp/B00GXSFB1Q/ref=sr_1_1?keywords=weed+grinder&qid=1551593276&s=gateway&sr=8-1">Check Price </a>
-</div>
-</div>
-</div>
+<div class="iframeVideo">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ZhFOTV2zqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-On the other hand, blunts are an entirely different story. 
+## How to Roll a Blunt in 5 Easy Steps 
 
-Although you can use a grinder for blunts, I find it better – and in fact, easier – to roll blunts without grinding up the weed. 
+In this part of the guide, we're going to show you exactly how to roll a blunt, step by step. 
 
-Instead, I’d recommend picking the weed apart by hand into tiny pieces. 
+We'll be using a Game wrap, but our rolling technique applies to just about every regular blunt wrap – if you want to learn [how to roll a backwood](/how-to-roll/backwood/), we have another guide about that.
 
-You can also grind up weed for a blunt if you wish, but it won’t smoke as well. 
+**Before you get rolling, you'll need:** 
 
-Oh, and here’s another great thing about grinders: they gather your keef! 
+* A blunt wrap
+* Weed 
+* A lighter 
+* A knife or blunt splitter (optional)
+* A rolling tray (optional)
 
-If you don’t know what kief is, you’re definitely missing out. 
+Believe it or not, you actually don't need a grinder if you want to roll a blunt. In fact, I prefer to break up my weed by hand, at least when I'm rolling a blunt. 
 
-It’s basically all of the tiny THC crystals that fall off of the weed and it’s super strong. 
+If you're [rolling a joint](/how-to-roll/joint/), on the other hand, a grinder is crucial. 
 
-Grind up enough weed and before you know it you’ll have enough kief to pack a bowl! 
+Anyway, let's get started! 
+
+### Step 1: Gut the Blunt Wrap 
+
+Unless you bought yourself a cigar wrap without any tobacco in it, you're going to have to gut your blunt. 
+
+Most people buy blunt packs from their local gas station or tobacco shop, and they come in packs of (usually) 2 or 3 pre-rolled blunts with tobacco in them. 
+
+I've only smoked a blunt with tobacco in it once, and it's never happening again – that shit is gross! 
+
+In any event, if you want to roll a blunt, you're going to have to get rid of the stuff that's already inside of the blunt wrap. 
+
+<img alt="splitting the blunt" class="lazyload img-middle" data-src="/images/blunts/splitting-the-blunt.JPG">
+
+If you have a knife – preferably a box cutter – then you should use that to split your blunt. 
+
+It's much easier to roll the blunt back up with weed if you split the blunt straight down the middle. 
+
+The blunt should only have one cut down the middle, and you should do everything you can to make sure it is as straight as possible. 
 
 <div class="toker-tip">
 	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
-	<p>If you’ve been grinding up nug after nug, you probably have a ton of keef and little bits of weed stuck in your grinder that hasn’t fallen down into the collection chambers. </p> 
+	<p>You can buy a blunt splitter on Amazon for cheap.</p>
 
-	<p>This next part may seem crazy, but trust me – it works: </p> 
+	<p>It's a little tiny device that can fit on your keychain.</p>
 
-	<p>Take your grinder, put a penny in the main weed collection chamber, and then put your grinder in the freezer for ten minutes.</p>  
+	<p>All you have to do is push a blunt through it, and it splits perfectly every time!</p>
 
-	<p>Lastly, take the grinder out and shake it for about a minute.</p> 
+	<p>Keychain blunt splitters are dank because you can use them to split a blunt no matter where you are.</p>
 
-	<p>When you unscrew the grinder and take a look at the kief catcher, you’ll notice a significant amount of kief has fallen down for your enjoyment.</p> 
+	<p>The only problem?</p>
 
-</div> 
-
-### Get a Poker 
-
-I didn’t really know what else to call this one, so just go with it, okay? 
-
-Basically, you’ll want to have something like a pen or pencil with you that you can use to maneuver the weed in the joint and pack the weed tightly after the rolling is complete. 
-
-I like to use the tip of a mechanical pencil while I’m sitting at my desk – aka the rolling station – to move the weed around in my joint because when I use my fingers, sometimes the weed sticks to it. 
-
-Once the joint has been rolled, I usually have some extra room at the end where I stick the pencil to pack the weed further down into the joint. 
-
-The key to a nice joint is a tight roll!
-
-<div class="watch-out">
-	<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
-	<p>Don’t pack too tightly!</p>
-
-	<p>Didn’t I just tell you to pack the weed with a pencil?</p>
-
-	<p>Well, yes, you want your roll to be firm. Still, if you pack the weed too tightly you’ll prevent air from flowing through the joint/blunt/backwood properly, and it’ll go out while you’re trying to chief. </p>
-
-	<p>Nobody wants a dud doobie! </p>
+	<p>If anyone sees it, they'll automatically know you're a stoner... it's a dead giveaway!</p>
 </div>
 
-Anyway, definitely keep a poker at the ready. 
+If you don't have a knife or a <a target="_blank" href="https://www.amazon.com/Cigar-Cutter-Blunt-Splitters-Small/dp/B07J3SQC33/ref=sr_1_2?keywords=keychain+blunt+splitter&qid=1553633969&s=gateway&sr=8-2">blunt splitter</a>, you can always use your thumbs. 
 
-In case you weren't aware, you can actually remove the flint wheel from a RAW lighter and use it as a poker. 
+Ever wonder why stoners have long nails? 
 
-This is a great feature, regardless of whether you’re rolling a joint or a blunt! 
+They're splitting blunts all day, and it's easier to use your thumbs if you have nails!
 
-<b>Take a look:</b> 
+The more you know, right? 
 
-![Raw Lighter Example](/images/joints/raw-lighter-example.JPG){: .img-middle}
+Anyway, if you are using your thumbs, take your time. It's best to go slow and have a well-split blunt than to rush and have a cluster-fucked blunt wrap to work with. 
 
-### Cop a Rolling Tray
+<img alt="dumping out the guts" class="lazyload img-middle" data-src="/images/blunts/gutting-the-blunt.jpg">
 
-Every stoner needs to have a rolling station – that’s a given. Sure, you could roll right on your desk, but that’s not smokephisticated. 
+Once the blunt is split, take your finger and brush the tobacco into the garbage. You won't be needing it. 
 
-Rather, it’s best to roll on a rolling tray. Aside from looking pretty dope, they catch all of the weed that falls on the table during the roll. Trust me, it will happen. 
+### Step 2: Prepare Your Weed 
 
-With a rolling tray, you’ll keep all of your weed – and the crumbs – in one place. I use a pretty big RAW rolling tray. I love RAW and their products, so I buy a lot of their products. 
+Wouldn't it be nice if you could just throw a few big nugs in a blunt and call it a day? 
 
-![Raw Rolling Tray](/images/rolling-tray/raw.jpg){: .img-middle}
+Obviously, that's not the case.
 
-I’m basically like that guy who wears NIKE from head to toe but with weed products. 
+<img alt="marijuana nugs" class="lazyload img-right" data-src="/images/weed/dispensary-weed.jpg">
 
-In any event, a rolling tray will make your day. 
+Next, you have to prep your weed for the blunt. 
 
-### Rolling Machine 
+Although some rollers prefer to grind their weed, I choose to break up my grass by hand. 
 
-Obviously, rolling machines aren’t used for hand-rolling fat doinks. 
+Here's why: 
 
-Rather, rolling machines will quickly roll a cigarette-sized joint in a few minutes, without you really having to do much. 
+Blunts are essentially rolled in tobacco. Unlike a joint, which is wrapped with a thin paper, a blunt wrap is a bit thicker and burns more slowly. 
 
-I used to roll joints with my old RAW rolling machine when I wanted to smoke on the fly. They’re quick, easy, cheap, and best of all, they work pretty well. 
+If you grind your weed before you roll a blunt, the weed will burn a bit too fast, especially when compared to the rate at which the blunt wrap itself is burning. 
 
-![Raw Joint Rolling Machine](/images/joints/rolling-machine.jpg){: .img-middle}
+Instead, if you break up the weed by hand into tiny pieces – that aren't completely ground, however – the blunt will burn more evenly and slowly, giving you a better high for your supply.
 
-Long story short, you put the paper in the machine, fill it with weed, rotate the two wheels and voila: a perfectly rolled joint.  
+With the nugs in between your fingers, firmly rub them together until each bug is properly broken up.
 
-If you want to learn more, we have a guide all about rolling machines and how they work.
+<img alt="weed that's ready to go in a blunt" class="lazyload img-middle" data-src="/images/blunts/breaking-the-weed.JPG">
 
-## Setup
+The weed should look something like this when all is said and done: 
 
-Now that you’ve got the necessary tools in hand, it’s time to set up. When you’re first starting out, your setup is crucial.
+<figure>
+<img alt="broken up weed ready for the blunt" class="lazyload img-middle" data-src="/images/blunts/broken-up-weed.JPG">
+<figcaption><p style="text-align: center;">The pieces of weed in this image are about the size of grains of quinoa, maybe a tad bigger.</p></figcaption>
+</figure>
 
-### Location 
+Now that your blunt wrap and weed are prepared and ready to go, it's time to begin the rolling phase!
 
-You’ll want to be somewhere comfortable – trust me, it’s pretty hard to roll under pressure. 
+### Step 3: Fill the Blunt Wrap with Weed 
 
-For the first time, roll on your own, possibly in your room. 
+This is probably one of the easiest steps when it comes to rolling a blunt. 
 
-Roll in a location where you don’t have to worry about getting caught or having your friends watching you. 
+All you have to do is lay your blunt down and open it up a bit. 
 
-<div class="stoner-story">
-	<h4>Stoner Story<i class="box-icon-spacing fas fa-book"></i></h4>
-	
-	<p>I don’t know about you, but I hate rolling with people looking over my shoulder. In fact, I hate doing anything with people looking over my shoulder. </p>
+Take the weed that you've prepared and sprinkle it in the blunt wrap. 
 
-	<p>It’s like when you’re in school taking a test, and your teacher comes up behind you and looks over your shoulder to see what you’re writing. </p>
+<img alt="filling the blunt with weed" class="lazyload" data-src="/images/blunts/filling-the-blunt.JPG">
 
-	<p>I hated that, especially when I knew I hadn’t studied because I was smoking way too much weed. </p>
+Notice that, unlike a joint which requires you to distribute the weed lightly by the filter and gradually increasing towards the end, you distribute the weed evenly in a blunt wrap. 
 
-	<p>My math teacher would stand over my shoulder watching me get everything wrong, chuckle, and walk back to his desk. </p>
+<img alt="blunt weed distribution example" class="lazyload" data-src="/images/blunts/blunt-vs-joint.JPG">
 
-	<p>Bro… not cool. </p>
+Joints are supposed to have a cone shape, whereas blunts are more like a uniform log. 
 
-	<p>The point is, it’s best to roll stress-free when you’re learning. </p>
+Once you have all of your weed in the blunt, it's time for the fourth step... which also happens to be the hardest. 
 
-</div>
+I know you're probably high af right now, but don't screw this up – the fate of your blunt depends on it! 
 
-### Preparing Your Grass 
+### Step 4: Tuck The Blunt
 
-Before you roll – whether it’s a joint, backwood, or a blunt – you have to prep your weed. 
+Ah yes, it's time for the tuck. 
 
-If you’re rolling a blunt, break apart the nugs with your fingers until they’re about the size of grains of quinoa. 
+Perfect tuck technique is hard to come by, and it takes a while to get the hang of it. 
 
-Weed prepped for a blunt should look like the weed in the 'hand ground' pile:
+<img alt="raw rolling tray" class="lazyload img-right" data-src="/images/rolling-tray/raw-tray.jpeg">
 
-![Example of weed broken up small enough for a blunt](/images/weed-sizes/hand-ground-vs-grinder.jpg)
+However, like most things in life, tucking is much easier once you get the hang of it. 
 
-<b>Here's why:</b>
+Begin by picking up the blunt with two hands, and rolling it back and forth a bit in your hands. This way, you'll make sure the weed is sitting flat in the bottom of the blunt wrap.
 
-You shouldn’t grind your weed for a blunt because blunt wraps (tobacco leaves) burn more slowly than joint papers. 
+If some weed falls out during the process, it's okay. That's why we recommend buying a rolling tray. 
 
-If you grind the weed, it’ll burn too quickly. 
+They're cheap, stylish, and most importantly, they're practical – all of the weed that falls during the rolling process is collected in one place. 
 
-Moreover, the blunt will be more durable in the event of a fall or something of that sort. 
+I always hate cleaning up weed crumbs from my desk, as most of them end up being wasted. 
 
-If you’re smoking a J, on the other hand, you’ll have to grind up your weed. 
+Once you have the weed flat against the wrap, tuck the side of the blunt wrap closest to you over the weed and underneath of the other side, like so: 
 
-Don’t grind the weed into powder, though – then it’s game over.
+<img alt="tucking the weed under the blunt wrap" class="lazyload img-middle" data-src="/images/blunts/tucking-blunt.gif">
 
-Joint papers are much thinner than tobacco leaves, and they burn more quickly. 
+Great, your weed is in the blunt, and the closer edge should be tucked properly. It's time to begin the last step. 
 
-If you try to roll a joint with weed nugs, the paper will burn faster than the weed, causing it to burn unevenly and fall apart. 
+You're almost there!
 
-Moreover, a joint rolled with ground up weed will hit harder and better than a joint rolled without ground weed. 
+### Step 5: Lick, Roll, and Bake! 
 
-<b>Disclaimer:</b> some may disagree. If you or your friends like to smoke blunts with ground weed and roll joints without grinding, that’s fine too. It’s a matter of personal preference. 
+With the closer side of the blunt wrap tucked, lick the opposite edge that's still popping up. 
 
-I’m writing this guide with information that I picked up over the past several years. My aim is to share with you what’s worked best for me. Also, I don’t give a fuck if you disagree :D 
+After that entire side has been licked you can finish the rolling process.
 
-<b>Don't have a grinder? No worries!</b>
+It's pretty easy from here: 
 
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gBDs10hVWOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Just press the upper edge – that should be lightly coated with saliva – down over the tucked part of the blunt wrap. 
 
-## Conclusion 
+If you did it right, the saliva should make the wrap stick together again. 
 
-Rolling is an art. You won't be a master doobie roller overnight, but with the right tips, tricks, and a bit of practice, you too can roll some pretty fat doinks.
+<img alt="licking and rolling the blunt" class="lazyload img-middle" data-src="/images/blunts/licking-the-blunt.gif">
 
-And at the end of the day, there's nothing better than kicking it with your boys and passing a doobie around. 
+You may have to lick the wrap a bit more as you're rolling. 
 
-Get rolling! 
+The key is licking it enough to make the blunt stick together again without drowning the wrap in spit. 
+
+When you're finished rolling the blunt, it's probably going to be a bit moist from your saliva. 
+
+Nobody wants to smoke a soggy doobie. 
+
+Take your lighter, and quickly run the flame back and forth across the blunt, slowly rotating the blunt to heat every side evenly. 
+
+<img alt="Torching the blunt with a lighter after it's been rolled" class="lazyload img-middle" data-src="/images/blunts/toasting-blunt.gif">
+
+You'll be killing two birds with one stone: 
+
+<ol>
+	<li>Toasting the blunt dries the saliva and makes the wrap firm again </li>
+	<li>You're also (hopefully) killing some bacteria – or, at least your friends think you are. Smoking a soggy blunt is gross! </li>
+</ol>
+
+## Conclusion
+
+Congragulations! You have just rolled yourself a blunt. 
+
+Now it's time for the last part of the process: 
+
+Find a nice place to smoke with your buddies, and get baked! 
+
+<img alt="Smoking the blunt" class="lazyload img-middle" data-src="/images/blunts/smoking-the-blunt.JPG">
+
+It's time to face your blunt, and let it deface you! 

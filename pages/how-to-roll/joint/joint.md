@@ -149,7 +149,7 @@ However, I found it easier to use a pencil when I first learned how to roll. Thi
 
 <div class="toker-tip">
 	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
-		<p>Seriosuly,</p> 
+		<p>Seriously,</p> 
 
 		<p>make sure your weed is laying flat in the paper, compacted down to the bottom, either with a pencil or by rolling the paper back and forth between your fingers.</p>  
 
