@@ -1,9 +1,9 @@
 ---
-title: "How to Roll a Joint: The Ultimate Guide"
+title: "How to Roll a Joint Step by Step"
 permalink: "/how-to-roll/joint/"
 layout: article
 seotitle: "How to Roll a Joint: An Easy Step by Step Guide (2019)" 
-description: "In this guide, you're going to learn how to roll a joint, step by step. You'll be a master at rolling joints in no time!"
+description: "In this guide, you're going to learn how to roll a joint, step by step. Smokephisticated has your back!"
 ---
 
 We get it: 
@@ -40,7 +40,7 @@ In this section of the guide, we're going to walk you through the joint rolling 
 
 Our rolling technique is a bit different from Seth Rogen's technique. You can watch the video and follow our guide to see which method you prefer, and which one is easier for you. 
 
-This is how I learned how to roll, and now I can roll fat doinks with ease. 
+This is how I learned how to roll, and now I can roll <a target="_blank" href="https://www.urbandictionary.com/define.php?term=Doink" rel="nofollow">fat doinks</a> with ease. 
 
 Without further ado, let's get started! 
 
@@ -99,7 +99,7 @@ After a few folds, you can then wrap the remaining filter paper around the folds
 
 Now that your filter is ready, it's time to select your joint paper. 
 
-I decided to use a RAW [king size joint paper](https://www.amazon.com/Classic-King-Rolling-Paper-Packs/dp/B004REIXS6/ref=sr_1_fkmr0_1?keywords=raw+king+sized+joint+paper&qid=1552447387&s=gateway&sr=8-1-fkmr0){: target="_blank"} for this tutorial, but you can use any kind of paper you want. 
+I decided to use a RAW [king size joint paper](https://www.amazon.com/Classic-King-Rolling-Paper-Packs/dp/B004REIXS6/ref=sr_1_fkmr0_1?keywords=raw+king+sized+joint+paper&qid=1552447387&s=gateway&sr=8-1-fkmr0){: target="_blank"} for this tutorial, but you can use <a target="_blank" href="https://www.marijuanabreak.com/best-rolling-papers-for-weed" rel="nofollow">any kind of paper you want</a>. 
 
 
 Next, hold the paper with the glue side (the shiny strip on one of the paper's edges) opposite from you, and place your filter at the end of the paper, flush with the edge. 
@@ -114,12 +114,11 @@ It's very important that your filter tip is flush with the edge of the jont.
 
 If your filter tip isn't flush with the edge, it'll cause problems later on down the line. 
 
-
 <img alt="Example of joint filter placed in the joint properly" class="lazyload img-middle" data-src="/images/joints/filter-flush.jpg">
 
 In this image, I'm using a RAW pre-rolled filter. Notice how the filter is lined up perfectly with the edge of the joint paper.
 
-Now that your filter has been made and placed properly, it's time to add your kush!
+Now that your filter has been made and placed properly, it's time to add your <a target="_blank" href="https://www.cannabis.info/en/strains-top-10-lists/kush" rel="nofollow">kush</a>!
 
 ### Step 3: Lay Your Ground Weed in the Joint
 
@@ -130,6 +129,8 @@ Take your joint paper and filter in your non-dominant hand, and place your weed 
 <figcaption><p style="text-align: center;">Take a look at the distribution of the weed. Notice how there is less weed by the filter, and increasingly more weed towards the opposite end of the joint paper. This will help to create a cone shape when we roll the joint.</p></figcaption>
 </figure>
 
+Unlike [rolling a blunt](/how-to-roll/blunt/), which requires you to lay your weed evenly across the wrap, when you're rolling a joint you should distribute the weed unevenly – this helps you form a cone when you're rolling.
+
 In our general [how to roll](/how-to-roll/) guide, I recommended grabbing a poker before you get rolling. 
 
 Sometimes weed can stick to your fingers, which is annoying when you're trying to roll. 
@@ -138,7 +139,6 @@ Furthermore, a poker (in this case, I was using a mechanical pencil) is a great 
 
 It's not necessary, but I find it useful to have some sort of pencil laying around. 
 
-
 <img alt="Moving weed around in the joint with a mechanical pencil before rolling" class="lazyload img-middle" data-src="/images/joints/arranging-weed-in-joint.jpg">
 
 I'm using a mechanical pencil to press the weed down in the joint, flat to the bottom. This will make it easier to tuck the paper when you're ready to roll later on. 
@@ -146,7 +146,6 @@ I'm using a mechanical pencil to press the weed down in the joint, flat to the b
 If you want, you can roll the joint back and forth between your fingers to get the weed to lay flat in the joint. 
 
 However, I found it easier to use a pencil when I first learned how to roll. This part is totally up to you.
-
 
 <div class="toker-tip">
 	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
