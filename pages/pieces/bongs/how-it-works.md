@@ -18,7 +18,7 @@ We’re going to cover everything from the basics on how to smoke a bong, to the
 
 To top it off, we’ve added a few recommendations on percolator bongs toward the bottom of the guide.
 
-So spark up and zone in—it’s time to get Smokephisticated.
+So, it's time to spark up and zone in—it’s time to get Smokephisticated.
 
 ## What is a Bong Used For? 
 
@@ -32,7 +32,7 @@ Bongs are a good method for conserving your supply while simultaneously deliveri
 
 Think about it this way: 
 
-When you're smoking a bunt, the cherry (the of the blunt that's lit) is always rolling. 
+When you're smoking a bunt, the cherry (the end of the blunt that's lit) is always rolling. 
 
 <img alt="girl smoking a bong" class="lazyload img-left" data-src="/images/bongs/stoner-girl-hitting-a-bong.jpg">
 
@@ -65,6 +65,8 @@ Although bongs can drastically vary in size, structure, and design, all true bon
 So, are all water pipes are percolator bongs?
 
 Well, not necessarily.
+
+<img alt="percolation example" class="lazyload img-middle" data-src="/images/bongs/percolation-example.gif">
 
 Although every bong is capable of percolation, pipes referred to as percolator bongs host percolator devices that diffuse your smoke for stronger percolation effects.
 
@@ -137,7 +139,8 @@ Heads up: Stoner bros will sometimes claim that you will lose out on your precio
 
 Let’s investigate this claim.
 
-## Is THC lost through the process of percolation?
+## Is THC Lost Due to Percolation?
+<img alt="THC diagram" class="lazyload" data-src="/images/bongs/thc.jpg">
 
 Tetrahydrocannabinol, or THC, is a lipid (examples of lipids would be oils or fats) meaning THC is mostly non-polar. 
 
@@ -157,6 +160,8 @@ When smoke submerges, it doesn’t enter as one single bodied pocket. Instead, s
 
 But between the two events, these smoke bubbles are confined and forced through tight chambers and are constantly interacting with each other.
 
+<img alt="bong sitting on table" class="lazyload img-right" data-src="/images/bongs/pretty-bong-on-table.jpg">
+
 Submerged pockets of smoke are constantly dividing, collecting, and conjointing.
 
 This ongoing traffic is a given in percolation, but it is actually best for your bubbles to be seperated.
@@ -171,6 +176,8 @@ Diffusion is defined as the spreading of something more widely—in smoking, dif
 
 A higher quantity of smaller smoke bubbles is actually more susceptible to the effects of percolation than a lesser amount of larger bubbles.
 
+<img alt="diffusion diagram" class="lazyload" data-src="/images/bongs/diffusion-diagram.jpg">
+
 Although diffusion isn't necessarily a direct benefit, it is a massive factor in strengthening the cooling, hydrating, and filtering aspects mentioned previously.
 
 Here's why:
@@ -180,6 +187,8 @@ H2O can only interact and affect water by making contact with the surface, or pe
 Because water only affects smoke bubbles through surface contact, a higher surface-to-volume ratio will allow for a stronger effect in percolation.
 
 Call me Alburnt Einstoned, because this is where stoner math comes into play:
+
+<img alt="albert einstein weed quote" class="lazyload img-middle" data-src="/images/bongs/einstein-quote.jpg">
 
 To simulate the diffusion of a bubble, we use the division of volume in spheres.
 
