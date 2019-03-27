@@ -22,7 +22,7 @@ Without further ado, let's learn how to roll!
 
 ## How to Roll a Swisher 
 
-There are many different kinds of blunt wraps, and some are easier than others to roll. Swisherse are uniform, easy to split, and they're pretty easy to roll as well. 
+There are many different kinds of blunt wraps, and some are easier than others to roll. Swishers are uniform, easy to split, and they're pretty easy to roll as well. 
 
 If you're a beginner, swishers are probably your best bet. In this tutorial, you'll learn how to roll a perfect swisher in under two minutes! 
 
