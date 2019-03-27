@@ -3,6 +3,7 @@ title: "Bongs: The Ultimate Guide (2019)"
 permalink: "/pieces/bongs/"
 layout: article
 seotitle: "11 Best Bongs of 2019: Glass, Silicone, & More (Comparison)" 
+description: "In this guide, we'll be taking a look at the best bongs of 2019. We're going to cover everything there is to know about bongs, from percolation to material."
 ---
 
 We get it: 
