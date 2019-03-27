@@ -12,6 +12,8 @@ When it comes to conserving herb and sending your rotation to the moon, bongs ar
 
 That being said, how exactly do these water pipes work, and why are they so damn effective?
 
+![How does a bong work header image](/images/bongs/how-does-a-bong-work-header.jpg){: .img-right}
+
 We’re going to cover everything from the basics on how to smoke a bong, to the science behind bong percolation and weed diffusion. 
 
 To top it off, we’ve added a few recommendations on percolator bongs toward the bottom of the guide.
@@ -32,6 +34,8 @@ Think about it this way:
 
 When you're smoking a bunt, the cherry (the of the blunt that's lit) is always rolling. 
 
+<img alt="girl smoking a bong" class="lazyload img-left" data-src="/images/bongs/stoner-girl-hitting-a-bong.jpg">
+
 That means marijuana is being burned, even when you're not inhaling. 
 
 Moreover, when you're smoking a blunt, there isn't any water to cool or filter the smoke, meaning the hits are going to be more harsh than a bong. 
@@ -51,6 +55,8 @@ However, bongs—also referred to as water pipes—have one key advantage over d
 This advantage is the process of percolation.
 
 This bubbly phenomenon cools, hydrates, and filters polar contaminants from the smoke.
+
+<img alt="Bong water percolation basic diagram" class="lazyload .img-middle" data-src="/images/bongs/basic-percolation-diagram.jpg">
 
 With regards to smoking, percolation is a fancy way of referring to what happens when smoke is entirely surrounded by water.
 
@@ -83,6 +89,8 @@ The word percolation is defined as the process of straining liquid through a fil
 This stems from the Latin term percolare, which directly translates as: to strain through. 
 
 Percolation takes effect in many different forms throughout the world – like when you’re brewing a pot of coffee – but the percolation that we will be referring to is the process of air and smoke passing through water as bubbles.
+
+<img alt="Bong percolating" class="lazyload .img-middle" data-src="/images/bongs/bong-percolating.gif">
 
 Different pieces that use water have different routes to diffuse cannabis smoke depending on their structure (more on this later), but the premise of percolation has several advantages. 
 
