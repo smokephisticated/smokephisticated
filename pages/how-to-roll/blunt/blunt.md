@@ -12,13 +12,13 @@ Unfortunately, not all blunt wraps were created equally, and rolling a blunt is 
 
 ![How to roll a blunt page header image](/images/blunts/how-to-roll-blunt-header.jpg){: .img-right}
 
-If you want to be a pro blunt roller, it's going to take time and, most importantly, a lot of practice. 
+If you want to be a <a target="_blank" href="https://forward.com/schmooze/206013/seth-rogen-hired-as-professional-blunt-roller/" rel="nofollow">pro blunt roller</a>, it's going to take time and, most importantly, a lot of practice. 
 
 Hey, on the bright side, at least you get to smoke all of them... you'll definitely be pretty smacked by the time you master the art of the roll! 
 
 Anyway, in this guide, you're going to learn how to roll a blunt like a pro, so you and your friends can smoke fat doinks whenever you want. 
 
-Without further ado, let's learn how to roll! 
+Without further ado, let's learn [how to roll](/how-to-roll/)! 
 
 ## How to Roll a Swisher 
 
@@ -44,7 +44,7 @@ We'll be using a Game wrap, but our rolling technique applies to just about ever
 * A knife or blunt splitter (optional)
 * A rolling tray (optional)
 
-Believe it or not, you actually don't need a grinder if you want to roll a blunt. In fact, I prefer to break up my weed by hand, at least when I'm rolling a blunt. 
+Believe it or not, you actually <a target="_blank" href="https://www.quora.com/Would-a-blunt-smoke-better-rolled-with-ground-up-bud-or-broken-apart-by-hand" rel="nofollow">don't need a grinder</a> if you want to roll a blunt. In fact, I prefer to break up my weed by hand, at least when I'm rolling a blunt. 
 
 If you're [rolling a joint](/how-to-roll/joint/), on the other hand, a grinder is crucial. 
 
