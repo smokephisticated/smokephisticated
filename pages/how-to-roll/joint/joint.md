@@ -3,6 +3,7 @@ title: "How to Roll a Joint: The Ultimate Guide"
 permalink: "/how-to-roll/joint/"
 layout: article
 seotitle: "How to Roll a Joint: An Easy Step by Step Guide (2019)" 
+description: "In this guide, you're going to learn how to roll a joint, step by step. You'll be a master at rolling joints in no time!"
 ---
 
 We get it: 

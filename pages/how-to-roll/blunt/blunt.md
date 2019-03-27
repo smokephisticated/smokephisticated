@@ -3,6 +3,7 @@ title: "Rolling a Blunt for Beginners: The Ultimate Guide (2019)"
 permalink: "/how-to-roll/blunt/"
 layout: article
 seotitle: "How to Roll a Blunt in 5 Easy Steps (2019)" 
+description: "In this tutorial you're going to learn exactly how to roll a blunt. We're going to teach you how to become a blunt rolling master!"
 ---
 
 There's nothing more satisfying than pearling a blunt. 
