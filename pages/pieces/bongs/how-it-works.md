@@ -224,7 +224,7 @@ Yes, bongs definitely get you higher, especially when compared to a blunt or a j
 
 Aside from dab rigs, bongs are the best way to get high. 
 
-<img alt="do bongs get you higher" class="lazyload img-middle" data-src="/images/bongs/do-bongs-get-you-higher.jpg">
+<img alt="do bongs get you higher" class="lazyload img-middle" data-src="/images/bongs/bongs-get-you-higher.jpg">
 
 The water in a bong makes each hit more tolerable, thanks to percolation. 
 
