@@ -56,7 +56,7 @@ This advantage is the process of percolation.
 
 This bubbly phenomenon cools, hydrates, and filters polar contaminants from the smoke.
 
-<img alt="Bong water percolation basic diagram" class="lazyload .img-middle" data-src="/images/bongs/basic-percolation-diagram.jpg">
+<img alt="Bong water percolation basic diagram" class="lazyload img-middle" data-src="/images/bongs/basic-percolation-diagram.jpg">
 
 With regards to smoking, percolation is a fancy way of referring to what happens when smoke is entirely surrounded by water.
 
@@ -90,7 +90,7 @@ This stems from the Latin term percolare, which directly translates as: to strai
 
 Percolation takes effect in many different forms throughout the world – like when you’re brewing a pot of coffee – but the percolation that we will be referring to is the process of air and smoke passing through water as bubbles.
 
-<img alt="Bong percolating" class="lazyload .img-middle" data-src="/images/bongs/bong-percolating.gif">
+<img alt="Bong percolating" class="lazyload img-middle" data-src="/images/bongs/bong-percolating.gif">
 
 Different pieces that use water have different routes to diffuse cannabis smoke depending on their structure (more on this later), but the premise of percolation has several advantages. 
 
