@@ -10,7 +10,7 @@ Real talk:
 
 When it comes to conserving herb and sending your rotation to the moon, [bongs](/pieces/bongs/) are king.
 
-That being said, you may find yourself how bongs work, and why are they so damn effective?
+That being said, you may find yourself asking how bongs work, and why are they so damn effective?
 
 ![How does a bong work header image](/images/bongs/how-does-a-bong-work-header.jpg){: .img-right}
 
