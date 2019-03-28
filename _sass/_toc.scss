@@ -7,10 +7,7 @@
    ========================================================================== */
 
 .toc {
-  margin-left: -1 * $gutter;
-  margin-right: -1 * $gutter;
-  max-width: 15rem;
-  float: right;
+  max-width: 16rem;
   @include media($medium) {
     margin-left: 0;
     margin-right: 0;

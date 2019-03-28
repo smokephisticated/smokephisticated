@@ -29,7 +29,7 @@ Bongs are a good method for conserving your supply while simultaneously deliveri
 ## How Does a Bong Work? 
 
 <div class="iframeVideo">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4VG03oq1Mxg?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VG03oq1Mxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Do Bongs get You Higher than Blunts? 
@@ -274,27 +274,10 @@ Next, inhale hard and fast. You'll clear all of the smoke from the bong, and inh
 
 You'll be high as fuck in no time!
 
-## Do Bongs Get You Higher? 
-
-Yes, bongs definitely get you higher, especially when compared to a blunt or a joint – they even get you higher than a bowl. 
-
-Aside from dab rigs, bongs are the best way to get high. 
-
-<img alt="do bongs get you higher" class="lazyload img-middle" data-src="/images/bongs/bongs-get-you-higher.jpg">
-
-The water in a bong makes each hit more tolerable, thanks to percolation. 
-
-If you think about it, when you're smoking a blunt or a joint, they're always smoking, even when you're not hitting it. 
-
-That's wasted smoke and, as a consequence, wasted THC. 
-
-Bongs are much more economical – they give you the best high for your supply. 
-
-Lastly, when you are ripping a bong, *much* more smoke gathers in the chamber. When you clear the bong, you're getting way more smoke in your lungs than with a bowl or a joint, which means more THC is going to your brain. 
-
 ## Conclusion 
 
 Diffusion increases surface area by dividing volume.
+
 This division further encourages all effects of percolation.
 
 The example of a single bubble dividing only once is only a fraction of reality.
@@ -312,3 +295,24 @@ As you can imagine, this big disbursement of smoke results in great surface area
 There are countless types of percs that can range from simple slitted downstems, to intricate double layered tree perks, ufo percs, honeycomb percs, and much more.
 
 Some bongs and rigs host multiple percolators—delivering a flurry of tiny aerated bubbles into a number of the pipe’s chambers upon inhale.
+
+<nav class="toc">
+<ul id="markdown-toc">
+	<h6>Table of Contents</h6>
+  <li><a href="#what-is-a-bong-used-for" id="markdown-toc-what-is-a-bong-used-for">What is a Bong Used For?</a></li>
+  <li><a href="#how-does-a-bong-work" id="markdown-toc-how-does-a-bong-work">How Does a Bong Work?</a></li>
+  <li><a href="#do-bongs-get-you-higher-than-blunts" id="markdown-toc-do-bongs-get-you-higher-than-blunts">Do Bongs get You Higher than Blunts?</a></li>
+  <li><a href="#bong-science-weed-percolation--water-diffusion" id="markdown-toc-bong-science-weed-percolation--water-diffusion">Bong Science: Weed Percolation &amp; Water Diffusion</a></li>
+  <li><a href="#whats-the-point-of-water-in-a-bong" id="markdown-toc-whats-the-point-of-water-in-a-bong">What’s the Point of Water in a Bong?</a></li>
+  <li><a href="#what-is-percolation" id="markdown-toc-what-is-percolation">What is Percolation?</a></li>
+  <li><a href="#benefits-of-percolation" id="markdown-toc-benefits-of-percolation">Benefits of Percolation</a></li>
+  <li><a href="#the-chemistry-breakdown" id="markdown-toc-the-chemistry-breakdown">The Chemistry Breakdown</a></li>
+  <li><a href="#is-thc-lost-due-to-percolation" id="markdown-toc-is-thc-lost-due-to-percolation">Is THC Lost Due to Percolation?</a></li>
+  <li><a href="#bubbles-stay-busy" id="markdown-toc-bubbles-stay-busy">Bubbles Stay Busy</a></li>
+  <li><a href="#whats-the-deal-with-diffusion" id="markdown-toc-whats-the-deal-with-diffusion">What’s the Deal With Diffusion?</a></li>
+  <li><a href="#glass-percolators-and-bongs-what-to-look-for" id="markdown-toc-glass-percolators-and-bongs-what-to-look-for">Glass Percolators and Bongs: What to Look For</a></li>
+  <li><a href="#how-to-use-a-bong" id="markdown-toc-how-to-use-a-bong">How to Use a Bong</a></li>
+  <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
+
+</nav>
