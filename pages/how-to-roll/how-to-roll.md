@@ -5,8 +5,6 @@ layout: article
 seotitle: "How to Roll Like a Pro: Joints, Blunts, and Backwoods (2019)" 
 ---
 
-{% include toc.html %}
-
 Here’s the deal: 
 
 There’s nothing more relaxing than sitting down with your friends and unwinding over a phat (with a ph) king-sized joint. 
@@ -290,3 +288,14 @@ Rolling is an art. You won't be a master doobie roller overnight, but with the r
 And at the end of the day, there's nothing better than kicking it with your boys and passing a doobie around. 
 
 Get rolling! 
+
+<nav class="toc">
+<ul id="markdown-toc">
+<h6>Table of Contents</h6>
+<li><a href="#learn-how-to-roll" id="markdown-toc-learn-how-to-roll">Learn How to Roll</a></li>
+<li><a href="#the-art-of-rolling" id="markdown-toc-the-art-of-rolling">The Art of Rolling</a></li>
+<li><a href="#rolling-tools" id="markdown-toc-rolling-tools">Rolling Tools</a></li>
+<li><a href="#setup" id="markdown-toc-setup">Setup</a></li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
+</nav>
