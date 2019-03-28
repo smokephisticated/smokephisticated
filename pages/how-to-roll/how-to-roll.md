@@ -21,25 +21,28 @@ Whether you want to learn [how to roll a joint](/how-to-roll/joint/), [how to ro
 
 <div class="row">
                 <div class="col-1-of-3">
+                <a href="/how-to-roll/blunt/">
                    <div class="feature-box">
                                 <i class="feature-box__icon feature-box__icon-blunt fas fa-joint"></i>
                                 <h3 class="u-margin-bottom-small heading-tertiary">Blunts</h3>
-                                <p class="feature-box__text"><a class="btn" href="/how-to-roll/blunt/">Roll a Blunt</a></p>
                         </div>
+                </a>
                 </div>
                 <div class="col-1-of-3">
+                <a href="/how-to-roll/joint/">
                     <div class="feature-box">
                            <i class="feature-box__icon feature-box__icon-joint fas fa-joint"></i>
                             <h3 class="u-margin-bottom-small heading-tertiary">Joints</h3>
-                            <p class="feature-box__text"><a class="btn" href="/how-to-roll/joint/">Roll a Joint</a></p>
                         </div>
+                </a>
                 </div>
                 <div class="col-1-of-3">
+                <a href="/how-to-roll/backwood/">
                      <div class="feature-box">
                          <i class="feature-box__icon feature-box__icon-backwood fas fa-joint"></i>
                             <h3 class="u-margin-bottom-small heading-tertiary">Backwoods</h3>
-                            <p class="feature-box__text"><a class="btn" href="/how-to-roll/backwood/">Roll a Backwood</a></p>
                         </div>
+                </a>
                 </div>
             </div>
 
