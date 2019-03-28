@@ -1,6 +1,6 @@
 ---
 title: "How to Roll Like a Pro: The Ultimate Guide"
-permalink: "/pieces/weed-pipes/"
+permalink: "/pieces/pipes/"
 layout: article
 seotitle: "How to Roll Like a Pro: Joints, Blunts, and Backwoods (2019)" 
 ---
