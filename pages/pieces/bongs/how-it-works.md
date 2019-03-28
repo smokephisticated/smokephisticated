@@ -29,7 +29,7 @@ Bongs are a good method for conserving your supply while simultaneously deliveri
 ## How Does a Bong Work? 
 
 <div class="iframeVideo">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4VG03oq1Mxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VG03oq1Mxg?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Do Bongs get You Higher than Blunts? 
