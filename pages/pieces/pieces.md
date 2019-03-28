@@ -19,27 +19,27 @@ We tested dozens of pieces, and now we're ready to share our findings with the r
 
 <div class="row">
     <div class="col-1-of-3">
+       <a href="/pieces/bongs/">
        <div class="feature-box">
-        <a href="/pieces/bongs/">
        	<i class="feature-box__icon feature-box__icon-blunt fas fa-bong"></i>
        	<h3 class="u-margin-bottom-small heading-tertiary">Bongs</h3>
        </div>
-       </a>
+ 	   </a>
     </div>
     <div class="col-1-of-3">
     	<div class="feature-box">
     	<a href="/pieces/pipes/">
        		<i class="feature-box__icon feature-box__icon-joint fas fa-bong"></i>
        		<h3 class="u-margin-bottom-small heading-tertiary">Pipes</h3>
-       		</a>
        </div>   
+       </a>
     </div>
     <div class="col-1-of-3">
+   <a href="/pieces/dab-rigs/">    
     <div class="feature-box">
-    	<a href="/pieces/dab-rigs/">
        		<i class="feature-box__icon feature-box__icon-backwood fas fa-bong"></i>
        		<h3 class="u-margin-bottom-small heading-tertiary">Dab Rigs</h3>
-       		</a>
        </div>  
+    </a>
     </div>
 </div>
