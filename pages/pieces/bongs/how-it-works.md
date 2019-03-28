@@ -8,15 +8,13 @@ description: "If you're ever asking, 'how does a bong work?' Smokephisticated ha
 
 Real talk:
 
-When it comes to conserving herb and sending your rotation to the moon, bongs are king.
+When it comes to conserving herb and sending your rotation to the moon, [bongs](/pieces/bongs/) are king.
 
-That being said, how exactly do these water pipes work, and why are they so damn effective?
+That being said, you may find yourself how bongs work, and why are they so damn effective?
 
 ![How does a bong work header image](/images/bongs/how-does-a-bong-work-header.jpg){: .img-right}
 
-We’re going to cover everything from the basics on how to smoke a bong, to the science behind bong percolation and weed diffusion. 
-
-To top it off, we’ve added a few recommendations on percolator bongs toward the bottom of the guide.
+We’re going to cover everything from the basics on how to use a bong, to the science behind bong percolation and weed diffusion. 
 
 So, it's time to spark up and zone in—it’s time to get Smokephisticated.
 
@@ -52,7 +50,7 @@ As a method of smoking cannabis, bongs are flavorful, conservative, and satisfyi
 
 However, bongs—also referred to as water pipes—have one key advantage over dry hand pipes, joints, and blunts.
 
-This advantage is the process of percolation.
+This advantage is the process of [percolation](https://en.wikipedia.org/wiki/Percolation){: target="_blank"}.
 
 This bubbly phenomenon cools, hydrates, and filters polar contaminants from the smoke.
 
@@ -121,26 +119,31 @@ As hot smoke travels through water, steam is introduced into each smoke bubble.
 
 The same temperature difference that cools the smoke also fills your future inhale with steam. 
 
-This process adds a smooth vapor-like property to your bong rips without diluting flavor or THC.
+This process adds a smooth vapor-like property to your bong rips without diluting flavor or [THC (not to be confused with CBD)](https://cbdoilreview.org/cbd-cannabidiol/thc-cbd/){: target="_blank}.
 
 ### 3. Filtration 
 
 Water, or H2O, pulls/attracts residual particles and filters your smoke on a magnetic molecular level.
 
-The magnetic relationship between H2O and polar contaminants/particles is much simpler than it sounds.here's the deal:
+The magnetic relationship between H2O and polar contaminants/particles is much simpler than it sounds. Here's the deal:
 
 ## The Chemistry Breakdown 
 
 Put simply, polar molecules attract other polar molecules.
 
-Water is very polar; H2Ois actually the most polar protic solvent. Substances that can pull through bowls like residual herb, resin, or ash are polar as well—so some of the harmful shit that you're usually inhaling through a dry pipe is magnetically pulled from smoke as it passes through water.
+Water is very polar; H2O is actually the most polar protic solvent. Substances that can pull through bowls like residual herb, resin, or ash are polar as well — some of the harmful shit that you're usually inhaling through a dry pipe is magnetically pulled from smoke as it passes through water.
 
-Heads up: Stoner bros will sometimes claim that you will lose out on your precious THC in the percolation process, and you’ll dull your high by smoking from a water pipe.
+<div class="watch-out">
+	<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
+	<p>Stoner bros will sometimes claim that you will lose out on your precious THC in the percolation process, and you’ll dull your high by smoking from a water pipe.</p>
 
-Let’s investigate this claim.
+	<p>That's not the case.</p>
+
+	<p>Here's why:</p>
+</div>
 
 ## Is THC Lost Due to Percolation?
-<img alt="THC diagram" class="lazyload" data-src="/images/bongs/thc.jpg">
+<img alt="THC diagram" class="img-middle lazyload" data-src="/images/bongs/thc.jpg">
 
 Tetrahydrocannabinol, or THC, is a lipid (examples of lipids would be oils or fats) meaning THC is mostly non-polar. 
 
@@ -176,7 +179,7 @@ Diffusion is defined as the spreading of something more widely—in smoking, dif
 
 A higher quantity of smaller smoke bubbles is actually more susceptible to the effects of percolation than a lesser amount of larger bubbles.
 
-<img alt="diffusion diagram" class="lazyload" data-src="/images/bongs/diffusion-diagram.jpg">
+<img alt="diffusion diagram" class="lazyload img-middle" data-src="/images/bongs/diffusion-diagram.jpg">
 
 Although diffusion isn't necessarily a direct benefit, it is a massive factor in strengthening the cooling, hydrating, and filtering aspects mentioned previously.
 
@@ -208,15 +211,62 @@ So the division of one bubble results in a higher surface-to-volume ratio.
 
 ## Glass Percolators and Bongs: What to Look For
 
-Glass percolators are generally welded into percolator bongs, and you can check the weld of these devices to see how well the bong was made.
+Glass percolators are generally welded into percolator bongs – the quality of the weld is a great way to determine the quality of the bong. 
 
-If the weld looks bulky and sloppy, recognize that this job was not done by a master; don’t pay top dollar for any poorly crafted piece.
+If the weld looks bulky and sloppy, recognize that this job was not done by a master; don’t pay top dollar for a poorly crafted piece.
 
-Looking for solid and cleanly welded pieces with thick glass is the best way to spot durability.
+You should also keep your eye out for recyclers. 
 
-Recycler percolators—recyclers are water pipes that routes smoke through chambers as a circuit.
+Recyclers are water pipes that routes smoke through chambers as a circuit.
 
-Any access smoke that isn’t inhaled gets sent back through to the original chamber for another cycle. This process is said to keep your smoke from getting stale—therefore maintaining freshness in your inhales.
+Any access smoke that isn’t inhaled gets sent back through to the original chamber for another cycle. This process is said to keep your smoke from getting stale, thus ensuring fresh inhales.
+
+## How to Use a Bong 
+<img alt="bong bowl pack" class="lazyload img-right" data-src="/images/bongs/bong-bowl-pack.jpg">
+Using a bong is pretty easy, and they get you high as fuck. Here's a quick tutorial that will show you how to use a bong, step by step: 
+
+### 1. Pack The Bowl 
+
+Pack your bowl with ground weed – you don't have to grind it, but the weed will burn more efficiently, thus conserving your weed. You'll get higher, too. 
+
+### 2. Rip The Bong 
+
+Take a few deep breaths to prepare, and empty your lungs until they're about 80% empty. 
+
+You want to have a bit of extra air in your lungs so that, when you're done ripping the bong, you have extra air to blow the smoke out of your lungs. 
+
+Otherwise, you won't be able to blow out all of the smoke, and you'll start coughing. 
+
+<img alt="girl ripping a bong" class="lazyload img-middle" data-src="/images/bongs/girl-ripping-bong.gif">
+
+Put your mouth over the top of the bong, ensuring an air tight seal. 
+
+Begin pulling hard enough to cause the water to bubble. Light the lighter over the bowl. 
+
+<div class="watch-out">
+	<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
+		
+		<p>Don't hold the lighter on the bowl piece for too long.</p> 
+
+		<p>It should only take one or two seconds before the bowl ignites.</p>
+
+		<p>After that, remove the lighter. The weed will burn on its own.</p>
+
+		<p>If you hold the lighter there too long, you'll torch the weed. </p>
+</div>
+
+### 3. Clear The Bong 
+<img alt="how to use a bong" class="lazyload img-right" data-src="/images/bongs/hitting-bong.gif">
+
+Once the bong is full of milky smoke, it's time to clear it. 
+
+Some bongs have a shotgun (carb hole) while others have a removeable bowl piece. 
+
+Take your finger off of the shotgun or remove the bowl piece, depending on your bong's design. 
+
+Next, inhale hard and fast. You'll clear all of the smoke from the bong, and inhale it into your lungs. 
+
+You'll be high as fuck in no time!
 
 ## Do Bongs Get You Higher? 
 
