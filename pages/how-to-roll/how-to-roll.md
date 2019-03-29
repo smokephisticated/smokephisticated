@@ -4,6 +4,7 @@ permalink: "/how-to-roll/"
 layout: article
 seotitle: "How to Roll Like a Pro: Joints, Blunts, and Backwoods (2019)" 
 ---
+![how to roll header image](/images/joints/how-to-roll-header.jpg){: .img-right}
 
 Here’s the deal: 
 
