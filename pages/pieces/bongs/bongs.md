@@ -80,7 +80,6 @@ The bigger the bong, the more smoke you can pull in each hit. If you’re an OG 
 		<th>PIC</th>
 		<th>Bong</th>
 		<th>Type</th>
-		<th>Rating</th>
 		<th>View</th>
 	</tr>
 	<tr>
@@ -106,7 +105,11 @@ The bigger the bong, the more smoke you can pull in each hit. If you’re an OG 
 	</tr>
 </table>
 
-## Types of Bongs 
+## What Are The Best Types of Bongs? 
+
+There is no one "best" type of bong per say, but you may like one type of bong more than another. 
+
+In this part of the guide, we're going to take a look at all of the most popular bong types on the market today. 
 
 ### Tube Bong 
 
@@ -175,7 +178,76 @@ A mini bong is a smaller version of a regular glass bong, and they are usually a
 
 Mini bongs’ small form factor is definitely their most appealing characteristic. Sometimes it’s nice to have a small piece that still gets you high as fuck. Moreover, mini bongs are usually more cost-effective than other bong types, making them great for stoners on a budget. 
 
+### Recycler Bong 
+
+Recycler bongs are one of the most efficent ways to inhale your ganja, as they use advanced technology to improve upon the concept of a traditional water pipe. Recycler bong hits are smooth and more enjoyable than almost any other bong on the market. 
+
+Recyclers prevent nasty bong water from splashing into your mouth, something that can ruin an otherwise awesome smoke session.
+
+In a traditional bong, the smoke is only diffused through a percolator (or two, or three percs, depending on your bong) one time before gathering in the collection chamber. 
+
+A recycler bong, on the other hand, sends the smoke back down to the diffusion chamber over and over again until you're ready to clear the bong, making for one of the smoothest, most enjoyable smoke sessions. Since the smoke is so smooth, you can rip the bong for a longer period of time and inhale more smoke into your lungs without your lungs or throat becoming irritated. 
+
+What's the bottom line here?
+
+Recycler bongs get you really high, without making you want to die! 
+
+### Gravity Bong 
+
+Gravity bongs aren't generally sold online – instead, most people make their own gravity bongs. Although, you can buy gravity bongs online, and they're crafted to perfection.  
+
+They're not hard to make – all you need is a large container for water, another container for smoke, and something to use as a bowl piece. 
+
+The smoke collection chamber is placed in the container of water, with weed packed in the bowl. 
+
+Next, the smoke collection chamber is slowly lifted out of the water while the weed is simultaneously lit with a lighter. 
+
+By lifting the smoke collection chamber, air is sucked through the bowl piece, and the chamber fills with thick, milky smoke. 
+
+Honestly, despite gravity bongs looking a bit ghetto, they get you high as fuck. This cheap method of smoking is economical, easy, and surprisingly powerful. 
+
+If you make a gravity bong, you'll make your weed go a long way. One rip from a gravity bong, and you'll be on your way to the moon. 
+
+### Ice Bong 
+
+Unfortunately, an ice bong isn't made from ice. 
+
+That's actually probably a good thing, considering it'd melt and ruin your weed...
+
+An ice bong can be any bong with ice notches at the top. 
+
+You're supposed to pop a few ice cubes through the mouth piece, and they'll be caught by the ice notches towards the top of the bong's neck. 
+
+After your smoke passes through the water and percolators, it'll also have to pass through the ice in the bong, which will only cool down the smoke even more. 
+
+<div class="toker-tip">
+	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+	<p>If you also add ice to your bong water before you pour it in the bong, your hits will be extra frosty and smooth.</p>
+
+	<p>When this tip is used in combination with ice notches, you'll be able to take rip after rip without burning your throat or your lungs.</p>
+</div>
+
+### Water Bottle Bong 
+
+Water bottle bongs are great when you're in a pinch. Don't have a piece at the ready? Make one! 
+
+You can use so many different kinds of bottles – 2 liters, water bottles, juice bottles, etc. 
+
+All you need is a bottle, a bowl piece, and a downstem. 
+
+Sure, a water bottle bong doesn't have any fancy percolators, nor does it employ any advanced recycler technology, but it'll still get you pretty damn high, and they can be made on the fly. 
+
+### Honeycomb Bong 
+
+Honeycomb bongs come in all different shapes and sizes – what they have in common, however, is their percolators. 
+
+Honeycomb bongs have perforated discs in their chambers that resemble a honycomb. They provide more diffusion than regular percolators, making for a nice, smooth hit. 
+
+By using the surface area of the glass to force smoke through multiple holes in the honeycomb discs, the smoke is diffused and filtered, making for a cleaner, cooler, and more enjoyable hit. 
+
 ## Benefits of Using a Bong 
+
+### Do Bongs Get You Higher? 
 
 ## How Does a Bong Work? 
 
