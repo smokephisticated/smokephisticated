@@ -351,6 +351,8 @@ In general, if your bong has a lot of percolators, it’ll probably hit more smo
 
 Anyway, percolators use diffusion to make your hits more tolerable. Bongs without any percolation devices tend to be a bit harder hitting, and they may cause more discomfort in your throat. 
 
+<img alt="3 percolator bong" class="lazyload img-middle" data-src="/images/bongs/3-perc-bong.jpg">
+
 My first bong was around a foot and a half tall, and it had two honeycomb percolators. That thing hit like a dream! 
 
 I could practically rip the entire bowl without feeling much discomfort in my throat. Keep in mind that, in addition to the number of percolators the bong has, you should also consider the type of percolators as well. 
@@ -367,6 +369,8 @@ Most bongs on the market today are made from glass, but you can also find bongs 
 
 Glass bongs are most popular because they look good, and glass is safe to smoke out of. Unfortunately, it’s also easy to break, especially if you buy a cheap bong made in China, as they tend to be made with thin glass. 
 
+<img alt="acrylic vs glass bong" class="lazyload table-image" data-src="/images/bongs/acrylic-vs-glass.jpg">
+
 If you’re buying a glass bong, make sure it’s thick and durable. 
 
 Silicone bongs are pretty handy – they hit well, they’re usually small enough to be carried with you, and they can’t break like glass. Best of all, most silicone bongs can be folded up and stored in a bag or a backpack, which is great for easy transportation. 
@@ -379,15 +383,15 @@ Before you buy a bong, take a look at the bong’s bowl piece. You don’t want 
 
 Try to find a bong with an average to large sized bowl piece. This way, you can pack a bowl and pass the bong around a few times before you have to pack it again. 
 
-It’s also important to make sure the bowl piece’s hole isn’t too big. Many pieces sold online are advertised as “tobacco pipes” even though they’re clearly bongs or bowls for weed. 
+It’s also important to make sure the bowl piece’s hole isn’t too big. Many pieces sold online are advertised as “tobacco pipes” even though they’re clearly bongs or bowls for weed.
+
+<img alt="best percolator bong" class="lazyload img-left" data-src="/images/bongs/bong-bowl-piece.jpg"> 
 
 In any event, tobacco bowls tend to have bigger holes. If you try to pack a bowl with ground up weed (which is recommended if you’re using a bong), you don’t want your weed falling through the hole and collecting in your bong water. 
 
 The first time I bought a piece, it was actually a small glass bowl. The hole was way too big, so I had to use smoking screens to cover it up. It’s basically a tiny little screen that you insert over the hole. It catches weed and lets smoke through, basically solving the issue. 
 
 Still, it’s kind of annoying, and easily avoidable. Get a bong with a bowl that’s meant for weed. Checking the size of the bowl and its hole in the bottom may seem strange or a bit extra, but trust me, you’ll thank me later. 
-
-### Extra Attachments
 
 ### Ergonomics
 
@@ -404,6 +408,8 @@ A great way to determine a bong’s ergonomics is reading its reviews. If people
 ### Discreet Shipping
 
 This one is pretty important, especially if you’re living with your parents and you don’t want them to know you’re smoking weed. 
+
+<img alt="discreet packaging" class="lazyload img-right" data-src="/images/bongs/discreet-bong-shipping.jpg">
 
 Even though weed is harmless, some people still think poorly of stoners. If you – for any reason – don’t want people to know about your smoking habit, then you need to buy from an online headshop with discrete shipping. 
 
@@ -435,4 +441,4 @@ It may seem a bit over the top to spend a few hundred on a premium bong, but you
 
 Still, the most important thing is getting the best bang for your buck. You should be more concerned with performance per dollar, as opposed to merely sheer performance. You can get a great bong for $50, and you can also get a great bong for $500. It all depends on your budget. 
 
-## Conclusion 
+{% include toc.html %}
