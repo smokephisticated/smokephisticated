@@ -83,22 +83,16 @@ The bigger the bong, the more smoke you can pull in each hit. If you’re an OG 
 		<th>View</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html"><img alt="tube bong" class="lazyload table-image" data-src="/images/bongs/tube-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html"><img alt="best tube bong" class="lazyload table-image" data-src="/images/bongs/tube-bong.jpg"></a></td>
 		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html">Straight Tube Glass Bong</a></td>
 		<td>Tube Bong</td>
 		<td><a class="big-button" href="#tube-bong">Read More</a></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></td>
+		<td>Glasscity Beaker Ice Bong</td>
+		<td>Beaker Bong</td>
+		<td><a class="big-button" href="#beaker-bong">Read More</a></td>
 	</tr>
 </table>
 
