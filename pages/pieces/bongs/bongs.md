@@ -135,7 +135,7 @@ Tube bongs are reliable, easy to clean, and they hit hard too.
 
 ### Percolator Bong 
 
-Although all bongs percolate your smoke through the use of water, percolator bongs host diffusion devices, or percs.
+Although all bongs percolate your smoke through the use of water, percolator bongs have diffusion devices, or percs.
 
 These percs are usually made from glass and are welded in a water chamber of the bong.
 
@@ -143,7 +143,9 @@ There are a ton of different kinds of percs, but they are all designed to force 
 
 <img alt="percolator bong" class="lazyload img-middle" data-src="/images/bongs/percolator-bong.gif">
 
-These openings split smoke bubbles, which increases surface-to-volume ratio of your body of smoke. An increased surface-to-volume ratio actually strengthens percolation—by dividing smoke bubbles, bong water can cool smoke temperature, increase hydration, and filter polar contaminants more easily.
+These openings split smoke bubbles, which increases surface-to-volume ratio of your body of smoke. 
+
+An increased surface-to-volume ratio actually strengthens percolation—by dividing smoke bubbles, bong water can cool smoke temperature, increase hydration, and filter polar contaminants more easily.
 
 So all in all, percolator bongs are like all other bongs, but they further diffuse your smoke for stronger percolation.
 
