@@ -73,7 +73,7 @@ When you rip a bong correctly, you’ll feel the hit going straight to the dome.
 
 The bigger the bong, the more smoke you can pull in each hit. If you’re an OG stoner with lungs of steel, you might even be able to smoke an entire bowl in one giant hit. 
 
-## Best Bongs
+## Bongs That Deliver The Best High for Your Supply 
 
 <table>
 	<tr>
@@ -83,21 +83,18 @@ The bigger the bong, the more smoke you can pull in each hit. If you’re an OG 
 		<th>View</th>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html"><img alt="tube bong" class="lazyload table-image" data-src="/images/bongs/tube-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html">Straight Tube Glass Bong</a></td>
+		<td>Tube Bong</td>
+		<td><a href="#tube-bong">Read More</a></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -284,7 +281,7 @@ We cover everything from the benefits of percolation to the chemistry behind it,
 
 So, if you find yourself asking [how a bong works](/pieces/bongs/how-it-works/), check out the guide!
 
-## How to Clean a Bong 
+## How Do You Clean a Bong?
 
 Bongs can get pretty dirty after prolonged use. Nobody wants to hit a bong with dirty bong water.
 
