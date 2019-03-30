@@ -86,7 +86,7 @@ The bigger the bong, the more smoke you can pull in each hit. If you’re an OG 
 		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html"><img alt="tube bong" class="lazyload table-image" data-src="/images/bongs/tube-bong.jpg"></a></td>
 		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html">Straight Tube Glass Bong</a></td>
 		<td>Tube Bong</td>
-		<td><a href="#tube-bong">Read More</a></td>
+		<td><a class="big-button" href="#tube-bong">Read More</a></td>
 	</tr>
 	<tr>
 		<td></td>

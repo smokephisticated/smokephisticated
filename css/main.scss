@@ -204,3 +204,21 @@ sitemap: false
   max-width: 65px; 
   height: auto;
 }
+
+.big-button {
+  background: #64a767 none repeat scroll 0 0;
+  border-radius: 4px; 
+  color: #fff;
+  display: inline-block;
+  border: 2px solid #64a767;
+  transition: all .2s;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 10px 15px;
+
+  &:hover {
+      background: rgba(#111, 0);
+      color: #64a767;
+      text-decoration: none;
+    }
+}
