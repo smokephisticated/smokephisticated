@@ -123,7 +123,7 @@ There is no one "best" type of bong per say, but you may like one type of bong m
 In this part of the guide, we're going to take a look at all of the most popular bong types on the market today. 
 
 ### Tube Bong 
-<img alt="tube bong" class="lazyload img-right" data-src="/images/bongs/tube-bong.jpg">
+<img alt="tube bong" class="lazyload img-right" data-src="/images/bongs/tube-bong.gif">
 
 A tube bong is pretty standard, and it’s probably what most people picture in their head when they hear the word “bong”. 
 
@@ -150,7 +150,7 @@ An increased surface-to-volume ratio actually strengthens percolation—by divid
 So all in all, percolator bongs are like all other bongs, but they further diffuse your smoke for stronger percolation.
 
 ### Beaker Bong 
-<img alt="beaker bong" class="lazyload img-right" data-src="/images/bongs/beaker-bong.jpg">
+<img alt="beaker bong" class="lazyload img-right" data-src="/images/bongs/beaker-bong.gif">
 
 Beaker bongs are near and dear to my heart – the first bong I ever had was a beaker bong, and it was my daily driver for a long time. 
 
@@ -163,7 +163,7 @@ Also, your chemistry teacher probably wouldn’t give you a pat on the back if h
 As opposed to tube bongs which have a straight tube from top to bottom, beaker bongs have a large, added chamber at the bottom for extra smoke. Since the bong has more volume, it also has more potential for a bigger hit.
 
 ### Helix Bong 
-<img alt="helix bong" class="lazyload img-right" data-src="/images/bongs/helix-bong.jpg">
+<img alt="helix bong" class="lazyload img-right" data-src="/images/bongs/helix-bong.gif">
 
 A helix bong can be virtually any type of bong. What makes it a “helix bong” is the incorporation of a Venturi chamber.
 
@@ -229,6 +229,7 @@ What's the bottom line here?
 Recycler bongs get you really high, without making you want to die! 
 
 ### Gravity Bong 
+<img alt="gravity bong" class="lazyload img-right" data-src="/images/bongs/gravity-bong.gif"> 
 
 Gravity bongs aren't generally sold online – instead, most people make their own gravity bongs. Although, you can buy gravity bongs online, and they're crafted to perfection.  
 
