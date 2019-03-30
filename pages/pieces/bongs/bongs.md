@@ -213,7 +213,6 @@ What's the bottom line here?
 Recycler bongs get you really high, without making you want to die! 
 
 ### Gravity Bong 
-<img alt="gravity bong" class="lazyload img-right" data-src="/images/bongs/gravity-bong.jpg">
 
 Gravity bongs aren't generally sold online – instead, most people make their own gravity bongs. Although, you can buy gravity bongs online, and they're crafted to perfection.  
 
@@ -221,7 +220,9 @@ They're not hard to make – all you need is a large container for water, anothe
 
 The smoke collection chamber is placed in the container of water, with weed packed in the bowl. 
 
-Next, the smoke collection chamber is slowly lifted out of the water while the weed is simultaneously lit with a lighter. 
+Next, the smoke collection chamber is slowly lifted out of the water while the weed is simultaneously lit with a lighter.
+
+<img alt="gravity bong" class="lazyload img-middle" data-src="/images/bongs/gravity-bong.jpg"> 
 
 By lifting the smoke collection chamber, air is sucked through the bowl piece, and the chamber fills with thick, milky smoke. 
 
