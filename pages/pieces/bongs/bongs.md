@@ -112,6 +112,7 @@ There is no one "best" type of bong per say, but you may like one type of bong m
 In this part of the guide, we're going to take a look at all of the most popular bong types on the market today. 
 
 ### Tube Bong 
+<img alt="tube bong" class="lazyload img-right" data-src="/images/bongs/tube-bong.jpg">
 
 A tube bong is pretty standard, and it’s probably what most people picture in their head when they hear the word “bong”. 
 
@@ -121,7 +122,22 @@ Tube bongs are usually basic and don’t always have the fancy features of other
 
 Tube bongs are reliable, easy to clean, and they hit hard too. 
 
+### Percolator Bong 
+
+Although all bongs percolate your smoke through the use of water, percolator bongs host diffusion devices, or percs.
+
+These percs are usually made from glass and are welded in a water chamber of the bong.
+
+There are a ton of different kinds of percs, but they are all designed to force smoke through small openings (holes or slits). 
+
+<img alt="percolator bong" class="lazyload img-middle" data-src="/images/bongs/percolator-bong.jpg">
+
+These openings split smoke bubbles, which increases surface-to-volume ratio of your body of smoke. An increased surface-to-volume ratio actually strengthens percolation—by dividing smoke bubbles, bong water can cool smoke temperature, increase hydration, and filter polar contaminants more easily.
+
+So all in all, percolator bongs are like all other bongs, but they further diffuse your smoke for stronger percolation.
+
 ### Beaker Bong 
+<img alt="beaker bong" class="lazyload img-right" data-src="/images/bongs/beaker-bong.jpg">
 
 Beaker bongs are near and dear to my heart – the first bong I ever had was a beaker bong, and it was my daily driver for a long time. 
 
@@ -134,6 +150,7 @@ Also, your chemistry teacher probably wouldn’t give you a pat on the back if h
 As opposed to tube bongs which have a straight tube from top to bottom, beaker bongs have a large, added chamber at the bottom for extra smoke. Since the bong has more volume, it also has more potential for a bigger hit.
 
 ### Helix Bong 
+<img alt="helix bong" class="lazyload img-right" data-src="/images/bongs/helix-bong.jpg">
 
 A helix bong can be virtually any type of bong. What makes it a “helix bong” is the incorporation of a Venturi chamber.
 Let’s begin with the “funnel” shape of the Venturi chamber. ”Venturi” refers to the Venturi Principle (otherwise referred to as the Venturi Effect), named after late Italian physicist, Giovanni Battista Venturi. 
@@ -155,6 +172,7 @@ Another added advantage of helix bongs is their sheer efficiency – they’ll h
 Each “hit” can turn into two or three. This will allow you to save on herb and maximize the efficiency of your cannabis consumption.
 
 ### Silicone Bong 
+<img alt="silicone bong" class="lazyload img-right" data-src="/images/bongs/silicone-bong.jpg">
 
 Most people think bongs are only made from glass, but that’s not the case.
 
@@ -173,12 +191,14 @@ In short, the answer is yes, yes they do.
 One of my college buddies and his girlfriend both had silicone bongs that we often used to hotbox their car. Saying I was stoned is an understatement. 
 
 ### Mini Bong 
+<img alt="mini bong" class="lazyload img-right" data-src="/images/bongs/mini-bong.jpg">
 
 A mini bong is a smaller version of a regular glass bong, and they are usually around 5 inches tall. In general, glass bongs are made from glass or acrylic, but there are also mini silicone bongs on the market as well. 
 
 Mini bongs’ small form factor is definitely their most appealing characteristic. Sometimes it’s nice to have a small piece that still gets you high as fuck. Moreover, mini bongs are usually more cost-effective than other bong types, making them great for stoners on a budget. 
 
 ### Recycler Bong 
+<img alt="recycler bong" class="lazyload img-right" data-src="/images/bongs/recycler-bong.jpg">
 
 Recycler bongs are one of the most efficent ways to inhale your ganja, as they use advanced technology to improve upon the concept of a traditional water pipe. Recycler bong hits are smooth and more enjoyable than almost any other bong on the market. 
 
@@ -193,6 +213,7 @@ What's the bottom line here?
 Recycler bongs get you really high, without making you want to die! 
 
 ### Gravity Bong 
+<img alt="gravity bong" class="lazyload img-right" data-src="/images/bongs/gravity-bong.jpg">
 
 Gravity bongs aren't generally sold online – instead, most people make their own gravity bongs. Although, you can buy gravity bongs online, and they're crafted to perfection.  
 
@@ -208,7 +229,8 @@ Honestly, despite gravity bongs looking a bit ghetto, they get you high as fuck.
 
 If you make a gravity bong, you'll make your weed go a long way. One rip from a gravity bong, and you'll be on your way to the moon. 
 
-### Ice Bong 
+### Ice Bong
+<img alt="ice bong" class="lazyload img-right" data-src="/images/bongs/ice-bong.jpg"> 
 
 Unfortunately, an ice bong isn't made from ice. 
 
@@ -228,6 +250,7 @@ After your smoke passes through the water and percolators, it'll also have to pa
 </div>
 
 ### Water Bottle Bong 
+<img alt="water bottle bong" class="lazyload img-right" data-src="/images/bongs/water-bottle-bong.jpg">
 
 Water bottle bongs are great when you're in a pinch. Don't have a piece at the ready? Make one! 
 
@@ -238,6 +261,7 @@ All you need is a bottle, a bowl piece, and a downstem.
 Sure, a water bottle bong doesn't have any fancy percolators, nor does it employ any advanced recycler technology, but it'll still get you pretty damn high, and they can be made on the fly. 
 
 ### Honeycomb Bong 
+<img alt="honeycomb bong" class="lazyload img-right" data-src="/images/bongs/tube-bong.jpg">
 
 Honeycomb bongs come in all different shapes and sizes – what they have in common, however, is their percolators. 
 
