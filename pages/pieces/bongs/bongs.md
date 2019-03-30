@@ -239,8 +239,6 @@ The smoke collection chamber is placed in the container of water, with weed pack
 
 Next, the smoke collection chamber is slowly lifted out of the water while the weed is simultaneously lit with a lighter.
 
-<img alt="gravity bong" class="lazyload img-middle" data-src="/images/bongs/gravity-bong.jpg"> 
-
 By lifting the smoke collection chamber, air is sucked through the bowl piece, and the chamber fills with thick, milky smoke. 
 
 Honestly, despite gravity bongs looking a bit ghetto, they get you high as fuck. This cheap method of smoking is economical, easy, and surprisingly powerful. 
