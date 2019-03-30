@@ -369,7 +369,7 @@ Most bongs on the market today are made from glass, but you can also find bongs 
 
 Glass bongs are most popular because they look good, and glass is safe to smoke out of. Unfortunately, it’s also easy to break, especially if you buy a cheap bong made in China, as they tend to be made with thin glass. 
 
-<img alt="acrylic vs glass bong" class="lazyload table-image" data-src="/images/bongs/acrylic-vs-glass.jpg">
+<img alt="acrylic vs glass bong" class="lazyload img-middle" data-src="/images/bongs/acrylic-vs-glass.jpg">
 
 If you’re buying a glass bong, make sure it’s thick and durable. 
 
@@ -383,9 +383,9 @@ Before you buy a bong, take a look at the bong’s bowl piece. You don’t want 
 
 Try to find a bong with an average to large sized bowl piece. This way, you can pack a bowl and pass the bong around a few times before you have to pack it again. 
 
-It’s also important to make sure the bowl piece’s hole isn’t too big. Many pieces sold online are advertised as “tobacco pipes” even though they’re clearly bongs or bowls for weed.
-
 <img alt="best percolator bong" class="lazyload img-left" data-src="/images/bongs/bong-bowl-piece.jpg"> 
+
+It’s also important to make sure the bowl piece’s hole isn’t too big. Many pieces sold online are advertised as “tobacco pipes” even though they’re clearly bongs or bowls for weed.
 
 In any event, tobacco bowls tend to have bigger holes. If you try to pack a bowl with ground up weed (which is recommended if you’re using a bong), you don’t want your weed falling through the hole and collecting in your bong water. 
 
