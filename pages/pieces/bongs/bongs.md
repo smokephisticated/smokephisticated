@@ -2,7 +2,7 @@
 title: "Bongs: The Ultimate Guide (2019)"
 permalink: "/pieces/bongs/"
 layout: article
-seotitle: "3 Best Bongs of 2019: Glass, Silicone, & More (Comparison)" 
+seotitle: "5 Best Bongs of 2019: Glass, Silicone, & More (Comparison)" 
 description: "We're taking a look at the best bongs of 2019. We're also going to cover everything there is to know about bongs, from percolation to material."
 ---
 
@@ -87,22 +87,36 @@ Let's take a look at the best glass bongs on the market.
 	<tr>
 		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload table-image" data-src="/images/bongs/percolator-bong.jpg"></a></td>
 		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Perc Bong</a></td>
-		<td>Percolator Bong</td>
+		<td>Percolator</td>
 		<td><a class="big-button" href="#percolator-bong">Read More</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a></td>
 		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Glasscity Beaker Ice Bong</a></td>
-		<td>Beaker Bong</td>
+		<td>Beaker</td>
 		<td><a class="big-button" href="#beaker-bong">Read More</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Grav Helix Bong</a></td>
-		<td>Beaker Bong</td>
-		<td><a class="big-button" href="#ice-bong">Read More</a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload table-image" data-src="/images/bongs/honeycomb-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers">Black Leaf Triple Honeycomb Bong</a></td>
+		<td>Honeycomb</td>
+		<td><a class="big-button" href="#honeycomb-bong">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html"><img alt="best silicone bong" class="lazyload table-image" data-src="/images/bongs/blue-silicone-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html">PieceMaker Kali Silicone Bong</a></td>
+		<td>Silicone</td>
+		<td><a class="big-button" href="#silicone-bong">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html"><img alt="best mini bong" class="lazyload table-image" data-src="/images/bongs/amsterdam-mini-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html">Amsterdam Bouncer Mini Bong</a></td>
+		<td>Mini</td>
+		<td><a class="big-button" href="#mini-bong">Read More</a></td>
 	</tr>
 </table>
+
+
 
 ## What Are The Best Types of Bongs? 
 
