@@ -14,7 +14,7 @@ With so many bongs on the market, it’s hard to know which is the best bong for
 
 ![bongs header image](/images/bongs/girl-hitting-bong.jpg){: .img-right}
 
-They come in all different shapes, sizes, and types as well. You could buy a glass bong, a silicone bong, a mini bong, a helix bong, a beaker bong…shit, there are even gravity bongs. The list goes on and on. 
+They come in all different shapes, sizes, and types as well. You could buy a glass bong, a silicone bong, a mini bong, a helix bong, a beaker bong… shit, there are even gravity bongs. The list goes on and on. 
 
 Luckily for you, we’ve been ripping bongs day and night to find the best bongs on the market.
 
@@ -164,13 +164,16 @@ As opposed to tube bongs which have a straight tube from top to bottom, beaker b
 <img alt="helix bong" class="lazyload img-right" data-src="/images/bongs/helix-bong.jpg">
 
 A helix bong can be virtually any type of bong. What makes it a “helix bong” is the incorporation of a Venturi chamber.
+
 Let’s begin with the “funnel” shape of the Venturi chamber. ”Venturi” refers to the Venturi Principle (otherwise referred to as the Venturi Effect), named after late Italian physicist, Giovanni Battista Venturi. 
 
-Essentially, it is defined as an inverse association of gas or fluid pressure with the velocity of flow or restriction of passage. Here is a picture explaining the key principles of the Venturi Effect:
+Essentially, it is defined as an inverse association of gas or fluid pressure with the velocity of flow or restriction of passage. 
 
-In other words, the Venturi Principle is at play in these helix hand pipes because of the air intake holes force or restrict the smoke to the center of the pipe as it flows through the mouthpiece.
+In other words, the Venturi Principle is at play in these helix bongs because of the air intake holes force or restrict the smoke to the center of the pipe as it flows through the mouthpiece.
 
 This is what allows the iconic helix pipe tornado to take shape. 
+
+<img alt="helix tornado effect" class="lazyload img-middle" data-src="/images/bongs/helix-example.png">
 
 Simply put, within every helix bong’s chamber, there are three micro air-intake holes. So, as you take a hit, air also enters the bong through those holes. 
 
