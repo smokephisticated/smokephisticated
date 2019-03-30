@@ -261,6 +261,14 @@ So, if you find yourself asking [how a bong works](/pieces/bongs/how-it-works/),
 
 ## How to Clean a Bong 
 
+Bongs can get pretty dirty after prolonged use. Nobody wants to hit a bong with dirty bong water.
+
+Moreover, little bits of grime and shit will collect in the smoke chamber. It looks gross, and it makes the smoke taste gross. 
+
+That's why it's important to clean your bong regularly, especially if you don't want your room to smell like bong water. 
+
+It may seem like a pain in the ass, but once you learn [how to clean a bong](/pieces/bongs/how-to-clean/) quickly, it's actually pretty quick and painless. 
+
 ## Things to Look Out For 
 
 ### Type of Bong
@@ -374,11 +382,5 @@ You can usually find pretty good bongs on a budget if you’re short on cash, bu
 It may seem a bit over the top to spend a few hundred on a premium bong, but you definitely get what you pay for. If you’re already shelling out for a bong, you should be getting a good one. 
 
 Still, the most important thing is getting the best bang for your buck. You should be more concerned with performance per dollar, as opposed to merely sheer performance. You can get a great bong for $50, and you can also get a great bong for $500. It all depends on your budget. 
-
-## Avoid Cheap Glass from China
-
-## Look for Sales
-
-## Hitting a Bong 
 
 ## Conclusion 
