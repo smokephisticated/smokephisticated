@@ -73,7 +73,9 @@ When you rip a bong correctly, you’ll feel the hit going straight to the dome.
 
 The bigger the bong, the more smoke you can pull in each hit. If you’re an OG stoner with lungs of steel, you might even be able to smoke an entire bowl in one giant hit. 
 
-## Bongs That Deliver The Best High for Your Supply 
+## Best Bongs 
+
+Let's take a look at the best glass bongs on the market. 
 
 <table>
 	<tr>
@@ -83,16 +85,22 @@ The bigger the bong, the more smoke you can pull in each hit. If you’re an OG 
 		<th>View</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html"><img alt="best tube bong" class="lazyload table-image" data-src="/images/bongs/tube-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/straight-tube-glass-bong-14-5-mm.html">Straight Tube Glass Bong</a></td>
-		<td>Tube Bong</td>
-		<td><a class="big-button" href="#tube-bong">Read More</a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload table-image" data-src="/images/bongs/percolator-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Perc Bong</a></td>
+		<td>Percolator Bong</td>
+		<td><a class="big-button" href="#percolator-bong">Read More</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a></td>
-		<td>Glasscity Beaker Ice Bong</td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Glasscity Beaker Ice Bong</a></td>
 		<td>Beaker Bong</td>
 		<td><a class="big-button" href="#beaker-bong">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Grav Helix Bong</a></td>
+		<td>Beaker Bong</td>
+		<td><a class="big-button" href="#ice-bong">Read More</a></td>
 	</tr>
 </table>
 
