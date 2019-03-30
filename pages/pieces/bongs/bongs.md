@@ -130,7 +130,7 @@ These percs are usually made from glass and are welded in a water chamber of the
 
 There are a ton of different kinds of percs, but they are all designed to force smoke through small openings (holes or slits). 
 
-<img alt="percolator bong" class="lazyload img-middle" data-src="/images/bongs/percolator-bong.jpg">
+<img alt="percolator bong" class="lazyload img-middle" data-src="/images/bongs/percolator-bong.gif">
 
 These openings split smoke bubbles, which increases surface-to-volume ratio of your body of smoke. An increased surface-to-volume ratio actually strengthens percolation—by dividing smoke bubbles, bong water can cool smoke temperature, increase hydration, and filter polar contaminants more easily.
 
