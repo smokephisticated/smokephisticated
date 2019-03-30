@@ -116,8 +116,6 @@ Let's take a look at the best glass bongs on the market.
 	</tr>
 </table>
 
-
-
 ## What Are The Best Types of Bongs? 
 
 There is no one "best" type of bong per say, but you may like one type of bong more than another. 
@@ -285,7 +283,23 @@ By using the surface area of the glass to force smoke through multiple holes in 
 
 ## Benefits of Using a Bong 
 
+Smoking out of bongs has multiple benefits as opposed to other methods of smoking.
+
+For one, water pipes are very effective at conserving cannabis when compared to rollables like joints or blunts. By corner hitting your bowl packs, you can keep that pack green for multiple hits.
+
+Smoking with wraps also consumes the flavor of your cannabis, whereas water pipes retain the taste of the particular strand you’re toking on.
+
+By using a bong, you also filter out polar contaminants as your smoke passes through water.
+
+In addition, water cools your smoke down a bit — adding ice to your water strengthens this effect even further, and if your bong has ice notches, every hit will be frosty!
+
+Lastly, bongs can collect a ton of smoke in their chambers before you remove the bowl and clear the bong, meaning you can take bigger rips and, as a consequence, get way higher. 
+
 ### Do Bongs Get You Higher? 
+
+Yeah, bongs get you higher than pretty much every other piece, aside from a dab rig. 
+
+With the right attachments, however, you can turn any bong into a dab rig. Bongs are awesome!
 
 ## How Does a Bong Work? 
 
