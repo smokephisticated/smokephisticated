@@ -116,6 +116,29 @@ Let's take a look at the best glass bongs on the market.
 	</tr>
 </table>
 
+<div class="featured-info-box">
+<span>Top Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a>
+</div>
+<div class="text">
+<h2>Black Leaf ELITE</h2>
+<h3>Percolator Bong</h3>
+<p>This bong is made with thick, high-quality borosilicate glass. Featuring a 6-arm slitted tree perc, it diffuses smoke to make for a smooth bong hit – in other words, this bong smacks!</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+This bong may look simple, but it works incredibly well. Don't believe us? Check the reviews! 
+
+In addition to a bad ass percolator, this bong also has ice notches which can be used to cool down the smoke passing through the neck of the bong. 
+
+Lastly, this bong doesn't have a carb hole – also known as a shotgun. Instead, you simply remove the bowl piece to clear the bong. 
+
 ## What Are The Best Types of Bongs? 
 
 There is no one "best" type of bong per say, but you may like one type of bong more than another. 
