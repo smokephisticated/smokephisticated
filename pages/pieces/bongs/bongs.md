@@ -116,14 +116,14 @@ Let's take a look at the best glass bongs on the market.
 	</tr>
 </table>
 
-<div class="featured-info-box">
-<span id="percolator-bong">Top Pick</span>
+<div id="percolator-bong" class="featured-info-box">
+<span>Top Pick</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload" data-src="/images/bongs/percolator-bong.jpg"></a>
 </div>
 <div class="text">
-<h2>Glass</h2>
+<h2>Black Leaf ELITE</h2>
 <h3>Percolator Bong</h3>
 <p>This bong is made with thick, high-quality borosilicate glass. Featuring a 6-arm slitted tree perc, it diffuses smoke to make for a smooth bong hit – in other words, this bong smacks!</p>
 <div class="btn">
@@ -139,8 +139,8 @@ In addition to a bad ass percolator, this bong also has ice notches which can be
 
 Lastly, this bong doesn't have a carb hole – also known as a shotgun. Instead, you simply remove the bowl piece to clear the bong. 
 
-<div class="featured-info-box">
-<span id="beaker-bong">Runner Up</span>
+<div id="beaker-bong" class="featured-info-box">
+<span>Runner Up</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a>
@@ -162,8 +162,8 @@ Think about it:
 
 The more ice you have in the stem, the more surface area there is for the smoke to make contact with the ice, and thus the cooler your smoke will be. 
 
-<div class="featured-info-box">
-<span id="honeycomb-bong">Honeycomb Pick</span>
+<div id="honeycomb-bong" class="featured-info-box">
+<span>Honeycomb Pick</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload" data-src="/images/bongs/honeycomb-bong.jpg"></a>
@@ -173,7 +173,7 @@ The more ice you have in the stem, the more surface area there is for the smoke 
 <h3>w/ Triple Honeycomb Perc</h3>
 <p>This bong has not one, not two, but three honeycomb disc percolators to ensure every hit is milky and smooth. When it comes to bongs, the more percs, the better.</p>
 <div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Check Price </a>
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers">Check Price </a>
 </div>
 </div>
 </div>
@@ -182,6 +182,73 @@ The more ice you have in the stem, the more surface area there is for the smoke 
 This bong from Black Leaf has a sleek design and a large base. Best of all, it has three bad ass honeycomb percolators placed throughout the body of the bong's neck. 
 
 Each one of the honeycomb percolators filters and diffuses smoke that passes through it, breaking it up into bubbles. The resulting toke is silky smooth, easy on the lungs and throat, yet it's still smackalicious and powerful. 
+
+<div id="honeycomb-bong" class="featured-info-box">
+<span>Honeycomb Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload" data-src="/images/bongs/honeycomb-bong.jpg"></a>
+</div>
+<div class="text">
+<h2 id="percolator-bong">Black Leaf Glass Bong</h2>
+<h3>w/ Triple Honeycomb Perc</h3>
+<p>This bong has not one, not two, but three honeycomb disc percolators to ensure every hit is milky and smooth. When it comes to bongs, the more percs, the better.</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+Honeycomb percolators are widely regarded as the best kind of percolator, as they do a great job of diffusing smoke. Thanks to the three honeycomb percs, this bong is no exception.
+
+When you hit this bong, you'll be surprised by how easy it is to take huge hits without much discomfort to your throat and lungs. 
+
+<div id="silicone-bong" class="featured-info-box">
+<span>Silicone Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html"><img alt="best silicone bong" class="lazyload" data-src="/images/bongs/blue-silicone-bong.jpg"></a>
+</div>
+<div class="text">
+<h2 id="percolator-bong">PieceMaker Kali</h2>
+<h3>Silicone Bong</h3>
+<p>Silicone bongs are awesome – they look dope, and they are easy to take with you when you want to get baked on the go. They can be folded up and stowed in a bag or purse, thanks to their flexibility and small form factor.</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+Silicone bongs are made with FDA approved food-grade silicone, which won't melt or give off any fumes when you're using the bong. The bowl piece is made of metal, so your lighter's flame won't melt the silicone either. 
+
+Silicone bongs are a convenient way to smoke – whether you want to take your piece to the top of a mountain or in your car, a silicone bong is the on-the-go stoner's best friend.
+
+<div id="mini-bong" class="featured-info-box">
+<span>Mini Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html"><img alt="best mini bong" class="lazyload" data-src="/images/bongs/amsterdam-mini-bong.jpg"></a>
+</div>
+<div class="text">
+<h2 id="percolator-bong">Amsterdam Bouncer</h2>
+<h3>Mini Bong</h3>
+<p>Just like silicone bongs, mini bongs are a great piece when you're on the go. Even when you're chilling at home, sometimes it's nice to take a toke from a mini bong like this one.</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+This mini bong is pretty cheap – for less than $20, you're getting some pretty bad ass glass. It has a large base for water and smoke to collect, and a curved neck.
+
+We especially like this feature, because it keeps your mouth away from the bowl piece.
+
+Otherwise, your face would be too close to the bowl and lighting the bong without burning yourself or at least irritating your face would be difficult.
+
+All in all, this mini bong punches above its weight class, delivering the best high for your supply!
 
 ## What Are The Best Types of Bongs? 
 
