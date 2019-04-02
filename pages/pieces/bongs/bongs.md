@@ -183,27 +183,6 @@ This bong from Black Leaf has a sleek design and a large base. Best of all, it h
 
 Each one of the honeycomb percolators filters and diffuses smoke that passes through it, breaking it up into bubbles. The resulting toke is silky smooth, easy on the lungs and throat, yet it's still smackalicious and powerful. 
 
-<div id="honeycomb-bong" class="featured-info-box">
-<span>Honeycomb Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload" data-src="/images/bongs/honeycomb-bong.jpg"></a>
-</div>
-<div class="text">
-<h2 id="percolator-bong">Black Leaf Glass Bong</h2>
-<h3>w/ Triple Honeycomb Perc</h3>
-<p>This bong has not one, not two, but three honeycomb disc percolators to ensure every hit is milky and smooth. When it comes to bongs, the more percs, the better.</p>
-<div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers">Check Price </a>
-</div>
-</div>
-</div>
-</div>
-
-Honeycomb percolators are widely regarded as the best kind of percolator, as they do a great job of diffusing smoke. Thanks to the three honeycomb percs, this bong is no exception.
-
-When you hit this bong, you'll be surprised by how easy it is to take huge hits without much discomfort to your throat and lungs. 
-
 <div id="silicone-bong" class="featured-info-box">
 <span>Silicone Pick</span>
 <div class="content">
