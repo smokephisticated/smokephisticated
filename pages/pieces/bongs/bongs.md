@@ -16,7 +16,7 @@ With so many bongs on the market, it’s hard to know which is the best bong for
 
 They come in all different shapes, sizes, and types as well. You could buy a glass bong, a silicone bong, a mini bong, a helix bong, a beaker bong… shit, there are even gravity bongs. The list goes on and on. 
 
-Luckily for you, we’ve been ripping bongs day and night to find the best bongs on the market.
+Luckily for you, we’ve been [ripping bongs](https://www.urbandictionary.com/define.php?term=bong%20rips){: target="_blank"} day and night to find the best bongs on the market.
 
 Sure, we may have lost a few – hundred thousand – brain cells along the way, but we have just enough left to write this article. 
 
@@ -408,7 +408,7 @@ Smoking with wraps also consumes the flavor of your cannabis, whereas water pipe
 
 By using a bong, you also filter out polar contaminants as your smoke passes through water.
 
-In addition, water cools your smoke down a bit — adding ice to your water strengthens this effect even further, and if your bong has ice notches, every hit will be frosty!
+In addition, water cools your smoke down a bit — adding ice to your water strengthens this effect even further, and if your bong has ice notches, every hit will be cool and frosty!
 
 Lastly, bongs can collect a ton of smoke in their chambers before you remove the bowl and clear the bong, meaning you can take bigger rips and, as a consequence, get way higher. 
 
@@ -437,6 +437,12 @@ Moreover, little bits of grime and shit will collect in the smoke chamber. It lo
 That's why it's important to clean your bong regularly, especially if you don't want your room to smell like bong water. 
 
 It may seem like a pain in the ass, but once you learn [how to clean a bong](/pieces/bongs/how-to-clean/) quickly, it's actually pretty quick and painless. 
+
+## Bongs for Beginners 
+
+<div class="iframeVideo">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6-SCAPX7joI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Things to Look Out For 
 
@@ -558,4 +564,15 @@ It may seem a bit over the top to spend a few hundred on a premium bong, but you
 
 Still, the most important thing is getting the best bang for your buck. You should be more concerned with performance per dollar, as opposed to merely sheer performance. You can get a great bong for $50, and you can also get a great bong for $500. It all depends on your budget. 
 
-{% include toc.html %}
+<nav class="toc">
+<ul id="markdown-toc">
+<h6>Table of Contents</h6>
+<li><a href="#what-is-a-bong" id="markdown-toc-what-is-a-bong">What is a Bong?</a></li>
+<li><a href="#best-bongs" id="markdown-toc-best-bongs">Best Bongs</a></li>
+<li><a href="#what-are-the-best-types-of-bongs" id="markdown-toc-what-are-the-best-types-of-bongs">What Are The Best Types of Bongs?</a></li>
+<li><a href="#benefits-of-using-a-bong" id="markdown-toc-benefits-of-using-a-bong">Benefits of Using a Bong</a></li>
+<li><a href="#how-does-a-bong-work" id="markdown-toc-how-does-a-bong-work">How Does a Bong Work?</a></li>
+<li><a href="#how-do-you-clean-a-bong" id="markdown-toc-how-do-you-clean-a-bong">How Do You Clean a Bong?</a></li>
+<li><a href="#things-to-look-out-for" id="markdown-toc-things-to-look-out-for">Things to Look Out For</a></li>
+</ul>
+</nav>
