@@ -81,6 +81,8 @@ For one, water pipes are very effective at conserving cannabis when compared to 
 
 Smoking with wraps also consumes the flavor of your cannabis, whereas water pipes retain the taste of the particular strand you’re toking on.
 
+<img alt="guy hitting a bong" class="lazyload img-middle" data-src="/images/bongs/hitting-bong.jpg">
+
 By using a bong, you also filter out polar contaminants as your smoke passes through water.
 
 In addition, water cools your smoke down a bit — adding ice to your water strengthens this effect even further, and if your bong has ice notches, every hit will be cool and frosty!
