@@ -120,14 +120,14 @@ Let's take a look at the best glass bongs on the market.
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a>
+<a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload" data-src="/images/bongs/percolator-bong.jpg"></a>
 </div>
 <div class="text">
-<h2>Black Leaf ELITE</h2>
+<h2 id="percolator-bong">Glass</h2>
 <h3>Percolator Bong</h3>
 <p>This bong is made with thick, high-quality borosilicate glass. Featuring a 6-arm slitted tree perc, it diffuses smoke to make for a smooth bong hit – in other words, this bong smacks!</p>
 <div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Check Price </a>
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html">Check Price </a>
 </div>
 </div>
 </div>
@@ -138,6 +138,29 @@ This bong may look simple, but it works incredibly well. Don't believe us? Check
 In addition to a bad ass percolator, this bong also has ice notches which can be used to cool down the smoke passing through the neck of the bong. 
 
 Lastly, this bong doesn't have a carb hole – also known as a shotgun. Instead, you simply remove the bowl piece to clear the bong. 
+
+<div class="featured-info-box">
+<span>Runner Up</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a>
+</div>
+<div class="text">
+<h2 id="percolator-bong">Glasscity Beaker Bong</h2>
+<h3>w/ Ice Notches</h3>
+<p>Beaker bongs – this one included – have a larger base than other bongs. This bong isn't sporting any fancy percolators or anything like that, but it doesn't need to. It's a classic beaker bong – it looks dope, and it smokes dope like a pro.</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+This bong also has ice notches, and they're placed pretty low on the bong's neck. This way, you can fill the entire neck with ice cubes from the bottom up. 
+
+Think about it: 
+
+The more ice you have in the stem, the more surface area there is for the smoke to make contact with the ice, and thus the cooler your smoke will be. 
 
 ## What Are The Best Types of Bongs? 
 
