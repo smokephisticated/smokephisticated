@@ -117,13 +117,13 @@ Let's take a look at the best glass bongs on the market.
 </table>
 
 <div class="featured-info-box">
-<span>Top Pick</span>
+<span id="percolator-bong">Top Pick</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload" data-src="/images/bongs/percolator-bong.jpg"></a>
 </div>
 <div class="text">
-<h2 id="percolator-bong">Glass</h2>
+<h2>Glass</h2>
 <h3>Percolator Bong</h3>
 <p>This bong is made with thick, high-quality borosilicate glass. Featuring a 6-arm slitted tree perc, it diffuses smoke to make for a smooth bong hit – in other words, this bong smacks!</p>
 <div class="btn">
@@ -140,7 +140,7 @@ In addition to a bad ass percolator, this bong also has ice notches which can be
 Lastly, this bong doesn't have a carb hole – also known as a shotgun. Instead, you simply remove the bowl piece to clear the bong. 
 
 <div class="featured-info-box">
-<span>Runner Up</span>
+<span id="beaker-bong">Runner Up</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a>
@@ -161,6 +161,27 @@ This bong also has ice notches, and they're placed pretty low on the bong's neck
 Think about it: 
 
 The more ice you have in the stem, the more surface area there is for the smoke to make contact with the ice, and thus the cooler your smoke will be. 
+
+<div class="featured-info-box">
+<span id="honeycomb-bong">Honeycomb Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload" data-src="/images/bongs/honeycomb-bong.jpg"></a>
+</div>
+<div class="text">
+<h2 id="percolator-bong">Black Leaf Glass Bong</h2>
+<h3>w/ Triple Honeycomb Perc</h3>
+<p>This bong has not one, not two, but three honeycomb disc percolators to ensure every hit is milky and smooth. When it comes to bongs, the more percs, the better.</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+This bong from Black Leaf has a sleek design and a large base. Best of all, it has three bad ass honeycomb percolators placed throughout the body of the bong's neck. 
+
+Each one of the honeycomb percolators filters and diffuses smoke that passes through it, breaking it up into bubbles. The resulting toke is silky smooth, easy on the lungs and throat, yet it's still smackalicious and powerful. 
 
 ## What Are The Best Types of Bongs? 
 
