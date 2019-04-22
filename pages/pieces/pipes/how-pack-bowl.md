@@ -93,6 +93,10 @@ When you take a hit, blow the smoke through the dryer sheet and voila — no one
 
 ## How to Pack a Bowl 
 
+<div class="iframeVideo">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gn4DNaFpfq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Now that you have your supplies assembled, it’s time to learn the art of the perfectly packed bowl.
 
 ### Step 1: Grind Your Herb
