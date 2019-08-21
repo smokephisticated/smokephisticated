@@ -22,9 +22,9 @@ So, it's time to spark up and zone in—it’s time to get Smokephisticated.
 
 A bong is used to smoke cannabis while utilizing the benefits of percolation. 
 
-This process helps to cool smoke, hydrate inhales, and filters contaminants (ash, tar, herb). 
+This process helps to cool smoke, hydrate inhales, and filter contaminants (ash, tar, herb). 
 
-Bongs are a good method for conserving your supply while simultaneously delivering one hell of a high. 
+Bongs are a good method for conserving your supply while simultaneously delivering smooth rips of smoke. 
 
 ## How Does a Bong Work? 
 
@@ -74,7 +74,7 @@ Well, not necessarily.
 
 Although every bong is capable of percolation, pipes referred to as percolator bongs host percolator devices that diffuse your smoke for stronger percolation effects.
 
-We’ll cover percolator devices—also known as percs later on.
+We’ll cover percolator devices—also referred to as percs later on.
 
 Most stoners understand that a water bong causes a smoother hit, but a truly Smokephisticated toker understands the hows and whys of this process.
 
@@ -86,7 +86,7 @@ When it comes to bongs, water is pretty important.
 
 Water cools and filters smoke, while hydrating your inhales. 
 
-Without water, bongs wouldn't have percolators, which are primarily responsible for bongs' reputation of getting you high as fuck. 
+Without any water for herb smoke to interact with, a bong is basically a dry pipe with loose hits.
 
 ## What is Percolation? 
 
@@ -94,13 +94,13 @@ The word percolation is defined as the process of straining liquid through a fil
 
 This stems from the Latin term percolare, which directly translates as: to strain through. 
 
-Percolation takes effect in many different forms throughout the world – like when you’re brewing a pot of coffee – but the percolation that we will be referring to is the process of air and smoke passing through water as bubbles.
+There are different forms of percolation that take effect throughout the world—like when you’re brewing a pot of coffee—but the percolation that we will be referring to is the process of cannabis smoke bubbling through water.
 
 <img alt="Bong percolating" class="lazyload img-middle" data-src="/images/bongs/bong-percolating.gif">
 
-Different pieces that use water have different routes to diffuse cannabis smoke depending on their structure (more on this later), but the premise of percolation has several advantages. 
+All of the effects begin when your bubbles submerge in the water until they resurface. A longer percolation process gives water more time to affect your weed smoke, resulting in a smoother hit.
 
-All of the effects begin when your bubbles submerge in the water until they resurface. A longer percolation process gives water a more time to affect your weed smoke, resulting in a smoother hit..
+Different pipes that use water have different routes to diffuse cannabis smoke depending on their structure (more on this later), but the premise of percolation has solid advantages. 
 
 Enough beating around the kush—let's dive into the three main effects of smoking out of a percolator bong:
 
@@ -117,13 +117,17 @@ The difference in temperature between smoke and aerated water causes a heat tran
 	<p>Add ice to your bong water.</p>
 
 	<p>Even room-temperature water will cool smoke – but if you use ice water instead, your rips will be frosty and smooth.</p>
+
+	<p>Many bongs also feature an ice-catcher attachment that cools the smoke after percolation. However, some studies have shown that the frost from ice cubes are inhaled, which can damage your airways and lead to bronchitis.</p>
+
+	<p>Inhaling tiny ice shards can mostly be avoided by rinsing the ice cubes, or letting them defrost in the pipe for a few minutes.</p>
 </div>
 
 ### 2. Hydrated Inhales
 
 As hot smoke travels through water, steam is introduced into each smoke bubble.
 
-The same temperature difference that cools the smoke also fills your future inhale with steam. 
+That same temperature difference that cools the smoke also fills your future inhale with steam. 
 
 This process adds a smooth vapor-like property to your bong rips without diluting flavor or [THC (not to be confused with CBD)](https://cbdoilreview.org/cbd-cannabidiol/thc-cbd/){: target="_blank}.
 
@@ -148,7 +152,7 @@ Water is very polar; H2O is actually the most polar protic solvent. Substances t
 	<p>Here's why:</p>
 </div>
 
-## Is THC Lost Due to Percolation?
+## Is THC Lost Due Using a Bong?
 <img alt="THC diagram" class="img-middle lazyload" data-src="/images/bongs/thc.jpg">
 
 Tetrahydrocannabinol, or THC, is a lipid (examples of lipids would be oils or fats) meaning THC is mostly non-polar. 
@@ -167,13 +171,13 @@ With that being said, that stoner bro probably heard the same claim by another s
 
 When smoke submerges, it doesn’t enter as one single bodied pocket. Instead, smoke bubbles into many little bodies before returning to air.
 
-But between the two events, these smoke bubbles are confined and forced through tight chambers and are constantly interacting with each other.
+But between the submersion and resurfacing, these smoke bubbles are confined and forced through tight chambers and are constantly interacting with each other.
 
 <img alt="bong sitting on table" class="lazyload img-right" data-src="/images/bongs/pretty-bong-on-table.jpg">
 
-Submerged pockets of smoke are constantly dividing, collecting, and conjointing.
+Submerged pockets of smoke are constantly dividing, collecting, and conjoining.
 
-This ongoing traffic is a given in percolation, but it is actually best for your bubbles to be seperated.
+This ongoing underwater bong traffic is inevitable in percolation, but it is actually beneficial for your bubbles to be as seperated as possible.
 
 Luckily, there are ways to control this separation of bubbles.
 
