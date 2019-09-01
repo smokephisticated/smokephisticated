@@ -8,10 +8,6 @@ description: "We're taking a look at the best bongs of 2019. We're also going to
 
 We get it: 
 
-Bongs get you high as fuck. Every stoner knows that, and every stoner needs a good bong. 
-
-With so many bongs on the market, it’s hard to know which is the best bong for you. 
-
 ![bongs header image](/images/bongs/girl-hitting-bong.jpg){: .img-right}
 
 They come in all different shapes, sizes, and types as well. You could buy a glass bong, a silicone bong, a mini bong, a helix bong, a beaker bong… shit, there are even gravity bongs. The list goes on and on. 
