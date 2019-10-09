@@ -10,6 +10,35 @@ If you're looking to get the best high for your supply, you're going to need to 
 
 Smoking a blunt is nice and all, but there's nothing like taking a fat bong rip, packing a bowl, or taking a dab. 
 
+## Pieces
+
+<div class="row">
+                <div class="col-1-of-3">
+                <a href="/pieces/bongs/">
+                   <div class="feature-box">
+                                <i class="feature-box__icon feature-box__icon-blunt fas fa-bong"></i>
+                                <h3 class="u-margin-bottom-small heading-tertiary">Bongs</h3>
+                        </div>
+                </a>
+                </div>
+                <div class="col-1-of-3">
+                <a href="/pieces/pipes/">
+                    <div class="feature-box">
+                           <i class="feature-box__icon feature-box__icon-joint fas fa-bong"></i>
+                            <h3 class="u-margin-bottom-small heading-tertiary">Pipes</h3>
+                        </div>
+                </a>
+                </div>
+                <div class="col-1-of-3">
+                <a href="/pieces/dab-rigs/">
+                     <div class="feature-box">
+                         <i class="feature-box__icon feature-box__icon-backwood fas fa-bong"></i>
+                            <h3 class="u-margin-bottom-small heading-tertiary">Dab Rigs</h3>
+                        </div>
+                </a>
+                </div>
+            </div>
+
 ## Smoking Different Pieces 
 
 <div class="iframeVideo">
