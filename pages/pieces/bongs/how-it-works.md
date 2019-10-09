@@ -2,9 +2,20 @@
 title: "How a Bong Works: Percolation, Diffusion, & More"
 permalink: "/pieces/bongs/how-it-works/"
 layout: article
-seotitle: "How Does a Bong Work? Percolation, Diffusion, & More (2019)" 
+seotitle: "How a Bong Works: Complete Scientific Breakdown (For Stoners)" 
 description: "If you're ever asking, 'how does a bong work?' Smokephisticated has your back. We've created a guide teaching you everything you need to know about bongs!"
 ---
+
+<nav class="toc">
+<ul id="markdown-toc">
+<h6>Table of Contents</h6>
+<li><a href="#how-does-a-bong-work" id="markdown-toc-how-does-a-bong-work">How Does a Bong Work?</a></li>
+<li><a href="#do-bongs-get-you-higher-than-blunts" id="markdown-toc-do-bongs-get-you-higher-than-blunts">Do Bongs get You Higher than Blunts?</a></li>
+<li><a href="#bong-science-weed-percolation--water-diffusion" id="markdown-toc-bong-science-weed-percolation--water-diffusion">Bong Science: Weed Percolation &amp; Water Diffusion</a></li>
+<li><a href="#how-to-use-a-bong" id="markdown-toc-how-to-use-a-bong">How to Use a Bong</a></li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
+</nav>
 
 Real talk:
 
@@ -12,13 +23,12 @@ When it comes to conserving herb and sending your rotation to the moon, [bongs](
 
 That being said, you may find yourself asking how bongs work, and why are they so damn effective?
 
-![How does a bong work header image](/images/bongs/how-does-a-bong-work-header.jpg){: .img-right}
-
 We’re going to cover everything from the basics on how to use a bong, to the science behind bong percolation and weed diffusion. 
 
 So, it's time to spark up and zone in—it’s time to get Smokephisticated.
 
 ## What is a Bong Used For? 
+![How does a bong work header image](/images/bongs/how-does-a-bong-work-header.jpg){: .img-right}
 
 A bong is used to smoke cannabis while utilizing the benefits of percolation. 
 

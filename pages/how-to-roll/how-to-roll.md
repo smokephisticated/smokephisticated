@@ -14,7 +14,7 @@ And hey, if blunts are more your thing, that’s cool too bro.
 
 In this guide, we’re going to cover the basic rolling techniques that you can apply to every type of roll, regardless of the wrap you’re using.
 
-Whether you want to learn [how to roll a joint](/how-to-roll/joint/), [how to roll a blunt](/how-to-roll/blunt/), or [how to roll a backwood](/how-to-roll/backwood/), we've got you covered. 
+Whether you want to learn [how to roll a joint](/how-to-roll/joint/) or [how to roll a blunt](/how-to-roll/blunt/), we've got you covered. 
 
 ## Learn How to Roll 
 
