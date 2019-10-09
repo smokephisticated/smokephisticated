@@ -2,7 +2,7 @@
 title: "Rolling a Blunt for Beginners: The Ultimate Guide (2019)"
 permalink: "/how-to-roll/blunt/"
 layout: article
-seotitle: "How to Roll a Blunt in 5 Easy Steps (Fat Doinks)" 
+seotitle: "How to Roll a Blunt Perfectly Every Time (Step by Step)" 
 description: "In this tutorial you're going to learn exactly how to roll a blunt. We're going to teach you how to become a blunt rolling master!"
 ---
 
@@ -34,7 +34,7 @@ If you're a beginner, swishers are probably your best bet. In this tutorial, you
 
 In this part of the guide, we're going to show you exactly how to roll a blunt, step by step. 
 
-We'll be using a Game wrap, but our rolling technique applies to just about every regular blunt wrap – if you want to learn [how to roll a backwood](/how-to-roll/backwood/), we have another guide about that.
+We'll be using a Game wrap, but our rolling technique applies to just about every regular blunt wrap.
 
 **Before you get rolling, you'll need:** 
 
