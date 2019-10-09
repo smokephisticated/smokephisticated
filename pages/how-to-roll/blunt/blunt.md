@@ -1,5 +1,5 @@
 ---
-title: "Rolling a Blunt for Beginners: The Ultimate Guide (2019)"
+title: "Rolling a Blunt for Beginners: Step by Step with Pictures"
 permalink: "/how-to-roll/blunt/"
 layout: article
 seotitle: "How to Roll a Blunt Perfectly Every Time (Step by Step)" 
