@@ -2,7 +2,7 @@
 title: "How a Bong Works: Percolation, Diffusion, & More"
 permalink: "/pieces/bongs/how-it-works/"
 layout: article
-seotitle: "How a Bong Works: Complete Scientific Breakdown (For Stoners)" 
+seotitle: "How a Bong Works: Quick Scientific Breakdown (For Stoners)" 
 description: "If you're ever asking, 'how does a bong work?' Smokephisticated has your back. We've created a guide teaching you everything you need to know about bongs!"
 ---
 
