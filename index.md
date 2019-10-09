@@ -13,7 +13,7 @@ title:
         rgba($color-primary-dark, 0.4)), url(/images/cover.jpg)">
       <div class="wrap page-lead-content">
         <h1>Smokephisticated</h1>
-        <h2>Get high as shit</h2>
+        <h2>A Stoner's Compass</h2>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
     <div id="page-wrapper">
