@@ -22,7 +22,7 @@ We’ll go over whether or not ice notches are a must-have in all bongs and bubb
 
 ## What is an Ice Catcher?
 
-<img alt="twisted tree perc bong ice notch example" class="lazyload img-right" data-src="/images/bongs/ice-bongs/labeled-twisted-tree-ice-bongs.jpg">
+<img alt="twisted tree perc bong ice notch example" class="lazyload img-right" data-src="/images/bongs/ice-bongs/labeled-twisted-tree-ice-bong.jpg">
 
 An ice catcher (also called ice notches) is a group of indents that are usually welded into the neck of an ice bong can hold and suspend ice.
 
@@ -91,7 +91,7 @@ That being said, we know how important it is to have smoother rips, so here are 
 	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 	<p>Here's our favorite combo that makes a very noticeable difference:</p>
 	<p>Step 1. Percolation!</p>
-	<p>Long explanation short, percolation is what happens when you smoke using water like an ordinary bong. If you haven't checked out our guide on the [benefits and science behind percolation and diffusion](/pieces/bongs/how-it-works/){: target="_blank"}, make sure to smokephisticate yourself.</p>
+	<p>Long explanation short, percolation is what happens when you smoke using water like an ordinary bong. If you haven't checked out our guide on the <a target="_blank" href="/pieces/bongs/how-it-works/">benefits and science behind percolation and diffusion</a>, make sure to smokephisticate yourself.</p>
 	<p>Step 2. Once you've added your water just enough to get some solid bubbles using your downstem without risk of slurping, add some ice to that water!</p>
 </div>
 
