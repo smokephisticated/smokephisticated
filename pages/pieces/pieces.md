@@ -41,7 +41,7 @@ Luckily, we've made a page dedicated to [bongs](/pieces/bongs/), how they work, 
 
 ### Pipes 
 
-When people think of [weed pipes](/pieces/pipes/), they probably picture a bowl in their head.
+When people think of [weed pipes](https://www.grasscity.com/smoking-pipes?ref=smokephisticated){: target="_blank"}, they probably picture a bowl in their head.
 
 Believe it or not, there are actually *way* more types of smoking pipes. 
 
@@ -59,7 +59,7 @@ It's a trade off. You might as well buy one of each – a pipe for the road, and
 
 ### Dab Rigs
 
-When it comes to getting high as fuck, no other pieces even come close to [dab rigs](/pieces/dab-rigs/). 
+When it comes to getting high as fuck, no other pieces even come close to [dab rigs](https://www.grasscity.com/dab-rigs?ref=smokephisticated){: target="_blank"}. 
 
 <img alt="dab rig" class="lazyload img-right" data-src="/images/dab-rigs/dab-rig-img.jpg">
 
