@@ -22,8 +22,6 @@ We’ll go over whether or not ice notches are a must-have in all bongs and bubb
 
 ## What is an Ice Catcher?
 
-<img alt="twisted tree perc bong ice notch example" class="lazyload img-right" data-src="/images/bongs/ice-bongs/labeled-twisted-tree-ice-bong.jpg">
-
 An ice catcher (also called ice notches) is a group of indents that are usually welded into the neck of an ice bong can hold and suspend ice.
 
 These indents can be designed in many different ways, but the main purpose is to create a platform for ice without restricting the airflow when smoking.
@@ -35,6 +33,8 @@ Aside from functional use, some ice notches are designed to give a piece a bette
 ## How Does an Ice Bong Cool Smoke?
 
 This is all about the simple rules of contact, and the drastic temperature difference between hot milky smoke and frozen water.
+
+<img alt="twisted tree perc bong ice notch example" class="lazyload img-left" data-src="/images/bongs/ice-bongs/labeled-twisted-tree-ice-bong.jpg">
 
 When hot smoke passes through the neck of a bong, it comes in contact with that loaded ice stack; a last-second battle between hot and cold leaves you with much cooler hits.
 
