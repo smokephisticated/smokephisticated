@@ -8,7 +8,7 @@ description: "Ice bongs and ice catchers explained."
 
 Using ice to cool your bong hits makes smoke sessions feel much easier on the throat and lungs, but these same frosty rips can be even more harmful than just using cold water.
 
-<img alt=”ice filled clear glass bong" class="img-right lazyload" data-src="/images/bongs/ice-bongs/ice-bong-hdbw.jpg">
+<img alt="ice filled clear glass bong" class="img-right lazyload" data-src="/images/bongs/ice-bongs/ice-bong-hdbw.jpg">
 
 While ice bongs are designed to give you a break from the heat of toking, these same frosty rips can be much more harmful than just using a classic water percolator or even nothing at all.
 
@@ -18,11 +18,11 @@ Ice bongs are water pipes that feature ice notches that hold cubes of ice.
 
 I can speak from experience when I say that there is a noticeable temperature difference between ripping a bong with vs without ice. 
 
-We’ll go over whether or not ice notches is a must-have in all bongs and bubblers later, but for now:
+We’ll go over whether or not ice notches are a must-have in all bongs and bubblers later, but for now:
 
 ## What is an Ice Catcher?
 
-<img alt="twisted tree perc bong ice notch example" class="lazyload img-right" data-src="/images/bongs/ice-bong/labeled-twisted-tree-ice-bongs.jpg">
+<img alt="twisted tree perc bong ice notch example" class="lazyload img-right" data-src="/images/bongs/ice-bongs/labeled-twisted-tree-ice-bongs.jpg">
 
 An ice catcher (also called ice notches) is a group of indents that are usually welded into the neck of an ice bong can hold and suspend ice.
 
@@ -36,7 +36,7 @@ Aside from functional use, some ice notches are designed to give a piece a bette
 
 This is all about the simple rules of contact, and the drastic temperature difference between hot milky smoke and frozen water.
 
-When hot smoke passes through the neck of a bong, it comes in contact with that loaded ice stack; a last-second interaction battle between hot and cold leaves you with much cooler hits.
+When hot smoke passes through the neck of a bong, it comes in contact with that loaded ice stack; a last-second battle between hot and cold leaves you with much cooler hits.
 
 This interaction decreases the temperature of smoke because of the freezing conditions inside the chamber.
 
@@ -57,21 +57,13 @@ Now that we've gone over some of the pros of using ice bongs, let's delve into t
 According to reports, it actually can be! However, most of the risk is totally avoidable.
 So, when an ice cube is first pulled out of the freezer there is a noticeable amount of loose frost along the surface of the cube.
 
-If immediately dropped onto a catcher for smoking, these cubes will shed those frost shards as you inhale, sending them directly into your throat and lungs along with the cannabis smoke.
-
-As you can imagine, inhaling daggers of water while ripping trees can be very irritating to the human body.
-
 There have even been reports on serious respiratory problems.
 
 ## Can Smoking out of Ice Bongs Cause Bronchitis?
 
 Unfortunately, there are connections between ripping bongs with loaded ice catchers and [bronchitis](https://medlineplus.gov/chronicbronchitis.html){: target="_blank"}!
 
-But before you call it a day and denounce smoking with ice for good; how could an ice bong be harmful?
-
-If anything, you'd think that the colder smoke should leave rips smoother for a healthier toke.
-
-At a closer look, we found that the main problem is actually completely avoidable.
+How to avoid some of the damage:
 
 So, when an ice cube is first pulled out of the freezer there is a noticeable amount of loose frost along the surface of the cube.
 
