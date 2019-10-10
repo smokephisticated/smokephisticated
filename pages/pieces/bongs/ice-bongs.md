@@ -30,7 +30,7 @@ This interaction decreases the temperature of smoke because of the freezing cond
 
 ## What is an Ice Catcher?
 
-An ice catcher (also called ice notches) is a group of indents that are usually welded into the neck of an ice bong can hold and suspend ice.
+An ice catcher (also called ice notches) is a group of indents that are usually welded into the neck of an ice bong that can hold and suspend ice.
 
 <img alt="twisted tree perc bong ice notch example" class="lazyload img-left" data-src="/images/bongs/ice-bongs/labeled-twisted-tree-ice-bong.jpg">
 
