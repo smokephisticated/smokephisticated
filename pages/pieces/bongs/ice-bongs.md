@@ -42,7 +42,7 @@ Aside from functional use, some ice notches are designed to give a piece a bette
 
 You can find ice catchers in bongs made from different materials like glass, silicone, acrylic, or even bamboo.
 
-They all have the same purpose though: to catch ice and cool smoke as it passes the neck of a bong.
+They all have the same purpose though: to catch ice and cool smoke as it passes through the neck of a bong.
 
 ## Do You Need Ice Notches in a Bong?
 
@@ -118,4 +118,4 @@ The water won’t stay cold for quite as long, but it will still be much better 
 
 ## Conclusion
 
-Although the great debate between whether ice notches are dangerous and worth the risk is an age-old debate between stoners in forums and rotation—the decision is yours—but whatever you do, keep informed and stay Smokephisticated.
+Although the great debate between whether ice notches are dangerous and worth the risk is an age-old discussion between stoners in forums and rotation — the decision is yours — but whatever you do, keep informed on the facts and stay Smokephisticated.
