@@ -409,10 +409,11 @@ You're supposed to pop a few ice cubes through the mouth piece, and they'll be c
 
 After your smoke passes through the water and percolators, it'll also have to pass through the ice in the bong, which will only cool down the smoke even more. 
 
+Check out our [ice bongs](/pieces/bongs/ice-bongs/){: target="_blank"} page if you want to learn more about frosty smoking.
+
 <div class="toker-tip">
 	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 	<p>If you also add ice to your bong water before you pour it in the bong, your hits will be extra frosty and smooth.</p>
-
 	<p>When this tip is used in combination with ice notches, you'll be able to take rip after rip without burning your throat or your lungs.</p>
 </div>
 
