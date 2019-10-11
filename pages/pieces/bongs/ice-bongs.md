@@ -38,13 +38,15 @@ These indents can be designed in many different ways, but the main purpose is to
 
 Another practical benefit to ice notches is the ergonomic grip that they can provide.
 
-Aside from functional use, some ice notches are designed to give a piece a better feel aesthetically.
+Aside from functional use, some ice notches are designed to give a piece a better aesthetic look.
+
+You can find ice catchers in bongs made from different materials like glass, silicone, acrylic, or even bamboo.
+
+They all have the same purpose though: to catch ice and cool smoke as it passes the neck of a bong.
 
 ## Do You Need Ice Notches in a Bong?
 
 Definitely not, you'd be fine without them.
-
-<img alt="smoking ice bong rig" class="lazyload img-middle" data-src="/images/bongs/ice-bongs/ice-bong-rip.gif">
 
 Ice notches are 100% a matter of preference, some stoners swear by them, while others are completely opposed.
 
@@ -54,24 +56,25 @@ Now that we've gone over some of the pros of using ice bongs, let's delve into t
 
 ## Is Smoking From an Ice Bong Dangerous?
 
-According to reports, it actually can be! However, most of the risk is totally avoidable.
-So, when an ice cube is first pulled out of the freezer there is a noticeable amount of loose frost along the surface of the cube.
+According to reports, it actually can be! We've found multiple cases of serious respiratory problems after use of an ice bong.
 
-There have even been reports on serious respiratory problems.
+There have even been instances of hospitalization in people smoking with a full ice catcher.
+
+However, we've foud that a lot of the risk of damage is easily avoidable.
 
 ## Can Smoking out of Ice Bongs Cause Bronchitis?
 
-Unfortunately, there are connections between ripping bongs with loaded ice catchers and [bronchitis](https://medlineplus.gov/chronicbronchitis.html){: target="_blank"}!
+Unfortunately, there are links between ripping bongs with loaded ice catchers and [bronchitis](https://medlineplus.gov/chronicbronchitis.html){: target="_blank"}.
 
-How to avoid some of the damage:
+<img alt="smoking ice bong rig" class="lazyload img-middle" data-src="/images/bongs/ice-bongs/ice-bong-rip.gif">
+
+**How to avoid some of the damage:**
 
 So, when an ice cube is first pulled out of the freezer there is a noticeable amount of loose frost along the surface of the cube.
 
 If immediately dropped into ice notches, these cubes will shed those loose frost shards as you inhale, sending them directly into your throat and lungs.
 
-As you can imagine, inhaling daggers of water can be very irritating to the human body, which can contribute to the cause of bronchitis if the irritation is serious. 
-
-## How to Smoke Using Ice Without Ice Notches
+As you can imagine, inhaling daggers of water can be very irritating to the human body, which can contribute to the cause of bronchitis if the irritation is serious enough.
 
 There are two things you can do to avoid damaging your lungs while smoking out of ice bongs:
 
@@ -86,6 +89,8 @@ Even with our tips above, there is no complete avoidance of inhaling particles o
 To be safe, you should try to avoid using ice notches too frequently. Every now and then should be fine though.
 
 That being said, we know how important it is to have smoother rips, so here are some alternatives to cooling your bong smoke.
+
+## How to Smoke Using Ice Without Ice Notches
 
 <div class="toker-tip">
 	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
