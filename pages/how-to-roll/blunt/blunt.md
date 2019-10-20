@@ -68,22 +68,24 @@ It's much easier to roll the blunt back up with weed if you split the blunt stra
 
 The blunt should only have one cut down the middle, and you should do everything you can to make sure it is as straight as possible. 
 
-<div class="toker-tip">
-	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
-	<p>You can buy a blunt splitter on Amazon for cheap.</p>
-
-	<p>It's a little tiny device that can fit on your keychain.</p>
-
-	<p>All you have to do is push a blunt through it, and it splits perfectly every time!</p>
-
-	<p>Keychain blunt splitters are dank because you can use them to split a blunt no matter where you are.</p>
-
-	<p>The only problem?</p>
-
-	<p>If anyone sees it, they'll automatically know you're a stoner... it's a dead giveaway!</p>
+<div id="blunt-splitter" class="featured-info-box">
+<span>Toker Tool</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2N1kQNW"><img alt="blunt splitter 5 pack" class="lazyload" data-src="/images/blunts/blunt-splitter-pack.jpg"></a>
+</div>
+<div class="text">
+<h2>EZ Splitz Cigar Cutter 5 Pack</h2>
+<h3>Cigarillo Splitter</h3>
+<p>Blunt splitters are little tiny devices that can fit on your keychain — all you have to do is push a blunt through it — it splits perfectly every time! Keychain blunt splitters are dank because you can use them to split a blunt no matter where you are. The only problem? If anyone sees it, they'll automatically know you're a stoner... it's a dead giveaway!</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://amzn.to/2N1kQNW">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-If you don't have a knife or a <a target="_blank" href="https://www.amazon.com/Cigar-Cutter-Blunt-Splitters-Small/dp/B07J3SQC33/ref=sr_1_2?keywords=keychain+blunt+splitter&qid=1553633969&s=gateway&sr=8-2">blunt splitter</a>, you can always use your thumbs. 
+If you don't have a knife or a blunt splitter, you can always use your thumbs. 
 
 Ever wonder why stoners have long nails? 
 
