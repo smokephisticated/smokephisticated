@@ -158,15 +158,28 @@ Ah yes, it's time for the tuck.
 
 Perfect tuck technique is hard to come by, and it takes a while to get the hang of it. 
 
-<img alt="raw rolling tray" class="lazyload img-right" data-src="/images/rolling-tray/raw-tray.jpeg">
-
-However, like most things in life, tucking is much easier once you get the hang of it. 
+However, like most things in life, tucking is much easier after some practice. 
 
 Begin by picking up the blunt with two hands, and rolling it back and forth a bit in your hands. This way, you'll make sure the weed is sitting flat in the bottom of the blunt wrap.
 
 If some weed falls out during the process, it's okay. That's why we recommend buying a rolling tray. 
 
-They're cheap, stylish, and most importantly, they're practical – all of the weed that falls during the rolling process is collected in one place. 
+<div id="raw-rolling-tray" class="featured-info-box">
+<span>Toker Tool</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2P5irEO"><img alt="11 x 7 raw rolling tray" class="lazyload" data-src="/images/blunts/raw-rolling-tray.jpg"></a>
+</div>
+<div class="text">
+<h2>Metal Raw Rolling Tray</h2>
+<h3>Raw Rolling Tray</h3>
+<p>They're cheap, stylish, and most importantly, they're practical – all of the weed that falls during the rolling process is collected in one place.</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://amzn.to/2P5irEO">Check Price</a>
+</div>
+</div>
+</div>
+</div>
 
 I always hate cleaning up weed crumbs from my desk, as most of them end up being wasted. 
 
