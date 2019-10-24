@@ -6,17 +6,6 @@ seotitle: "How a Bong Works: Quick Scientific Breakdown (For Stoners)"
 description: "If you're ever asking, 'how does a bong work?' Smokephisticated has your back. We've created a guide teaching you everything you need to know about bongs!"
 ---
 
-<nav class="toc">
-<ul id="markdown-toc">
-<h6>Table of Contents</h6>
-<li><a href="#how-does-a-bong-work" id="markdown-toc-how-does-a-bong-work">How Does a Bong Work?</a></li>
-<li><a href="#do-bongs-get-you-higher-than-blunts" id="markdown-toc-do-bongs-get-you-higher-than-blunts">Do Bongs get You Higher than Blunts?</a></li>
-<li><a href="#bong-science-weed-percolation--water-diffusion" id="markdown-toc-bong-science-weed-percolation--water-diffusion">Bong Science: Weed Percolation &amp; Water Diffusion</a></li>
-<li><a href="#how-to-use-a-bong" id="markdown-toc-how-to-use-a-bong">How to Use a Bong</a></li>
-<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
-</ul>
-</nav>
-
 Real talk:
 
 When it comes to conserving herb and sending your rotation to the moon, [bongs](/pieces/bongs/) are king.
@@ -309,3 +298,14 @@ As you can imagine, this big disbursement of smoke results in great surface area
 There are countless types of percs that can range from simple slitted downstems, to intricate double layered tree perks, ufo percs, honeycomb percs, and much more.
 
 Some bongs and rigs host multiple percolators—delivering a flurry of tiny aerated bubbles into a number of the pipe’s chambers upon inhale.
+
+<nav class="toc">
+<ul id="markdown-toc">
+<h6>Table of Contents</h6>
+<li><a href="#how-does-a-bong-work" id="markdown-toc-how-does-a-bong-work">How Does a Bong Work?</a></li>
+<li><a href="#do-bongs-get-you-higher-than-blunts" id="markdown-toc-do-bongs-get-you-higher-than-blunts">Do Bongs get You Higher than Blunts?</a></li>
+<li><a href="#bong-science-weed-percolation--water-diffusion" id="markdown-toc-bong-science-weed-percolation--water-diffusion">Bong Science: Weed Percolation &amp; Water Diffusion</a></li>
+<li><a href="#how-to-use-a-bong" id="markdown-toc-how-to-use-a-bong">How to Use a Bong</a></li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
+</nav>
