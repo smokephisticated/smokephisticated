@@ -27,6 +27,10 @@ Bongs are a good method for conserving your supply while simultaneously deliveri
 
 ## How Does a Bong Work? 
 
+As opposed to dry pipes, a bong works by using water percolation and diffusion to make rips much smoother.
+
+A vacuum-like air tight design forces smoke to bubble and diffuse as it travels through water, while water affects smoke in an entirely different way (more on this later!).
+
 <div class="iframeVideo">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VG03oq1Mxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
