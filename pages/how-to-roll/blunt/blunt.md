@@ -67,7 +67,7 @@ Unless you bought yourself a cigar wrap without any tobacco in it, you're going 
 I've only smoked a blunt with tobacco in it once, and it's never happening again – that shit is gross! 
 
 <div class="stoner-story">
-<h4>Stoner Story<i class="box-icon-spacing fas fa-check"></i></h4>
+<h4>Stoner Story<i class="box-icon-spacing fas fa-book"></i></h4>
 
 <p>There I was, trying to get high as a kite once again. I had a blunt in one hand and some Green Crack in the other (some super OG kush).</p>
 
