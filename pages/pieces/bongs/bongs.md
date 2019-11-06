@@ -22,138 +22,6 @@ Oh, and if you think you’re too high to read this, just remember something:
 
 I was too high to write, but I did it anyway. 
 
-## What is a Bong?
-
-According to [Wikipedia](https://en.wikipedia.org/wiki/Bong){: target="_blank"}: 
-
-<blockquote>
-<p>A bong is a filtration device generally used for smoking cannabis, tobacco, or other herbal substances… A bong may be constructed from any air and water-tight vessel by adding a bowl and stem apparatus (or slide) which guides air downward to below water level whence it bubbles upward ("bubbler") during use.</p>
-</blockquote>
-
-In other words, a bong is a stoner’s best friend. 
-
-There are dozens of different kinds of bongs, made from different materials, with different percolation devices, sizes, designs, etc. 
-
-Nevertheless, just about every single bong on the market all have one thing in common: 
-
-Water is used to filter and the smoke which gathers in a large chamber, until the carb hole is uncovered or the bowl is removed and all of the smoke is pulled into the lungs all at one time. 
-
-Needless to say, bongs are an incredibly efficient way to smoke marijuana. They deliver the best high for your supply, and it’s easy to take fat ass rips that get you high as shit. 
-
-<div class="stoner-story">
-	<h4>Stoner Story<i class="box-icon-spacing fas fa-book"></i></h4>
-
-<p>On the first day of college, I moved into my dorm.</p>
-
-<p>My Resident Advisor (the guy who lives on my floor who’s supposed to make sure residents are following the rules) told us that we weren’t allowed to have weed in our rooms, much less smoke it.</p>
-
-<p>What did my friends and I do next? </p>
-
-<p>We went to the bathroom, put a towel underneath the door, turned on the shower, put the vent on full blast, packed a bowl, and ripped a bong. </p>
-
-<p>Needless to say, we were baked pretty quickly. We blew all of the smoke in the vent and got away with it. </p>
-
-<p>We thought we were slick, but in reality, our entire floor reeked… Everybody knew we were in our bathroom, 420 blazing. </p>
-
-<p>Turns out our RA was a badass, smoked weed too, and didn’t really care. </p>
-
-<p>What’s the bottom line here?</p>
-
-<p>Now I’m trying to convince our RA to toke with us. </p>
-
-<p>To be continued… </p>
-
-</div>
-
-When you rip a bong correctly, you’ll feel the hit going straight to the dome. 
-
-The bigger the bong, the more smoke you can pull in each hit. If you’re an OG stoner with lungs of steel, you might even be able to smoke an entire bowl in one giant hit. 
-
-## Benefits of Using a Bong 
-
-Smoking out of bongs has multiple benefits as opposed to other methods of smoking.
-
-For one, water pipes are very effective at conserving cannabis when compared to rollables like joints or blunts. By corner hitting your bowl packs, you can keep that pack green for multiple hits.
-
-Smoking with wraps also consumes the flavor of your cannabis, whereas water pipes retain the taste of the particular strand you’re toking on.
-
-<img alt="guy hitting a bong" class="lazyload img-middle" data-src="/images/bongs/hitting-bong.jpg">
-
-By using a bong, you also filter out polar contaminants as your smoke passes through water.
-
-In addition, water cools your smoke down a bit — adding ice to your water strengthens this effect even further, and if your bong has ice notches, every hit will be cool and frosty!
-
-Lastly, bongs can collect a ton of smoke in their chambers before you remove the bowl and clear the bong, meaning you can take bigger rips and, as a consequence, get way higher. 
-
-### Do Bongs Get You Higher? 
-
-Yeah, bongs get you higher than pretty much every other piece, aside from a dab rig. 
-
-With the right attachments, however, you can turn any bong into a dab rig. Bongs are awesome!
-
-## How Does a Bong Work? 
-
-You pack a bowl, rip the bong, clear the bong, and get baked. That’s pretty basic. 
-
-If you’re the kind of person who likes to delve deeper and you want to hash out the details, we’ve created a guide about the science behind bongs. 
-
-We cover everything from the benefits of percolation to the chemistry behind it, and we even touch on diffusion. 
-
-So, if you find yourself asking [how a bong works](/pieces/bongs/how-it-works/), check out the guide!
-
-## How Do You Clean a Bong?
-
-Bongs can get pretty dirty after prolonged use. Nobody wants to hit a bong with dirty bong water.
-
-Moreover, little bits of grime and shit will collect in the smoke chamber. It looks gross, and it makes the smoke taste gross. 
-
-That's why it's important to clean your bong regularly, especially if you don't want your room to smell like bong water. 
-
-It may seem like a pain in the ass, but once you learn [how to clean a bong](/pieces/bongs/how-to-clean/) quickly, it's actually pretty quick and painless. 
-
-## Best Bongs 
-
-Let's take a look at the best glass bongs on the market. 
-
-<table>
-	<tr>
-		<th>PIC</th>
-		<th>Bong</th>
-		<th>Type</th>
-		<th>View</th>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload table-image" data-src="/images/bongs/percolator-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Perc Bong</a></td>
-		<td>Percolator</td>
-		<td><a class="big-button" href="#percolator-bong">Read More</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Glasscity Beaker Ice Bong</a></td>
-		<td>Beaker</td>
-		<td><a class="big-button" href="#beaker-bong">Read More</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload table-image" data-src="/images/bongs/honeycomb-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers">Black Leaf Triple Honeycomb Bong</a></td>
-		<td>Honeycomb</td>
-		<td><a class="big-button" href="#honeycomb-bong">Read More</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html"><img alt="best silicone bong" class="lazyload table-image" data-src="/images/bongs/blue-silicone-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html">PieceMaker Kali Silicone Bong</a></td>
-		<td>Silicone</td>
-		<td><a class="big-button" href="#silicone-bong">Read More</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html"><img alt="best mini bong" class="lazyload table-image" data-src="/images/bongs/amsterdam-mini-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html">Amsterdam Bouncer Mini Bong</a></td>
-		<td>Mini</td>
-		<td><a class="big-button" href="#mini-bong">Read More</a></td>
-	</tr>
-</table>
-
 <div id="percolator-bong" class="featured-info-box">
 <span>Top Pick</span>
 <div class="content">
@@ -266,6 +134,138 @@ We especially like this feature, because it keeps your mouth away from the bowl 
 Otherwise, your face would be too close to the bowl and lighting the bong without burning yourself or at least irritating your face would be difficult.
 
 All in all, this mini bong punches above its weight class, delivering the best high for your supply!
+
+## Best Bongs 
+
+Let's take a look at the best glass bongs on the market. 
+
+<table>
+	<tr>
+		<th>PIC</th>
+		<th>Bong</th>
+		<th>Type</th>
+		<th>View</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload table-image" data-src="/images/bongs/percolator-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Perc Bong</a></td>
+		<td>Percolator</td>
+		<td><a class="big-button" href="#percolator-bong">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Glasscity Beaker Ice Bong</a></td>
+		<td>Beaker</td>
+		<td><a class="big-button" href="#beaker-bong">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload table-image" data-src="/images/bongs/honeycomb-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers">Black Leaf Triple Honeycomb Bong</a></td>
+		<td>Honeycomb</td>
+		<td><a class="big-button" href="#honeycomb-bong">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html"><img alt="best silicone bong" class="lazyload table-image" data-src="/images/bongs/blue-silicone-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html">PieceMaker Kali Silicone Bong</a></td>
+		<td>Silicone</td>
+		<td><a class="big-button" href="#silicone-bong">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html"><img alt="best mini bong" class="lazyload table-image" data-src="/images/bongs/amsterdam-mini-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html">Amsterdam Bouncer Mini Bong</a></td>
+		<td>Mini</td>
+		<td><a class="big-button" href="#mini-bong">Read More</a></td>
+	</tr>
+</table>
+
+## What is a Bong?
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Bong){: target="_blank"}: 
+
+<blockquote>
+<p>A bong is a filtration device generally used for smoking cannabis, tobacco, or other herbal substances… A bong may be constructed from any air and water-tight vessel by adding a bowl and stem apparatus (or slide) which guides air downward to below water level whence it bubbles upward ("bubbler") during use.</p>
+</blockquote>
+
+In other words, a bong is a stoner’s best friend. 
+
+There are dozens of different kinds of bongs, made from different materials, with different percolation devices, sizes, designs, etc. 
+
+Nevertheless, just about every single bong on the market all have one thing in common: 
+
+Water is used to filter and the smoke which gathers in a large chamber, until the carb hole is uncovered or the bowl is removed and all of the smoke is pulled into the lungs all at one time. 
+
+Needless to say, bongs are an incredibly efficient way to smoke marijuana. They deliver the best high for your supply, and it’s easy to take fat ass rips that get you high as shit. 
+
+<div class="stoner-story">
+	<h4>Stoner Story<i class="box-icon-spacing fas fa-book"></i></h4>
+
+<p>On the first day of college, I moved into my dorm.</p>
+
+<p>My Resident Advisor (the guy who lives on my floor who’s supposed to make sure residents are following the rules) told us that we weren’t allowed to have weed in our rooms, much less smoke it.</p>
+
+<p>What did my friends and I do next? </p>
+
+<p>We went to the bathroom, put a towel underneath the door, turned on the shower, put the vent on full blast, packed a bowl, and ripped a bong. </p>
+
+<p>Needless to say, we were baked pretty quickly. We blew all of the smoke in the vent and got away with it. </p>
+
+<p>We thought we were slick, but in reality, our entire floor reeked… Everybody knew we were in our bathroom, 420 blazing. </p>
+
+<p>Turns out our RA was a badass, smoked weed too, and didn’t really care. </p>
+
+<p>What’s the bottom line here?</p>
+
+<p>Now I’m trying to convince our RA to toke with us. </p>
+
+<p>To be continued… </p>
+
+</div>
+
+When you rip a bong correctly, you’ll feel the hit going straight to the dome. 
+
+The bigger the bong, the more smoke you can pull in each hit. If you’re an OG stoner with lungs of steel, you might even be able to smoke an entire bowl in one giant hit. 
+
+## Benefits of Using a Bong 
+
+Smoking out of bongs has multiple benefits as opposed to other methods of smoking.
+
+For one, water pipes are very effective at conserving cannabis when compared to rollables like joints or blunts. By corner hitting your bowl packs, you can keep that pack green for multiple hits.
+
+Smoking with wraps also consumes the flavor of your cannabis, whereas water pipes retain the taste of the particular strand you’re toking on.
+
+<img alt="guy hitting a bong" class="lazyload img-middle" data-src="/images/bongs/hitting-bong.jpg">
+
+By using a bong, you also filter out polar contaminants as your smoke passes through water.
+
+In addition, water cools your smoke down a bit — adding ice to your water strengthens this effect even further, and if your bong has ice notches, every hit will be cool and frosty!
+
+Lastly, bongs can collect a ton of smoke in their chambers before you remove the bowl and clear the bong, meaning you can take bigger rips and, as a consequence, get way higher. 
+
+### Do Bongs Get You Higher? 
+
+Yeah, bongs get you higher than pretty much every other piece, aside from a dab rig. 
+
+With the right attachments, however, you can turn any bong into a dab rig. Bongs are awesome!
+
+## How Does a Bong Work? 
+
+You pack a bowl, rip the bong, clear the bong, and get baked. That’s pretty basic. 
+
+If you’re the kind of person who likes to delve deeper and you want to hash out the details, we’ve created a guide about the science behind bongs. 
+
+We cover everything from the benefits of percolation to the chemistry behind it, and we even touch on diffusion. 
+
+So, if you find yourself asking [how a bong works](/pieces/bongs/how-it-works/), check out the guide!
+
+## How Do You Clean a Bong?
+
+Bongs can get pretty dirty after prolonged use. Nobody wants to hit a bong with dirty bong water.
+
+Moreover, little bits of grime and shit will collect in the smoke chamber. It looks gross, and it makes the smoke taste gross. 
+
+That's why it's important to clean your bong regularly, especially if you don't want your room to smell like bong water. 
+
+It may seem like a pain in the ass, but once you learn [how to clean a bong](/pieces/bongs/how-to-clean/) quickly, it's actually pretty quick and painless. 
 
 ## What Are The Best Types of Bongs? 
 
