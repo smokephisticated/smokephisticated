@@ -66,6 +66,26 @@ Unless you bought yourself a cigar wrap without any tobacco in it, you're going 
 
 I've only smoked a blunt with tobacco in it once, and it's never happening again – that shit is gross! 
 
+<div class="stoner-story">
+<h4>Stoner Story<i class="box-icon-spacing fas fa-check"></i></h4>
+
+<p>There I was, trying to get high as a kite once again. I had a blunt in one hand and some Green Crack in the other (some super OG kush).</p>
+
+<p>It took way longer than necessary, and I ended up ruining the blunt because I couldn't cut it straight to save my life.</p>
+
+<p>Now, keep in mind I was already 3 blunts, 2 joints, and a fat gravity bong rip deep, so cut me some slack...</p>
+
+<p>Anyway, before my high ass ruined the other one, my friend (also baked) walked over, grabbed the blunt, and popped it in his splitter.</p>
+
+<p>I couldn't believe it - that high bastard split the blunt perfectly and it took 2 seconds.</p>
+
+<p>Sure, I was toasted and it probably wasn't actually that cool, but to me, it was mind blowing. It was the best thing since sliced bread.</p>
+
+<p>Moral of the story?</p>
+
+<p>Blunt splitters are dank.</p>
+</div>
+
 In any event, if you want to roll a blunt, you're going to have to get rid of the stuff that's already inside of the blunt wrap. 
 
 Unless you want to hate your life and look like a total noob, we highly recommend using a [blunt splitter](https://amzn.to/36Jf9NZ){: target="_blank"}. 
@@ -81,26 +101,6 @@ They're super dank too because you can use them to split a blunt no matter where
 Keychain blunt splitters like [this insanely cheap 5-pack on Amazon](https://amzn.to/36Jf9NZ){: target="_blank"} come with free next-day shipping too.
 
 I know you've already killed most of your brain cells by this point, but come on – this one is a no brainer.
-
-<div class="stoner-story">
-<h4>Stoner Story<i class="box-icon-spacing fas fa-check"></i></h4>
-
-<p>There I was, trying to get high as a kite once again. I had a blunt in one hand and some Green Crack in the other (some super OG kush).</p>
-
-<p>It took way longer than necessary, and I ended up ruining the blunt because I couldn't cut it straight to save my life.</p>
-
-<p>Now, keep in mind I was already 3 blunts, 2 joints, and a fat gravity bong rip deep, so cut me a break...</p>
-
-<p>Anyway, before my high ass ruined the other one, my friend (also baked) walked over, grabbed the blunt, and popped it in his splitter.</p>
-
-<p>I couldn't believe it - that high bastard split the blunt perfectly and it took 2 seconds. I couldn't believe my eyes.</p>
-
-<p>Sure, I was toasted and it probably wasn't actually that cool, but to me, it was mind blowing. It was the best thing since sliced bread.</p>
-
-<p>Moral of the story?</p>
-
-<p>Blunt splitters are dank.</p>
-</div>
 
 But if you can't spare $5, I got you bro – it's a hard on these streets. 
 
