@@ -1,5 +1,5 @@
 ---
-title: "Rolling a Blunt for Beginners: Step by Step with Pictures"
+title: "Rolling a Blunt for Beginners"
 permalink: "/how-to-roll/blunt/"
 layout: article
 seotitle: "How to Roll a Blunt Perfectly Every Time (Step by Step)" 
@@ -32,7 +32,13 @@ If you're a beginner, swishers are probably your best bet. In this tutorial, you
 
 ## How to Roll a Blunt in 5 Easy Steps 
 
-In this part of the guide, we're going to show you exactly how to roll a blunt, step by step. 
+<ol>
+	<li><a href="#step-1-gut-the-blunt-wrap">Gut the blunt wrap</a></li>
+	<li><a href="#step-2-prepare-your-weed">Prepare Your Weed</a></li>
+	<li><a href="#step-3-fill-the-blunt-wrap-with-weed">Fill the blunt wrap with weed</a></li>
+	<li><a href="#step-4-tuck-the-blunt">Tuck the blunt over the weed</a></li>
+	<li><a href="#step-5-lick-roll-and-bake">Lick, roll, and get baked!</a></li>
+</ol>
 
 We'll be using a Game wrap, but our rolling technique applies to just about every regular blunt wrap.
 
@@ -41,10 +47,12 @@ We'll be using a Game wrap, but our rolling technique applies to just about ever
 * A blunt wrap
 * Weed 
 * A lighter 
-* A knife or blunt splitter (optional)
-* A rolling tray (optional)
+* Blunt splitter (recommended)
+* A rolling tray (recommended)
 
-Believe it or not, you actually <a target="_blank" href="https://www.quora.com/Would-a-blunt-smoke-better-rolled-with-ground-up-bud-or-broken-apart-by-hand" rel="nofollow">don't need a grinder</a> if you want to roll a blunt. In fact, I prefer to break up my weed by hand, at least when I'm rolling a blunt. 
+Believe it or not, you actually <a target="_blank" href="https://www.quora.com/Would-a-blunt-smoke-better-rolled-with-ground-up-bud-or-broken-apart-by-hand" rel="nofollow">don't need a grinder</a> if you want to roll a blunt. 
+
+In fact, I prefer to break up my weed by hand, at least when I'm rolling a blunt. 
 
 If you're [rolling a joint](/how-to-roll/joint/), on the other hand, a grinder is crucial. 
 
@@ -52,38 +60,59 @@ Anyway, let's get started!
 
 ### Step 1: Gut the Blunt Wrap 
 
-Unless you bought yourself a cigar wrap without any tobacco in it, you're going to have to gut your blunt. 
+Pay attention, because this part is important: 
 
-Most people buy blunt packs from their local gas station or tobacco shop, and they come in packs of (usually) 2 or 3 pre-rolled blunts with tobacco in them. 
+Unless you bought yourself a cigar wrap without any tobacco in it, you're going to have to gut your blunt.  
 
 I've only smoked a blunt with tobacco in it once, and it's never happening again – that shit is gross! 
 
 In any event, if you want to roll a blunt, you're going to have to get rid of the stuff that's already inside of the blunt wrap. 
 
-<img alt="splitting the blunt" class="lazyload img-middle" data-src="/images/blunts/splitting-the-blunt.JPG">
+Unless you want to hate your life and look like a total noob, we highly recommend using a [blunt splitter](https://amzn.to/36Jf9NZ){: target="_blank"}. 
 
-If you have a knife – preferably a box cutter – then you should use that to split your blunt. 
+<a target="_blank" href="https://amzn.to/36Jf9NZ"><img alt="blunt splitter" class="lazyload" data-src="/images/blunts/splitter.jpg"></a>
+
+Blunt splitters are little tiny devices that can fit on your keychain. 
+
+All you have to do is push a blunt through it, and the blunt splits perfectly every time! 
+
+They're super dank too because you can use them to split a blunt no matter where you are, and they're way easier than using a knife.
+
+Keychain blunt splitters like [this insanely cheap 5-pack on Amazon](https://amzn.to/36Jf9NZ){: target="_blank"} come with free next-day shipping too.
+
+I know you've already killed most of your brain cells by this point, but come on – this one is a no brainer.
+
+<div class="stoner-story">
+<h4>Stoner Story<i class="box-icon-spacing fas fa-check"></i></h4>
+
+<p>There I was, trying to get high as a kite once again. I had a blunt in one hand and some Green Crack in the other (some super OG kush).</p>
+
+<p>It took way longer than necessary, and I ended up ruining the blunt because I couldn't cut it straight to save my life.</p>
+
+<p>Now, keep in mind I was already 3 blunts, 2 joints, and a fat gravity bong rip deep, so cut me a break...</p>
+
+<p>Anyway, before my high ass ruined the other one, my friend (also baked) walked over, grabbed the blunt, and popped it in his splitter.</p>
+
+<p>I couldn't believe it - that high bastard split the blunt perfectly and it took 2 seconds. I couldn't believe my eyes.</p>
+
+<p>Sure, I was toasted and it probably wasn't actually that cool, but to me, it was mind blowing. It was the best thing since sliced bread.</p>
+
+<p>Moral of the story?</p>
+
+<p>Blunt splitters are dank.</p>
+</div>
+
+But if you can't spare $5, I got you bro – it's a hard on these streets. 
+
+Though it's not as easy, you can be a broke boy and use a knife – preferably a box cutter – instead.
+
+Sure, you won't be Smokephisticated if you use a knife, but it'll get the job done. 
+
+<img alt="splitting the blunt" class="lazyload img-middle" data-src="/images/blunts/splitting-the-blunt.JPG">
 
 It's much easier to roll the blunt back up with weed if you split the blunt straight down the middle. 
 
 The blunt should only have one cut down the middle, and you should do everything you can to make sure it is as straight as possible. 
-
-<div id="blunt-splitter" class="featured-info-box">
-<span>Toker Tool</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2N1kQNW"><img alt="blunt splitter 5 pack" class="lazyload" data-src="/images/blunts/blunt-splitter-pack.jpg"></a>
-</div>
-<div class="text">
-<h2>EZ Splitz Cigar Cutter 5 Pack</h2>
-<h3>Cigarillo Splitter</h3>
-<p>Blunt splitters are little tiny devices that can fit on your keychain — all you have to do is push a blunt through it — it splits perfectly every time! Keychain blunt splitters are dank because you can use them to split a blunt no matter where you are. The only problem? If anyone sees it, they'll automatically know you're a stoner... it's a dead giveaway!</p>
-<div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://amzn.to/2N1kQNW">Check Price </a>
-</div>
-</div>
-</div>
-</div>
 
 If you don't have a knife or a blunt splitter, you can always use your thumbs. 
 
@@ -93,7 +122,9 @@ They're splitting blunts all day, and it's easier to use your thumbs if you have
 
 The more you know, right? 
 
-Anyway, if you are using your thumbs, take your time. It's best to go slow and have a well-split blunt than to rush and have a cluster-fucked blunt wrap to work with. 
+Anyway, if you are using your thumbs, take your time. 
+
+It's best to go slow and have a well-split blunt than to rush and have a cluster-fucked blunt wrap to work with. 
 
 <img alt="dumping out the guts" class="lazyload img-middle" data-src="/images/blunts/gutting-the-blunt.jpg">
 
@@ -113,7 +144,9 @@ Although some rollers prefer to grind their weed, I choose to break up my grass 
 
 Here's why: 
 
-Blunts are essentially rolled in tobacco. Unlike a joint, which is wrapped with a thin paper, a blunt wrap is a bit thicker and burns more slowly. 
+Blunts are essentially rolled in tobacco. 
+
+Unlike a joint, which is wrapped with a thin paper, a blunt wrap is a bit thicker and burns more slowly. 
 
 If you grind your weed before you roll a blunt, the weed will burn a bit too fast, especially when compared to the rate at which the blunt wrap itself is burning. 
 
@@ -160,7 +193,9 @@ Perfect tuck technique is hard to come by, and it takes a while to get the hang 
 
 However, like most things in life, tucking is much easier after some practice. 
 
-Begin by picking up the blunt with two hands, and rolling it back and forth a bit in your hands. This way, you'll make sure the weed is sitting flat in the bottom of the blunt wrap.
+Begin by picking up the blunt with two hands, and rolling it back and forth a bit in your hands. 
+
+This way, you'll make sure the weed is sitting flat in the bottom of the blunt wrap.
 
 If some weed falls out during the process, it's okay. That's why we recommend buying a rolling tray. 
 
