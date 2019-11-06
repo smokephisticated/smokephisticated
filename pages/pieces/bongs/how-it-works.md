@@ -12,57 +12,6 @@ A vacuum-like air tight design forces smoke to bubble and diffuse as it travels 
 
 Bongs also work by gathering a ton of smoke in the chamber so you get a massive hit straight to the dome when you clear it. 
 
-## How to Use a Bong 
-<img alt="bong bowl pack" class="lazyload img-right" data-src="/images/bongs/bong-bowl-pack.jpg">
-Using a bong is pretty easy, and they get you high as fuck. Here's a quick tutorial that will show you how to use a bong, step by step: 
-
-### 1. Pack The Bowl 
-
-Pack your bowl with ground weed – you don't have to grind it, but the weed will burn more efficiently, thus conserving your weed. You'll get higher, too. 
-
-### 2. Rip The Bong 
-
-Take a few deep breaths to prepare, and empty your lungs until they're about 80% empty. 
-
-You want to have a bit of extra air in your lungs so that, when you're done ripping the bong, you have extra air to blow the smoke out of your lungs. 
-
-Otherwise, you won't be able to blow out all of the smoke, and you'll start coughing. 
-
-<img alt="girl ripping a bong" class="lazyload img-middle" data-src="/images/bongs/girl-ripping-bong.gif">
-
-Put your mouth over the top of the bong, ensuring an air tight seal. 
-
-Begin pulling hard enough to cause the water to bubble. Light the lighter over the bowl. 
-
-<div class="watch-out">
-	<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
-		
-		<p>Don't hold the lighter on the bowl piece for too long.</p> 
-
-		<p>It should only take one or two seconds before the bowl ignites.</p>
-
-		<p>After that, remove the lighter. The weed will burn on its own.</p>
-
-		<p>If you hold the lighter there too long, you'll torch the weed. </p>
-</div>
-
-### 3. Clear The Bong 
-<img alt="how to use a bong" class="lazyload img-right" data-src="/images/bongs/hitting-bong.gif">
-
-Once the bong is full of milky smoke, it's time to clear it. 
-
-Some bongs have a shotgun (carb hole) while others have a removeable bowl piece. 
-
-Take your finger off of the shotgun or remove the bowl piece, depending on your bong's design. 
-
-Next, inhale hard and fast. You'll clear all of the smoke from the bong, and inhale it into your lungs. 
-
-You'll be high as fuck in no time!
-
-<div class="iframeVideo">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bDkSlcgIYGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Percolation vs Diffusion 
 ![mona lisa smoking a bong](/images/bongs/mona-lisa-smoking.jpg){: .img-right}
 
@@ -249,6 +198,57 @@ You should also keep your eye out for recyclers.
 Recyclers are water pipes that routes smoke through chambers as a circuit.
 
 Any access smoke that isn’t inhaled gets sent back through to the original chamber for another cycle. This process is said to keep your smoke from getting stale, thus ensuring fresh inhales.
+
+## How to Use a Bong 
+<img alt="bong bowl pack" class="lazyload img-right" data-src="/images/bongs/bong-bowl-pack.jpg">
+Using a bong is pretty easy, and they get you high as fuck. Here's a quick tutorial that will show you how to use a bong, step by step: 
+
+### 1. Pack The Bowl 
+
+Pack your bowl with ground weed – you don't have to grind it, but the weed will burn more efficiently, thus conserving your weed. You'll get higher, too. 
+
+### 2. Rip The Bong 
+
+Take a few deep breaths to prepare, and empty your lungs until they're about 80% empty. 
+
+You want to have a bit of extra air in your lungs so that, when you're done ripping the bong, you have extra air to blow the smoke out of your lungs. 
+
+Otherwise, you won't be able to blow out all of the smoke, and you'll start coughing. 
+
+<img alt="girl ripping a bong" class="lazyload img-middle" data-src="/images/bongs/girl-ripping-bong.gif">
+
+Put your mouth over the top of the bong, ensuring an air tight seal. 
+
+Begin pulling hard enough to cause the water to bubble. Light the lighter over the bowl. 
+
+<div class="watch-out">
+	<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
+		
+		<p>Don't hold the lighter on the bowl piece for too long.</p> 
+
+		<p>It should only take one or two seconds before the bowl ignites.</p>
+
+		<p>After that, remove the lighter. The weed will burn on its own.</p>
+
+		<p>If you hold the lighter there too long, you'll torch the weed. </p>
+</div>
+
+### 3. Clear The Bong 
+<img alt="how to use a bong" class="lazyload img-right" data-src="/images/bongs/hitting-bong.gif">
+
+Once the bong is full of milky smoke, it's time to clear it. 
+
+Some bongs have a shotgun (carb hole) while others have a removeable bowl piece. 
+
+Take your finger off of the shotgun or remove the bowl piece, depending on your bong's design. 
+
+Next, inhale hard and fast. You'll clear all of the smoke from the bong, and inhale it into your lungs. 
+
+You'll be high as fuck in no time!
+
+<div class="iframeVideo">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDkSlcgIYGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Conclusion 
 
