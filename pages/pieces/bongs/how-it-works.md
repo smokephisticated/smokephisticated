@@ -3,7 +3,7 @@ title: "How Does a Bong Work & How Do I Use One?"
 permalink: "/pieces/bongs/how-it-works/"
 layout: article
 seotitle: "This is Exactly How a Bong Works: The Baked Breakdown Guide" 
-description: "Bongs utilize water for smoother rips straight to the dome. The process of percolation conserves herb and filters contaminants."
+description: "Ever wondered how a bong works? Bongs utilize percolation and diffusion for smoother rips straight to the dome. This process conserves herb, and filters contaminants for a healthier toke."
 ---
 
 As opposed to dry pipes, a bong works by using water percolation and diffusion to make rips much smoother.
@@ -23,7 +23,7 @@ They're actually two separate things.
 
 Let's get Smokephisticated: 
 
-### Bong Percolation Explained
+## Bong Percolation Explained
 
 Percolation is basically the process of water interacting with smoke bubbles in the bong. 
 
@@ -55,7 +55,7 @@ By using diffusers — or percs — we can encourage this separation of bubbles.
 
 This process is referred to as diffusion, and it’s a big game-changer in percolation.
 
-### Bong Diffusion Explained 
+## Bong Diffusion Explained 
 
 Diffusion is defined as the spreading of something more widely. In smoking, diffusion refers to the division of smoke bubbles.
 
