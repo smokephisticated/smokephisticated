@@ -2,7 +2,7 @@
 title: "How Does a Bong Work & How Do I Use One?"
 permalink: "/pieces/bongs/how-it-works/"
 layout: article
-seotitle: "This is Exactly How a Bong Works: The Baked Breakdown Guide" 
+seotitle: "This is Exactly How a Bong Works: A Baked Breakdown" 
 description: "Ever wondered how a bong works? Bongs utilize percolation and diffusion for smoother rips straight to the dome. This process conserves herb, and filters contaminants for a healthier toke."
 ---
 
