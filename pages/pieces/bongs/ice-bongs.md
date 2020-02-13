@@ -1,9 +1,9 @@
 ---
-title: "Ice Bongs: Load Up, or Leave in the Freezer?"
+title: "Should You Put Ice in a Bong?"
 permalink: "/pieces/bongs/ice-bongs/"
 layout: article
-seotitle: "Should You Put Ice in Your Bong?" 
-description: "Ice bongs and ice catchers explained."
+seotitle: "The Ice Bong Debate: Should We be Putting Ice in a Bong?" 
+description: "Most stoners know that adding ice to a bong can help cool rips, but rumors say it's dangerous. Before using ice bongs and ice catchers, we have some advice, and even possible alternatives."
 ---
 
 Using ice to cool your bong hits makes smoke sessions feel much easier on the throat and lungs, but these same frosty rips can be even more harmful than just using cold water.
@@ -82,7 +82,7 @@ There are two things you can do to avoid damaging your lungs while smoking out o
 
 **2.** Give them a quick rinse with medium temp water; soaking melts the frost right off as well.
 
-## Can Smoking Out of an Ice Bong be Safe?
+## Is it Bad to Put Ice in Your Bong?
 
 Even with our tips above, there is no complete avoidance of inhaling particles of water and ice using ice notches.
 
