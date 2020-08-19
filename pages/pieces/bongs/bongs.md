@@ -26,14 +26,14 @@ I was too high to write, but I did it anyway.
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload" data-src="/images/bongs/percolator-bong.jpg"></a>
+<a target="_blank" href="https://www.grasscity.com?ref=smokephisticated/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload" data-src="/images/bongs/percolator-bong.jpg"></a>
 </div>
 <div class="text">
 <h2>Black Leaf ELITE</h2>
 <h3>Percolator Bong</h3>
 <p>This bong is made with thick, high-quality borosilicate glass. Featuring a 6-arm slitted tree perc, it diffuses smoke to make for a smooth bong hit – in other words, this bong smacks!</p>
 <div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html">Check Price </a>
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html?ref=smokephisticated">Check Price </a>
 </div>
 </div>
 </div>
