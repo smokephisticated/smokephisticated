@@ -26,7 +26,7 @@ I was too high to write, but I did it anyway.
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://www.grasscity.com?ref=smokephisticated/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload" data-src="/images/bongs/percolator-bong.jpg"></a>
+<a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html?ref=smokephisticated"><img alt="best percolator bong" class="lazyload" data-src="/images/bongs/percolator-bong.jpg"></a>
 </div>
 <div class="text">
 <h2>Black Leaf ELITE</h2>
@@ -49,14 +49,14 @@ Lastly, this bong doesn't have a carb hole – also known as a shotgun. Instead,
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a>
+<a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?ref=smokephisticated"><img alt="best beaker bong" class="lazyload" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a>
 </div>
 <div class="text">
 <h2 id="percolator-bong">Glasscity Beaker Bong</h2>
 <h3>w/ Ice Notches</h3>
 <p>Beaker bongs – this one included – have a larger base than other bongs. This bong isn't sporting any fancy percolators or anything like that, but it doesn't need to. It's a classic beaker bong – it looks dope, and it smokes dope like a pro.</p>
 <div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Check Price </a>
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?ref=smokephisticated">Check Price </a>
 </div>
 </div>
 </div>
@@ -72,14 +72,14 @@ The more ice you have in the stem, the more surface area there is for the smoke 
 <span>Honeycomb Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload" data-src="/images/bongs/honeycomb-bong.jpg"></a>
+<a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers?ref=smokephisticated"><img alt="best honeycomb bong" class="lazyload" data-src="/images/bongs/honeycomb-bong.jpg"></a>
 </div>
 <div class="text">
 <h2 id="percolator-bong">Black Leaf Glass Bong</h2>
 <h3>w/ Triple Honeycomb Perc</h3>
 <p>This bong has not one, not two, but three honeycomb disc percolators to ensure every hit is milky and smooth. When it comes to bongs, the more percs, the better.</p>
 <div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers">Check Price </a>
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers?ref=smokephisticated">Check Price </a>
 </div>
 </div>
 </div>
@@ -93,14 +93,14 @@ Each one of the honeycomb percolators filters and diffuses smoke that passes thr
 <span>Silicone Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html"><img alt="best silicone bong" class="lazyload" data-src="/images/bongs/blue-silicone-bong.jpg"></a>
+<a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html?ref=smokephisticated"><img alt="best silicone bong" class="lazyload" data-src="/images/bongs/blue-silicone-bong.jpg"></a>
 </div>
 <div class="text">
 <h2 id="percolator-bong">PieceMaker Kali</h2>
 <h3>Silicone Bong</h3>
 <p>Silicone bongs are awesome – they look dope, and they are easy to take with you when you want to get baked on the go. They can be folded up and stowed in a bag or purse, thanks to their flexibility and small form factor.</p>
 <div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html">Check Price </a>
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html?ref=smokephisticated">Check Price </a>
 </div>
 </div>
 </div>
@@ -114,14 +114,14 @@ Silicone bongs are a convenient way to smoke – whether you want to take your p
 <span>Mini Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html"><img alt="best mini bong" class="lazyload" data-src="/images/bongs/amsterdam-mini-bong.jpg"></a>
+<a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html?ref=smokephisticated"><img alt="best mini bong" class="lazyload" data-src="/images/bongs/amsterdam-mini-bong.jpg"></a>
 </div>
 <div class="text">
 <h2 id="percolator-bong">Amsterdam Bouncer</h2>
 <h3>Mini Bong</h3>
 <p>Just like silicone bongs, mini bongs are a great piece when you're on the go. Even when you're chilling at home, sometimes it's nice to take a toke from a mini bong like this one.</p>
 <div class="btn">
-    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html">Check Price </a>
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html?ref=smokephisticated">Check Price </a>
 </div>
 </div>
 </div>
@@ -147,32 +147,32 @@ Let's take a look at the best glass bongs on the market.
 		<th>View</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html"><img alt="best percolator bong" class="lazyload table-image" data-src="/images/bongs/percolator-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html">Black Leaf ELITE Perc Bong</a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html?ref=smokephisticated"><img alt="best percolator bong" class="lazyload table-image" data-src="/images/bongs/percolator-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-elite-straight-cylinder-tube-6-arm-perc-splash-guard.html?ref=smokephisticated">Black Leaf ELITE Perc Bong</a></td>
 		<td>Percolator</td>
 		<td><a class="big-button" href="#percolator-bong">Read More</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html">Glasscity Beaker Ice Bong</a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?ref=smokephisticated"><img alt="best beaker bong" class="lazyload table-image" data-src="/images/bongs/glasscity-beaker-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/glasscity-beaker-ice-bong-10-inch-black.html?ref=smokephisticated">Glasscity Beaker Ice Bong</a></td>
 		<td>Beaker</td>
 		<td><a class="big-button" href="#beaker-bong">Read More</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers"><img alt="best honeycomb bong" class="lazyload table-image" data-src="/images/bongs/honeycomb-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers">Black Leaf Triple Honeycomb Bong</a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers?ref=smokephisticated"><img alt="best honeycomb bong" class="lazyload table-image" data-src="/images/bongs/honeycomb-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/black-leaf-glass-bong-with-triple-honeycomb-disc-perc-25-5cm.html?nosto=category-top-sellers?ref=smokephisticated">Black Leaf Triple Honeycomb Bong</a></td>
 		<td>Honeycomb</td>
 		<td><a class="big-button" href="#honeycomb-bong">Read More</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html"><img alt="best silicone bong" class="lazyload table-image" data-src="/images/bongs/blue-silicone-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html">PieceMaker Kali Silicone Bong</a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html?ref=smokephisticated"><img alt="best silicone bong" class="lazyload table-image" data-src="/images/bongs/blue-silicone-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/piecemaker-kali-beaker-base-silicone-bong-indy-glow.html?ref=smokephisticated">PieceMaker Kali Silicone Bong</a></td>
 		<td>Silicone</td>
 		<td><a class="big-button" href="#silicone-bong">Read More</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html"><img alt="best mini bong" class="lazyload table-image" data-src="/images/bongs/amsterdam-mini-bong.jpg"></a></td>
-		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html">Amsterdam Bouncer Mini Bong</a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html?ref=smokephisticated"><img alt="best mini bong" class="lazyload table-image" data-src="/images/bongs/amsterdam-mini-bong.jpg"></a></td>
+		<td><a target="_blank" href="https://www.grasscity.com/us_en/amsterdam-bouncer-mini-glass-bong.html?ref=smokephisticated">Amsterdam Bouncer Mini Bong</a></td>
 		<td>Mini</td>
 		<td><a class="big-button" href="#mini-bong">Read More</a></td>
 	</tr>
