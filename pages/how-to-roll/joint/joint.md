@@ -60,7 +60,7 @@ Here's what my weed looks like after I've ground it up:
 
 <img alt="ground up weed in a grinder" class="lazyload img-middle" data-src="/images/grinders/ground-weed.jpg">
 
-If you don't have a grinder or you're interested in buying a new one, we'd recommend [Golden Gate Grinders](https://www.amazon.com/Golden-Gate-Grinders-Anodized-Aluminum/dp/B00GXSFB1Q/ref=sr_1_1?keywords=weed+grinder&qid=1551593276&s=gateway&sr=8-1){: target="_blank"}.
+If you don't have a grinder or you're interested in buying a new one, we'd recommend [Golden Gate Grinders](https://amzn.to/34p7jJU){: target="_blank"}.
 
 They do an incredible job and they last a lifetime. 
 
@@ -81,7 +81,7 @@ Most packs of RAW joint papers come with small cardboard filter strips that can 
 	<p>They're always perfectly round, they're easy to use, and they're convenient.</p>
 </div>
 
-If you're interested in pre-rolled filter tips, we recommend using <a target="_blank" href="https://www.amazon.com/Natural-Unrefined-Pre-Rolled-Filter-Tips/dp/B013Y1YCDC/ref=sr_1_2?keywords=raw+pre+rolled+filter+tips&qid=1552446029&s=gateway&sr=8-2">RAW filter tips</a>.
+If you're interested in pre-rolled filter tips, we recommend using <a target="_blank" href="https://amzn.to/3olPQdt">RAW filter tips</a>.
 
 Once you have your filter paper ready, begin folding it up like an accordian. 
 
@@ -99,7 +99,7 @@ After a few folds, you can then wrap the remaining filter paper around the folds
 
 Now that your filter is ready, it's time to select your joint paper. 
 
-I decided to use a RAW [king size joint paper](https://www.amazon.com/Classic-King-Rolling-Paper-Packs/dp/B004REIXS6/ref=sr_1_fkmr0_1?keywords=raw+king+sized+joint+paper&qid=1552447387&s=gateway&sr=8-1-fkmr0){: target="_blank"} for this tutorial, but you can use <a target="_blank" href="https://www.marijuanabreak.com/best-rolling-papers-for-weed" rel="nofollow">any kind of paper you want</a>. 
+I decided to use a RAW [king size joint paper](https://amzn.to/2HzrgVn){: target="_blank"} for this tutorial, but you can use <a target="_blank" href="https://www.marijuanabreak.com/best-rolling-papers-for-weed" rel="nofollow">any kind of paper you want</a>. 
 
 
 Next, hold the paper with the glue side (the shiny strip on one of the paper's edges) opposite from you, and place your filter at the end of the paper, flush with the edge. 

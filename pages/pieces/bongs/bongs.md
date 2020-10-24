@@ -437,12 +437,6 @@ Honeycomb bongs have perforated discs in their chambers that resemble a honycomb
 
 By using the surface area of the glass to force smoke through multiple holes in the honeycomb discs, the smoke is diffused and filtered, making for a cleaner, cooler, and more enjoyable hit. 
 
-## Bongs for Beginners 
-
-<div class="iframeVideo">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6-SCAPX7joI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Things to Look Out For 
 
 ### Type of Bong
