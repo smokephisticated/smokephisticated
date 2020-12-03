@@ -88,16 +88,43 @@ Even with our tips above, there is no complete avoidance of inhaling particles o
 
 To be safe, you should try to avoid using ice notches too frequently. Every now and then should be fine though.
 
-That being said, we know how important it is to have smoother rips, so here are some alternatives to cooling your bong smoke.
+That being said, we know how important it is to have smoother rips daily, so here are some alternatives to cooling your bong smoke.
 
-## How to Smoke Using Ice Without Ice Notches
+## Smoking Bongs Without Ice Notches
 
-<div class="toker-tip">
-	<h4>Toker Tip<i class="box-icon-spacing fas fa-check"></i></h4>
-	<p>Here's our favorite combo that makes a very noticeable difference:</p>
-	<p>Step 1. Percolation!</p>
-	<p>Long explanation short, percolation is what happens when you smoke using water like an ordinary bong. If you haven't checked out our guide on the <a class="toker-tip-button" target="_blank" href="/pieces/bongs/how-it-works/">benefits and science behind percolation and diffusion</a>, make sure to smokephisticate yourself.</p>
-	<p>Step 2. Once you've added your water just enough to get some solid bubbles using your downstem without risk of slurping, add some ice to that water!</p>
+No worries if your pipe doesn't have Ice Nothches, dropping ice directly into your bong water is just as cooling *and* isn't as risky.
+
+Besides, the process of bong percolation alone does more than most realize. In fact, smoking out of a maple syrup bottle with a pen downstem and socket bowl piece was one of the smoothest and tastiest inhales I've come across.
+
+Not because of the syrup (we rinsed it out of course) but because of the ice that we packed it full of.
+
+The natural percolation process combined with icy tempratures is smooth enough to make you forget you inhaled smoke. Add a [slitted downstem](https://www.grasscity.com/glasscity-inside-cut-18-8mm-14-5mm-slitted-diffuser-downstem.html?ref=smokephisticated){:target="_blank"} to your piece for additional diffusion and even smoother hits.
+
+If aren't familiar with the concepts of percolation or diffusion, we've made a [scientific guide](/pieces/bongs/how-it-works/){:target="_blank"} that delves into what you need to know as a stoner.
+
+## A Better Way to Smoke With Ice Notches
+
+While using ice catchers *can* lead to lung damage, so can smoking cannabis in the first place.
+
+We made this page to inform you, but we also understand that people have their own ways to enjoy a bong.
+
+If rocking an ice catcher is more your style, there is a design that is less likely to cause damage.
+
+<div id="raw-rolling-tray" class="featured-info-box">
+<span>Discrete Shipping</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://www.grasscity.com/glass-beaker-base-ice-bong-7mm-15-inches.html?ref=smokephisticated"><img alt="Glass Beaker Base Ice Bong Grasscity" class="lazyload" data-src="/images/bongs/ice-bongs/glass-beaker-base-ice-bong.jpg"></a>
+</div>
+<div class="text">
+<h2>Low-Neck Ice Catcher</h2>
+<h3>Grasscity Glass Beaker Base Ice Bong</h3>
+<p>Bongs like this beaker with low-neck ice catchers are more likely to splash you ice and eliminate loose frost that you could otherwise inhale. This one from Grasscity also comes with a slitted downstem for diffusion.</p>
+<div class="btn">
+    <a rel="nofollow" target="_blank" id="recommendation" class="cta-button buy-button" href="https://www.grasscity.com/glass-beaker-base-ice-bong-7mm-15-inches.html?ref=smokephisticated">See More</a>
+</div>
+</div>
+</div>
 </div>
 
 ## Using an Ice Catcher vs. Putting Ice in Bong Water
