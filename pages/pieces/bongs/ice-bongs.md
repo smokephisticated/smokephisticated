@@ -32,7 +32,7 @@ This interaction decreases the temperature of smoke because of the freezing cond
 
 An ice catcher (also called ice notches) is a group of indents that are usually welded into the neck of an ice bong that can hold and suspend ice.
 
-<img alt="twisted tree perc bong ice notch example" class="lazyload img-left" data-src="/images/bongs/ice-bongs/labeled-twisted-tree-ice-bong.jpg">
+<a target="_blank" href="https://www.grasscity.com/glasscity-limited-edition-beaker-ice-bong-with-twisted-tree-perc.html?ref=smokephisticated"><img alt="twisted tree perc bong ice notch example" class="lazyload img-left" data-src="/images/bongs/ice-bongs/labeled-twisted-tree-ice-bong.jpg">
 
 These indents can be designed in many different ways, but the main purpose is to create a platform for ice without restricting the airflow when smoking.
 
@@ -60,7 +60,7 @@ According to reports, it actually can be! We've found multiple cases of serious 
 
 There have even been instances of hospitalization in people smoking with a full ice catcher.
 
-However, we've foud that a lot of the risk of damage is easily avoidable.
+However, we've foud that a lot of the risk of damage is easily avoidable with a tactic later discussed.
 
 ## Can Smoking out of Ice Bongs Cause Bronchitis?
 
@@ -84,9 +84,11 @@ There are two things you can do to avoid damaging your lungs while smoking out o
 
 ## Is it Bad to Put Ice in Your Bong?
 
-Even with our tips above, there is no complete avoidance of inhaling particles of water and ice using ice notches.
+Even with our tips above, there is no complete avoidance of inhaling particles of water while ice using ice notches.
 
-To be safe, you should try to avoid using ice notches too frequently. Every now and then should be fine though.
+From what we're saying, you'd think we want you to stop smoking with ice. But fuck that, right?
+
+A bonghead sacrificing icy rips to save their lungs should be a stoner sin - we just have a better way to go about it.
 
 That being said, we know how important it is to have smoother rips daily, so here are some alternatives to cooling your bong smoke.
 
