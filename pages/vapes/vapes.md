@@ -2,12 +2,12 @@
 title: "How to Vape Weed Like a Pro"
 permalink: "/vapes/"
 layout: article
-seotitle: "Hoow to Vape Weed Like a Pro" 
+seotitle: "How to Vape Weed Like a Pro" 
 description: "Vaping is among the most effective and traceless methods of consuming THC - check out how you can start!"
 ---
 
 
-How to Vape Weed Like a Pro
+<img alt="" class="lazyload img-middle" data-src="/images/vapes/how-to-pro-vape/vape-example-intro.jpg">
 
 Everyone who loves to smoke weed should try vaping at least once in their life.
 
@@ -20,7 +20,7 @@ So today, it's time to learn something new.
 
 Let's get into how to vape weed like a pro.
 
-Vaping vs. Smoking
+## Vaping vs. Smoking
 
 There's a lot of advantages that come along with vaping weed.
 
@@ -46,7 +46,9 @@ To top it off, you'll experience a whole different and more intense high with a 
 
 Your high will feel cleaner and more clear-headed. You'll also most likely feel energized and creative, rather than a couch potato.
 
-Different Ways to Vape Weed
+## Different Ways to Vape Weed
+
+<img alt="" class="lazyload img-middle" data-src="/images/vapes/how-to-pro-vape/types-of-vaping-cbd.jpg">
 
 There are three different kinds of devices you can use to vape.
 
@@ -60,15 +62,15 @@ Vape pens are the most popular. True to their name, they're usually as small as 
 
 Here are the different types of weed you can vape:
 
-Dry herb
-Liquid THC
-Dab (also known as wax, oil, shatter, etc.)
+*Dry herb
+*Liquid THC
+*Dab (also known as wax, oil, shatter, etc.)
 
 When using a vape pen, you can vape with a disposable cartridge, refillable cartridge, or you can use the heating chamber, which is usually for dry herbs.
 
 The cartridges can be CBD cartridges or THC cartridges. Whatever works best for you.
 
-How to Use a Vape Pen for the First Time
+## How to Use a Vape Pen for the First Time
 
 If you don’t know how to use a vape pen for weed, you can use dry herbs, oil, and liquid THC.
 
@@ -76,13 +78,15 @@ In this case, we'll focus on how to use a dry herb vape pen.
 
 Keep in mind that not every pen is the same, so be sure you read the directions before using it.
 
-Step #1) Charge the battery
+<img alt="" class="lazyload img-middle" data-src="/images/vapes/how-to-pro-vape/cannabis-buds-vape.jpg">
+
+**Step #1) Charge the battery**
 
 First things first, you're going to want to charge the battery. Most pens already come charged, but check just in case.
 
 Always make sure to do this before a vape sesh or before you head out with your pen, or else you'll have to wait.
 
-Step #2) Grind the weed
+**Step #2) Grind the weed**
 
 Grind your weed up so that it can fit into the pen's chamber.
 
@@ -90,13 +94,13 @@ If you really want to be a pro, you should invest in a grinder if you don't alre
 
 If not, you can tear the kush apart with your hands.
 
-Step #3) Load weed into the chamber
+**Step #3) Load weed into the chamber**
 
 Place your cannabis into the heating chamber. Make sure not to pack it too tight so that there's airflow.
 
 If you're using cartridges for an oil pen, you would skip the last two steps, and screw it onto where the heating chamber is.
 
-Step #4) Press the button on the side
+**Step #4) Press the button on the side**
 
 This step depends on the type of vape pen you're using.
 
@@ -104,7 +108,7 @@ Some vape pens have a button on the side that you'll usually press 3 to 5 times 
 
 Other types don't have a button, and all you'll need to do is inhale.
 
-Step #5) Inhale while holding the button down
+**Step #5) Inhale while holding the button down**
 
 Once the vape is ready, put your mouth on the mouthpiece and inhale while pressing down on the button.
 
@@ -118,7 +122,9 @@ Remember, it's vapor, not smoke.
 
 Instead, take a small hit, and wait to see how you feel.
 
-How to Use a Disposable Vape Pen
+## How to Use a Disposable Vape Pen
+
+<img alt="" class="lazyload img-middle" data-src="/images/vapes/how-to-pro-vape/nature-vape-exhale.jpg">
 
 There are all kinds of disposable vapes like THC pods, but vape pens are the most convenient and discreet.
 
@@ -146,7 +152,9 @@ If you're eco-friendly, the best place to take it would be at a Hazardous Materi
 
 But if that's the case, you're better off investing in a long-term vape pen.
 
-What is a Dab Pen?
+## What is a Dab Pen?
+
+<img alt="" class="lazyload img-middle" data-src="/images/vapes/how-to-pro-vape/dab-glob.jpg">
 
 Dab pens (also known as wax pens) are used solely for dabs.
 
@@ -158,13 +166,13 @@ You'll need a dabber (or a dab tool) and an airtight container to store your dab
 
 You can also use a dab pen cartridge.
 
-How to Use a Dab Pen
+## How to Use a Dab Pen
 
-Step #1) Charge the battery
+**Step #1) Charge the battery**
 
 Just like a vape pen, always make sure to charge the battery.
 
-Step #2) Use the dabber to load your pen
+**Step #2) Use the dabber to load your pen**
 
 Unscrew the top off of your dab pen and open up your dab container.
 
@@ -174,11 +182,11 @@ Make sure you never touch the wax, as it can stick to your fingers and ruin the 
 
 If you're using a dab cart, you'll simply screw it onto the dab pen.
 
-Step #3) Turn on the dab pen
+**Step #3) Turn on the dab pen**
 
 Press the button on the side to turn on your dab pen. It usually takes 3 to 5 times.
 
-Step #4) Inhale while pressing the button
+**Step #4) Inhale while pressing the button**
 
 Put your mouth on the mouthpiece and inhale while holding the button down.
 
@@ -186,7 +194,7 @@ Remember, dabs are super concentrated, meaning you're going to get higher than u
 
 Take a small, short hit and see how you feel.
 
-How to Clean a Vape
+## How to Clean a Vape
 
 Don't let your vape pen get clogged up, or else you won't get the most out of your hits.
 
@@ -198,7 +206,7 @@ Next, grab a q-tip and lightly dip it in alcohol. Wipe the chamber with it, but 
 
 And that's it! Now you have a clean and good-as-new vape.
 
-Conclusion
+## Conclusion
 
 Now that you know how to use a vape pen, it's time to call yourself a pro.
 
