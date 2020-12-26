@@ -63,7 +63,9 @@ Vape pens are the most popular. True to their name, they're usually as small as 
 Here are the different types of weed you can vape:
 
 *Dry herb
+
 *Liquid THC
+
 *Dab (also known as wax, oil, shatter, etc.)
 
 When using a vape pen, you can vape with a disposable cartridge, refillable cartridge, or you can use the heating chamber, which is usually for dry herbs.
