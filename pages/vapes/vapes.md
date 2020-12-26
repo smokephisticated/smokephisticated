@@ -6,6 +6,7 @@ seotitle: "Hoow to Vape Weed Like a Pro"
 description: "Vaping is among the most effective and traceless methods of consuming THC - check out how you can start!"
 ---
 
+
 How to Vape Weed Like a Pro
 
 Everyone who loves to smoke weed should try vaping at least once in their life.
