@@ -42,7 +42,7 @@ While you will smell like dank for a second when you take a hit, the smell evapo
 
 So if you're going to something like a family event, vaping is your best choice.
 
-To top it off, you'll experience a whole different and more intense high with a vape.
+To top it off, you'll experience a whole different and [more intense high](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2716990){: target="_blank"}
 
 Your high will feel cleaner and more clear-headed. You'll also most likely feel energized and creative, rather than a couch potato.
 
@@ -114,9 +114,11 @@ Other types don't have a button, and all you'll need to do is inhale.
 
 Once the vape is ready, put your mouth on the mouthpiece and inhale while pressing down on the button.
 
-Warning: Do not try to take a fat rip like you're hitting a pipe or a bong.
-
-Like we mentioned earlier, the high from a vape is more intense. Small inhales are more than enough, especially if you're a novice.
+<div class="watch-out">
+	<h4>Warning:<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
+	<p>Do not try to take a fat rip like you're hitting a pipe or a bong.</p>
+	<p>Like we mentioned earlier, the high from a vape is more intense. Small inhales are more than enough, especially if you're a novice.</p>
+</div>
 
 It may feel like you're not inhaling anything, but trust me, you are. 
 
@@ -150,7 +152,7 @@ Store it in a cool, dry place in the meantime.
 
 Once you finish it, throw it out.
 
-If you're eco-friendly, the best place to take it would be at a Hazardous Materials Management Facility.
+If you're eco-friendly, the best place to take it would be at a [Hazardous Materials Management Facility](https://www.epa.gov/hwpermitting/hazardous-waste-management-facilities-and-units){:target="_blank"}
 
 But if that's the case, you're better off investing in a long-term vape pen.
 
